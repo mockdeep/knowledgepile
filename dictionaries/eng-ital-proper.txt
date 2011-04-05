@@ -1,0 +1,7368 @@
+# English-Italian dictionary created from Wikipedia database
+# Created on: 2011-04-01T04:13:14+02:00
+# Licence: GNU Free Documentation Licence http://www.gnu.org/copyleft/fdl.html
+# Download updated version of this file at: http://www.dicts.info/uddl.php
+# Contact us at: http://www.dicts.info/contact.php
+0 (number)	Zero
+1	1
+1 (number)	1 (numero)
+10	10
+10 (number)	10 (numero)
+100	100
+100 (number)	100 (numero)
+1000	1000
+1000 (number)	1000 (numero)
+101	101
+105	105
+11	11
+11 (number)	11 (numero)
+110	110
+115	115
+12	12
+12 (number)	12 (numero)
+120	120
+125	125
+13	13
+13 (number)	13 (numero)
+130	130
+135	135
+14	14
+14 (number)	14 (numero)
+140	140
+144	144
+145	145
+15	15
+15 (number)	15 (numero)
+150	150
+1530s	Anni 1530
+155	155
+16	16
+16 (number)	16 (numero)
+160	160
+165	165
+17	17
+17 (number)	17 (numero)
+170	170
+1728	1728
+175	175
+1750s	Anni 1750
+1760s	Anni 1760
+1770s	Anni 1770
+1780s	Anni 1780
+1790s	Anni 1790
+18	18
+18 (number)	18 (numero)
+180	180
+1820s	Anni 1820
+1830s	Anni 1830
+1840s	Anni 1840
+1850s	Anni 1850
+1860s	Anni 1860
+1870s	Anni 1870
+1880s	Anni 1880
+1890s	Anni 1890
+19	19
+19 (number)	19 (numero)
+190	190
+1900s	Anni 1900
+1920s	Anni 1920
+1930s	Anni 1930
+1940s	Anni 1940
+1950s	Anni 1950
+1960s	Anni 1960
+1970s	Anni 1970
+1980s	Anni 1980
+1990s	Anni 1990
+2	2
+2 (number)	2 (numero)
+20	20
+20 (number)	20 (numero)
+200	200
+21	21
+21 (number)	21 (numero)
+22	22
+22 (number)	22 (numero)
+23	23
+23 (number)	23 (numero)
+24	24
+24 (TV series)	24 (serial televisivo)
+24 (number)	24 (numero)
+25	25
+25 (number)	25 (numero)
+26	26
+26 (number)	26 (numero)
+27	27
+27 (number)	27 (numero)
+28	28
+28 (number)	28 (numero)
+29	29
+29 (number)	29 (numero)
+3	3
+3 (number)	3 (numero)
+30	30
+30 (number)	30 (numero)
+300	300
+31	31
+31 (number)	31 (numero)
+32	32
+32 (number)	32 (numero)
+33	33
+33 (number)	33 (numero)
+34	34
+34 (number)	34 (numero)
+35	35
+35 (number)	35 (numero)
+36	36
+36 (number)	36 (numero)
+37	37
+37 (number)	37 (numero)
+38	38
+38 (number)	38 (numero)
+39	39
+39 (number)	39 (numero)
+4	4
+4 (number)	4 (numero)
+40	40
+40 (number)	40 (numero)
+400	400
+41	41
+41 (number)	41 (numero)
+42	42
+42 (number)	42 (numero)
+43	43
+43 (number)	43 (numero)
+44	44
+45	45
+45 (number)	45 (numero)
+46	46
+46 (number)	46 (numero)
+47	47
+48	48
+49	49
+49 (number)	49 (numero)
+5	5
+5 (number)	5 (numero)
+50	50
+50 (number)	50 (numero)
+500	500
+51	51
+52	52
+53	53
+54	54
+55	55
+56	56
+57	57
+58	58
+59	59
+6	6
+6 (number)	6 (numero)
+60	60
+60 (number)	60 (numero)
+61	61
+62	62
+63	63
+64	64
+65	65
+66	66
+67	67
+68	68
+69	69
+7	7
+7 (number)	7 (numero)
+70	70
+71	71
+72	72
+73	73
+74	74
+75	75
+76	76
+77	77
+78	78
+79	79
+8	8
+8 (number)	8 (numero)
+80	80
+80 (number)	80 (numero)
+81	81
+82	82
+83	83
+84	84
+85	85
+86	86
+87	87
+88	88
+89	89
+9	9
+9 (number)	9 (numero)
+90	90
+91	91
+92	92
+93	93
+94	94
+95	95
+96	96
+97	97
+98	98
+99	99
+A	A
+A (Cyrillic)	А (Cirillico)
+A cappella	A cappella
+ABC	ABC
+AIDS	AIDS
+ALGOL	ALGOL
+ATP	ATP
+AZ (football club)	AZ Alkmaar
+Aachen	Aquisgrana
+Aalborg	Aalborg
+Aar	Aar (fiume)
+Aardvark	Orycteropus afer
+Aarhus	Århus
+Aaron	Aronne
+Abacus	Abaco
+Abadan	Abadan
+Abbot	Abate
+Abbreviation	Abbreviazione
+Abdomen	Addome
+Abel Tasman	Abel Tasman
+Abelian group	Gruppo abeliano
+Aberdeen	Aberdeen
+Abidjan	Abidjan
+Abkhazia	Abkhazia
+Abkhazia	Categoria:Abkhazia
+Abolitionism	Abolizionismo
+Abortion	Aborto
+Abraham	Abramo (patriarca)
+Abraham Lincoln	Abraham Lincoln
+Absinthe	Assenzio
+Absolute magnitude	Magnitudine assoluta
+Absolute value	Valore assoluto
+Absolute zero	Zero assoluto
+Absolutism (European history)	Assolutismo monarchico
+Abstract art	Astrattismo
+Abstract expressionism	Espressionismo astratto
+Abstraction	Astrazione
+Abu Dhabi	Abu Dhabi
+Abu Dhabi (emirate)	Abu Dhabi (emirato)
+Abuja	Abuja
+Acacia	Acacia
+Academy Award	Premio Oscar
+Acapulco	Acapulco
+Acceleration	Accelerazione
+Accipitridae	Accipitridae
+Accordion	Fisarmonica
+Accountancy	Contabilità
+Accountancy	Categoria:Ragioneria
+Accra	Accra
+Accusative case	Accusativo
+Acetaldehyde	Acetaldeide
+Acetic acid	Acido acetico
+Acetone	Acetone
+Acetylcholine	Acetilcolina
+Acetylene	Acetilene
+Acheron	Acheronte
+Achillea millefolium	Achillea millefolium
+Achilles	Achille
+Acid	Acido
+Acid rain	Pioggia acida
+Acne vulgaris	Acne
+Aconcagua	Aconcagua
+Acorn	Ghianda
+Acoustics	Acustica
+Acoustics	Categoria:Acustica
+Acre	Acro
+Acre	San Giovanni d'Acri
+Acre (state)	Acre
+Acropolis	Acropoli
+Actinide	Attinoidi
+Actinium	Attinio
+Actor	Attore
+Acts of the Apostles	Atti degli Apostoli
+Acupuncture	Agopuntura
+Ad hominem	Argumentum ad hominem
+Ada (programming language)	Ada (linguaggio)
+Adam	Adamo
+Adam Smith	Adam Smith
+Adana	Adana
+Adansonia	Adansonia
+Addiction	Dipendenza
+Addis Ababa	Addis Abeba
+Addition	Addizione
+Adelaide	Adelaide (Australia)
+Aden	Aden
+Adenine	Adenina
+Adenosine triphosphate	Adenosintrifosfato
+Adiabatic process	Trasformazione adiabatica
+Adige	Adige
+Adjective	Aggettivo
+Admiral	Ammiraglio
+Adolescence	Adolescenza
+Adolf Eichmann	Adolf Eichmann
+Adolf Hitler	Adolf Hitler
+Adonis	Adone (mitologia)
+Adoption	Adozione
+Adrenal gland	Surrene
+Adriatic Sea	Mare Adriatico
+Adsorption	Adsorbimento
+Adult	Adulto
+Advent	Avvento
+Adverb	Avverbio
+Advertising	Pubblicità
+Aegean Sea	Mar Egeo
+Aeneas	Enea
+Aeneid	Eneide
+Aeolus	Eolo re dei venti
+Aerodynamics	Aerodinamica
+Aerosol	Aerosol
+Aeschylus	Eschilo
+Aesop	Esopo
+Aesthetics	Estetica
+Affix	Affisso
+Afghanistan	Afghanistan
+Afghanistan	Categoria:Afghanistan
+Africa	Africa
+Africa	Categoria:Africa
+African American	Afroamericano
+Afrikaans	Lingua afrikaans
+Agamemnon	Agamennone
+Agar	Agar agar
+Agate	Agata (minerale)
+Agatha Christie	Agatha Christie
+Agnatha	Agnatha
+Agnosticism	Agnosticismo
+Agora	Agorà
+Agoraphobia	Agorafobia
+Agra	Agra (India)
+Agriculture	Agricoltura
+Agriculture	Categoria:Agricoltura
+Agrigento	Agrigento
+Aikido	Aikido
+Ain	Ain
+Air force	Aeronautica militare
+Airbus	Airbus
+Aircraft	Aeromobile
+Aircraft	Categoria:Aeroplani
+Aircraft carrier	Portaerei
+Airline	Compagnia aerea
+Airport	Aeroporto
+Ajax	Ajax
+Ajax (mythology)	Aiace Telamonio
+Ajax (programming)	AJAX
+Akhenaten	Akhenaton
+Akira Kurosawa	Akira Kurosawa
+Al Capone	Al Capone
+Al Gore	Al Gore
+Al-Qaeda	Al-Qaida
+Alabama	Alabama
+Alabama	Categoria:Alabama
+Alan Shepard	Alan Shepard
+Alan Turing	Alan Turing
+Alanine	Alanina
+Alaska	Alaska
+Alaska	Categoria:Alaska
+Alban Berg	Alban Berg
+Albania	Albania
+Albania	Categoria:Albania
+Albany	Albany (New York)
+Albatross	Diomedeidae
+Albedo	Albedo
+Albert Abraham Michelson	Albert Abraham Michelson
+Albert Camus	Albert Camus
+Albert Einstein	Albert Einstein
+Albert Schweitzer	Albert Schweitzer
+Albert Speer	Albert Speer
+Alberta	Alberta
+Alberta	Categoria:Alberta
+Albinism	Albinismo
+Albite	Albite
+Album	Album discografico
+Albuquerque	Albuquerque
+Alchemy	Alchimia
+Alchemy	Categoria:Alchimia
+Alcohol	Alcoli
+Alcoholic beverage	Bevanda alcolica
+Alcoholism	Alcolismo
+Aldebaran	Aldebaran
+Aldehyde	Aldeidi
+Alder	Alnus
+Aldous Huxley	Aldous Huxley
+Alec Guinness	Alec Guinness
+Aleksandr Solzhenitsyn	Aleksandr Isaevič Solženicyn
+Aleppo	Aleppo
+Aleutian Islands	Isole Aleutine
+Alexander	Alessandro
+Alexander Fleming	Alexander Fleming
+Alexander Graham Bell	Alexander Graham Bell
+Alexander Hamilton	Alexander Hamilton
+Alexander Pope	Alexander Pope
+Alexander Pushkin	Aleksandr Sergeevič Puškin
+Alexander the Great	Alessandro Magno
+Alexandre Dumas	Alexandre Dumas (padre)
+Alexandre Dumas	Alexandre Dumas (figlio)
+Alexandria	Alessandria d'Egitto
+Alexis de Tocqueville	Alexis de Tocqueville
+Alfred Dreyfus	Alfred Dreyfus
+Alfred Hitchcock	Alfred Hitchcock
+Alfred Nobel	Alfred Nobel
+Alfred North Whitehead	Alfred North Whitehead
+Alfred Russel Wallace	Alfred Russel Wallace
+Alfred the Great	Alfredo il Grande
+Algae	Alga
+Algebra	Algebra
+Algebra	Categoria:Algebra
+Algebraic number	Numero algebrico
+Algeria	Algeria
+Algeria	Categoria:Algeria
+Algiers	Algeri
+Algorithm	Algoritmo
+Alhambra	Alhambra
+Ali	Ali ibn Abi Talib
+Alkali metal	Metalli alcalini
+Alkaloid	Alcaloidi
+Alkane	Alcani
+Alkene	Alcheni
+Alkyne	Alchini
+Allah	Allah
+Allegory	Allegoria
+Allele	Allele
+Allen Ginsberg	Allen Ginsberg
+Allergy	Allergia
+Alliteration	Allitterazione
+Allophone	Allofono
+Allosaurus	Allosaurus
+Allotropy	Allotropia (chimica)
+Alloy	Lega (metallurgia)
+Almanac	Almanacco
+Almaty	Almaty
+Almond	Prunus dulcis
+Aloe	Aloe (botanica)
+Alpha (letter)	Alfa (lettera)
+Alpha Centauri	Alfa Centauri
+Alpha particle	Particella alfa
+Alphabet	Alfabeto
+Alps	Alpi
+Alps	Categoria:Alpi
+Alsace	Alsazia
+Altair	Altair
+Altar	Altare
+Altay Mountains	Monti Altai
+Alternating current	Corrente alternata
+Alternative medicine	Categoria:Medicina alternativa
+Alternative medicine	Medicina alternativa
+Altruism	Altruismo
+Aluminium	Alluminio
+Aluminium oxide	Ossido di alluminio
+Alvar Aalto	Alvar Aalto
+Alzheimer's disease	Morbo di Alzheimer
+Amanita muscaria	Amanita muscaria
+Amanita phalloides	Amanita phalloides
+Amaryllidaceae	Amaryllidaceae
+Amaterasu	Amaterasu
+Amazon River	Rio delle Amazzoni
+Ambassador	Ambasciatore
+Amber	Ambra (resina)
+Ambrose	Sant'Ambrogio (padre della Chiesa)
+Amedeo Avogadro	Amedeo Avogadro
+Amelia Earhart	Amelia Earhart
+American Bison	Bison bison
+American Black Bear	Ursus americanus
+American Civil War	Guerra di secessione americana
+American Revolutionary War	Guerra di indipendenza americana
+American Samoa	Samoa Americane
+American Standard Code for Information Interchange	ASCII
+American football	Football americano
+American football	Categoria:Football americano
+Americium	Americio
+Amerigo Vespucci	Amerigo Vespucci
+Amethyst	Ametista
+Amharic	Lingua amarica
+Amide	Ammidi
+Amine	Ammine
+Amino acid	Amminoacidi
+Amish	Amish
+Amman	Amman
+Ammeter	Amperometro
+Ammonia	Ammoniaca
+Amnesia	Amnesia
+Amnesty	Amnistia
+Ampere	Ampere
+Amphetamine	Anfetamina
+Amphibian	Amphibia
+Amphitheatre	Anfiteatro
+Amphora	Anfora
+Amplitude	Ampiezza
+Amsterdam	Amsterdam
+Amsterdam	Categoria:Amsterdam
+Amun	Amon
+Amur	Amur
+Anabaptist	Anabattismo
+Anagram	Anagramma
+Anaheim	Anaheim (California)
+Anal sex	Sesso anale
+Analytic geometry	Geometria analitica
+Anarchism	Anarchismo
+Anarchism	Categoria:Anarchia
+Anarchy	Anarchia
+Anatidae	Anatidae
+Anatole France	Anatole France
+Anatomy	Categoria:Anatomia
+Anatomy	Anatomia
+Anaxagoras	Anassagora
+Anaximander	Anassimandro
+Anchor	Àncora
+Anchorage	Anchorage
+Ancient Greek	Lingua greca
+Ancient history	Categoria:Storia antica
+Andalusia	Andalusia
+Andaman Sea	Mare delle Andamane
+Anders Celsius	Anders Celsius
+Andes	Ande
+Andhra Pradesh	Andhra Pradesh
+Andorra	Andorra
+Andorra	Categoria:Andorra
+Andrea Palladio	Andrea Palladio
+Andrei Sakharov	Andrej Sakharov
+Andrei Tarkovsky	Andrej Arsen'evič Tarkovskij
+Andrew Jackson	Andrew Jackson
+Andrew Johnson	Andrew Johnson
+Andrew Lloyd Webber	Andrew Lloyd Webber
+Android	Androide
+Andromeda	Andromeda
+Andromeda (constellation)	Andromeda (costellazione)
+Andromeda (mythology)	Andromeda (mitologia)
+Andromeda Galaxy	Galassia di Andromeda
+Andy Warhol	Andy Warhol
+Anemia	Anemia
+Anemometer	Anemometro
+Anesthesia	Anestesia
+Angara River	Angara
+Angel	Angelo
+Angel Falls	Salto Angel
+Angle	Angolo
+Anglicanism	Anglicanesimo
+Angola	Angola
+Angola	Categoria:Angola
+Anguilla	Anguilla (isola)
+Angular momentum	Momento angolare
+Angular velocity	Velocità angolare
+Anicius Manlius Severinus Boethius	Anicio Manlio Torquato Severino Boezio
+Aniline	Anilina
+Animal	Animalia
+Animal husbandry	Allevamento
+Animation	Animazione
+Anime	Anime
+Anime	Categoria:Anime
+Animism	Animismo
+Anise	Anice
+Ankara	Ankara
+Annapolis	Annapolis
+Annapurna	Annapurna
+Anne Boleyn	Anna Bolena
+Annelid	Annelida
+Anno Domini	Anno Domini
+Annunciation	Annunciazione
+Anode	Anodo
+Anorexia nervosa	Anoressia nervosa
+Anseriformes	Anseriformes
+Ant	Formicidae
+Antakya	Antiochia
+Antalya	Adalia (Turchia)
+Antananarivo	Antananarivo
+Antarctica	Antartide
+Antarctica	Categoria:Antartide
+Antares	Antares
+Antenna (radio)	Antenna (fisica)
+Anthony Hopkins	Anthony Hopkins
+Anthrax	Antrace
+Anthropology	Antropologia
+Anthropology	Categoria:Antropologia
+Anthroposophy	Antroposofia
+Antibiotic	Antibiotico
+Antibody	Anticorpo
+Antichrist	Anticristo
+Anticyclone	Anticiclone
+Antigen	Antigene
+Antigone	Antigone (mitologia)
+Antigua and Barbuda	Antigua e Barbuda
+Antigua and Barbuda	Categoria:Antigua e Barbuda
+Antimatter	Antimateria
+Antimony	Antimonio
+Antioxidant	Antiossidante
+Antipope	Antipapa
+Antisemitism	Antisemitismo
+Antisemitism	Categoria:Antisemitismo
+Antlia	Macchina Pneumatica (costellazione)
+Antofagasta	Antofagasta
+Antoine Lavoisier	Antoine Lavoisier
+Anton Bruckner	Anton Bruckner
+Anton Chekhov	Anton Pavlovič Čechov
+Antonio Stradivari	Antonio Stradivari
+Antonio Vivaldi	Antonio Vivaldi
+Antonym	Antonimia
+Antwerp	Anversa
+Antwerp (province)	Provincia di Anversa
+Anubis	Anubi
+Anus	Ano
+Aorta	Aorta
+Apache	Tribù Apache
+Apatite	Apatite
+Ape	Hominoidea
+Aphasia	Afasia
+Aphorism	Aforisma
+Aphrodite	Afrodite
+Apia	Apia
+Apiaceae	Apiaceae
+Apocrypha	Apocrifo
+Apodiformes	Apodiformes
+Apollo	Apollo
+Apollo (disambiguation)	Apollo (disambigua)
+Apollo program	Programma Apollo
+Apollo program	Categoria:Programma Apollo
+Apoptosis	Apoptosi
+Appalachian Mountains	Appalachi
+Appendicitis	Appendicite
+Apple	Malus domestica
+Apricot	Prunus armeniaca
+April	Aprile
+April 14	14 aprile
+April Fools' Day	Pesce d'aprile
+Apse	Abside
+Apulia	Puglia
+Apus	Uccello del Paradiso (costellazione)
+Aqaba	Aqaba
+Aqua regia	Acqua regia
+Aquarium	Acquario (contenitore)
+Aquarius (constellation)	Aquario (costellazione)
+Aqueduct	Acquedotto
+Aquila (constellation)	Aquila (costellazione)
+Aquitaine	Aquitania
+Ara (constellation)	Altare (costellazione)
+Arab	Arabo
+Arab League	Lega Araba
+Arabian Peninsula	Penisola araba
+Arabian Sea	Mar Arabico
+Arabic alphabet	Alfabeto arabo
+Arabic language	Lingua araba
+Araceae	Araceae
+Arachnid	Arachnida
+Arafura Sea	Mare degli Arafura
+Aragon	Aragona
+Aral Sea	Lago d'Aral
+Aram Khachaturian	Aram Khačaturjan
+Arcadia	Arcadia
+Arcangelo Corelli	Arcangelo Corelli
+Arch	Arco (architettura)
+Archaeology	Archeologia
+Archaeology	Categoria:Archeologia
+Archaeopteryx	Archaeopteryx lithographica
+Archangel	Arcangelo
+Archbishop	Arcivescovo
+Archean	Archeano
+Archetype	Archetipo
+Archimedes	Archimede
+Archipelago	Arcipelago
+Architect	Architetto
+Architecture	Architettura
+Architecture	Categoria:Architettura
+Archive	Archivio
+Archosaur	Archosauria
+Arctic	Artide
+Arctic Ocean	Mare Glaciale Artico
+Arctic fox	Alopex lagopus
+Ardennes	Ardenne
+Ardennes (department)	Ardenne (dipartimento francese)
+Are	Ara (unità di misura)
+Area	Area
+Arecaceae	Arecaceae
+Ares	Ares
+Argentina	Argentina
+Argentina	Categoria:Argentina
+Argon	Argon
+Argos	Argo (città)
+Aria	Aria (musica)
+Ariadne	Arianna (mitologia)
+Arianism	Arianesimo
+Aries (constellation)	Ariete (costellazione)
+Aristarchus of Samos	Aristarco di Samo
+Aristocracy	Aristocrazia
+Aristophanes	Aristofane
+Aristotle	Aristotele
+Arithmetic	Aritmetica
+Arithmetic	Categoria:Aritmetica
+Arithmetic progression	Progressione aritmetica
+Arius	Ario
+Arizona	Arizona
+Arizona	Categoria:Arizona
+Ark of the Covenant	Arca dell'Alleanza
+Arkansas	Arkansas
+Arkansas	Categoria:Arkansas
+Arles	Arles
+Armadillo	Dasypodidae
+Armenia	Armenia
+Armenia	Categoria:Armenia
+Armenian language	Lingua armena
+Arminius	Arminio
+Armour	Corazza
+Army	Armata
+Arnhem	Arnhem
+Arno River	Arno
+Arnold Schoenberg	Arnold Schönberg
+Aromatic hydrocarbon	Composti aromatici
+Arquebus	Archibugio
+Arras	Arras
+Arrow	Freccia
+Arsenic	Arsenico
+Art	Arte
+Art Deco	Art déco
+Art Nouveau	Art Nouveau
+Art history	Categoria:Storia dell'arte
+Art history	Storia dell'arte
+Artemis	Artemide
+Artemisia (plant)	Artemisia
+Artemisia absinthium	Artemisia absinthium
+Artery	Arteria
+Arthritis	Artrite
+Arthropod	Arthropoda
+Arthur Compton	Arthur Compton
+Arthur Conan Doyle	Arthur Conan Doyle
+Arthur Miller	Arthur Miller
+Arthur Rimbaud	Arthur Rimbaud
+Arthur Schopenhauer	Arthur Schopenhauer
+Arthur Wellesley	Arthur Wellesley, I duca di Wellington
+Artificial intelligence	Intelligenza artificiale
+Artificial intelligence	Categoria:Intelligenza artificiale
+Artillery	Artiglieria
+Artillery	Categoria:Armi d'artiglieria
+Artist	Artista
+Arts	Categoria:Arte
+Arturo Toscanini	Arturo Toscanini
+Aruba	Aruba
+Aruba	Categoria:Aruba
+Asbestos	Amianto
+Asclepius	Asclepio
+Asexuality	Asessualità
+Asgard	Ásgarðr
+Ash Wednesday	Mercoledì delle Ceneri
+Ashurbanipal	Sardanapalo
+Asia	Asia
+Asia	Categoria:Asia
+Asmara	Asmara
+Aspartame	Aspartame
+Asphalt	Asfalto
+Aspirin	Acido acetilsalicilico
+Assam	Assam
+Assassination	Attentato
+Assembly language	Assembly
+Association of Southeast Asian Nations	ASEAN
+Assyria	Assiria
+Assyria	Categoria:Assiria
+Astana	Astana
+Astatine	Astato
+Asteraceae	Asteraceae
+Asteraceae	Categoria:Asteraceae
+Asteroid	Asteroide
+Asteroid belt	Fascia principale
+Asthenosphere	Astenosfera
+Asthma	Asma
+Astigmatism (eye)	Astigmatismo
+Astrakhan	Astrachan'
+Astrobiology	Esobiologia
+Astrolabe	Astrolabio
+Astrology	Astrologia
+Astrology	Categoria:Astrologia
+Astrometry	Astrometria
+Astronaut	Astronauta
+Astronomer	Astronomo
+Astronomical unit	Unità Astronomica
+Astronomy	Astronomia
+Astronomy	Categoria:Astronomia
+Astronomy	Portale:Astronomia
+Astrophysics	Astrofisica
+Astrophysics	Categoria:Astrofisica
+Aswan	Assuan
+Asymptote	Asintoto
+Asynchronous Transfer Mode	Asynchronous Transfer Mode
+Atacama Desert	Deserto di Atacama
+Aten	Aton
+Atheism	Categoria:Ateismo
+Athena	Atena
+Athens	Atene
+Athletics	Categoria:Atletica leggera
+Athletics (track and field)	Atletica leggera
+Atlanta	Atlanta
+Atlantic Ocean	Oceano Atlantico
+Atlantis	Atlantide
+Atlas (disambiguation)	Atlante
+Atlas (moon)	Atlante (astronomia)
+Atlas (mythology)	Atlante (mitologia)
+Atlas Mountains	Atlante (catena montuosa)
+Atmosphere	Atmosfera
+Atmosphere (unit)	Atmosfera (unità di misura)
+Atmospheric pressure	Pressione atmosferica
+Atoll	Atollo
+Atom	Atomo
+Atomic clock	Orologio atomico
+Atomic mass	Peso atomico
+Atomic mass unit	Unità di massa atomica
+Atomic number	Numero atomico
+Atomic physics	Categoria:Fisica atomica
+Atomic physics	Fisica atomica
+Atreus	Atreo
+Atropine	Atropina
+Attica	Attica
+Attila the Hun	Attila
+Au	AU
+Auckland	Auckland
+Auction	Asta (finanza)
+August	Agosto
+August 1	1º agosto
+August 15	15 agosto
+August 6	6 agosto
+August Strindberg	August Strindberg
+Augusta	Augusta (Maine)
+Auguste Comte	Auguste Comte
+Auguste Rodin	Auguste Rodin
+Augustine of Hippo	Agostino da Ippona
+Augustus	Augusto
+Auriga (constellation)	Auriga (costellazione)
+Aurora	Aurora
+Aurora (astronomy)	Aurora polare
+Austin	Austin (Texas)
+Australasia	Australasia
+Australia	Australia
+Australia	Categoria:Australia
+Australian dollar	Dollaro australiano
+Australopithecus	Australopithecus
+Austria	Austria
+Austria	Categoria:Austria
+Austria-Hungary	Impero Austro-Ungarico
+Author	Autore
+Authority	Autorità
+Autism	Autismo
+Auto racing	Automobilismo
+Autobiography	Autobiografia
+Automated teller machine	Bancomat
+Automobile	Autovettura
+Autonomic nervous system	Sistema nervoso autonomo
+Autotroph	Autotrofia
+Autumn	Autunno
+Auvergne (region)	Alvernia
+Avalanche	Valanga
+Avant-garde	Avanguardia
+Avatar	Avatar (religione)
+Avena	Avena (botanica)
+Averroes	Averroè
+Avesta	Avesta
+Aviation	Aviazione
+Avicenna	Avicenna
+Avignon	Avignone
+Avocado	Persea americana
+Axe	Scure
+Axiom	Assioma (matematica)
+Axon	Assone
+Ayatollah	Ayatollah
+Ayn Rand	Ayn Rand
+Azerbaijan	Azerbaigian
+Azerbaijan	Categoria:Azerbaigian
+Azimuth	Azimut
+Azores	Azzorre
+Aztec	Aztechi
+Azurite	Azzurrite
+B	B
+BASIC	BASIC
+Baal	Baal
+Baboon	Papio
+Babylon	Babilonia
+Babylonia	Impero babilonese
+Backgammon	Backgammon
+Bacteria	Bacteria
+Bacteria	Categoria:Batteri
+Bacteriophage	Batteriofago
+Bactrian Camel	Camelus bactrianus
+Badminton	Badminton
+Baffin Bay	Baia di Baffin
+Baffin Island	Isola Baffin
+Baghdad	Baghdad
+Bahamas	Categoria:Bahamas
+Bahrain	Bahrain
+Bahrain	Categoria:Bahrain
+Baja California	Bassa California
+Baklava	Baklava
+Baku	Baku
+Balalaika	Balalaika
+Balance sheet	Stato patrimoniale
+Baldr	Baldr
+Balearic Islands	Isole Baleari
+Baleen whale	Mysticeti
+Bali	Bali
+Balkan Mountains	Monti Balcani
+Balkan Wars	Guerre balcaniche
+Balkans	Penisola balcanica
+Ball	Palla (sport)
+Ballet	Balletto
+Ballet	Categoria:Balletto
+Ballpoint pen	Penna a sfera
+Baltic Sea	Mar Baltico
+Baltimore	Baltimora
+Bamako	Bamako
+Bamboo	Bambuseae
+Banana	Banana
+Banana republic	Repubblica delle banane
+Bangalore	Bangalore
+Bangkok	Bangkok
+Bangladesh	Bangladesh
+Bangladesh	Categoria:Bangladesh
+Bangui	Bangui
+Banjul	Banjul
+Bank	Banca
+Banknote	Banconota
+Banks	Categoria:Banche
+Baptism	Battesimo
+Baptist	Battismo
+Bar (unit)	Bar (unità di misura)
+Barbados	Barbados
+Barbados	Categoria:Barbados
+Barbarian	Barbaro
+Barbra Streisand	Barbra Streisand
+Barcelona	Barcellona
+Barcelona	Categoria:Barcellona
+Barents Sea	Mare di Barents
+Bari	Bari
+Barium	Bario
+Barley	Hordeum vulgare
+Barn Owl	Tyto alba
+Barn Swallow	Hirundo rustica
+Barometer	Barometro
+Baron	Barone
+Baroque	Barocco
+Barranquilla	Barranquilla
+Barrel (unit)	Barile (unità di misura)
+Baryon	Barione
+Basalt	Basalto
+Base (chemistry)	Base (chimica)
+Baseball	Baseball
+Baseball	Categoria:Baseball
+Basel	Basilea
+Bash	Bash
+Basidiomycota	Basidiomycota
+Basil	Ocimum basilicum
+Basil of Caesarea	Basilio Magno
+Basilica	Basilica
+Basilicata	Basilicata
+Basiliscus	Basilisco di Bisanzio
+Basilisk	Basilisco (mitologia)
+Basketball	Pallacanestro
+Basketball	Categoria:Pallacanestro
+Basra	Bàssora
+Bass guitar	Basso elettrico
+Basse-Normandie	Bassa Normandia
+Basseterre	Basseterre
+Bassoon	Fagotto
+Bast (mythology)	Bast
+Bastille	Bastiglia (Parigi)
+Bat	Chiroptera
+Bath	Bath
+Batman	Batman
+Baton Rouge	Baton Rouge
+Bats	Categoria:Chirotteri
+Battalion	Battaglione
+Battery (electricity)	Batteria (chimica)
+Battle of Austerlitz	Battaglia di Austerlitz
+Battle of Britain	Battaglia d'Inghilterra
+Battle of Hastings	Battaglia di Hastings
+Battle of Lepanto (1571)	Battaglia di Lepanto (1571)
+Battle of Marathon	Battaglia di Maratona
+Battle of Midway	Battaglia delle Midway
+Battle of Thermopylae	Battaglia delle Termopili (480 a.C.)
+Battle of Trafalgar	Battaglia di Trafalgar
+Battle of Verdun	Battaglia di Verdun
+Battle of Waterloo	Battaglia di Waterloo
+Battle of the Bulge	Offensiva delle Ardenne
+Battle of the Somme	Battaglia della Somme
+Battleship	Nave da battaglia
+Bauhaus	Bauhaus
+Bauxite	Bauxite
+Bavaria	Baviera
+Bavaria	Categoria:Baviera
+Bay Laurel	Laurus nobilis
+Bay of Bengal	Golfo del Bengala
+Bay of Biscay	Golfo di Guascogna
+Bayer	Bayer
+Bayonet	Baionetta
+Bayonne	Bayonne
+Beach	Spiaggia
+Beagle	Beagle (cane)
+Beak	Becco
+Bear	Ursidae
+Beaufort Sea	Mare di Beaufort
+Beaufort scale	Scala di Beaufort
+Beaver	Castor
+Bebop	Bebop
+Becquerel	Becquerel
+Bed	Letto
+Bede	Beda il Venerabile
+Bedouin	Beduini
+Bee	Apoidea
+Beech	Fagus
+Beekeeping	Categoria:Apicoltura
+Beer	Birra
+Beer	Categoria:Birre
+Beetle	Coleoptera
+Behaviorism	Comportamentismo
+Beijing	Pechino
+Beirut	Beirut
+Belarus	Bielorussia
+Belarus	Categoria:Bielorussia
+Belfast	Belfast
+Belgium	Belgio
+Belgium	Categoria:Belgio
+Belgrade	Belgrado
+Belisarius	Belisario
+Belize	Belize
+Belize	Categoria:Belize
+Bell (instrument)	Campana
+Bellerophon	Bellerofonte
+Belly dance	Danza orientale
+Belo Horizonte	Belo Horizonte
+Beluga	Delphinapterus leucas
+Benelux	Benelux
+Bengal	Bengala
+Benghazi	Bengasi
+Benin	Benin
+Benin	Categoria:Benin
+Benito Mussolini	Benito Mussolini
+Benjamin Britten	Benjamin Britten
+Benjamin Disraeli	Benjamin Disraeli
+Benjamin Franklin	Benjamin Franklin
+Benjamin Harrison	Benjamin Harrison
+Benny Goodman	Benny Goodman
+Beowulf	Beowulf
+Bergen	Bergen (Norvegia)
+Bering Sea	Mar di Bering
+Bering Strait	Stretto di Bering
+Berkelium	Berkelio
+Berkshire	Berkshire
+Berlin	Berlino
+Berlin	Categoria:Berlino
+Bermuda	Bermuda
+Bermuda	Categoria:Bermuda
+Bermuda Triangle	Triangolo delle Bermude
+Bernardo Bertolucci	Bernardo Bertolucci
+Berne	Berna
+Bernhard Riemann	Bernhard Riemann
+Berry	Bacca
+Bertolt Brecht	Bertolt Brecht
+Bertrand Russell	Bertrand Russell
+Beryl	Berillo
+Beryllium	Berillio
+Beta (letter)	Beta (lettera)
+Beta decay	Decadimento beta
+Betelgeuse	Betelgeuse
+Bethlehem	Betlemme
+Bette Davis	Bette Davis
+Beverly Hills	Beverly Hills
+Bey	Bey (carica)
+Bhutan	Bhutan
+Bhutan	Categoria:Bhutan
+Bible	Bibbia
+Bible	Categoria:Bibbia
+Bibliography	Bibliografia
+Bicycle	Bicicletta
+Big Bang	Big Bang
+Bihar	Bihar (India)
+Bikini	Bikini
+Bile	Bile
+Bill Clinton	Bill Clinton
+Bill Gates	Bill Gates
+Billy Wilder	Billy Wilder
+Binary star	Stella binaria
+Binoculars	Binocolo
+Biochemistry	Biochimica
+Biochemistry	Categoria:Biochimica
+Biodiversity	Biodiversità
+Biogeography	Biogeografia
+Biography	Biografia
+Biological warfare	Arma biologica
+Biology	Biologia
+Biology	Categoria:Biologia
+Biology	Portale:Biologia
+Biomass	Biomassa
+Biome	Bioma
+Biometrics	Biometria
+Biophysics	Biofisica
+Biopsy	Biopsia
+Biosphere	Biosfera
+Biotechnology	Biotecnologia
+Biotechnology	Categoria:Biotecnologie
+Biotin	Biotina
+Bipolar disorder	Psicosi maniaco-depressiva
+Birch	Betula
+Bird	Aves
+Birmingham	Birmingham (Alabama)
+Birth control	Contraccezione
+Bisexuality	Bisessualità
+Bishkek	Biškek
+Bishop	Vescovo
+Bishop (chess)	Alfiere (scacchi)
+Bismarck	Bismarck (Dakota del Nord)
+Bismarck (disambiguation)	Bismarck
+Bismuth	Bismuto
+Bissau	Bissau
+Bit	Bit (informatica)
+Bithynia	Bitinia
+Bivalvia	Bivalvia
+Black	Nero
+Black Death	Peste nera
+Black Forest	Foresta Nera
+Black Kite	Milvus migrans
+Black Sea	Mar Nero
+Black Stork	Ciconia nigra
+Black body	Corpo nero
+Black hole	Buco nero
+Black pepper	Piper nigrum
+Blackbird	Turdus merula
+Blaise Pascal	Blaise Pascal
+Blender (software)	Blender
+Blindness	Cecità
+Blitzkrieg	Blitzkrieg
+Bloemfontein	Bloemfontein
+Blog	Blog
+Blood	Sangue
+Blood plasma	Plasma (biologia)
+Blood pressure	Pressione del sangue
+Blood type	Gruppo sanguigno
+Blood vessel	Vaso sanguigno
+Blue	Blu
+Blue Whale	Balaenoptera musculus
+Blues	Blues
+Boar	Sus scrofa
+Board game	Gioco da tavolo
+Boat	Imbarcazione
+Bob Dylan	Bob Dylan
+Bob Marley	Bob Marley
+Bobby Fischer	Bobby Fischer
+Bobsleigh	Bob
+Bodhisattva	Bodhisattva
+Body mass index	Indice di massa corporea
+Bodybuilding	Culturismo
+Bohemia	Boemia
+Bohrium	Bohrio
+Boiling point	Punto di ebollizione
+Boise	Boise
+Boletus edulis	Boletus edulis
+Bolivia	Bolivia
+Bolivia	Categoria:Bolivia
+Bollywood	Bollywood
+Bologna	Bologna
+Bolshevik	Bolscevismo
+Bolzano	Bolzano
+Bomb	Bomba (ordigno)
+Bomber	Bombardiere
+Bombyx mori	Bombyx mori
+Bond (finance)	Obbligazione (finanza)
+Bone	Osso
+Bone marrow	Midollo osseo
+Bonn	Bonn
+Bonsai	Bonsai
+Book	Libro
+Book of Esther	Libro di Ester
+Book of Joshua	Libro di Giosuè
+Book of Judges	Libro dei Giudici
+Book of Mormon	Libro di Mormon
+Book of Numbers	Numeri (Bibbia)
+Book of Revelation	Apocalisse di Giovanni
+Book of Ruth	Libro di Rut
+Boolean algebra (structure)	Algebra di Boole
+Boomerang	Boomerang
+Bordeaux	Bordeaux
+Boris Godunov	Boris Godunov (zar)
+Boris Pasternak	Boris Leonidovič Pasternak
+Boris Spassky	Boris Vasil'evič Spasskij
+Borneo	Borneo
+Boron	Boro
+Bosnia and Herzegovina	Bosnia-Erzegovina
+Bosnia and Herzegovina	Categoria:Bosnia Erzegovina
+Boson	Bosone
+Bosporus	Bosforo
+Boston	Boston (Massachusetts)
+Boston Tea Party	Boston Tea Party
+Bot	Template:Bot
+Botanical garden	Orto botanico
+Botany	Botanica
+Botany	Categoria:Botanica
+Botswana	Botswana
+Botswana	Categoria:Botswana
+Bottle	Bottiglia
+Bottlenose Dolphin	Tursiops truncatus
+Bourgeoisie	Borghesia
+Bourgogne	Borgogna
+Bouvet Island	Isola Bouvet
+Bovid	Bovidae
+Bow (weapon)	Arco (arma)
+Bowling	Bowling
+Boxer (dog)	Boxer (cane)
+Boxers	Categoria:Pugili
+Boxing	Pugilato
+Boxing	Categoria:Pugilato
+Boyle's law	Legge di Boyle-Mariotte
+Bracket	Parentesi
+Braga	Braga
+Brahma	Brahma
+Brahmaputra River	Brahmaputra
+Braille	Braille
+Brain	Cervello
+Brainstorming	Brainstorming
+Bram Stoker	Bram Stoker
+Brandenburg	Brandeburgo
+Brandy	Brandy
+Brass	Ottone (metallo)
+Brassicaceae	Brassicaceae
+Brassiere	Reggiseno
+Bratislava	Bratislava
+Braunschweig	Braunschweig
+Brazil	Brasile
+Brazil	Categoria:Brasile
+Brazzaville	Brazzaville
+Bread	Pane
+Breast	Mammella
+Breast cancer	Carcinoma mammario
+Bremen	Brema (città)
+Bremen (state)	Brema (stato)
+Bremerhaven	Bremerhaven
+Brescia	Brescia
+Brest	Brest (Francia)
+Brest	Brěst
+Brest	Brest
+Bretagne	Bretagna
+Brick	Mattone
+Bridge	Ponte
+Bridges	Categoria:Ponti
+Bridgetown	Bridgetown
+Brigade	Brigata
+Brighton	Brighton
+Brindisi	Brindisi
+Brisbane	Brisbane
+Bristol	Bristol
+British Columbia	Columbia Britannica
+British Empire	Impero britannico
+British Isles	Arcipelago britannico
+British Virgin Islands	Isole Vergini britanniche
+British people	Categoria:Britannici
+Brno	Brno
+Broadway (New York City)	Broadway
+Bromine	Bromo
+Bronze	Bronzo
+Bronze Age	Età del bronzo
+Brooklyn	Brooklyn
+Brooklyn Bridge	Ponte di Brooklyn
+Brown	Marrone
+Brown Bear	Ursus arctos
+Brownian motion	Moto browniano
+Bruce Lee	Bruce Lee
+Bruges	Bruges
+Brunei	Brunei
+Brunei	Categoria:Brunei
+Brussels	Bruxelles
+Bubonic plague	Peste
+Bucharest	Bucarest
+Buckingham Palace	Buckingham Palace
+Buckminster Fuller	Richard Buckminster Fuller
+Buckwheat	Fagopyrum esculentum
+Budapest	Budapest
+Buddha	Buddha
+Buddhism	Buddhismo
+Buddhism	Categoria:Buddhismo
+Buddy Holly	Buddy Holly
+Buenos Aires	Buenos Aires
+Buffalo	Buffalo (New York)
+Building	Edificio
+Bujumbura	Bujumbura
+Bulgaria	Bulgaria
+Bulgaria	Categoria:Bulgaria
+Bumblebee	Bombus
+Buoyancy	Principio di Archimede
+Bureaucracy	Burocrazia
+Burgomaster	Sindaco
+Burkina Faso	Burkina Faso
+Burkina Faso	Categoria:Burkina Faso
+Burma	Birmania
+Burma	Categoria:Birmania
+Burqa	Burqa
+Bursa	Bursa
+Burundi	Categoria:Burundi
+Bus	Autobus
+Bus (computing)	Bus (informatica)
+Business	Business
+Businesspeople	Categoria:Imprenditori
+Buster Keaton	Buster Keaton
+Butane	Butano
+Butter	Burro
+Butterfly	Farfalla
+Butterfly effect	Effetto farfalla
+Bydgoszcz	Bydgoszcz
+Byte	Byte
+Byzantine Empire	Categoria:Impero bizantino
+C	C
+C (programming language)	C (linguaggio)
+C. S. Lewis	Clive Staples Lewis
+CD (disambiguation)	CD
+CHAOS (Linux distribution)	CHAOS
+CN Tower	CN Tower
+COBOL	COBOL
+Cabaret	Cabaret (spettacolo)
+Cacao	Theobroma cacao
+Cache	Cache
+Cactus	Cactaceae
+Cadmium	Cadmio
+Cadmus	Cadmo
+Caelum	Bulino (costellazione)
+Caesium	Cesio (elemento)
+Caffeine	Caffeina
+Cairo	Il Cairo
+Cake	Torta
+Calabria	Calabria
+Calais	Calais
+Calcite	Calcite
+Calcium	Calcio (metallo)
+Calcium carbonate	Carbonato di calcio
+Calcium oxide	Ossido di calcio
+Calculator	Calcolatrice
+Calculus	Calcolo infinitesimale
+Caldera	Caldera (geologia)
+Calendar	Calendario
+Caliber	Calibro (arma)
+California	California
+California	Categoria:California
+Californium	Californio
+Caligula	Caligola
+Caliph	Califfo
+Calligraphy	Calligrafia
+Calliope	Calliope
+Callisto (moon)	Callisto (astronomia)
+Callisto (mythology)	Callisto
+Calorie	Caloria
+Calvados	Calvados
+Calvary	Calvario
+Calvin Coolidge	Calvin Coolidge
+Calvinism	Calvinismo
+Calypso (mythology)	Calipso
+Cambodia	Cambogia
+Cambodia	Categoria:Cambogia
+Cambrian	Cambriano
+Cambridge	Cambridge
+Cambridge	Cambridge (Massachusetts)
+Cambridge (disambiguation)	Cambridge (disambigua)
+Camel	Cammello
+Camembert (cheese)	Camembert (formaggio)
+Camera	Macchina fotografica
+Cameroon	Camerun
+Cameroon	Categoria:Camerun
+Campania	Campania
+Canada	Canada
+Canada	Categoria:Canada
+Canadian dollar	Dollaro canadese
+Canal	Canale artificiale
+Canary Islands	Isole Canarie
+Canary Islands	Categoria:Canarie
+Canberra	Canberra
+Cancer	Tumore
+Cancer (constellation)	Cancro (costellazione)
+Candela	Candela (unità di misura)
+Candle	Candela (illuminazione)
+Canidae	Canidae
+Canis Major	Cane Maggiore (costellazione)
+Canis Minor	Cane Minore (costellazione)
+Cannabis	Cannabis
+Cannabis (drug)	Marijuana
+Cannes	Cannes
+Cannibalism	Cannibalismo
+Cannon	Cannone
+Canoe	Canoa (imbarcazione)
+Canon (company)	Canon
+Canopus	Canopo
+Cantata	Cantata
+Canterbury	Canterbury (Regno Unito)
+Cantonese (linguistics)	Lingua cantonese
+Canute the Great	Canuto I di Danimarca
+Capacitance	Capacità elettrica
+Capacitor	Condensatore
+Cape Canaveral	Cape Canaveral
+Cape Horn	Capo Horn
+Cape Town	Città del Capo
+Cape Verde	Capo Verde
+Cape Verde	Categoria:Capo Verde
+Cape of Good Hope	Capo di Buona Speranza
+Capital	Capitale (città)
+Capital (economics)	Capitale (economia)
+Capital punishment	Pena di morte
+Capitalism	Capitalismo
+Cappadocia	Cappadocia (regione)
+Capricornus	Capricorno (costellazione)
+Capsicum	Capsicum
+Caracal	Caracal caracal
+Caracas	Caracas
+Carambola	Averrhoa carambola
+Carat (mass)	Carato
+Carat (purity)	Carato
+Caravaggio	Michelangelo Merisi da Caravaggio
+Carbohydrate	Glucidi
+Carbon	Carbonio
+Carbon cycle	Ciclo del carbonio
+Carbon dioxide	Anidride carbonica
+Carbon monoxide	Monossido di carbonio
+Carbonic acid	Acido carbonico
+Carboniferous	Carbonifero
+Carboxylic acid	Acidi carbossilici
+Carburetor	Carburatore
+Card game	Gioco di carte
+Cardamom	Cardamomo
+Cardiff	Cardiff
+Cardinal (Catholicism)	Cardinale
+Cardinal Richelieu	Armand-Jean du Plessis de Richelieu
+Cardiology	Cardiologia
+Cardiology	Categoria:Cardiologia
+Cardiovascular system	Categoria:Sistema cardiovascolare
+Caribbean	Caraibi
+Caribbean Sea	Mare Caraibico
+Caricature	Caricatura
+Carina (constellation)	Carena (costellazione)
+Carl David Anderson	Carl David Anderson
+Carl Jung	Carl Jung
+Carl Lewis	Carl Lewis
+Carl Maria von Weber	Carl Maria von Weber
+Carl Orff	Carl Orff
+Carnival	Carnevale
+Carnivora	Carnivora
+Carnivore	Carnivoro
+Carnivorous plant	Pianta carnivora
+Carolingian dynasty	Carolingi
+Carolus Linnaeus	Carl von Linné
+Carpathian Mountains	Carpazi
+Carrot	Daucus carota
+Carson City	Carson City
+Cartagena	Cartagena (Spagna)
+Cartesian coordinate system	Piano cartesiano
+Cartesian product	Prodotto cartesiano
+Carthage	Cartagine
+Cartography	Cartografia
+Cartography	Categoria:Cartografia
+Cary Grant	Cary Grant
+Caryophyllales	Caryophyllales
+Casablanca	Casablanca
+Cashew	Anacardium
+Casino	Casa da gioco
+Caspian Sea	Mar Caspio
+Cassandra	Cassandra (mitologia)
+Cassiopeia (constellation)	Cassiopea (costellazione)
+Cast iron	Ghisa
+Caste	Casta
+Castile (historical region)	Castiglia
+Castle	Castello
+Castling	Arrocco
+Castries	Castries (Saint Lucia)
+Casus belli	Casus belli
+Cat	Felis silvestris catus
+Catalonia	Catalogna
+Catalonia	Categoria:Catalogna
+Catalysis	Catalisi
+Cataphract	Catafratto
+Cataract	Cataratta
+Catfish	Siluriformes
+Catharism	Catarismo
+Cathedral	Cattedrale
+Catherine Parr	Catherine Parr
+Catherine of Aragon	Caterina d'Aragona
+Cathode	Catodo
+Catholicism	Tradizione cattolica
+Cattle	Bos taurus
+Cattle Egret	Bubulcus ibis
+Catullus	Gaio Valerio Catullo
+Caucasus	Caucaso
+Caucasus Mountains	Catena del Caucaso
+Causality	Causalità
+Cavalry	Cavalleria
+Cave	Grotta
+Caviar	Caviale
+Cayenne	Caienna
+Cayman Islands	Isole Cayman
+Cecil Rhodes	Cecil Rhodes
+Cedar	Cedrus
+Celery	Apium graveolens
+Celestial equator	Equatore celeste
+Celestial mechanics	Categoria:Meccanica celeste
+Celestial mechanics	Meccanica celeste
+Celestial sphere	Sfera celeste
+Celibacy	Celibato
+Cell (biology)	Cellula
+Cell membrane	Membrana cellulare
+Cell nucleus	Nucleo cellulare
+Cell wall	Parete cellulare
+Cello	Violoncello
+Cellulose	Cellulosa
+Celsius	Celsius
+Cement	Cemento (edilizia)
+Cemetery	Cimitero
+Cenozoic	Cenozoico
+Census	Censimento
+Centaur	Centauro
+Centaurus	Centauro (costellazione)
+Center of mass	Centro di massa
+Centimetre	Centimetro
+Central Africa	Africa Centrale
+Central African Republic	Repubblica Centrafricana
+Central African Republic	Categoria:Repubblica Centrafricana
+Central America	America centrale
+Central America	Categoria:America centrale
+Central Intelligence Agency	Central Intelligence Agency
+Central Park	Central Park
+Central Powers	Imperi centrali
+Central bank	Banca centrale
+Central nervous system	Sistema nervoso centrale
+Central processing unit	CPU
+Centre	Centro (regione francese)
+Centriole	Centriolo
+Century	Secolo
+Cephalopod	Cephalopoda
+Cepheus (constellation)	Cefeo (costellazione)
+Ceramic	Ceramica
+Cerberus	Cerbero
+Cereal	Cereali
+Cerebellum	Cervelletto
+Ceres	Ceres
+Ceres (dwarf planet)	Cerere (astronomia)
+Ceres (mythology)	Cerere
+Cerium	Cerio
+Cesare Borgia	Cesare Borgia
+Cestoda	Cestoda
+Cetacea	Cetacea
+Cetus	Balena (costellazione)
+Chad	Ciad
+Chad	Categoria:Ciad
+Chaffinch	Fringilla coelebs
+Chair	Sedia
+Chalcedony	Calcedonio
+Chamaeleon	Camaleonte (costellazione)
+Chamois	Rupicapra rupicapra
+Champagne (wine)	Champagne
+Champagne-Ardenne	Champagne-Ardenne
+Channel Tunnel	Eurotunnel
+Chaos (mythology)	Caos (mitologia)
+Charadriiformes	Charadriiformes
+Charlemagne	Carlo Magno
+Charleroi	Charleroi
+Charles	Carlo, principe del Galles
+Charles Baudelaire	Charles Baudelaire
+Charles Darwin	Charles Darwin
+Charles Dickens	Charles Dickens
+Charles Fourier	Charles Fourier
+Charles Lindbergh	Charles Lindbergh
+Charles Peirce	Charles Sanders Peirce
+Charles Thomson Rees Wilson	Charles Thomson Rees Wilson
+Charles de Gaulle	Charles de Gaulle
+Charles the Bald	Carlo il Calvo
+Charleston	Charleston (Virginia Occidentale)
+Charlie Chaplin	Charlie Chaplin
+Charlie Parker	Charlie Parker
+Charlotte	Charlotte (Carolina del Nord)
+Charmed	Streghe
+Charon (moon)	Caronte (astronomia)
+Charon (mythology)	Caronte (mitologia)
+Chartres	Chartres
+Chauvinism	Sciovinismo
+Che Guevara	Che Guevara
+Chechnya	Cecenia
+Chechnya	Categoria:Cecenia
+Cheese	Formaggio
+Cheetah	Acinonyx jubatus
+Chelyabinsk	Čeljabinsk
+Chemical bond	Legame chimico
+Chemical compound	Composto chimico
+Chemical element	Elemento chimico
+Chemical engineering	Ingegneria chimica
+Chemical formula	Formula chimica
+Chemical reaction	Reazione chimica
+Chemical warfare	Armi chimiche
+Chemistry	Chimica
+Chemistry	Categoria:Chimica
+Chemistry	Portale:Chimica
+Chemnitz	Chemnitz
+Chemotherapy	Chemioterapia
+Chennai	Chennai
+Cheque	Assegno
+Chernobyl	Černobyl'
+Cherry	Ciliegia
+Chert	Selce
+Cherub	Cherubino
+Chess	Scacchi
+Chess	Categoria:Scacchi
+Chess opening	Apertura (scacchi)
+Chester A. Arthur	Chester Arthur
+Chestnut	Castanea
+Chewing gum	Gomma da masticare
+Cheyenne	Cheyenne (Wyoming)
+Chi (letter)	Chi (lettera)
+Chiang Kai-shek	Chiang Kai-shek
+Chicago	Chicago
+Chicken	Gallo (animale)
+Chickenpox	Varicella
+Chickpea	Cicer arietinum
+Chihuahua	Chihuahua (stato)
+Child	Bambino
+Childbirth	Parto
+Chile	Cile
+Chile	Categoria:Cile
+Chimborazo (volcano)	Chimborazo
+Chimera (mythology)	Chimera (mitologia)
+Chimpanzee	Pan (zoologia)
+China	Categoria:Cina
+Chios	Chio
+Chiron	Chirone (mitologia)
+Chitin	Chitina
+Chlorine	Cloro
+Chloroform	Cloroformio
+Chlorophyll	Clorofilla
+Chloroplast	Cloroplasto
+Chocolate	Cioccolato
+Choir	Coro (musica)
+Cholera	Colera
+Cholesterol	Colesterolo
+Chondrichthyes	Chondrichthyes
+Chongqing	Chongqing
+Chord (music)	Accordo (musica)
+Chordate	Chordata
+Christchurch	Christchurch
+Christiaan Huygens	Christiaan Huygens
+Christian Dior	Christian Dior
+Christianity	Cristianesimo
+Christianity	Categoria:Cristianesimo
+Christmas	Natale
+Christmas	Categoria:Natale
+Christmas Eve	Vigilia di Natale
+Christmas tree	Albero di Natale
+Christopher Columbus	Cristoforo Colombo
+Christopher Marlowe	Christopher Marlowe
+Chromatin	Cromatina
+Chromatography	Cromatografia
+Chromium	Cromo
+Chromosome	Cromosoma
+Chronology	Categoria:Cronologia
+Chuck Berry	Chuck Berry
+Chukchi Sea	Mare dei Chukci
+Church	Chiesa (istituzione)
+Church (building)	Chiesa (architettura)
+Church of England	Chiesa anglicana
+Cicero	Marco Tullio Cicerone
+Ciconiiformes	Ciconiiformes
+Cider	Sidro
+Cigarette	Sigaretta
+Cinderella	Cenerentola
+Cinnabar	Cinabro
+Cinnamon	Cinnamomum zeylanicum
+Circe	Circe
+Circinus	Compasso (costellazione)
+Circle	Cerchio
+Circulatory system	Apparato circolatorio
+Circumcision	Circoncisione
+Circus	Circo (spettacolo)
+Cirrhosis	Cirrosi epatica
+Citizenship	Cittadinanza (diritto)
+Citric acid	Acido citrico
+Citric acid cycle	Ciclo di Krebs
+Citrus	Citrus
+City-state	Città-stato
+Civil war	Guerra civile
+Civilization	Civiltà
+Civilization (computer game)	Civilization
+Clarinet	Clarinetto
+Clark Gable	Clark Gable
+Class	Classe
+Class (biology)	Classe (tassonomia)
+Class (computer science)	Classe (informatica)
+Classical mechanics	Meccanica classica
+Classical music	Musica classica
+Classical music	Categoria:Musica classica
+Classicism	Classicismo (arte)
+Claude Monet	Claude Monet
+Claude Shannon	Claude Shannon
+Claudio Monteverdi	Claudio Monteverdi
+Claudius	Claudio
+Clavicle	Clavicola
+Clay	Argilla
+Clef	Chiave musicale
+Clement Attlee	Clement Attlee
+Cleopatra (disambiguation)	Cleopatra (disambigua)
+Clergy	Clero
+Cleveland	Cleveland (Ohio)
+Client-server	Sistema client/server
+Climate	Clima
+Climate change	Mutamento climatico
+Climatology	Climatologia
+Climatology	Categoria:Climatologia
+Clinical depression	Depressione (malattia)
+Clio	Clio
+Clitoris	Clitoride
+Clock	Orologio
+Clock Tower	Big Ben
+Cloning	Clonazione (genetica)
+Clothing	Categoria:Abbigliamento
+Clothing	Abbigliamento
+Cloud	Nuvola
+Clove	Eugenia caryophyllata
+Clover	Trifolium
+Clovis I	Clodoveo I
+Cnidaria	Cnidaria
+Coal	Carbone (minerale)
+Coast	Costa
+Coat of arms	Stemma
+Cobalt	Cobalto
+Cocaine	Cocaina
+Coccinellidae	Coccinellidae
+Cockatoo	Cacatuidae
+Cockroach	Blattodea
+Cocktail	Cocktail
+Coconut	Cocos nucifera
+Cocos (Keeling) Islands	Isole Cocos
+Codeine	Codeina
+Coffee	Caffè
+Coffee	Categoria:Caffè
+Cognac (drink)	Cognac (liquore)
+Cognitive psychology	Psicologia cognitiva
+Cognitive science	Scienze cognitive
+Coin	Moneta
+Cola	Cola (bibita)
+Colchis	Colchide
+Cold War	Guerra fredda
+Cold War	Categoria:Guerra Fredda
+Colin Powell	Colin Powell
+Collage	Collage (arte)
+Collagen	Collagene
+Colloid	Colloide
+Cologne	Colonia (Germania)
+Colombia	Colombia
+Colombia	Categoria:Colombia
+Colombo	Colombo (città)
+Colonel	Colonnello
+Colony	Colonia (insediamento)
+Color	Colore
+Color blindness	Daltonismo
+Colorado	Colorado
+Colorado	Categoria:Colorado
+Colorado River	Colorado (fiume - Utah)
+Colosseum	Colosseo
+Colossus of Rhodes	Colosso di Rodi
+Colubrid	Colubridae
+Columba (constellation)	Colomba (costellazione)
+Columbia	Columbia (Carolina del Sud)
+Columbia	Columbia
+Columbia River	Columbia (fiume)
+Columbia University	Columbia University
+Columbidae	Columbidae
+Columbiformes	Columbiformes
+Columbus	Columbus (Ohio)
+Columbus	Columbus
+Coma	Coma
+Coma Berenices	Chioma di Berenice (costellazione)
+Combustion	Combustione
+Comedy	Commedia
+Comenius	Comenius
+Comet	Cometa
+Comma (punctuation)	Virgola
+Commedia dell'arte	Commedia dell'arte
+Commerce	Categoria:Commercio
+Common Fig	Ficus carica
+Common cold	Raffreddore comune
+Commonwealth of Independent States	Comunità degli Stati Indipendenti
+Commonwealth of Nations	Commonwealth delle nazioni
+Communication	Categoria:Comunicazione
+Communication	Comunicazione
+Communism	Comunismo
+Communism	Categoria:Comunismo
+Comoros	Comore
+Comoros	Categoria:Comore
+Compact Disc	Compact disc
+Company (military unit)	Compagnia (unità militare)
+Compass	Bussola
+Compass (drafting)	Compasso (strumento)
+Competition	Concorrenza (diritto commerciale)
+Compiler	Compilatore
+Complex instruction set computer	Complex instruction set computer
+Complex number	Numero complesso
+Composer	Compositore
+Composite material	Materiale composito
+Composite number	Numero composto
+Computational linguistics	Linguistica computazionale
+Computed tomography	Tomografia computerizzata
+Computer	Computer
+Computer architecture	Architettura (computer)
+Computer display	Monitor (video)
+Computer file	File
+Computer graphics	Categoria:Computer grafica
+Computer hardware	Hardware
+Computer hardware	Categoria:Hardware
+Computer network	Rete informatica
+Computer program	Programma (informatica)
+Computer programming	Programmazione (informatica)
+Computer programming	Categoria:Programmazione
+Computer science	Informatica
+Computer science	Categoria:Informatica
+Computer software	Software
+Computer virus	Virus (informatica)
+Computer-aided design	CAD
+Computing	Categoria:Informatica
+Conakry	Conakry
+Concentration	Concentrazione
+Concerto	Concerto (composizione musicale)
+Concord	Concord (New Hampshire)
+Concrete	Calcestruzzo
+Condom	Profilattico
+Conducting	Direttore d'orchestra
+Cone (geometry)	Cono (solido)
+Confederate States of America	Stati Confederati d'America
+Confederation	Confederazione
+Confession	Penitenza (sacramento)
+Confirmation	Confermazione
+Conflict	Conflitto (sociologia)
+Confucianism	Confucianesimo
+Confucius	Confucio
+Congo	Congo
+Congo River	Congo (fiume)
+Conic section	Sezione conica
+Connecticut	Connecticut
+Connecticut	Categoria:Connecticut
+Connective tissue	Tessuto connettivo
+Conquistador	Conquistadores
+Conservation of energy	Legge di conservazione dell'energia
+Conservatism	Conservatorismo
+Consonant	Consonante
+Constantine I	Costantino I
+Constantinople	Costantinopoli
+Constellation	Costellazione
+Constitution (political)	Costituzione
+Consul	Console (storia romana)
+Consumption (economics)	Consumo
+Contact lens	Lente a contatto
+Continent	Continente
+Continental drift	Deriva dei continenti
+Continental shelf	Piattaforma continentale
+Contract	Contratto
+Contract bridge	Bridge (gioco)
+Convection	Convezione
+Cooking	Cottura
+Cooperative	Società cooperativa
+Coordinate system	Sistema di riferimento
+Coordinated Universal Time	Tempo coordinato universale
+Copenhagen	Copenaghen
+Copper	Rame
+Copyright	Copyright
+Cor anglais	Corno inglese
+Coraciiformes	Coraciiformes
+Coral Sea	Mar dei Coralli
+Coral reef	Barriera corallina
+Coriander	Coriandrum sativum
+Corinth	Corinto
+Coriolis effect	Forza di Coriolis
+Cork (city)	Cork
+Cornea	Cornea
+Cornell University	Cornell University
+Cornwall	Cornovaglia
+Corona Borealis	Corona Boreale (costellazione)
+Corporation	Società (diritto)
+Corrosion	Corrosione
+Corsica	Corsica
+Corundum	Corindone
+Corvette	Corvetta
+Corvidae	Corvidae
+Corvus (constellation)	Corvo (costellazione)
+Cosmic microwave background radiation	Radiazione cosmica di fondo
+Cosmic ray	Raggi cosmici
+Cosmology	Cosmologia
+Cosmology	Categoria:Cosmologia
+Costa Rica	Costa Rica
+Costa Rica	Categoria:Costa Rica
+Cotonou	Cotonou
+Cotopaxi	Cotopaxi
+Cotton	Cotone (fibra)
+Cougar	Puma concolor
+Coulomb	Coulomb
+Coulomb's law	Forza di Coulomb
+Council of Chalcedon	Concilio di Calcedonia
+Council of Ephesus	Concilio di Efeso
+Council of Trent	Concilio di Trento
+Counterpoint	Contrappunto
+Country music	Country (musica)
+Court	Tribunale
+Covalent bond	Legame covalente
+Coventry	Coventry
+Coyote	Canis latrans
+Crab	Brachyura
+Crab Nebula	Nebulosa del Granchio
+Crane (bird)	Gruidae
+Crater (constellation)	Cratere (costellazione)
+Creationism	Creazionismo
+Cremona	Cremona
+Cretaceous	Cretacico
+Crete	Creta
+Cricket	Cricket
+Crimea	Crimea
+Crimean War	Guerra di Crimea
+Criminal law	Categoria:Diritto penale
+Criminal law	Diritto penale
+Criminology	Criminologia
+Criminology	Categoria:Criminologia
+Croatia	Croazia
+Croatia	Categoria:Croazia
+Crocodilia	Crocodilia
+Cronus	Crono
+Cross	Croce
+Cross product	Prodotto vettoriale
+Crossbow	Balestra (arma)
+Crossword	Parole crociate
+Crow	Corvus
+Crucifixion	Crocifissione
+Cruiser	Incrociatore
+Crust (geology)	Crosta terrestre
+Crustacean	Crustacea
+Crux	Croce del Sud (costellazione)
+Cryptography	Crittografia
+Cryptography	Categoria:Crittologia
+Crystal	Cristallo
+Crystallography	Cristallografia
+Crystallography	Categoria:Cristallografia
+Ctenophore	Ctenophora
+Cuba	Cuba
+Cuba	Categoria:Cuba
+Cube	Cubo
+Cubic metre	Metro cubo
+Cubism	Cubismo
+Cucumber	Cucumis sativus
+Cucurbitaceae	Cucurbitaceae
+Cultural Revolution	Grande rivoluzione culturale
+Culture	Cultura
+Cumbria	Cumbria
+Cumulus cloud	Cumulus
+Cupressaceae	Cupressaceae
+Curitiba	Curitiba
+Curium	Curio
+Curling	Curling
+Currency	Categoria:Valute
+Currency	Valuta
+Curry	Masala
+Curve	Curva (matematica)
+Cusco	Cusco
+Cyan	Ciano
+Cyanide	Cianuro
+Cyanobacteria	Cyanobacteria
+Cybele	Cibele
+Cybernetics	Cibernetica
+Cyberpunk	Cyberpunk
+Cyclades	Cicladi
+Cycling	Ciclismo
+Cycling	Categoria:Ciclismo
+Cyclone	Ciclone
+Cyclops	Ciclope (mitologia)
+Cygnus (constellation)	Cigno (costellazione)
+Cylinder (geometry)	Cilindro (geometria)
+Cyperaceae	Cyperaceae
+Cyprinid	Cyprinidae
+Cypriniformes	Cypriniformes
+Cyprus	Cipro
+Cyprus	Categoria:Cipro
+Cyrillic alphabet	Alfabeto cirillico
+Cyrus the Great	Ciro II di Persia
+Cystic fibrosis	Fibrosi cistica
+Cytoplasm	Citoplasma
+Cytosine	Citosina
+Cytoskeleton	Citoscheletro
+Czech Republic	Repubblica Ceca
+Czech Republic	Categoria:Repubblica Ceca
+Czechoslovakia	Cecoslovacchia
+Czechoslovakia	Categoria:Cecoslovacchia
+D	D
+D. H. Lawrence	David Herbert Lawrence
+D. W. Griffith	David Wark Griffith
+DDT	Diclorodifeniltricloroetano
+DNA	DNA
+DVD	DVD
+Dachshund	Bassotto
+Dada	Dadaismo
+Daedalus	Dedalo
+Dagger	Daga (arma)
+Daguerreotype	Dagherrotipia
+Dahlia	Dahlia
+Dakar	Dakar
+Dalai Lama	Dalai Lama
+Dallas	Dallas
+Dalmatia	Dalmazia
+Dam	Diga
+Damascus	Damasco
+Dance	Danza
+Dance	Categoria:Danza
+Daniel Bernoulli	Daniel Bernoulli
+Daniel Defoe	Daniel Defoe
+Daniel Ortega	Daniel Ortega
+Danish krone	Corona danese
+Dante Alighieri	Dante Alighieri
+Danube	Danubio
+Daphne	Dafne (mitologia)
+Dar es Salaam	Dar es Salaam
+Dardanelles	Dardanelli
+Darfur	Darfur
+Darjeeling	Darjeeling (India)
+Dark matter	Materia oscura
+Darmstadtium	Darmstadtio
+Darwin	Darwin (Australia)
+Darwin	Darwin
+Das Kapital	Il Capitale
+Data	Dato
+Data mining	Data mining
+Data structure	Struttura dati
+Database	Database
+Database management system	Database management system
+Date Palm	Phoenix dactylifera
+Dative case	Dativo
+Daugavpils	Daugavpils
+David	Davide (Bibbia)
+David Hilbert	David Hilbert
+David Hume	David Hume
+David Livingstone	David Livingstone
+David Ricardo	David Ricardo
+Davis Cup	Coppa Davis
+Day	Giorno
+Days	Categoria:Giorni dell'anno
+De facto	De facto
+Deacon	Diacono
+Dead Sea	Mar Morto
+Dead Sea scrolls	Manoscritti del Mar Morto
+Deadly nightshade	Atropa belladonna
+Death	Morte
+Death	Categoria:Morte
+Decade	Decennio
+December	Dicembre
+December 31	31 dicembre
+December 8	8 dicembre
+Decibel	Decibel
+Decimal	Sistema numerico decimale
+Decius (emperor)	Decio
+Declination	Declinazione (astronomia)
+Deco	Deco
+Deconstruction	Decostruzionismo
+Deductive reasoning	Deduzione
+Deer	Cervidae
+Definition	Definizione
+Deflation	Deflazione
+Degree	Grado
+Degree (angle)	Grado (unità di misura)
+Deimos (moon)	Deimos (astronomia)
+Deism	Deismo
+Delaware	Delaware
+Delaware	Categoria:Delaware
+Delft	Delft
+Delhi	Delhi
+Dell	Dell
+Delphi	Delfi
+Delphinus	Delfino (costellazione)
+Delta	Delta
+Delta (letter)	Delta (lettera)
+Deluge (mythology)	Diluvio
+Demagogy	Demagogia
+Dementia	Demenza
+Demeter	Demetra
+Democracy	Democrazia
+Democratic Party (United States)	Partito Democratico (Stati Uniti)
+Democratic Republic of the Congo	Repubblica Democratica del Congo
+Democratic Republic of the Congo	Categoria:Repubblica Democratica del Congo
+Democritus	Democrito
+Demography	Demografia
+Demon	Demone
+Demosthenes	Demostene
+Deng Xiaoping	Deng Xiaoping
+Dengue fever	Dengue
+Denis Diderot	Denis Diderot
+Denmark	Danimarca
+Denmark	Categoria:Danimarca
+Dennis Gabor	Dennis Gabor
+Density	Densità
+Dental caries	Carie dentaria
+Dentistry	Categoria:Odontoiatria
+Dentistry	Odontoiatria
+Denver	Denver
+Derivative	Derivata
+Dermatology	Dermatologia
+Des Moines	Des Moines
+Desert	Deserto
+Deserts	Categoria:Deserti
+Desiderius Erasmus	Erasmo da Rotterdam
+Design	Disegno Industriale
+Design	Categoria:Design
+Desmond Tutu	Desmond Tutu
+Destroyer	Cacciatorpediniere
+Determinant	Determinante
+Determinism	Determinismo
+Detroit	Detroit
+Deuterium	Deuterio
+Deuteronomy	Deuteronomio
+Developmental psychology	Psicologia dello sviluppo
+Device driver	Driver
+Devon	Devon
+Devonian	Devoniano
+Dew	Rugiada
+Dew point	Punto di rugiada
+Dewey Decimal Classification	Classificazione decimale Dewey
+Dhaka	Dacca
+Dharma	Dharma
+Dhaulagiri	Dhaulagiri
+Dhole	Cuon alpinus
+Diabetes mellitus	Diabete mellito
+Diacritic	Segno diacritico
+Dialect	Dialetto
+Dialectic	Dialettica (filosofia)
+Dialectical materialism	Materialismo dialettico
+Diameter	Diametro
+Diamond	Diamante
+Diana	Diana Spencer
+Diana (mythology)	Diana (divinità)
+Diarrhea	Diarrea
+Diaspora	Diaspora
+Diatom	Diatomee
+Dice	Dado (gioco)
+Dictatorship	Dittatura
+Dictionary	Dizionario
+Diego Rivera	Diego Rivera
+Diesel	Gasolio
+Diesel engine	Motore Diesel
+Dietrich Bonhoeffer	Dietrich Bonhoeffer
+Differential equation	Equazione differenziale
+Diffraction	Diffrazione (fisica)
+Digestion	Digestione
+Digestive system	Categoria:Apparato digerente
+Digital	Digitale (informatica)
+Digital camera	Fotocamera digitale
+Digital photography	Fotografia digitale
+Digital subscriber line	DSL
+Dijon	Digione
+Dill	Anethum graveolens
+Dimension	Dimensione
+Dingo	Canis lupus dingo
+Dinosaur	Dinosauria
+Diocese	Diocesi
+Diocletian	Diocleziano
+Diode	Diodo
+Dionysus	Dioniso
+Diphtheria	Difterite
+Diphthong	Dittongo
+Diplodocus	Diplodocus
+Diplomacy	Diplomazia
+Diplomacy	Categoria:Diplomazia
+Dire Straits	Dire Straits
+Direct current	Corrente continua
+Disaccharide	Disaccaridi
+Disambiguation	Categoria:Disambigua
+Disc jockey	Disc jockey
+Discrimination	Discriminazione
+Disease	Malattia
+Distance	Distanza
+Distillation	Distillazione
+Divergence	Divergenza
+Division (mathematics)	Divisione (matematica)
+Division (military)	Divisione (unità militare)
+Divorce	Divorzio
+Dizzy Gillespie	Dizzy Gillespie
+Djibouti	Categoria:Gibuti
+Djibouti (city)	Gibuti (città)
+Dmitri Mendeleev	Dmitrij Ivanovič Mendeleev
+Dmitri Shostakovich	Dmitrij Dmitrievič Šostakovič
+Dnieper River	Dnepr
+Dnipropetrovsk	Dnipropetrovs'k
+Doberman Pinscher	Dobermann
+Doctor of the Church	Dottore della Chiesa
+Document	Documento
+Dodecahedron	Dodecaedro
+Dodecanese	Dodecaneso
+Dodo	Raphus cucullatus
+Dodoma	Dodoma
+Dog	Canis lupus familiaris
+Dogma	Dogma
+Doha	Doha
+Dollar	Dollaro
+Dolly (sheep)	Dolly (pecora)
+Dolmen	Dolmen
+Dolomite	Dolomite
+Dolphin	Delfino
+Domain (biology)	Dominio (biologia)
+Dome	Cupola
+Domesday Book	Domesday Book
+Domestication	Addomesticamento
+Dominica	Dominica
+Dominica	Categoria:Dominica
+Dominican Order	Ordine dei Frati Predicatori
+Dominican Republic	Repubblica Dominicana
+Dominican Republic	Categoria:Repubblica Dominicana
+Domitian	Domiziano
+Don Quixote	Don Chisciotte della Mancia
+Don River (Russia)	Don (fiume russo)
+Donald Duck	Paperino
+Donatello	Donatello
+Donato Bramante	Bramante
+Donetsk	Donec'k
+Donkey	Equus asinus
+Door	Porta (architettura)
+Dopamine	Dopamina
+Doppler effect	Effetto Doppler
+Dorado	Dorado (costellazione)
+Doric order	Ordine dorico
+Doris Lessing	Doris Lessing
+Dortmund	Dortmund
+Douala	Douala
+Double bass	Contrabbasso
+Douglas MacArthur	Douglas MacArthur
+Dover	Dover (Delaware)
+Dover	Dover
+Down syndrome	Sindrome di Down
+Draco (constellation)	Dragone (costellazione)
+Dracula	Dracula
+Dragon	Drago
+Drainage basin	Bacino idrografico
+Drama	Dramma
+Draughts	Dama
+Dream	Sogno
+Dresden	Dresda
+Drink	Bevanda
+Dromedary	Camelus dromedarius
+Drought	Siccità
+Drug addiction	Tossicodipendenza
+Druid	Druido
+Drum	Tamburo
+Dualism	Dualismo
+Dualism (philosophy of mind)	Dualismo
+Dubai	Dubai
+Dublin	Dublino
+Dubnium	Dubnio
+Dubrovnik	Ragusa (Croazia)
+Duck	Anatra
+Dugong	Dugong dugon
+Duke	Duca
+Duke Ellington	Duke Ellington
+Duke University	Università di Duke
+Dune	Duna
+Dunkirk	Dunkerque
+Duodenum	Duodeno
+Durban	Durban
+Dushanbe	Dušanbe
+Dustin Hoffman	Dustin Hoffman
+Dutch people	Categoria:Olandesi
+Dwight D. Eisenhower	Dwight D. Eisenhower
+Dynamics (physics)	Dinamica (fisica)
+Dynamite	Dinamite
+Dynasty	Dinastia
+Dyslexia	Dislessia
+Dysprosium	Disprosio
+Dystopia	Distopia
+E	E
+E (mathematical constant)	E (costante matematica)
+E-mail	E-mail
+E. T. A. Hoffmann	Ernst Theodor Amadeus Hoffmann
+ETA	Euskadi Ta Askatasuna
+Ear	Orecchio
+Eared seal	Otariidae
+Earless seal	Phocidae
+Earth	Terra
+Earth	Categoria:Terra
+Earth science	Scienze della Terra
+Earthquake	Terremoto
+East	Est
+East Africa	Africa orientale
+East China Sea	Mar Cinese orientale
+East Germany	Repubblica Democratica Tedesca
+East Sussex	East Sussex
+East Timor	Timor Est
+East Timor	Categoria:Timor Est
+Easter	Pasqua
+Eastern Orthodox Church	Chiesa cristiana ortodossa
+Ebola	Ebola
+Ebro	Ebro
+Eccentricity (mathematics)	Eccentricità (matematica)
+Ecclesiastes	Qoelet
+Echidna	Tachyglossidae
+Echidna (mythology)	Echidna (mitologia)
+Echinoderm	Echinodermata
+Eclipse	Eclissi
+Eclipse (software)	Eclipse (informatica)
+Ecliptic	Eclittica
+Ecological niche	Nicchia ecologica
+Ecology	Ecologia
+Ecology	Categoria:Ecologia
+Econometrics	Econometria
+Economics	Economia
+Economics	Categoria:Economia
+Economy	Economia
+Ecosystem	Ecosistema
+Ecuador	Ecuador
+Ecuador	Categoria:Ecuador
+Ecumenical council	Concilio ecumenico
+Edgar Allan Poe	Edgar Allan Poe
+Edgar Degas	Edgar Degas
+Edgar Rice Burroughs	Edgar Rice Burroughs
+Edinburgh	Edimburgo
+Edirne	Edirne
+Edmond Halley	Edmond Halley
+Edmonton	Edmonton
+Edmund Burke	Edmund Burke
+Edmund Hillary	Edmund Hillary
+Edmund Husserl	Edmund Husserl
+Edo	Edo
+Eduard Buchner	Eduard Buchner
+Education	Educazione
+Education	Categoria:Educazione
+Edvard Grieg	Edvard Grieg
+Edvard Munch	Edvard Munch
+Edward Gibbon	Edward Gibbon
+Edward Jenner	Edward Jenner
+Edward Teller	Edward Teller
+Edward the Confessor	Edoardo il Confessore
+Edwin Hubble	Edwin Hubble
+Eel	Anguilla (genere)
+Egg (biology)	Uovo (biologia)
+Eggplant	Solanum melongena
+Egypt	Egitto
+Egypt	Categoria:Egitto
+Egyptian pound	Sterlina egiziana
+Egyptology	Egittologia
+Eiffel Tower	Torre Eiffel
+Eindhoven	Eindhoven
+Einsteinium	Einsteinio
+Ejaculation	Eiaculazione
+El Cid	El Cid
+El Greco	El Greco
+El Paso	El Paso (Texas)
+El Salvador	El Salvador
+El Salvador	Categoria:El Salvador
+Elam	Elam
+Elbe	Elba (fiume)
+Eleanor Roosevelt	Eleanor Roosevelt
+Election	Elezione
+Electra	Elettra (mitologia Agamennone)
+Electric charge	Carica elettrica
+Electric current	Corrente elettrica
+Electric field	Campo elettrico
+Electric guitar	Chitarra elettrica
+Electric motor	Motore elettrico
+Electrical engineering	Categoria:Ingegneria elettrica
+Electrical engineering	Elettrotecnica
+Electrical resistance	Resistenza elettrica
+Electricity	Elettricità
+Electricity	Categoria:Elettricità
+Electrocardiogram	Elettrocardiogramma
+Electrochemistry	Elettrochimica
+Electrochemistry	Categoria:Elettrochimica
+Electrolysis	Elettrolisi
+Electrolyte	Elettrolita
+Electromagnetic radiation	Radiazione elettromagnetica
+Electromagnetic spectrum	Spettro elettromagnetico
+Electromagnetism	Elettromagnetismo
+Electromagnetism	Categoria:Elettromagnetismo
+Electron	Elettrone
+Electron microscope	Microscopio elettronico
+Electronegativity	Elettronegatività
+Electronics	Elettronica
+Electronics	Categoria:Elettronica
+Elegy	Elegia
+Element	Elemento
+Elementary particle	Particella elementare
+Elephant	Elephantidae
+Elevator	Ascensore
+Elf	Elfo
+Elia Kazan	Elia Kazan
+Elias Canetti	Elias Canetti
+Elijah	Elia
+Elizabeth Taylor	Elizabeth Taylor
+Ella Fitzgerald	Ella Fitzgerald
+Ellipse	Ellisse
+Ellipsis	Punti di sospensione
+Elm	Ulmus
+Elvis Presley	Elvis Presley
+Embryo	Embrione
+Embryology	Embriologia
+Emerald	Smeraldo
+Emilia-Romagna	Emilia-Romagna
+Emiliano Zapata	Emiliano Zapata
+Emily Dickinson	Emily Dickinson
+Emir	Emiro
+Emma Goldman	Emma Goldman
+Emoticon	Emoticon
+Emotion	Emozione
+Empathy	Empatia
+Empedocles	Empedocle
+Emperor	Imperatore
+Emperor Penguin	Aptenodytes forsteri
+Empire	Impero
+Empire State Building	Empire State Building
+Empiricism	Empirismo
+Emu	Dromaius novaehollandiae
+Emulator	Emulatore
+Emulsion	Emulsione
+Encyclopedia	Enciclopedia
+Endemism	Endemismo
+Endocrine system	Sistema endocrino
+Endocrinology	Endocrinologia
+Endocrinology	Categoria:Endocrinologia
+Energy	Energia
+Energy	Categoria:Energia
+Energy (society)	Energia
+Engine	Motore
+Engineer	Ingegnere
+Engineering	Ingegneria
+Engineering	Categoria:Ingegneria
+England	Inghilterra
+England	Categoria:Inghilterra
+English Channel	La Manica
+English Civil War	Guerra civile inglese
+English language	Lingua inglese
+English language	Categoria:Lingua inglese
+English people	Inglesi
+Enki	Enki
+Enrico Caruso	Enrico Caruso
+Enrico Fermi	Enrico Fermi
+Entertainment	Categoria:Intrattenimento
+Enthalpy	Entalpia
+Entomology	Entomologia
+Entomology	Categoria:Entomologia
+Entropy	Entropia (termodinamica)
+Environment	Categoria:Ambiente
+Environment	Ambiente
+Enzyme	Enzima
+Eocene	Eocene
+Eon (geology)	Eone
+Eos	Eos
+Ephesus	Efeso
+Epic poetry	Poema epico
+Epicenter	Epicentro
+Epictetus	Epitteto
+Epicurus	Epicuro
+Epidemic	Epidemia
+Epidemiology	Epidemiologia
+Epigraphy	Epigrafia
+Epilepsy	Epilessia
+Epimetheus (mythology)	Epimeteo (mitologia)
+Epinephrine	Adrenalina
+Epiphany (Christian)	Epifania
+Epirus (periphery)	Epiro
+Epistemology	Epistemologia
+Epistle to the Galatians	Lettera ai Galati
+Epistle to the Romans	Lettera ai Romani
+Epithelium	Tessuto epiteliale
+Epsilon	Epsilon (lettera)
+Equation	Equazione
+Equator	Equatore
+Equatorial Guinea	Guinea Equatoriale
+Equatorial Guinea	Categoria:Guinea Equatoriale
+Equidae	Equus
+Equinox	Equinozio
+Equisetum	Equisetum
+Erasure	Erasure
+Erato	Erato
+Eratosthenes	Eratostene di Cirene
+Erbium	Erbio
+Erebus	Erebo
+Erectile dysfunction	Disfunzione erettile
+Erection	Erezione
+Ericaceae	Ericaceae
+Ericales	Ericales
+Eridanus (constellation)	Eridano (costellazione)
+Erik Axel Karlfeldt	Erik Axel Karlfeldt
+Erik Satie	Erik Satie
+Eris (dwarf planet)	Eris (astronomia)
+Eris (mythology)	Eris (mitologia)
+Eritrea	Categoria:Eritrea
+Ernest Hemingway	Ernest Hemingway
+Ernest Rutherford	Ernest Rutherford
+Ernst Werner von Siemens	Ernst Werner von Siemens
+Eros (mythology)	Eros (mitologia)
+Erosion	Erosione
+Erotica	Erotismo
+Erwin Rommel	Erwin Rommel
+Escape velocity	Velocità di fuga
+Eschatology	Escatologia
+Escherichia coli	Escherichia coli
+Esfahan	Esfahan
+Esophagus	Esofago
+Esperanto	Lingua esperanto
+Esperanto	Categoria:Esperanto
+Espionage	Spionaggio
+Espoo	Espoo
+Espresso	Caffè espresso
+Essay	Saggio
+Essen	Essen
+Essential oil	Olio essenziale
+Essex	Essex
+Ester	Esteri
+Estonia	Categoria:Estonia
+Estrogen	Estrogeno
+Eta (letter)	Eta (lettera)
+Etching	Acquaforte
+Ethane	Etano
+Ethanol	Etanolo
+Ether	Eteri
+Ethernet	Ethernet
+Ethics	Etica
+Ethics	Categoria:Etica
+Ethiopia	Etiopia
+Ethiopia	Categoria:Etiopia
+Ethnic group	Etnia
+Ethnography	Etnografia
+Ethnology	Categoria:Etnologia
+Ethology	Etologia
+Ethylene	Etene
+Etymology	Etimologia
+Eucalyptus	Eucalyptus
+Eucharist	Eucaristia
+Euclid	Euclide
+Euclidean geometry	Geometria euclidea
+Eugene O'Neill	Eugene Gladstone O'Neill
+Eukaryote	Eukaryota
+Eunuch	Eunuco
+Euphemism	Eufemismo
+Euphrates	Eufrate
+Eurasia	Eurasia
+Eurasian Badger	Meles meles
+Euripides	Euripide
+Euro	Euro
+Europa (moon)	Europa (astronomia)
+Europa (mythology)	Europa (mitologia)
+Europe	Europa
+Europe	Categoria:Europa
+European Central Bank	Banca centrale europea
+European Community	Comunità Europea
+European Magpie	Pica pica
+European Union	Unione europea
+European Union	Categoria:Unione europea
+Europium	Europio
+Eusebius of Caesarea	Eusebio di Cesarea
+Euterpe	Euterpe (musa)
+Euthanasia	Eutanasia
+Eva Braun	Eva Braun
+Evanescence	Evanescence
+Evangelista Torricelli	Evangelista Torricelli
+Evaporation	Evaporazione
+Even-toed ungulate	Artiodactyla
+Evolution	Evoluzione
+Excalibur	Excalibur
+Exchange rate	Tasso di cambio
+Exclamation mark	Punto esclamativo
+Excommunication	Scomunica
+Executive (government)	Potere esecutivo
+Exhibitionism	Esibizionismo
+Existentialism	Esistenzialismo
+Exodus	Libro dell'Esodo
+Expected value	Valore atteso
+Experiment	Esperimento
+Explosion	Esplosione
+Expo (exhibition)	Esposizione Universale
+Exponential function	Funzione esponenziale
+Exponentiation	Potenza (matematica)
+Expressionism	Espressionismo
+Extinction	Estinzione
+Eye	Occhio
+Eye	Categoria:Anatomia dell'occhio
+Ezra Pound	Ezra Pound
+F	F
+F. Scott Fitzgerald	Francis Scott Fitzgerald
+Fabaceae	Fabaceae
+Fable	Favola
+Face	Viso
+Fact	Template:Citazione necessaria
+Factorial	Fattoriale
+Factory	Fabbrica
+Facula	Macchia solare
+Fado	Fado
+Fagaceae	Categoria:Fagaceae
+Fagales	Fagales
+Fahrenheit	Fahrenheit
+Fair use	Fair use
+Fairy	Fata
+Fairy tale	Fiaba
+Falcon	Falco
+Falconiformes	Accipitriformes
+Falkland Islands	Isole Falkland
+Fallacy	Fallacia
+Fallopian tube	Tuba di Falloppio
+Fallow Deer	Dama dama
+Falun Gong	Falun Dafa
+Family	Categoria:Famiglia
+Family (biology)	Famiglia (tassonomia)
+Family history	Genealogia
+Family name	Cognome
+Fantasy	Fantasy
+Far East	Estremo Oriente
+Farad	Farad
+Faroe Islands	Categoria:Isole Fær Øer
+Fascism	Fascismo
+Fascism	Categoria:Fascismo
+Fashion	Categoria:Moda
+Fashion	Moda
+Fast food	Fast food
+Fasting	Digiuno
+Fatah	Fatah
+Fatty acid	Acidi grassi
+Fault (geology)	Faglia
+Fauna	Fauna
+Fauvism	Fauves
+Fax	Telefax
+Fear	Paura
+Feather	Piuma
+February	Febbraio
+February 12	12 febbraio
+February 14	14 febbraio
+February 2	2 febbraio
+February 22	22 febbraio
+February 29	29 febbraio
+February Revolution	Rivoluzione di febbraio
+Feces	Feci
+Federal Bureau of Investigation	Federal Bureau of Investigation
+Federal Reserve System	Federal Reserve
+Federated States of Micronesia	Stati Federati di Micronesia
+Federation	Stato federale
+Federico Fellini	Federico Fellini
+Fedora (Linux distribution)	Fedora (distribuzione Linux)
+Feedback	Retroazione
+Feldspar	Feldspato
+Felidae	Felidae
+Felix Mendelssohn	Felix Mendelssohn
+Feminism	Femminismo
+Feminism	Categoria:Femminismo
+Fencing	Scherma
+Feng shui	Feng shui
+Fennel	Foeniculum vulgare
+Fenrir	Fenrir
+Fenugreek	Trigonella foenum-graecum
+Ferdinand II	Ferdinando II del Sacro Romano Impero
+Ferdinand Magellan	Ferdinando Magellano
+Ferdinand de Saussure	Ferdinand de Saussure
+Fermentation (biochemistry)	Fermentazione
+Fermentation (food)	Fermentazione
+Fermion	Fermione
+Fermium	Fermio
+Fern	Pteridophyta
+Ferrara	Ferrara
+Ferry	Traghetto
+Fertile Crescent	Mezzaluna Fertile
+Fertilisation	Fecondazione
+Fertilizer	Fertilizzante
+Fetus	Feto
+Feudalism	Feudalesimo
+Fever	Febbre
+Fiat	FIAT
+Fibonacci number	Successione di Fibonacci
+Fictional character	Personaggio immaginario
+Fidel Castro	Fidel Castro
+Field (mathematics)	Campo (matematica)
+Field hockey	Hockey su prato
+Fighter aircraft	Aereo da caccia
+Figure skating	Pattinaggio di figura
+Fiji	Figi
+Fiji	Categoria:Figi
+File Allocation Table	File Allocation Table
+File Transfer Protocol	FTP
+File system	File system
+Filippo Brunelleschi	Filippo Brunelleschi
+Film	Categoria:Cinema
+Film	Film
+Film	Portale:Cinema
+Film director	Regista
+Fin Whale	Balaenoptera physalus
+Finance	Categoria:Finanza
+Finance	Finanza
+Finger	Dito
+Fingerprint	Impronta digitale
+Finland	Finlandia
+Finland	Categoria:Finlandia
+Fir	Abies
+Fire	Fuoco (fisica)
+Firearm	Arma da fuoco
+Firefighter	Corpo Nazionale dei Vigili del fuoco
+Firewall (networking)	Firewall
+Firmware	Firmware
+First Council of Constantinople	Concilio di Costantinopoli I
+First Council of Nicaea	Concilio di Nicea I
+First Crusade	Prima crociata
+First Epistle to the Corinthians	Prima lettera ai Corinzi
+First aid	Primo soccorso
+First language	Madrelingua
+Fish	Pesce
+Fish	Categoria:Pesci
+Fishing	Pesca (attività)
+Fjord	Fiordo
+Flag	Bandiera
+Flagellum	Flagello (biologia)
+Flamenco	Flamenco
+Flamingo	Phoenicopterus
+Flanders	Fiandre
+Flash memory	Memoria flash
+Flatulence	Flatulenza
+Flatworm	Platyhelminthes
+Flea	Siphonaptera
+Flemish (linguistics)	Lingua fiamminga
+Flint	Selce
+Flip-flop (electronics)	Flip-flop
+Flood	Inondazione
+Floppy disk	Floppy disk
+Florence	Firenze
+Florence Nightingale	Florence Nightingale
+Florida	Florida
+Florida	Categoria:Florida
+Flour	Farina
+Flower	Fiore
+Flowering plant	Magnoliophyta
+Fluid	Fluido
+Fluid mechanics	Meccanica dei fluidi
+Fluorite	Fluorite
+Fly	Diptera
+Fog	Nebbia
+Folic acid	Acido folico
+Folk music	Musica popolare
+Folklore	Folklore
+Folklore	Categoria:Tradizioni popolari
+Food	Alimento
+Food additive	Additivi alimentari
+Food and Agriculture Organization	Organizzazione per l'Alimentazione e l'Agricoltura
+Food chain	Catena alimentare
+Foot	Piede (anatomia)
+Foot (unit of length)	Piede (unità di misura)
+Football (soccer)	Calcio (sport)
+Football (soccer)	Categoria:Calcio
+Football (soccer) by country	Categoria:Il calcio nel mondo
+Football (soccer) clubs	Categoria:Società calcistiche
+Football (soccer) managers	Categoria:Allenatori di calcio
+Football (soccer) players	Categoria:Calciatori
+Football (soccer) venues	Categoria:Stadi di calcio
+Forbidden City	Città proibita
+Force	Forza
+Forest	Foresta
+Forestry	Silvicoltura
+Fork	Forchetta
+Form of government	Forma di governo
+Formaldehyde	Formaldeide
+Formic acid	Acido formico
+Fornax	Fornace (costellazione)
+Fort Worth	Fort Worth
+Fortification	Fortezza
+Fortran	Fortran
+Fossil	Fossile
+Fossil fuel	Combustibili fossili
+Foucault pendulum	Pendolo di Foucault
+Fountain	Fontana
+Fourier series	Serie di Fourier
+Fourth Crusade	Quarta crociata
+Fractal	Frattale
+Fraction (mathematics)	Frazione (matematica)
+France	Francia
+France	Categoria:Francia
+Francis Bacon	Francesco Bacone
+Francis Crick	Francis Crick
+Francis Drake	Francis Drake
+Francis Ford Coppola	Francis Ford Coppola
+Francis II	Francesco II del Sacro Romano Impero
+Francis Poulenc	Francis Poulenc
+Francis of Assisi	San Francesco d'Assisi
+Franciscan	Ordine francescano
+Francisco Franco	Francisco Franco
+Francisco Goya	Francisco Goya
+Francisco Pizarro	Francisco Pizarro
+Francium	Francio
+Franco-Prussian War	Guerra franco-prussiana
+Frank Lloyd Wright	Frank Lloyd Wright
+Frank Sinatra	Frank Sinatra
+Frankfort	Frankfort (Kentucky)
+Frankfurt	Francoforte sul Meno
+Frankfurt	Categoria:Francoforte sul Meno
+Frankfurt (Oder)	Francoforte sull'Oder
+Frankfurt (disambiguation)	Francoforte (disambigua)
+Franklin Pierce	Franklin Pierce
+Frans Hals	Frans Hals
+Franz Kafka	Franz Kafka
+Franz Liszt	Franz Liszt
+Franz Schubert	Franz Schubert
+Fred Astaire	Fred Astaire
+Frederick I	Federico I del Sacro Romano Impero
+Frederick II	Federico II del Sacro Romano Impero
+Frederick Sanger	Frederick Sanger
+Frederick Soddy	Frederick Soddy
+Fredericton	Fredericton
+Free State	Free State
+Free will	Libero arbitrio
+Freedom (philosophy)	Libertà
+Freedom of speech	Libertà di parola
+Freemasonry	Massoneria
+Freetown	Freetown (Sierra Leone)
+Freeware	Freeware
+French Polynesia	Polinesia francese
+French Polynesia	Categoria:Polinesia Francese
+French Revolution	Rivoluzione francese
+French Revolution	Categoria:Rivoluzione francese
+French franc	Franco francese
+French people	Categoria:Francesi
+Frequency	Frequenza
+Fresco	Affresco
+Fresno	Fresno
+Freyja	Freyja
+Freyr	Freyr
+Friction	Attrito
+Friday	Venerdì
+Fridtjof Nansen	Fridtjof Nansen
+Friedrich Engels	Friedrich Engels
+Friesland	Frisia (Paesi Bassi)
+Frigate	Fregata (nave)
+Frigg	Frigg
+Fritz Haber	Fritz Haber
+Friuli-Venezia Giulia	Friuli-Venezia Giulia
+Frog	Anura
+Fructose	Fruttosio
+Fruit	Frutto
+Fruit	Categoria:Frutta
+Fucking	Fucking
+Fuel	Combustibile
+Fuel cell	Pila a combustibile
+Fugue	Fuga (musica)
+Fukuoka	Fukuoka
+Full moon	Plenilunio
+Funafuti	Funafuti
+Function (mathematics)	Funzione (matematica)
+Fundamental	Categoria:Enciclopedia
+Fundamental interaction	Interazioni fondamentali
+Fundamentalism	Fondamentalismo
+Fungi	Categoria:Fungi
+Fungus	Funghi
+Funicular	Funicolare
+Funk	Funk
+Furniture	Categoria:Arredamento
+Furniture	Arredamento
+Future	Futuro
+Futurism (art)	Futurismo
+Fuzzy logic	Logica fuzzy
+Fyodor Dostoevsky	Fëdor Michajlovič Dostoevskij
+G	G
+GIMP	The GIMP
+GNOME	GNOME
+GNU	GNU
+Gabon	Gabon
+Gabon	Categoria:Gabon
+Gaborone	Gaborone
+Gabriel	Arcangelo Gabriele
+Gabriel Lippmann	Gabriel Lippmann
+Gadolinium	Gadolinio
+Gaetano Donizetti	Gaetano Donizetti
+Gaia (mythology)	Gea
+Galatia	Galazia
+Galaxy	Galassia
+Galen	Galeno
+Galena	Galena
+Galicia (Central Europe)	Galizia (Europa centrale)
+Galicia (Spain)	Galizia (Spagna)
+Galilee	Galilea
+Galileo (spacecraft)	Sonda Galileo
+Galileo Galilei	Galileo Galilei
+Gallbladder	Cistifellea
+Galley	Galea
+Galliformes	Galliformes
+Gallium	Gallio (elemento)
+Gallon	Gallone
+Galway	Galway (città)
+Gamal Abdel Nasser	Gamal Abd el-Nasser
+Gambling	Gioco d'azzardo
+Game	Gioco
+Game theory	Teoria dei giochi
+Gamma	Gamma (lettera)
+Gamma ray	Raggi gamma
+Ganesha	Gaṇeśa
+Ganges	Gange
+Ganja	Ganja (città)
+Gansu	Gansu
+Ganymede	Ganimede (mitologia)
+Ganymede (moon)	Ganimede (astronomia)
+Gap	Gap (Francia)
+Garden	Giardino
+Garden of Eden	Giardino dell'Eden
+Gardening	Giardinaggio
+Garfield	Garfield
+Gargoyle	Gargolla
+Garlic	Allium sativum
+Garnet	Granato
+Garonne	Garonna
+Gas	Gas
+Gas constant	Costante dei gas
+Gas giant	Gigante gassoso
+Gasoline	Benzina
+Gastrointestinal tract	Apparato gastrointestinale
+Gastropoda	Gastropoda
+Gaul	Gallia
+Gautama Buddha	Gautama Buddha
+Gay	Gay
+Gaza	Gaza (città)
+Gaza Strip	Striscia di Gaza
+Gear	Ingranaggio
+Geb	Geb
+Geisha	Geisha
+Gemini (constellation)	Gemelli (costellazione)
+Gemstone	Pietra preziosa
+Gene	Gene
+Genealogy	Genealogia
+Genealogy	Categoria:Genealogia
+General Agreement on Tariffs and Trade	General Agreement on Tariffs and Trade
+General Officer	Generale
+General relativity	Relatività generale
+Genesis	Genesi
+Genetic code	Codice genetico
+Genetic engineering	Ingegneria genetica
+Genetics	Genetica
+Genetics	Categoria:Genetica
+Geneva	Ginevra (città)
+Genie	Jinn
+Genitive case	Genitivo
+Genoa	Genova
+Genocide	Genocidio
+Genocide	Categoria:Genocidi
+Genome	Genoma
+Genotype	Genotipo
+Genus	Genere (tassonomia)
+Geochemistry	Geochimica
+Geodesy	Geodesia
+Geodesy	Categoria:Geodesia
+Geoffrey Chaucer	Geoffrey Chaucer
+Geography	Geografia
+Geography	Categoria:Geografia
+Geography	Portale:Geografia
+Geology	Categoria:Geologia
+Geology	Geologia
+Geometric progression	Progressione geometrica
+Geometry	Geometria
+Geometry	Categoria:Geometria
+Geomorphology	Geomorfologia
+Geophysics	Geofisica
+Geophysics	Categoria:Geofisica
+Geopolitics	Geopolitica
+Georg Philipp Telemann	Georg Philipp Telemann
+Georg Wilhelm Friedrich Hegel	Georg Wilhelm Friedrich Hegel
+George Berkeley	George Berkeley
+George Bernard Shaw	George Bernard Shaw
+George Boole	George Boole
+George Bush	George Bush
+George Frideric Handel	Georg Friedrich Händel
+George Gershwin	George Gershwin
+George Harrison	George Harrison
+George Lucas	George Lucas
+George Marshall	George Marshall
+George Orwell	George Orwell
+George Paget Thomson	George Paget Thomson
+George Sand	George Sand
+George Stephenson	George Stephenson
+George W. Bush	George W. Bush
+George Washington	George Washington
+Georges Bizet	Georges Bizet
+Georges Braque	Georges Braque
+Georges Clemenceau	Georges Clemenceau
+Georges Simenon	Georges Simenon
+Georgetown	Georgetown (Guyana)
+Georgia (U.S. state)	Georgia (USA)
+Georgia (U.S. state)	Categoria:Georgia (USA)
+Georgia (country)	Georgia
+Georgia (country)	Categoria:Georgia
+Gerald Ford	Gerald Ford
+Gerard Kuiper	Gerard Peter Kuiper
+German Shepherd Dog	Pastore tedesco
+German language	Lingua tedesca
+German language	Categoria:Lingua tedesca
+German mark	Marco tedesco
+Germanium	Germanio
+Germany	Germania
+Germany	Categoria:Germania
+Geronimo	Geronimo (capo apache)
+Gestapo	Gestapo
+Geyser	Geyser
+Ghana	Ghana
+Ghana	Categoria:Ghana
+Ghent	Gand
+Ghetto	Ghetto
+Ghost	Fantasma
+Giacomo Puccini	Giacomo Puccini
+Giant Panda	Ailuropoda melanoleuca
+Gibbon	Hylobatidae
+Gibraltar	Gibilterra
+Gigabyte	Gigabyte
+Gilgamesh	Gilgamesh
+Ginger	Zingiber officinale
+Ginkgo	Ginkgo biloba
+Giordano Bruno	Giordano Bruno
+Giorgio Vasari	Giorgio Vasari
+Giorgio de Chirico	Giorgio de Chirico
+Giotto di Bondone	Giotto
+Giovanni Boccaccio	Giovanni Boccaccio
+Giraffe	Giraffa camelopardalis
+Giraffidae	Giraffidae
+Girolamo Savonarola	Girolamo Savonarola
+Gironde	Gironda
+Giuseppe Garibaldi	Giuseppe Garibaldi
+Giuseppe Verdi	Giuseppe Verdi
+Giza	Giza
+Glacier	Ghiacciaio
+Gladiator	Gladiatore
+Gland	Ghiandola
+Glasgow	Glasgow
+Glasnost	Glasnost'
+Glass	Vetro
+Glasses	Occhiali
+Glider	Aliante
+Global Positioning System	Global Positioning System
+Global warming	Riscaldamento globale
+Globalization	Globalizzazione
+Globe artichoke	Cynara scolymus
+Gloucestershire	Gloucestershire
+Glucagon	Glucagone
+Glucose	Glucosio
+Gluon	Gluone
+Glutamic acid	Acido glutammico
+Glycerol	Glicerolo
+Glycine	Glicina
+Glycogen	Glicogeno
+Glycolysis	Glicolisi
+Gnathostomata	Gnathostomata
+Gneiss	Ortogneiss
+Gnosticism	Gnosticismo
+Go (board game)	Go (gioco)
+Goa	Goa
+Goalkeeper	Portiere
+Goat	Capra hircus
+Gobi Desert	Deserto del Gobi
+God	Dio
+Golan Heights	Golan (regione)
+Gold	Oro
+Golda Meir	Golda Meir
+Golden Eagle	Aquila chrysaetos
+Golden Gate Bridge	Golden Gate Bridge
+Golden Horde	Khanato dell'Orda d'Oro
+Golden Retriever	Golden Retriever
+Golf	Golf
+Golf	Categoria:Golf
+Golgi apparatus	Apparato del Golgi
+Gomel	Homiel'
+Good Friday	Venerdì Santo
+Google	Google
+Google	Categoria:Google
+Googol	Googol
+Gorgon	Gorgoni
+Gorilla	Gorilla (genere)
+Goshawk	Accipiter gentilis
+Gospel	Vangelo
+Gospel of Luke	Vangelo secondo Luca
+Gothenburg	Göteborg
+Gothic	Gotico (disambigua)
+Gothic architecture	Architettura gotica
+Gotthold Ephraim Lessing	Gotthold Ephraim Lessing
+Gottlieb Daimler	Gottlieb Daimler
+Gout	Gotta
+Government	Governo
+Grace Kelly	Grace Kelly
+Gradient	Gradiente
+Graffiti	Graffiti writing
+Graham Greene	Graham Greene
+Gram	Grammo
+Grammar	Grammatica
+Grammar	Categoria:Grammatica
+Grammatical gender	Genere (linguistica)
+Granada	Granada
+Grand Canyon	Grand Canyon
+Grand Slam (tennis)	Grande Slam (tennis)
+Grandmaster (chess)	Grande maestro internazionale
+Granite	Granito
+Grape	Vitis
+Grapefruit	Citrus × paradisi
+Graphic design	Categoria:Grafica
+Graphic design	Grafica
+Graphical user interface	Interfaccia grafica
+Graphite	Grafite
+Gravitation	Forza di gravità
+Gravitational constant	Costante di gravitazione universale
+Graviton	Gravitone
+Gray (unit)	Gray (unità di misura)
+Gray Wolf	Canis lupus
+Graz	Graz
+Great Barrier Reef	Grande barriera corallina
+Great Britain	Gran Bretagna
+Great Crested Grebe	Podiceps cristatus
+Great Depression	Grande depressione
+Great Lakes	Grandi Laghi (America)
+Great Rift Valley	Rift Valley
+Great Wall of China	Grande muraglia cinese
+Great white shark	Carcharodon carcharias
+Greater Antilles	Grandi Antille
+Greater London	Grande Londra
+Greatest common divisor	Massimo comun divisore
+Grebe	Podicipediformes
+Greece	Grecia
+Greece	Categoria:Grecia
+Greek alphabet	Alfabeto greco
+Greek alphabet	Categoria:Alfabeto greco
+Greek fire	Fuoco greco
+Greek mythology	Mitologia greca
+Greek mythology	Categoria:Mitologia greca
+Green	Verde
+Greenhouse	Serra
+Greenhouse effect	Effetto serra
+Greenhouse gas	Gas serra
+Greenland	Groenlandia
+Greenland	Categoria:Groenlandia
+Greenland Sea	Mare di Groenlandia
+Greenpeace	Greenpeace
+Greenwich	Greenwich
+Greenwich Mean Time	Greenwich Mean Time
+Gregor Mendel	Gregor Mendel
+Gregorian calendar	Calendario gregoriano
+Grenada	Categoria:Grenada
+Grenoble	Grenoble
+Greta Garbo	Greta Garbo
+Grey	Grigio
+Greylag Goose	Anser anser
+Griffin	Grifone (mitologia)
+Griffon Vulture	Gyps fulvus
+Gross domestic product	Prodotto interno lordo
+Group	Gruppo
+Group (mathematics)	Gruppo (matematica)
+Group (periodic table)	Gruppo della tavola periodica
+Group theory	Teoria dei gruppi
+Grover Cleveland	Grover Cleveland
+Grozny	Groznyj
+Gruiformes	Gruiformes
+Grus (constellation)	Gru (costellazione)
+Guadalajara	Guadalajara (Messico)
+Guadeloupe	Guadalupa
+Guam	Guam
+Guangdong	Guangdong
+Guangzhou	Canton
+Guanine	Guanina
+Guano	Guano
+Guatemala	Categoria:Guatemala
+Guatemala City	Città del Guatemala
+Guayaquil	Guayaquil
+Guernsey	Guernsey
+Guglielmo Marconi	Guglielmo Marconi
+Guild	Corporazioni delle arti e mestieri
+Guillaume Apollinaire	Guillaume Apollinaire
+Guillotine	Ghigliottina
+Guinea	Guinea
+Guinea	Categoria:Guinea
+Guinea pig	Cavia porcellus
+Guinea-Bissau	Guinea-Bissau
+Guinea-Bissau	Categoria:Guinea-Bissau
+Guitar	Chitarra
+Gujarat	Gujarat
+Gulag	Gulag
+Gulf Stream	Corrente del Golfo
+Gulf War	Guerra del Golfo
+Gulf of Aden	Golfo di Aden
+Gulf of Aqaba	Golfo di Aqaba
+Gulf of Bothnia	Golfo di Botnia
+Gulf of Finland	Golfo di Finlandia
+Gulf of Guinea	Golfo di Guinea
+Gulf of Mexico	Golfo del Messico
+Gulf of Oman	Golfo di Oman
+Gulf of Riga	Golfo di Riga
+Gulf of Thailand	Golfo del Siam
+Gull	Laridae
+Gunpowder	polvere nera
+Guppy	Poecilia reticulata
+Gustav Klimt	Gustav Klimt
+Gustav Ludwig Hertz	Gustav Hertz
+Gustav Mahler	Gustav Mahler
+Gustave Courbet	Gustave Courbet
+Gustave Flaubert	Gustave Flaubert
+Guy Fawkes	Guy Fawkes
+Guy de Maupassant	Guy de Maupassant
+Guyana	Categoria:Guyana
+Gymnastics	Ginnastica
+Gymnosperm	Gymnospermae
+Gynaecology	Ginecologia
+Gypsum	Gesso (mineralogia)
+Gyroscope	Giroscopio
+H	H
+H. G. Wells	H.G. Wells
+HIV	HIV
+HTML	HTML
+Habitat	Habitat
+Hacker	Hacker
+Hadean	Adeano
+Hades	Ade (divinità)
+Hadith	Ḥadīth
+Hadrian	Publio Elio Traiano Adriano
+Hadrian's Wall	Vallo di Adriano
+Hadron	Adrone
+Haemophilia	Emofilia
+Hafnium	Afnio
+Hagia Sophia	Hagia Sophia
+Haifa	Haifa
+Haiku	Haiku
+Hail	Grandine
+Hail Mary	Ave Maria
+Hair	Capelli
+Haiti	Haiti
+Haiti	Categoria:Haiti
+Hajj	Hajj
+Halal	Halal
+Halberd	Alabarda
+Half-life	Emivita (fisica)
+Halle	Halle sul Saale
+Halloween	Halloween
+Hallucination	Allucinazione
+Halogen	Alogeno
+Hamas	Hamas
+Hamburg	Amburgo
+Hamburg	Categoria:Amburgo
+Hamburger	Hamburger
+Hamlet	Amleto
+Hammer	Martello (tecnologia)
+Hammer and sickle	Falce e martello
+Hammurabi	Hammurabi
+Hampshire	Hampshire
+Hamster	Cricetinae
+Han Dynasty	Dinastia Han
+Hand	Mano
+Hand grenade	Bomba a mano
+Handgun	Pistola
+Hanging	Impiccagione
+Hanging Gardens of Babylon	Giardini pensili di Babilonia
+Hannah Arendt	Hannah Arendt
+Hannibal	Annibale
+Hanoi	Hanoi
+Hanover	Hannover
+Hans Bethe	Hans Bethe
+Hans Christian Andersen	Hans Christian Andersen
+Hanseatic League	Lega Anseatica
+Hanukkah	Chanukah
+Hanuman	Hanuman
+Happiness	Felicità
+Harare	Harare
+Hardness	Durezza
+Harem	Harem
+Harlem	Harlem
+Harmonica	Armonica a bocca
+Harmony	Armonia (musica)
+Harold Pinter	Harold Pinter
+Harp	Arpa (strumento)
+Harpsichord	Clavicembalo
+Harpy	Arpia
+Harriet Beecher Stowe	Harriet Beecher Stowe
+Harriet Tubman	Harriet Tubman
+Harrisburg	Harrisburg
+Harry Houdini	Harry Houdini
+Hartford	Hartford (Connecticut)
+Hassium	Hassio
+Hatred	Odio (sentimento)
+Haute-Normandie	Alta Normandia
+Havana	L'Avana
+Hawaii	Hawaii
+Hawaii	Categoria:Hawaii
+Hazel	Specie di Corylus
+Head	Testa
+Head of state	Capo di stato
+Health	Salute
+Health	Categoria:Salute
+Heart	Cuore
+Heat	Calore
+Heat engine	Macchina termica
+Heaven	Paradiso
+Heavy metal music	Heavy metal
+Heavy water	Acqua pesante
+Hebe (mythology)	Ebe
+Hebei	Hebei
+Hebrew alphabet	Alfabeto ebraico
+Hebrew calendar	Calendario ebraico
+Hebrides	Isole Ebridi
+Hecate	Ecate
+Hectare	Ettaro
+Hector	Ettore (mitologia)
+Hector Berlioz	Hector Berlioz
+Hedgehog	Erinaceinae
+Hedonism	Edonismo
+Heimdall	Heimdallr
+Heinrich Hertz	Heinrich Rudolf Hertz
+Heinrich Himmler	Heinrich Himmler
+Heinrich Schliemann	Heinrich Schliemann
+Hel (being)	Hel (divinità)
+Helen	Elena (mitologia)
+Helen Keller	Helen Keller
+Helena	Helena (Montana)
+Helicopter	Elicottero
+Helios	Elio (mitologia)
+Helium	Elio
+Hell	Inferno
+Helmut Schmidt	Helmut Schmidt
+Helsinki	Helsinki
+Hematite	Ematite
+Hematology	Ematologia
+Hematology	Categoria:Ematologia
+Hemoglobin	Emoglobina
+Hemorrhoid	Emorroidi
+Henri Becquerel	Antoine Henri Becquerel
+Henri Bergson	Henri Bergson
+Henri Matisse	Henri Matisse
+Henrik Ibsen	Henrik Ibsen
+Henry (unit)	Henry
+Henry Cavendish	Henry Cavendish
+Henry David Thoreau	Henry David Thoreau
+Henry Fonda	Henry Fonda
+Henry Ford	Henry Ford
+Henry James	Henry James
+Henry Kissinger	Henry Kissinger
+Henry Miller	Henry Miller
+Henry Moore	Henry Moore
+Henry Purcell	Henry Purcell
+Hepatitis	Epatite
+Hephaestus	Efesto
+Hera	Era (mitologia)
+Heracles	Eracle
+Heraclitus	Eraclito di Efeso
+Heraldry	Araldica
+Heraldry	Categoria:Araldica
+Herat	Herat
+Herbert Hoover	Herbert Hoover
+Herbert Marcuse	Herbert Marcuse
+Herbert Spencer	Herbert Spencer
+Hercules	Ercole
+Hercules (constellation)	Ercole (costellazione)
+Heresy	Eresia
+Herman Melville	Herman Melville
+Hermann Hesse	Hermann Hesse
+Hermann Minkowski	Hermann Minkowski
+Hermann von Helmholtz	Hermann von Helmholtz
+Hermaphrodite	Ermafroditismo
+Hermeneutics	Ermeneutica
+Hermes	Ermes
+Hero	Eroe
+Hero of Alexandria	Erone di Alessandria
+Herod the Great	Erode il Grande
+Herodotus	Erodoto
+Heroin	Eroina
+Heron	Ardeidae
+Herring Gull	Larus argentatus
+Hertfordshire	Hertfordshire
+Hertz	Hertz
+Hesiod	Esiodo
+Hesperides	Esperidi
+Hesse	Assia
+Hesse	Categoria:Assia
+Hestia	Estia
+Heterosexuality	Eterosessualità
+Heterotroph	Eterotrofia
+Hexadecimal	Sistema numerico esadecimale
+Hexagon	Esagono
+Hezbollah	Hezbollah
+Hibernation	ibernazione
+Hideki Yukawa	Hideki Yukawa
+Hieronymus Bosch	Hieronymus Bosch
+Hilbert space	Spazio di Hilbert
+Himalayas	Himalaya
+Hindu Kush	Hindu Kush
+Hinduism	Induismo
+Hinduism	Categoria:Induismo
+Hipparchus	Ipparco di Nicea
+Hippie	Hippy
+Hippocrates	Ippocrate di Coo
+Hippocratic Oath	Giuramento di Ippocrate
+Hippopotamus	Hippopotamus amphibius
+Hirohito	Shōwa imperatore del Giappone
+Hiroshima	Hiroshima
+Hispaniola	Hispaniola
+Histidine	Istidina
+Histology	Istologia
+Histology	Categoria:Istologia
+Histone	Istone
+Historiography	Storiografia
+History	Storia
+History	Categoria:Storia
+History	Portale:Storia
+Ho Chi Minh	Ho Chi Minh
+Ho Chi Minh City	Ho Chi Minh (città)
+Hobart	Hobart
+Hobbit	Hobbit
+Hobby	Hobby
+Hokusai	Hokusai
+Holiday	Festa
+Hollywood	Hollywood
+Holmium	Olmio
+Holocene	Olocene
+Holography	Olografia
+Holy Grail	Graal
+Holy Roman Empire	Sacro Romano Impero Germanico
+Holy Roman Empire	Categoria:Sacro Romano Impero
+Holy Spirit	Spirito Santo
+Homeopathy	Omeopatia
+Homeostasis	Omeostasi
+Homer	Omero
+Hominidae	Hominidae
+Homo (genus)	Homo
+Homo erectus	Homo erectus
+Homo habilis	Homo habilis
+Homonym	Omonimia
+Homophobia	Omofobia
+Homosexuality	Omosessualità
+Honduras	Honduras
+Honduras	Categoria:Honduras
+Honey	Miele
+Honey Buzzard	Pernis apivorus
+Hong Kong	Hong Kong
+Hong Kong	Categoria:Hong Kong
+Honiara	Honiara
+Honolulu	Honolulu
+Hookah	Narghilè
+Hooke's law	Legge di Hooke
+Hoopoe	Upupa epops
+Horace	Quinto Orazio Flacco
+Horatio Nelson	Horatio Nelson
+Horizon	Orizzonte
+Hormone	Ormone
+Horn (anatomy)	Corno (biologia)
+Horn (instrument)	Corno (strumento musicale)
+Horn of Africa	Corno d'Africa
+Horse	Equus caballus
+Horse racing	Ippica
+Horsepower	Cavallo vapore
+Horus	Horo
+Hosni Mubarak	Hosni Mubarak
+Hospital	Ospedale
+Hotel	Albergo
+Hour	Ora (unità di misura)
+Hourglass	clessidra
+House	Casa
+House (TV series)	Dr. House - Medical Division
+House Mouse	Mus musculus
+House Sparrow	Passer domesticus
+Houston	Houston
+Hovercraft	Hovercraft
+Howard Carter (archaeologist)	Howard Carter
+Hubble's law	Legge di Hubble
+Hudson Bay	Baia di Hudson
+Hudson River	Hudson
+Hugh Capet	Ugo Capeto di Francia
+Hugo Grotius	Ugo Grozio
+Huguenot	Ugonotti
+Human	Homo sapiens sapiens
+Humanism	Umanesimo
+Humerus	Omero (anatomia)
+Humidity	Umidità
+Hummingbird	Colibrì
+Humor	Categoria:Umorismo
+Humour	Umorismo
+Humpback Whale	Megaptera novaeangliae
+Humphrey Bogart	Humphrey Bogart
+Humus	Humus
+Hunan	Hunan
+Hundred Years' War	Guerra dei cent'anni
+Hungary	Ungheria
+Hungary	Categoria:Ungheria
+Hunger	Fame
+Hunting	Caccia
+Hutu	Hutu
+Hybrid	Ibrido
+Hyderabad	Hyderabad
+Hydra (constellation)	Idra (costellazione)
+Hydrocarbon	Idrocarburi
+Hydrochloric acid	Acido cloridrico
+Hydroelectricity	Centrale idroelettrica
+Hydrogen	Idrogeno
+Hydrogen bond	Legame a idrogeno
+Hydrogen cyanide	Acido cianidrico
+Hydrogen peroxide	Perossido di idrogeno
+Hydrology	Idrologia
+Hydrology	Categoria:Idrologia
+Hydrolysis	Idrolisi
+Hydrosphere	Idrosfera
+Hydroxide	Idrossido
+Hydrus	Idra Maschio (costellazione)
+Hyena	Hyaenidae
+Hygiene	Categoria:Igiene
+Hymen	Imene (anatomia)
+Hymenoptera	Categoria:Imenotteri
+Hymenoptera	Hymenoptera
+Hymn	Inno
+Hyperbola	Iperbole (geometria)
+Hyperbole	Iperbole (figura retorica)
+Hyperion (moon)	Iperione (astronomia)
+Hyperion (mythology)	Iperione (mitologia)
+Hypertension	Ipertensione arteriosa sistemica
+Hypertext	Ipertesto
+Hypertext Transfer Protocol	HTTP
+Hypnos	Ipno
+Hypnosis	Ipnosi
+Hypothalamus	Ipotalamo
+Hypothesis	Ipotesi
+I	I
+I. M. Pei	Ieoh Ming Pei
+IPod	IPod
+Ian Fleming	Ian Fleming
+Iapetus (moon)	Giapeto (astronomia)
+Iapetus (mythology)	Giapeto (mitologia)
+Iberian Peninsula	Penisola iberica
+Ibuprofen	Ibuprofene
+Ice	Ghiaccio
+Ice age	Glaciazione
+Ice cream	Gelato
+Ice hockey	Hockey su ghiaccio
+Ice hockey	Categoria:Hockey su ghiaccio
+Iceberg	Iceberg
+Iceland	Islanda
+Iceland	Categoria:Islanda
+Ichthyology	Ittiologia
+Icon	Icona (arte)
+Iconoclasm	Iconoclastia
+Idaho	Idaho
+Idaho	Categoria:Idaho
+Ideal gas	Gas ideale
+Idealism	Idealismo
+Identity element	Elemento neutro
+Identity matrix	Matrice identità
+Ideology	Ideologia
+Ido	Lingua ido
+Igloo	Iglù
+Ignatius of Loyola	Ignazio di Loyola
+Igneous rock	Roccia magmatica
+Igor Stravinsky	Igor' Fëdorovič Stravinskij
+Iguazu Falls	Cascate dell'Iguazú
+Iliad	Iliade
+Illinois	Illinois
+Illinois	Categoria:Illinois
+Illyria	Illiria
+Image scanner	Scansionatore d'immagine
+Imam	Imām
+Immanuel Kant	Immanuel Kant
+Immune system	Sistema immunitario
+Immunology	Immunologia
+Immunology	Categoria:Immunologia
+Imperialism	Imperialismo
+Impressionism	Impressionismo
+Incest	Incesto
+Inch	Pollice (unità di misura)
+Incheon	Incheon
+Inclined plane	Piano inclinato
+Independence	Indipendenza
+India	India
+India	Categoria:India
+Indian Ocean	Oceano Indiano
+Indiana	Indiana
+Indiana	Categoria:Indiana
+Indianapolis	Indianapolis
+Indira Gandhi	Indira Gandhi
+Indium	Indio
+Indochina	Indocina
+Indonesia	Indonesia
+Indonesia	Categoria:Indonesia
+Indra	Indra
+Inductance	Induttanza
+Inductive reasoning	Induzione
+Inductor	Induttore
+Indulgence	Indulgenza
+Indus (constellation)	Indiano (costellazione)
+Indus River	Indo
+Industrial Revolution	Rivoluzione industriale
+Industry	Industria
+Industry	Categoria:Industria
+Inequality	Disuguaglianza
+Inertia	Inerzia
+Infantry	Fanteria
+Infectious disease	Malattia infettiva
+Infinitive	Infinito (modo)
+Infinity	Infinito (matematica)
+Inflammation	Infiammazione
+Inflation	Inflazione
+Influenza	Influenza
+Information	Informazione
+Information technology	Information and Communications Technology
+Information theory	Teoria dell'informazione
+Infrared	Radiazione infrarossa
+Infrastructure	Infrastruttura
+Ingmar Bergman	Ingmar Bergman
+Ingrid Bergman	Ingrid Bergman
+Inner Mongolia	Mongolia Interna
+Innovation	Innovazione
+Innsbruck	Innsbruck
+Inorganic chemistry	Chimica inorganica
+Inorganic chemistry	Categoria:Chimica inorganica
+Inquisition	Inquisizione
+Insect	Insecta
+Insectivora	Insectivora
+Institution	Istituzione
+Insulin	Insulina
+Insurance	Assicurazione
+Integer	Numero intero
+Integral	Integrale
+Integrated circuit	Circuito integrato
+Intellectual property	Proprietà intellettuale
+Intelligence	Intelligenza (psicologia)
+Intelligence quotient	Quoziente d'intelligenza
+Intercontinental ballistic missile	Missile balistico intercontinentale
+Interest	Interesse
+Interference	Interferenza (fisica)
+Interjection	Interiezione
+Interlingua	Interlingua
+International Atomic Energy Agency	Agenzia Internazionale per l'Energia Atomica
+International Civil Aviation Organization	Organizzazione Internazionale dell'Aviazione Civile
+International Court of Justice	Corte Internazionale di Giustizia
+International Date Line	Linea internazionale del cambio di data
+International Labour Organization	Organizzazione Internazionale del Lavoro
+International Monetary Fund	Fondo Monetario Internazionale
+International System of Units	Sistema internazionale di unità di misura
+International law	Categoria:Diritto internazionale
+International organization	Organizzazione internazionale
+Internet	Internet
+Internet	Categoria:Internet
+Internet Explorer	Windows Internet Explorer
+Internment	Campo di concentramento
+Interpreter (computing)	Interprete (informatica)
+Intersection (set theory)	Intersezione
+Interval (music)	Intervallo (musica)
+Intestine	Intestino
+Intranet	Intranet
+Invention	Invenzione (tecnologia)
+Invertebrate	Invertebrata
+Io (moon)	Io (astronomia)
+Io (mythology)	Io (mitologia)
+Iodine	Iodio
+Ion	Ione
+Ionia	Ionia
+Ionian Sea	Mar Ionio
+Ionic bond	Legame ionico
+Ionosphere	Ionosfera
+Iota	Iota (lettera)
+Iowa	Iowa
+Iowa	Categoria:Iowa
+Iran	Iran
+Iran	Categoria:Iran
+Iran-Iraq War	Guerra Iran-Iraq
+Iraq	Iraq
+Iraq	Categoria:Iraq
+Ireland	Irlanda (isola)
+Ireland	Categoria:Irlanda
+Irenaeus	Sant'Ireneo di Lione
+Iridium	Iridio
+Iris (anatomy)	Iride (anatomia)
+Iris (mythology)	Iris (mitologia)
+Irish Republican Army	Irish Republican Army
+Irish Sea	Mare d'Irlanda
+Irish people	Categoria:Irlandesi
+Iron	Ferro
+Iron Age	Età del ferro
+Iron Curtain	Cortina di ferro
+Iron Maiden	Iron Maiden
+Irony	Ironia
+Irrational number	Numero irrazionale
+Irredentism	Irredentismo
+Irtysh River	Irtyš
+Isaac	Isacco
+Isaac Asimov	Isaac Asimov
+Isaac Bashevis Singer	Isaac Bashevis Singer
+Isaac Newton	Isaac Newton
+Isadora Duncan	Isadora Duncan
+Ishmael	Ismaele
+Isis	Iside
+Islam	Islam
+Islam	Categoria:Islam
+Islamabad	Islamabad
+Islamic calendar	Calendario islamico
+Island	Isola
+Isle of Man	Isola di Man
+Isle of Man	Categoria:Isola di Man
+Isle of Wight	Isola di Wight
+Isomer	Isomeria
+Isoroku Yamamoto	Isoroku Yamamoto
+Isotope	Isotopo
+Israel	Israele
+Israel	Categoria:Israele
+Istanbul	Istanbul
+Istanbul	Categoria:Istanbul
+Isthmus	Istmo
+Isthmus of Panama	Istmo di Panamá
+Italian Peninsula	Penisola italiana
+Italo Calvino	Italo Calvino
+Italy	Italia
+Italy	Categoria:Italia
+Ithaca	Itaca
+Ivan Lendl	Ivan Lendl
+Ivan Pavlov	Ivan Pavlov
+Ivan Turgenev	Ivan Sergeevič Turgenev
+Ivory	Avorio
+Ivy League	Ivy League
+Iwo Jima	Iwo Jima
+J	J
+J. D. Salinger	J.D. Salinger
+J. M. Barrie	James Matthew Barrie
+Jack Kerouac	Jack Kerouac
+Jack Lemmon	Jack Lemmon
+Jack London	Jack London
+Jack the Ripper	Jack lo squartatore
+Jackdaw	Corvus monedula
+Jackson	Jackson (Mississippi)
+Jackson Pollock	Jackson Pollock
+Jacksonville	Jacksonville
+Jacob	Giacobbe
+Jacques Cartier	Jacques Cartier
+Jacques Derrida	Jacques Derrida
+Jacques Offenbach	Jacques Offenbach
+Jade	Giada (minerale)
+Jaguar	Panthera onca
+Jainism	Giainismo
+Jakarta	Giacarta
+Jalalabad	Jalalabad
+Jamaica	Giamaica
+Jamaica	Categoria:Giamaica
+James	Giacomo il Maggiore
+James A. Garfield	James A. Garfield
+James Bond	James Bond
+James Buchanan	James Buchanan
+James Clerk Maxwell	James Clerk Maxwell
+James Cook	James Cook
+James Franck	James Franck
+James Joyce	James Joyce
+James K. Polk	James Knox Polk
+James Madison	James Madison
+James Monroe	James Monroe
+James Naismith	James Naismith
+James Prescott Joule	James Prescott Joule
+James Watt	James Watt
+Jammu and Kashmir	Jammu e Kashmir
+Jan Hus	Jan Hus
+Jan van Eyck	Jan van Eyck
+Jane Austen	Jane Austen
+Jane Fonda	Jane Fonda
+Jane Seymour	Jane Seymour
+Janis Joplin	Janis Joplin
+Janissary	Giannizzeri
+January	Gennaio
+January 1	1º gennaio
+January 19	19 gennaio
+January 20	20 gennaio
+January 6	6 gennaio
+Janus (moon)	Giano (astronomia)
+Janus (mythology)	Giano (divinità)
+Japan	Giappone
+Japan	Categoria:Giappone
+Jason	Giasone (mitologia)
+Jaundice	Ittero
+Java	Giava
+Java (disambiguation)	Java
+Java (programming language)	Java (linguaggio)
+Jawaharlal Nehru	Jawaharlal Nehru
+Jazz	Jazz
+Jazz	Categoria:Jazz
+Jean Auguste Dominique Ingres	Jean-Auguste-Dominique Ingres
+Jean Cocteau	Jean Cocteau
+Jean Piaget	Jean Piaget
+Jean Racine	Jean Racine
+Jean Sibelius	Jean Sibelius
+Jean de La Fontaine	Jean de La Fontaine
+Jean-Jacques Rousseau	Jean-Jacques Rousseau
+Jean-Paul Sartre	Jean-Paul Sartre
+Jean-Philippe Rameau	Jean-Philippe Rameau
+Jeddah	Jedda
+Jefferson City	Jefferson City
+Jefferson Davis	Jefferson Davis
+Jehovah	Tetragramma biblico
+Jehovah's Witnesses	Testimoni di Geova
+Jellyfish	Scyphozoa
+Jena	Jena
+Jeremy Bentham	Jeremy Bentham
+Jerez de la Frontera	Jerez de la Frontera
+Jericho	Gerico
+Jerome	San Girolamo
+Jersey	Jersey
+Jerusalem	Gerusalemme
+Jerusalem	Categoria:Gerusalemme
+Jesus	Gesù
+Jet engine	Motore a getto
+Jew	Ebreo
+Jew's harp	Scacciapensieri
+Jihad	Jihad
+Jimi Hendrix	Jimi Hendrix
+Jimmy Carter	Jimmy Carter
+Joan of Arc	Giovanna d'Arco
+Johann Bernoulli	Johann Bernoulli
+Johann Sebastian Bach	Johann Sebastian Bach
+Johann Wolfgang von Goethe	Johann Wolfgang von Goethe
+Johannes Brahms	Johannes Brahms
+Johannes Diderik van der Waals	Johannes Diderik van der Waals
+Johannes Gutenberg	Johann Gutenberg
+Johannes Kepler	Johannes Kepler
+Johannes Vilhelm Jensen	Johannes Vilhelm Jensen
+Johannesburg	Johannesburg
+John Adams	John Adams
+John Bardeen	John Bardeen
+John Cage	John Cage
+John Calvin	Giovanni Calvino
+John Chrysostom	Giovanni Crisostomo
+John Dalton	John Dalton
+John Dewey	John Dewey
+John Galsworthy	John Galsworthy
+John Herschel	John Herschel
+John Keats	John Keats
+John Lennon	John Lennon
+John Locke	John Locke
+John Major	John Major
+John Maynard Keynes	John Maynard Keynes
+John Milton	John Milton
+John Napier	Nepero
+John Quincy Adams	John Quincy Adams
+John Ruskin	John Ruskin
+John Steinbeck	John Steinbeck
+John Stuart Mill	John Stuart Mill
+John Tyler	John Tyler
+John Wayne	John Wayne
+John Wycliffe	John Wyclif
+John the Baptist	San Giovanni Battista
+John von Neumann	János Neumann
+Johnny Cash	Johnny Cash
+Joint	Articolazione
+Jonathan Swift	Jonathan Swift
+Jordan	Giordania
+Jordan	Categoria:Giordania
+Jordan River	Giordano
+Jorge Luis Borges	Jorge Luis Borges
+Joseph Conrad	Joseph Conrad
+Joseph Goebbels	Joseph Goebbels
+Joseph Haydn	Franz Joseph Haydn
+Joseph Louis Gay-Lussac	Joseph Louis Gay-Lussac
+Joseph McCarthy	Joseph McCarthy
+Joseph Priestley	Joseph Priestley
+Joseph Pulitzer	Joseph Pulitzer
+Joseph Schumpeter	Joseph Schumpeter
+Joseph Smith	Joseph Smith
+Joseph Stalin	Stalin
+Josephus	Flavio Giuseppe
+Joule	Joule
+Journalism	Categoria:Giornalismo
+Journalism	Giornalismo
+Journalist	Giornalista
+Jovian	Gioviano
+Joystick	Joystick
+Judaism	Religione ebraica
+Judaism	Categoria:Ebraismo
+Judas Iscariot	Giuda Iscariota
+Judea	Giudea
+Judo	Jūdō
+Judy Garland	Judy Garland
+Jujutsu	Ju jitsu
+Jules Verne	Jules Verne
+Julian calendar	Calendario giuliano
+Julian the Apostate	Giuliano (imperatore romano)
+Julius Caesar	Gaio Giulio Cesare
+July	Luglio
+July 1	1º luglio
+July 4	4 luglio
+June	Giugno
+June 14	14 giugno
+June 21	21 giugno
+June 23	23 giugno
+June 24	24 giugno
+June 29	29 giugno
+June 3	3 giugno
+Juneau	Juneau
+Juniper	Juniperus
+Juno (mythology)	Giunone
+Jupiter	Giove (astronomia)
+Jupiter	Categoria:Giove
+Jupiter (disambiguation)	Giove
+Jupiter (mythology)	Giove (divinità)
+Jurassic	Giurassico
+Justinian I	Giustiniano I di Bisanzio
+Jutland	Jutland
+K	K
+K2	K2
+KGB	Komitet Gosudarstvennoj Bezopasnosti
+Kaaba	Kaaba
+Kabbalah	Cabala
+Kabul	Kabul
+Kalahari Desert	Kalahari
+Kamchatka Peninsula	Kamčatka
+Kamikaze	Kamikaze
+Kampala	Kampala
+Kandahar	Kandahar (città)
+Kansas	Kansas
+Kansas	Categoria:Kansas
+Kansas City	Kansas City (Missouri)
+Kappa	Kappa (lettera)
+Kara Sea	Mare di Kara
+Karachi	Karachi
+Karakoram	Karakorum
+Karaoke	Karaoke
+Karate	Karate
+Karen Blixen	Karen Blixen
+Karl Barth	Karl Barth
+Karl Jaspers	Karl Jaspers
+Karl Marx	Karl Marx
+Karl Popper	Karl Popper
+Karma	Karma
+Karnataka	Karnataka
+Katharine Hepburn	Katharine Hepburn
+Kathmandu	Kathmandu
+Katowice	Katowice
+Kaunas	Kaunas
+Kayak	Kayak
+Kazakhstan	Kazakistan
+Kazakhstan	Categoria:Kazakistan
+Kazan	Kazan'
+Kazimir Malevich	Kazimir Severinovič Malevič
+Kelvin	Kelvin
+Kent	Kent
+Kentucky	Kentucky
+Kentucky	Categoria:Kentucky
+Kenya	Kenya
+Kenya	Categoria:Kenya
+Kernel (computer science)	Kernel
+Kerosene	Cherosene
+Ketchup	Ketchup
+Ketone	Chetoni
+Keyboard (computing)	Tastiera (informatica)
+Keyboard instrument	Tastiera (strumento)
+Khabarovsk	Chabarovsk
+Khan	Khan
+Kharkiv	Charkiv
+Khartoum	Khartum
+Khmer Rouge	Khmer Rossi
+Khufu	Medjedu
+Kibbutz	Kibbutz
+Kidney	Rene
+Kiev	Kiev
+Kigali	Kigali
+Kilobyte	Kilobyte
+Kilogram	Chilogrammo
+Kilometre	Chilometro
+Kilometres per hour	Chilometro orario
+Kimono	Kimono
+Kindergarten	Scuola dell'infanzia
+Kinematics	Cinematica
+Kinetic energy	Energia cinetica
+King (chess)	Re (scacchi)
+King Arthur	Re Artù
+King Lear	Re Lear
+Kingdom (biology)	Regno (biologia)
+Kingston	Kingston
+Kingstown	Kingstown
+Kinshasa	Kinshasa
+Kiribati	Kiribati
+Kiribati	Categoria:Kiribati
+Kiss	Bacio
+Kite	Aquilone
+Kiwi	Apteryx
+Knee	Ginocchio
+Knesset	Knesset
+Knife	Coltello
+Knight	Cavalleria medievale
+Knight (chess)	Cavallo (scacchi)
+Knossos	Cnosso
+Knot (speed)	Nodo (unità di misura)
+Knowledge	Conoscenza
+Knut Hamsun	Knut Hamsun
+Koala	Phascolarctos cinereus
+Kobe	Kōbe
+Kola Peninsula	Penisola di Kola
+Kolkata	Calcutta
+Komodo dragon	Varanus komodoensis
+Konqueror	Konqueror
+Konrad Adenauer	Konrad Adenauer
+Korea	Corea
+Korea	Categoria:Corea
+Korean War	Guerra di Corea
+Kosovo	Kosovo
+Kosovo	Categoria:Kosovo
+Krakatoa	Krakatoa
+Kremlin	Cremlino
+Krishna	Krishna
+Krypton	Kripton (elemento)
+Ku Klux Klan	Ku Klux Klan
+Kuala Lumpur	Kuala Lumpur
+Kublai Khan	Kublai Khan
+Kuiper belt	Fascia di Kuiper
+Kumquat	Fortunella
+Kunlun Mountains	Kunlun
+Kuomintang	Guomindang
+Kura River	Kura (fiume)
+Kurdistan	Kurdistan
+Kurdistan	Categoria:Kurdistan
+Kurdistan Workers Party	Partîya Karkerén Kurdîstan
+Kursk	Kursk
+Kurt Vonnegut	Kurt Vonnegut
+Kurt Waldheim	Kurt Waldheim
+Kuwait	Kuwait
+Kuwait	Categoria:Kuwait
+Kuwait City	Madinat al-Kuwait
+KwaZulu-Natal	KwaZulu-Natal
+Kyoto	Kyōto
+Kyrgyzstan	Kirghizistan
+Kyrgyzstan	Categoria:Kirghizistan
+L	L
+L'Aquila	L'Aquila
+LAMP (software bundle)	LAMP (piattaforma)
+La Paz	La Paz
+La Plata	La Plata
+La Spezia	La Spezia
+LaTeX	LaTeX
+Laboratory	Laboratorio
+Labour Party (UK)	Partito Laburista (Regno Unito)
+Labrador Retriever	Labrador Retriever
+Lacerta	Lucertola (costellazione)
+Lactic acid	Acido lattico
+Lactose	Lattosio
+Lady Jane Grey	Jane Grey
+Lagomorpha	Lagomorpha
+Lagos	Lagos (città)
+Lahore	Lahore
+Laissez-faire	Laissez-faire
+Lake	Lago
+Lake Baikal	Lago Bajkal
+Lake Balaton	Balaton
+Lake Chad	Ciad (lago)
+Lake Constance	Lago di Costanza
+Lake Erie	Lago Erie
+Lake Eyre	Lago Eyre
+Lake Geneva	Lago Lemano
+Lake Huron	Lago Huron
+Lake Ilmen	Lago Il'men'
+Lake Ladoga	Lago Ladoga
+Lake Malawi	Malawi (lago)
+Lake Michigan	Lago Michigan
+Lake Onega	Lago Onega
+Lake Ontario	Lago Ontario
+Lake Superior	Lago Superiore
+Lake Tanganyika	Lago Tanganica
+Lake Victoria	Lago Vittoria
+Lakshmi	Lakshmi
+Lambda	Lambda (lettera)
+Lamiaceae	Lamiaceae
+Lammergeier	Gypaetus barbatus
+Lamprey	Petromyzontiformes
+Lancashire	Lancashire
+Lancelet	Branchiostoma
+Landfill	Discarica di rifiuti
+Language	Linguaggio
+Languedoc-Roussillon	Linguadoca-Rossiglione
+Lansing	Lansing
+Lanthanide	Lantanoidi
+Lanthanum	Lantanio
+Laos	Laos
+Laos	Categoria:Laos
+Laptev Sea	Mare di Laptev
+Laptop	Computer portatile
+Larch	Larix
+Larva	Larva
+Larynx	Laringe
+Las Vegas	Las Vegas
+Lascaux	Grotte di Lascaux
+Laser	Laser
+Lathe	Tornio
+Latin	Lingua latina
+Latin America	America latina
+Latin alphabet	Alfabeto latino
+Latitude	Latitudine
+Latvia	Lettonia
+Latvia	Categoria:Lettonia
+Laughter	Riso (ridere)
+Laurasia	Laurasia
+Lausanne	Losanna
+Lava	Lava
+Law	Diritto
+Law	Categoria:Diritto
+Law enforcement	Categoria:Forze di polizia
+Lawrencium	Laurenzio
+Lawyer	Avvocato
+Lazio	Lazio
+Le Corbusier	Le Corbusier
+Le Havre	Le Havre
+Lead	Piombo
+Leaf	Foglia
+League of Nations	Società delle Nazioni
+Leaning Tower of Pisa	Torre pendente di Pisa
+Leap year	Anno bisestile
+Learning	Apprendimento
+Lebanon	Libano
+Lebanon	Categoria:Libano
+Leda (mythology)	Leda
+Lee Harvey Oswald	Lee Harvey Oswald
+Leeds	Leeds
+Left-handed	Mancinismo
+Legend	Leggenda
+Legislature	Potere legislativo
+Lego	LEGO
+Leicester	Leicester
+Leiden	Leida
+Leipzig	Lipsia
+Lemon	Citrus × limon
+Lemon balm	Melissa officinalis
+Lena River	Lena (fiume)
+Length	Lunghezza
+Lens (optics)	Lente
+Lent	Quaresima
+Lentil	Lens (botanica)
+Leo (constellation)	Leone (costellazione)
+Leo I (emperor)	Leone I di Bisanzio
+Leon Trotsky	Lev Trotsky
+Leonard Bernstein	Leonard Bernstein
+Leonardo da Vinci	Leonardo da Vinci
+Leonhard Euler	Eulero
+Leonid Brezhnev	Leonid Il'ič Brežnev
+Leopard	Panthera pardus
+Lepidoptera	Lepidoptera
+Leprosy	Lebbra
+Lepton	Leptone
+Lepus (constellation)	Lepre (costellazione)
+Lesbian	Lesbismo
+Lesotho	Lesotho
+Lesotho	Categoria:Lesotho
+Lesser Antilles	Piccole Antille
+Leto	Latona
+Letter (alphabet)	Lettera (alfabeto)
+Leukemia	Leucemia
+Levant	Levante (geografia)
+Lever	Leva (fisica)
+Leviathan	Leviatano
+Leviticus	Levitico
+Lewis Carroll	Lewis Carroll
+Lexicology	Lessicologia
+Lhasa	Lhasa
+Lhotse	Lhotse
+Liberalism	Liberalismo
+Liberation Tigers of Tamil Eelam	Tigri Tamil
+Liberia	Liberia
+Liberia	Categoria:Liberia
+Libra (constellation)	Bilancia (costellazione)
+Library	Biblioteca
+Library science	Biblioteconomia
+Libretto	Libretto
+Libreville	Libreville
+Libya	Libia
+Libya	Categoria:Libia
+Lichen	Lichene
+Liechtenstein	Liechtenstein
+Liechtenstein	Categoria:Liechtenstein
+Lieutenant	Tenente
+Life	Vita
+Light	Luce
+Light-emitting diode	LED
+Light-year	Anno luce
+Lighter	Accendino
+Lighthouse	Faro
+Lightning	Fulmine
+Liguria	Liguria
+Ligurian Sea	Mar Ligure
+Liliaceae	Liliaceae
+Lilith	Lilith
+Lille	Lilla
+Lilongwe	Lilongwe
+Lima	Lima
+Limerick	Limerick
+Limestone	Calcare
+Limit (mathematics)	Limite (matematica)
+Limnology	Limnologia
+Limousin (region)	Limosino
+Lincoln	Lincoln (Nebraska)
+Lincoln	Lincoln
+Lincolnshire	Lincolnshire
+Line (mathematics)	Retta
+Linear algebra	Algebra lineare
+Linear algebra	Categoria:Algebra lineare
+Linear equation	Equazione lineare
+Lingua franca	Lingua franca
+Linguistics	Linguistica
+Linguistics	Categoria:Linguistica
+Linus Pauling	Linus Pauling
+Linux	Linux
+Linux	Categoria:Linux
+Linz	Linz
+Lion	Panthera leo
+Lipid	Lipidi
+Liqueur	Liquore
+Liquid	Liquido
+Liquid crystal display	Schermo a cristalli liquidi
+Liquorice	Glycyrrhiza glabra
+Lisbon	Lisbona
+Lise Meitner	Lise Meitner
+Lisp (programming language)	Lisp
+Literacy	Alfabetizzazione
+Literature	Letteratura
+Literature	Categoria:Letteratura
+Literature	Portale:Letteratura
+Lithium	Litio
+Lithography	Litografia (arte)
+Lithosphere	Litosfera
+Lithuania	Lituania
+Lithuania	Categoria:Lituania
+Litre	Litro
+Little Owl	Athene noctua
+Liverpool	Liverpool
+Livonia	Livonia
+Livy	Tito Livio
+Lizard	Lacertilia
+Ljubljana	Lubiana
+Llama	Lama glama
+Loanword	Prestito linguistico
+Local area network	Local Area Network
+Loch Ness	Loch Ness
+Loch Ness Monster	Mostro di Loch Ness
+Locomotive	Locomotiva
+Logarithm	Logaritmo
+Logic	Logica
+Logic	Categoria:Logica
+Logic gate	Porta logica
+Logistics	Logistica
+Logo	Logo
+Loire	Loira (dipartimento francese)
+Loire River	Loira (fiume)
+Loki	Loki (mitologia)
+Lolita	Lolita (romanzo)
+Lombardy	Lombardia
+London	Londra
+London	Categoria:Londra
+Long Beach	Long Beach (California)
+Long Island	Long Island (USA)
+Long jump	Salto in lungo
+Long-eared Owl	Asio otus
+Lope de Vega	Lope de Vega
+Lord's Prayer	Padre Nostro
+Lorraine (region)	Lorena (regione francese)
+Los Angeles	Los Angeles
+Lot (department)	Lot (dipartimento francese)
+Loudspeaker	Altoparlante
+Louis Aragon	Louis Aragon
+Louis Armstrong	Louis Armstrong
+Louis Braille	Louis Braille
+Louis Pasteur	Louis Pasteur
+Louis the Pious	Ludovico I del Sacro Romano Impero
+Louis the Stammerer	Luigi II di Francia
+Louisiana	Louisiana
+Louisiana	Categoria:Louisiana
+Louisville	Louisville (Kentucky)
+Louvre	Museo del Louvre
+Love	Amore
+Low German	Lingua basso-tedesca
+Lower Saxony	Bassa Sassonia
+Luanda	Luanda
+Lublin	Lublino
+Lucerne	Lucerna
+Luciano Pavarotti	Luciano Pavarotti
+Lucifer	Lucifero
+Lucretius	Tito Lucrezio Caro
+Lucrezia Borgia	Lucrezia Borgia
+Ludwig Boltzmann	Ludwig Boltzmann
+Ludwig Mies van der Rohe	Ludwig Mies van der Rohe
+Ludwig Wittgenstein	Ludwig Wittgenstein
+Ludwig van Beethoven	Ludwig van Beethoven
+Luftwaffe	Luftwaffe
+Luigi Galvani	Luigi Galvani
+Luigi Pirandello	Luigi Pirandello
+Lumen (unit)	Lumen
+Luminescence	Luminescenza
+Lunar eclipse	Eclissi lunare
+Lund	Lund (Svezia)
+Lung	Polmone
+Lung cancer	Tumore del polmone
+Lungfish	Dipnoi
+Lupus (constellation)	Lupo (costellazione)
+Lusaka	Lusaka
+Lusitania	Lusitania
+Lute	Liuto
+Lutetium	Lutezio
+Lutheranism	Luteranesimo
+Lux	Lux
+Luxembourg	Lussemburgo
+Luxembourg	Categoria:Lussemburgo
+Luxembourg (city)	Lussemburgo (città)
+Luxor	Luxor
+Luzon	Luzon
+Lychee	Litchi chinensis
+Lydia	Lidia
+Lymphatic system	Sistema linfatico
+Lynx (constellation)	Lince (costellazione)
+Lynx (web browser)	Lynx (software)
+Lyon	Lione
+Lyra	Lira (costellazione)
+Lysergic acid diethylamide	LSD
+Lysine	Lisina
+Lysosome	Lisosoma
+M	M
+M-theory	M-teoria
+MESSENGER	MESSENGER (sonda)
+MIME	Multipurpose Internet Mail Extensions
+MS-DOS	MS-DOS
+Macau	Macao
+Macbeth	Macbeth
+Macedon	Regno di Macedonia
+Macedonia	Macedonia
+Macedonia (Greece)	Macedonia (Grecia)
+Mach number	Numero di Mach
+Machine	Macchina
+Machine code	Linguaggio macchina
+Machine gun	Mitragliatrice
+Machu Picchu	Machu Picchu
+Macintosh	Apple Macintosh
+Macroeconomics	Macroeconomia
+Macroeconomics	Categoria:Macroeconomia
+Madagascar	Madagascar
+Madagascar	Categoria:Madagascar
+Madeira	Madera
+Madison	Madison (Wisconsin)
+Madonna (entertainer)	Madonna (cantante)
+Madrid	Madrid
+Madrid (autonomous community)	Madrid (comunità autonoma)
+Mafia	Mafia
+Magenta	Magenta (colore)
+Maghreb	Maghreb
+Magic (paranormal)	Magia
+Magic square	Quadrato magico
+Maginot Line	Linea Maginot
+Magma	Magma (geologia)
+Magna Carta	Magna Carta
+Magnesium	Magnesio
+Magnet	Magnete
+Magnetic field	Campo magnetico
+Magnetic resonance imaging	Imaging a risonanza magnetica
+Magnetism	Magnetismo
+Magnetism	Categoria:Magnetismo
+Magnetite	Magnetite
+Magnifying glass	Lente d'ingrandimento
+Maharashtra	Maharashtra
+Mahatma Gandhi	Mahatma Gandhi
+Mahayana	Buddhismo Mahayana
+Mail	Posta
+Maimonides	Mosè Maimonide
+Main	Meno (fiume)
+Main	Template:Vedi anche
+Maine	Maine
+Maine	Categoria:Maine
+Mainframe computer	Mainframe
+Maitreya	Maitreya
+Maize	Zea mays
+Major	Maggiore
+Major scale	Scala maggiore
+Majorca	Maiorca
+Makalu	Makalu
+Malabo	Malabo
+Malachite	Malachite
+Malacostraca	Malacostraca
+Malaria	Malaria
+Malawi	Categoria:Malawi
+Malayan Tapir	Tapirus indicus
+Malaysia	Malesia
+Malaysia	Categoria:Malesia
+Malcolm X	Malcolm X
+Maldives	Maldive
+Maldives	Categoria:Maldive
+Mali	Mali
+Mali	Categoria:Mali
+Mallard	Anas platyrhynchos
+Malta	Malta
+Malta	Categoria:Malta
+Maltese language	Lingua maltese
+Maltose	Maltosio
+Malvaceae	Malvaceae
+Mammal	Mammalia
+Mammoth	Mammuthus primigenius
+Management	Management
+Managua	Managua
+Manama	Manama
+Manatee	Trichechus
+Manchester	Manchester
+Manchuria	Manciuria
+Mandala	Mandala
+Mandarin (linguistics)	Lingua cinese mandarino
+Mandarin orange	Citrus reticulata
+Mandelbrot set	Insieme di Mandelbrot
+Manganese	Manganese
+Mangrove	Mangrovia
+Manhattan	Manhattan
+Manhattan Project	Progetto Manhattan
+Manichaeism	Manicheismo
+Manila	Manila
+Manipur	Manipur
+Manitoba	Manitoba
+Mannerism	Manierismo
+Mannheim	Mannheim
+Mantle (geology)	Mantello terrestre
+Mantra	Mantra
+Mantua	Mantova
+Manuel de Falla	Manuel de Falla
+Manuscript	Manoscritto
+Mao Zedong	Mao Zedong
+Maoism	Maoismo
+Map	Mappa
+Maple	Acer
+Maputo	Maputo
+Marathon	Maratona (sport)
+Marble	Marmo
+Marc Chagall	Marc Chagall
+Marcel Duchamp	Marcel Duchamp
+Marcel Marceau	Marcel Marceau
+Marcel Proust	Marcel Proust
+March	Marzo
+March 17	17 marzo
+March 19	19 marzo
+March 2	2 marzo
+March 25	25 marzo
+Marche	Marche
+Marco Polo	Marco Polo
+Marcus Aurelius	Marco Aurelio
+Marcus Junius Brutus	Marco Giunio Bruto
+Marcus Vipsanius Agrippa	Marco Vipsanio Agrippa
+Marduk	Marduk (divinità)
+Margaret Mead	Margaret Mead
+Margaret Mitchell	Margaret Mitchell
+Margaret Thatcher	Margaret Thatcher
+Maria Callas	Maria Callas
+Mariana Islands	Isole Marianne
+Marie Antoinette	Maria Antonietta d'Asburgo-Lorena
+Marie Curie	Marie Curie
+Mariehamn	Mariehamn
+Marilyn Monroe	Marilyn Monroe
+Mario Vargas Llosa	Mario Vargas Llosa
+Mark Antony	Marco Antonio
+Mark Twain	Mark Twain
+Market	Mercato
+Marketing	Marketing
+Marketing	Categoria:Marketing
+Markup language	Linguaggio di markup
+Marlene Dietrich	Marlene Dietrich
+Marquis de Sade	Donatien Alphonse François de Sade
+Marrakech	Marrakech
+Marriage	Matrimonio
+Mars	Categoria:Marte
+Mars (disambiguation)	Marte
+Mars (mythology)	Marte (divinità)
+Marseille	Marsiglia
+Marshall Islands	Isole Marshall
+Marshall Plan	Piano Marshall
+Marsupial	Metatheria
+Martin Buber	Martin Buber
+Martin Heidegger	Martin Heidegger
+Martin Luther	Martin Lutero
+Martin Luther King	Martin Luther King
+Martin Scorsese	Martin Scorsese
+Martin Van Buren	Martin Van Buren
+Martina Navratilova	Martina Navrátilová
+Martinique	Martinica
+Martyr	Martire
+Marx Brothers	Fratelli Marx
+Marxism	Marxismo
+Marxism	Categoria:Marxismo
+Mary (mother of Jesus)	Maria (madre di Gesù)
+Mary Magdalene	Maria Maddalena
+Mary Shelley	Mary Shelley
+Mary Wollstonecraft	Mary Wollstonecraft
+Maryland	Maryland
+Maryland	Categoria:Maryland
+Maseru	Maseru
+Mashhad	Mashhad
+Mass	Massa (fisica)
+Mass (liturgy)	Celebrazione Eucaristica
+Mass number	Numero di massa
+Massachusetts	Massachusetts
+Massachusetts	Categoria:Massachusetts
+Massachusetts Institute of Technology	Massachusetts Institute of Technology
+Masturbation	Masturbazione
+Mata Hari	Mata Hari
+Match	Fiammifero
+Materialism	Materialismo
+Mathematical logic	Logica matematica
+Mathematical logic	Categoria:Logica matematica
+Mathematical proof	Dimostrazione matematica
+Mathematics	Matematica
+Mathematics	Categoria:Matematica
+Mathematics	Portale:Matematica
+Matrix (mathematics)	Matrice
+Matter	Materia (fisica)
+Matterhorn	Cervino
+Mauna Kea	Mauna Kea
+Mauna Loa	Mauna Loa
+Maundy Thursday	Giovedì Santo
+Maurice Ravel	Maurice Ravel
+Mauritania	Mauritania
+Mauritania	Categoria:Mauritania
+Mauritius	Mauritius
+Mauritius	Categoria:Mauritius
+Max Born	Max Born
+Max Bruch	Max Bruch
+Max Ernst	Max Ernst
+Max Planck	Max Planck
+Max Weber	Max Weber
+Maximian	Massimiano
+Maxwell's equations	Equazioni di Maxwell
+May	Maggio
+May 1	1º maggio
+May 24	24 maggio
+Mayenne	Mayenne
+Mayfly	Ephemeroptera
+Mayonnaise	Maionese
+Mayor	Sindaco
+Mbabane	Mbabane
+McCarthyism	Maccartismo
+Mead	Idromele
+Measles	Morbillo
+Measure (mathematics)	Misura (matematica)
+Measurement	Categoria:Metrologia
+Measurement	Misura
+Meat	Carne
+Mecca	La Mecca
+Mechanical engineering	Ingegneria meccanica
+Mechanical engineering	Categoria:Ingegneria meccanica
+Mechanics	Categoria:Meccanica
+Mechanics	Meccanica
+Medea	Medea (mitologia)
+Median	Mediana (statistica)
+Medication	Farmaco
+Medici	Medici
+Medicine	Medicina
+Medicine	Categoria:Medicina
+Medina	Medina
+Meditation	Meditazione
+Mediterranean Sea	Mar Mediterraneo
+Medusa	Medusa (mitologia)
+Meerkat	Suricata suricatta
+Megabyte	Megabyte
+Meiosis	Meiosi
+Meister Eckhart	Meister Eckhart
+Meitnerium	Meitnerio
+Mekong	Mekong
+Mel Gibson	Mel Gibson
+Melanesia	Melanesia
+Melody	Melodia
+Melpomene	Melpomene
+Melting	Fusione (fisica)
+Melting point	Punto di fusione
+Meme	Meme
+Memory	Memoria (fisiologia)
+Memphis	Memphis (Tennessee)
+Memphis	Menphi
+Menachem Begin	Menachem Begin
+Mendelevium	Mendelevio
+Menelaus	Menelao (mitologia)
+Meningitis	Meningite
+Mensa (constellation)	Mensa (costellazione)
+Menstrual cycle	Ciclo mestruale
+Menstruation	Mestruazione
+Mentha	Mentha
+Mercantilism	Mercantilismo
+Mercenary	Mercenario
+Mercury	Mercurio
+Mercury (element)	Mercurio (elemento)
+Mercury (mythology)	Mercurio (divinità)
+Mercury (planet)	Mercurio (astronomia)
+Meridian (geography)	Meridiano (geografia)
+Meritocracy	Meritocrazia
+Mermaid	Sirena (mitologia)
+Merovingian	Merovingi
+Meryl Streep	Meryl Streep
+Mescaline	Mescalina
+Mesolithic	Mesolitico
+Meson	Mesone
+Mesopotamia	Mesopotamia
+Mesopotamia	Categoria:Mesopotamia
+Mesosphere	Mesosfera (atmosfera)
+Mesozoic	Mesozoico
+Messenger RNA	RNA messaggero
+Messiah	Messia
+Messina	Messina
+Metabolism	Metabolismo
+Metadata	Metadato
+Metal	Metallo
+Metallic bond	Legame metallico
+Metalloid	Semimetalli
+Metallurgy	Metallurgia
+Metallurgy	Categoria:Metallurgia
+Metamorphic rock	Roccia metamorfica
+Metaphor	Metafora
+Metaphysics	Metafisica
+Metaphysics	Categoria:Metafisica
+Metastasis	Metastasi
+Meteor shower	Sciame meteorico
+Meteorite	Meteorite
+Meteoroid	Meteoroide
+Meteorology	Categoria:Meteorologia
+Meteorology	Meteorologia
+Methadone	Metadone
+Methamphetamine	Metanfetamina
+Methanol	Metanolo
+Methionine	Metionina
+Methodism	Metodismo
+Methylenedioxymethamphetamine	MDMA
+Metis (moon)	Metis (astronomia)
+Metonymy	Metonimia
+Metre	Metro
+Metric space	Spazio metrico
+Meuse	Mosa (dipartimento francese)
+Meuse River	Mosa (fiume)
+Mexico	Messico
+Mexico	Categoria:Messico
+Mexico City	Città del Messico
+Miami	Miami
+Mica	Mica
+Michael (archangel)	Arcangelo Michele
+Michael Faraday	Michael Faraday
+Michel Ney	Michel Ney
+Michelangelo	Michelangelo Buonarroti
+Michigan	Michigan
+Michigan	Categoria:Michigan
+Mick Jagger	Mick Jagger
+Mickey Mouse	Topolino
+Microbiology	Microbiologia
+Microbiology	Categoria:Microbiologia
+Microeconomics	Microeconomia
+Microeconomics	Categoria:Microeconomia
+Micronesia	Micronesia
+Microorganism	Microrganismo
+Microphone	Microfono
+Microprocessor	Microprocessore
+Microscope	Microscopio
+Microscopium	Microscopio (costellazione)
+Microwave	Microonde
+Microwave oven	Forno a microonde
+Middle Ages	Medioevo
+Middle Ages	Categoria:Medioevo
+Middle East	Medio Oriente
+Middle East	Categoria:Medioriente
+Midnight sun	Sole di mezzanotte
+Migraine	Emicrania
+Miguel de Cervantes	Miguel de Cervantes
+Mike Tyson	Mike Tyson
+Mikhail Bakunin	Michail Aleksandrovič Bakunin
+Mikhail Glinka	Michail Ivanovič Glinka
+Mikhail Gorbachev	Michail Sergeevič Gorbačëv
+Milan	Milano
+Mile	Miglio (unità di misura)
+Miles Davis	Miles Davis
+Military	Categoria:Forze armate
+Military rank	Grado militare
+Milk	Latte
+Milky Way	Via Lattea
+Millard Fillmore	Millard Fillmore
+Millennium	Millennio
+Millimetre	Millimetro
+Million	Milione
+Millipede	Diplopoda
+Milton Friedman	Milton Friedman
+Milwaukee	Milwaukee
+Minaret	Minareto
+Mindanao	Mindanao
+Mineral	Minerale
+Mineral water	Acqua minerale
+Mineralogy	Mineralogia
+Mineralogy	Categoria:Mineralogia
+Minerva	Minerva
+Ming Dynasty	Dinastia Ming
+Minimalism	Minimalismo
+Mining	Industria mineraria
+Minister (government)	Ministro
+Minneapolis	Minneapolis
+Minnesota	Minnesota
+Minnesota	Categoria:Minnesota
+Minoan civilization	Civiltà minoica
+Minor scale	Scala minore
+Minos	Minosse
+Minotaur	Minotauro
+Minsk	Minsk
+Minute	Minuto
+Miocene	Miocene
+Miracle	Miracolo
+Mirror	Specchio
+Mishnah	Mishnah
+Mississippi	Categoria:Mississippi
+Mississippi River	Mississippi (fiume)
+Missouri	Missouri
+Missouri	Categoria:Missouri
+Missouri River	Missouri (fiume)
+Mitochondrion	Mitocondrio
+Mnemosyne	Mnemosine
+Mobile phone	Telefono cellulare
+Modem	Modem
+Modernism	modernismo artistico
+Modest Mussorgsky	Modest Petrovič Musorgskij
+Modulation	Modulazione
+Mogadishu	Mogadiscio
+Moirae	Moire (mitologia)
+Mold	Muffa
+Moldova	Moldavia
+Moldova	Categoria:Moldavia
+Mole (unit)	Mole
+Molecular biology	Biologia molecolare
+Molecular biology	Categoria:Biologia molecolare
+Molecule	Molecola
+Molise	Molise
+Mollusca	Mollusca
+Molotov cocktail	Bomba Molotov
+Molybdenum	Molibdeno
+Mombasa	Mombasa
+Momentum	Quantità di moto
+Monaco	Principato di Monaco
+Monaco	Categoria:Principato di Monaco
+Monarch	Monarca
+Monarchy	Monarchia
+Monarchy	Categoria:Monarchia
+Monastery	Monastero
+Monday	Lunedì
+Money	Denaro
+Mongolia	Mongolia
+Mongolia	Categoria:Mongolia
+Mongoose	Herpestidae
+Monica Seles	Monica Seles
+Monism	Monismo
+Monocotyledon	Liliopsida
+Monomer	Monomero
+Monopoly	Monopolio
+Monopoly (game)	Monopoli (gioco)
+Monosaccharide	Monosaccaridi
+Monosodium glutamate	Glutammato monosodico
+Monotheism	Monoteismo
+Monotreme	Monotremata
+Monroe Doctrine	Dottrina Monroe
+Monrovia	Monrovia
+Mons	Mons (Belgio)
+Monsoon	Monsone
+Mont Blanc	Monte Bianco
+Montana	Montana
+Montana	Categoria:Montana
+Monte Carlo	Monte Carlo
+Montenegro	Montenegro
+Montenegro	Categoria:Montenegro
+Monterrey	Monterrey
+Montevideo	Montevideo
+Montgomery	Montgomery (Alabama)
+Month	Mese
+Montpelier	Montpelier (Vermont)
+Montreal	Montréal
+Montserrat	Montserrat (isola)
+Moon	Luna
+Moose	Alces alces
+Morality	Morale
+Moravia	Moravia (Repubblica Ceca)
+Morocco	Marocco
+Morocco	Categoria:Marocco
+Morpheme	Morfema
+Morphine	Morfina
+Morphology	Morfologia
+Morphology (linguistics)	Morfologia (grammatica)
+Morse code	Codice Morse
+Mortar (weapon)	Mortaio
+Mosaic	Mosaico
+Moscow	Mosca (città)
+Moscow	Categoria:Mosca
+Moselle	Mosella (dipartimento francese)
+Moses	Mosè
+Moshe Dayan	Moshe Dayan
+Mosque	Moschea
+Mosquito	Culicidae
+Moss	Bryophyta
+Mossad	Mossad
+Mosul	Mossul
+Motet	Mottetto
+Mother	Madre
+Mother Teresa	Madre Teresa di Calcutta
+Mother's Day	Festa della mamma
+Motion (physics)	Moto (fisica)
+Motorcycle	Motocicletta
+Motto	Motto
+Mount Ararat	Ararat
+Mount Athos	Repubblica del Monte Athos
+Mount Etna	Etna
+Mount Everest	Everest
+Mount Fuji	Monte Fuji
+Mount Kilimanjaro	Kilimanjaro
+Mount McKinley	McKinley
+Mount Olympus	Olimpo (Grecia)
+Mount Pinatubo	Pinatubo
+Mount Rushmore	Monte Rushmore
+Mount St. Helens	Monte Sant'Elena
+Mount Vesuvius	Vesuvio
+Mountain	Montagna
+Mountain bike	Mountain bike
+Mountain pass	Passo di montagna
+Mountain range	Catena montuosa
+Mouse (computing)	Mouse
+Mozambique	Mozambico
+Mozambique	Categoria:Mozambico
+Mu (letter)	Mi (lettera)
+Muezzin	Muezzin
+Muhammad	Maometto
+Muhammad Ali	Muhammad Ali
+Mulberry	Morus (botanica)
+Mule	Mulo
+Multimedia	Multimedialità
+Multiple sclerosis	Sclerosi multipla
+Multiplication	Moltiplicazione
+Mumbai	Bombay
+Mummy	Mummia
+Munich	Monaco di Baviera
+Municipality	Comune
+Muon	Muone
+Murmansk	Murmansk
+Murphy's law	Legge di Murphy
+Murray Gell-Mann	Murray Gell-Mann
+Musa (genus)	Banana
+Musca	Mosca (costellazione)
+Muscat	Mascate
+Muscle	Muscolo
+Muse	Muse (mitologia)
+Museum	Museo
+Mushroom	Fungo
+Music	Musica
+Music	Categoria:Musica
+Musical Instrument Digital Interface	Musical Instrument Digital Interface
+Musical instrument	Strumento musicale
+Musical scale	Scala musicale
+Musician	Musicista
+Musicology	Musicologia
+Musket	Moschetto
+Mustelidae	Mustelidae
+Mutation	Mutazione genetica
+Mute Swan	Cygnus olor
+Myanmar	Categoria:Birmania
+Mycenae	Micene
+Mycology	Micologia
+Mycology	Categoria:Micologia
+Myocardial infarction	Infarto miocardico acuto
+Myopia	Miopia
+Myriapoda	Myriapoda
+Mysticism	Mistica
+Myth	Mito
+Mythology	Mitologia
+Mythology	Categoria:Mitologia
+N	N
+N'Djamena	N'Djamena
+NASDAQ	NASDAQ
+NATO	Organizzazione del Trattato Nord Atlantico
+NATO	Categoria:NATO
+Nadine Gordimer	Nadine Gordimer
+Nadir	Nadir (astronomia)
+Nagasaki	Nagasaki
+Nagoya	Nagoya
+Nahuatl	Lingua nahuatl
+Nail (anatomy)	Unghia
+Nail (fastener)	Chiodo
+Nairobi	Nairobi
+Namib Desert	Deserto del Namib
+Namibia	Namibia
+Namibia	Categoria:Namibia
+Namur (city)	Namur
+Nancy	Nancy
+Nanga Parbat	Nanga Parbat
+Nanjing	Nanchino
+Nanotechnology	Nanotecnologia
+Nantes	Nantes
+Napalm	Napalm
+Naples	Napoli
+Napoleonic Wars	Guerre napoleoniche
+Narcissus (mythology)	Narciso (mitologia)
+Nashville	Nashville (Tennessee)
+Nassau	Nassau
+Nathaniel Hawthorne	Nathaniel Hawthorne
+Nation	Nazione
+National Security Agency	National Security Agency
+National anthem	Inno nazionale
+Nationalism	Nazionalismo
+Nationalism	Categoria:Nazionalismo
+Natural gas	Gas naturale
+Natural language processing	Elaborazione del linguaggio naturale
+Natural number	Numero naturale
+Natural science	Scienze naturali
+Natural selection	Selezione naturale
+Nature	Natura
+Naturism	Naturismo
+Nauru	Nauru
+Nauru	Categoria:Nauru
+Nautical mile	Miglio nautico
+Navigation	Categoria:Navigazione
+Navigation	Navigazione
+Navy	Marina militare
+Nazareth	Nazaret
+Nazi Germany	Germania nazista
+Nazi Party	NSDAP
+Nazism	Categoria:Nazismo
+Neanderthal	Homo neanderthalensis
+Nebraska	Nebraska
+Nebraska	Categoria:Nebraska
+Nebuchadrezzar II	Nabucodonosor II
+Nebula	Nebulosa
+Neckar	Neckar
+Necktie	Cravatta
+Nefertiti	Nefertiti
+Negev	Deserto del Negev
+Neil Armstrong	Neil Armstrong
+Nelson Mandela	Nelson Mandela
+Nematode	Nematoda
+Nemean Lion	Leone di Nemea
+Nemesis (mythology)	Nemesi
+Neodymium	Neodimio
+Neolithic	Neolitico
+Neologism	Neologismo
+Neon	Neon
+Neoplatonism	Neoplatonismo
+Nepal	Nepal
+Nepal	Categoria:Nepal
+Nephthys	Nefti
+Neptune	Nettuno (astronomia)
+Neptunium	Nettunio
+Nereid (moon)	Nereide (astronomia)
+Nero	Nerone
+Nerva	Marco Cocceio Nerva
+Nervous system	Sistema nervoso
+Nest	Nido
+Nestorianism	Nestorianesimo
+Netherlands	Paesi Bassi
+Netherlands	Categoria:Paesi Bassi
+Netherlands Antilles	Antille olandesi
+Network topology	Topologia di rete
+Neurology	Neurologia
+Neurology	Categoria:Neurologia
+Neuron	Neurone
+Neurotransmitter	Neurotrasmettitore
+Neutrino	Neutrino
+Neutron	Neutrone
+Neutron star	Stella di neutroni
+Neva River	Neva
+Nevada	Nevada
+Nevada	Categoria:Nevada
+Neville Chamberlain	Neville Chamberlain
+New Brunswick	Nuovo Brunswick
+New Caledonia	Nuova Caledonia
+New Delhi	Nuova Delhi
+New England	New England
+New Guinea	Nuova Guinea
+New Hampshire	New Hampshire
+New Hampshire	Categoria:New Hampshire
+New Jersey	New Jersey
+New Jersey	Categoria:New Jersey
+New Mexico	Nuovo Messico
+New Mexico	Categoria:Nuovo Messico
+New Orleans	New Orleans
+New South Wales	Nuovo Galles del Sud
+New Testament	Nuovo Testamento
+New World	Nuovo Mondo
+New Year	Capodanno
+New York	New York (stato)
+New York	Categoria:Stato di New York
+New York (disambiguation)	New York (disambigua)
+New York City	New York
+New York City	Categoria:New York (città)
+New York Stock Exchange	New York Stock Exchange
+New Zealand	Nuova Zelanda
+New Zealand	Categoria:Nuova Zelanda
+Newark	Newark
+Newfoundland (island)	Terranova
+Newfoundland and Labrador	Terranova e Labrador
+Newport	Newport
+Newton	Newton (unità di misura)
+Niacin	Niacina
+Niagara Falls	Cascate del Niagara
+Niamey	Niamey
+Nicaragua	Nicaragua
+Nicaragua	Categoria:Nicaragua
+Nice	Nizza
+Nicene Creed	Simbolo niceno-costantinopolitano
+Nicholas	Petrović Njegoš
+Nickel	Nichel
+Nicolas Poussin	Nicolas Poussin
+Nicolaus Copernicus	Nicolò Copernico
+Nicosia	Nicosia (Cipro)
+Nicotine	Nicotina
+Niels Bohr	Niels Bohr
+Niels Henrik Abel	Niels Henrik Abel
+Niger	Niger
+Niger	Categoria:Niger
+Niger River	Niger (fiume)
+Nigeria	Nigeria
+Nigeria	Categoria:Nigeria
+Night	Notte (parte del giorno)
+Nightingale	Luscinia megarhynchos
+Nihilism	Nichilismo
+Nijmegen	Nimega
+Nike	Nike, Inc.
+Nike (mythology)	Nike (mitologia)
+Nikita Khrushchev	Nikita Sergeevič Chruščëv
+Nikola Tesla	Nikola Tesla
+Nile	Nilo
+Nile crocodile	Crocodylus niloticus
+Nineveh	Ninive
+Ninja	Ninja
+Niobium	Niobio
+Nirvana	Nirvana (religione)
+Nitric acid	Acido nitrico
+Nitrogen	Azoto
+Nitroglycerin	Nitroglicerina
+Nix (moon)	Notte (astronomia)
+Njord	Njörðr
+Noah	Noè
+Noam Chomsky	Noam Chomsky
+Nobel Prize	Premio Nobel
+Nobel Prize	Categoria:Premio Nobel
+Nobelium	Nobelio
+Nobility	Nobiltà
+Nobility	Categoria:Nobiltà
+Noble gas	Gas nobili
+Nomad	Popoli nomadi
+Nominative case	Nominativo
+Nonmetal	Non metallo
+Norfolk	Norfolk
+Norfolk Island	Isola Norfolk
+Norma (constellation)	Regolo (costellazione)
+Normal distribution	Variabile casuale normale
+Norman Mailer	Norman Mailer
+Normandy	Normandia
+Norn	Norne
+Norse mythology	Mitologia norrena
+Norse mythology	Categoria:Mitologia norrena
+North	Nord
+North Africa	Nordafrica
+North America	America settentrionale
+North America	Categoria:America settentrionale
+North Carolina	Carolina del Nord
+North Carolina	Categoria:Carolina del Nord
+North Dakota	Dakota del Nord
+North Dakota	Categoria:Dakota del Nord
+North Island	Isola del Nord
+North Korea	Corea del Nord
+North Korea	Categoria:Corea del Nord
+North Pole	Polo Nord
+North Sea	Mar del Nord
+North Yorkshire	North Yorkshire
+Northern Europe	Europa settentrionale
+Northern Hemisphere	Emisfero boreale
+Northern Ireland	Irlanda del Nord
+Northern Ireland	Categoria:Irlanda del Nord
+Northern Mariana Islands	Isole Marianne Settentrionali
+Northern Territory	Territorio del Nord
+Northern pike	Esox lucius
+Northwest Territories	Territori del Nord-Ovest
+Norway	Norvegia
+Norway	Categoria:Norvegia
+Norwegian Sea	Mare di Norvegia
+Norwegian krone	Corona norvegese
+Nose	Naso
+Nostradamus	Nostradamus
+Note	Nota musicale
+Nouakchott	Nouakchott
+Noun	Sostantivo
+Nova Scotia	Nuova Scozia
+Novaya Zemlya	Novaja Zemlja
+Novel	Romanzo
+November	Novembre
+November 1	1º novembre
+November 11	11 novembre
+November 2	2 novembre
+November 5	5 novembre
+Novial	Novial
+Novosibirsk	Novosibirsk
+Nu (letter)	Ni (lettera)
+Nuclear fission	Fissione nucleare
+Nuclear fusion	Fusione nucleare
+Nuclear physics	Fisica nucleare e subnucleare
+Nuclear power	Energia nucleare
+Nuclear weapon	Arma nucleare
+Nucleic acid	Acido nucleico
+Nucleon	Nucleone
+Nucleotide	Nucleotide
+Number	Numero
+Numbers	Categoria:Numeri
+Numidia	Numidia
+Numismatics	Numismatica
+Numismatics	Categoria:Numismatica
+Nunavut	Nunavut
+Nuremberg	Norimberga
+Nut (fruit)	Frutta secca
+Nutmeg	Noce moscata
+Nymph	Ninfa (mitologia)
+Nymphaeaceae	Nymphaeaceae
+Nyx (mythology)	Notte (mitologia)
+O	O
+OPEC	Organizzazione dei Paesi Esportatori di Petrolio
+Oahu	Oahu
+Oak	Quercus
+Oakland	Oakland (California)
+Oasis	Oasi
+Oat	Avena sativa
+Oaxaca	Oaxaca (stato)
+Ob River	Ob' (fiume)
+Obelisk	Obelisco
+Obesity	Obesità
+Object-oriented programming	Programmazione orientata agli oggetti
+Oboe	Oboe
+Observatory	Osservatorio astronomico
+Obsidian	Ossidiana
+Occam's razor	Rasoio di Occam
+Ocean	Oceano
+Ocean current	Corrente oceanica
+Oceania	Oceania
+Oceania	Categoria:Oceania
+Oceanid	Oceanine
+Oceanography	Oceanografia
+Oceanography	Categoria:Oceanografia
+Oceanus	Oceano (mitologia)
+Octal	Sistema numerico ottale
+Octans	Ottante (costellazione)
+Octave	Ottava (musica)
+October	Ottobre
+October 12	12 ottobre
+October 24	24 ottobre
+October Revolution	Rivoluzione d'ottobre
+Ode	Ode
+Oder River	Oder
+Odessa	Odessa
+Odin	Odino
+Odonata	Odonata
+Odysseus	Ulisse
+Odyssey	Odissea
+Oedipus	Edipo (mitologia)
+Offside (football)	Fuorigioco
+Ohio	Ohio
+Ohio	Categoria:Ohio
+Ohm	Ohm
+Ohm's law	Legge di Ohm
+Oil	Olio
+Oil (disambiguation)	Olio
+Oil painting	Pittura ad olio
+Okapi	Okapia johnstoni
+Oklahoma	Oklahoma
+Oklahoma	Categoria:Oklahoma
+Oklahoma City	Oklahoma City
+Oktoberfest	Oktoberfest
+Old Church Slavonic	Antico slavo ecclesiastico
+Old Norse	Lingua norrena
+Old Testament	Antico Testamento
+Oligarchy	Oligarchia
+Oligocene	Oligocene
+Oligopoly	Oligopolio
+Olive	Olea europaea
+Olive oil	Olio di oliva
+Oliver Cromwell	Oliver Cromwell
+Oliver Stone	Oliver Stone
+Olivine	Olivina
+Olympia	Olympia (Washington)
+Olympia	Olimpia
+Olympic Games	Giochi Olimpici
+Olympics	Categoria:Olimpiadi
+Omaha	Omaha (Nebraska)
+Oman	Oman
+Oman	Categoria:Oman
+Omega	Omega (lettera)
+Omicron	Omicron (lettera)
+Omsk	Omsk
+Oncology	Categoria:Oncologia
+Onion	Allium cepa
+Onomastics	Onomastica
+Ontario	Ontario
+Ontario	Categoria:Ontario
+Ontology	Ontologia
+Oort cloud	Nube di Oort
+Opal	Opale
+Opel	Opel
+Opera	Opera
+Opera (Internet suite)	Opera (browser)
+Operating system	Sistema operativo
+Operetta	Operetta
+Ophiuchus	Ofiuco (costellazione)
+Opium	Oppio
+Optical fiber	Fibra ottica
+Optical illusion	Illusione ottica
+Optics	Ottica
+Optics	Categoria:Ottica
+Optimization (mathematics)	Ottimizzazione (matematica)
+Oral sex	Sesso orale
+Orange (colour)	Arancione
+Orange (fruit)	Citrus × sinensis
+Orangutan	Pongo (zoologia)
+Oratorio	Oratorio (musica)
+Orbit	Orbita
+Orca	Orcinus orca
+Orchestra	Orchestra
+Orchidaceae	Orchidaceae
+Order (biology)	Ordine (tassonomia)
+Order of Saint Benedict	Ordine di San Benedetto
+Ordovician	Ordoviciano
+Oregano	Origanum vulgare
+Oregon	Oregon
+Oregon	Categoria:Oregon
+Orestes (mythology)	Oreste (mitologia)
+Organ (anatomy)	Organo (anatomia)
+Organ (music)	Organo (musica)
+Organelle	Organulo
+Organic chemistry	Chimica organica
+Organic chemistry	Categoria:Chimica organica
+Organic compound	Composto organico
+Organism	Organismo vivente
+Organization	Organizzazione
+Organization of American States	Organizzazione degli Stati Americani
+Orgasm	Orgasmo
+Origami	Origami
+Origen	Origene Adamantio
+Original sin	Peccato originale
+Orinoco	Orinoco
+Orion (constellation)	Orione (costellazione)
+Orissa	Orissa
+Orlando	Orlando (Florida)
+Ornithology	Ornitologia
+Orpheus	Orfeo
+Orson Welles	Orson Welles
+Orthography	Ortografia
+Osaka	Ōsaka
+Osama bin Laden	Osama bin Laden
+Oscar Wilde	Oscar Wilde
+Oscillation	Oscillazione
+Osiris	Osiride
+Oslo	Oslo
+Osman I	Osman I
+Osmium	Osmio
+Osprey	Pandion haliaetus
+Osteichthyes	Osteichdsethyes
+Osteoporosis	Osteoporosi
+Ostrava	Ostrava
+Ostrich	Struthio camelus
+Othello	Otello
+Otho	Otone
+Ottawa	Ottawa
+Otto Hahn	Otto Hahn
+Otto I	Ottone I del Sacro Romano Impero
+Otto von Bismarck	Otto von Bismarck
+Ottoman Empire	Impero ottomano
+Ottoman Empire	Categoria:Impero ottomano
+Ounce	Oncia (unità di misura)
+Ovary	Ovaia
+Ovid	Publio Ovidio Nasone
+Oviedo	Oviedo
+Ovis	Ovis
+Owl	Strigiformes
+Oxford	Oxford
+Oxidation state	Stato di ossidazione
+Oxide	Ossido
+Oxygen	Ossigeno
+Oxymoron	Ossimoro
+Oxytocin	Ossitocina
+Ozone	Ozono
+Ozone layer	Ozonosfera
+P	P
+PAL	Phase alternating line
+PH	PH
+Pablo Neruda	Pablo Neruda
+Pablo Picasso	Pablo Picasso
+Pacific Ocean	Oceano Pacifico
+Pacifism	Pacifismo
+Padua	Padova
+Paganism	Paganesimo
+Painting	Categoria:Pittura
+Pakistan	Pakistan
+Pakistan	Categoria:Pakistan
+Palace of Versailles	Reggia di Versailles
+Palau	Palau (stato)
+Palau	Categoria:Palau
+Paleocene	Paleocene
+Paleolithic	Paleolitico
+Paleontology	Paleontologia
+Paleontology	Categoria:Paleontologia
+Paleozoic	Paleozoico
+Palermo	Palermo
+Palestine	Palestina
+Palestine	Categoria:Palestina
+Palestine Liberation Organization	Organizzazione per la Liberazione della Palestina
+Palestinian National Authority	Autorità Nazionale Palestinese
+Pali	Lingua pali
+Palindrome	Palindromo
+Palladium	Palladio (elemento)
+Palm Sunday	Domenica delle Palme
+Palmyra	Palmira
+Pamir Mountains	Pamir
+Pan (mythology)	Pan
+Panama	Panamá
+Panama	Categoria:Panamá
+Panama Canal	Canale di Panama
+Panama City	Panamá (città)
+Pancreas	Pancreas
+Pandemic	Pandemia
+Pandora	Pandora
+Pangaea	Pangea
+Pantheism	Panteismo
+Pantheon	Pantheon (Roma)
+Panthera	Panthera
+Papal States	Stato Pontificio
+Papua New Guinea	Papua Nuova Guinea
+Papua New Guinea	Categoria:Papua Nuova Guinea
+Papyrus	Papiro
+Parabola	Parabola (geometria)
+Paracelsus	Paracelso
+Parachute	Paracadute
+Paradigm	Paradigma
+Paradox	Paradosso
+Paragliding	Parapendio
+Paraguay	Paraguay
+Paraguay	Categoria:Paraguay
+Parallax	Parallasse
+Parallelogram	Parallelogramma
+Paramaribo	Paramaribo
+Paranoia	Paranoia
+Paraphilia	Parafilia
+Parapsychology	Parapsicologia
+Parasitism	Parassitismo
+Parchment	Pergamena
+Paris	Parigi
+Paris	Categoria:Parigi
+Paris (mythology)	Paride
+Parity (mathematics)	Numeri pari e dispari
+Parkinson's disease	Morbo di Parkinson
+Parliament	Parlamento
+Parmenides	Parmenide di Elea
+Parody	Parodia
+Parrot	Psittaciformes
+Parsec	Parsec
+Parsley	Petroselinum crispum
+Parthenon	Partenone
+Parthia	Parti
+Particle physics	Fisica delle particelle
+Particle physics	Categoria:Fisica delle particelle
+Parvati	Parvati
+Pascal	Pascal
+Pascal (programming language)	Pascal (linguaggio)
+Pascal (unit)	Pascal (unità di misura)
+Passerine	Passeriformes
+Passover	Pesach
+Passport	Passaporto
+Password	Password
+Pasteurization	Pastorizzazione
+Patagonia	Patagonia
+Patent	Brevetto
+Pathology	Patologia
+Patras	Patrasso
+Patriarch	Patriarca (cristianesimo)
+Patrick White	Patrick White
+Patriotism	Patriottismo
+Paul Gauguin	Paul Gauguin
+Paul Johann Ludwig von Heyse	Paul Johann Ludwig Heyse
+Paul Klee	Paul Klee
+Paul McCartney	Paul McCartney
+Paul Newman	Paul Newman
+Paul Verlaine	Paul Verlaine
+Paul the Apostle	Paolo di Tarso
+Paul von Hindenburg	Paul von Hindenburg
+Pauli exclusion principle	Principio di esclusione di Pauli
+Pavo (constellation)	Pavone (costellazione)
+Pawn (chess)	Pedone (scacchi)
+Pays de la Loire	Loira (regione francese)
+Pea	Pisum sativum
+Peace	Pace
+Peace of Westphalia	Pace di Westfalia
+Peach	Prunus persica
+Peanut	Arachis hypogaea
+Pear	Pera
+Pearl	Perla
+Pearl Harbor	Pearl Harbor
+Peat	Torba
+Pedagogy	Pedagogia
+Pedagogy	Categoria:Pedagogia
+Pediatrics	Pediatria
+Pedophilia	Pedofilia
+Pedunculate Oak	Quercus robur
+Pegasus	Pegaso (mitologia)
+Pegasus (constellation)	Pegaso (costellazione)
+Peloponnese	Peloponneso
+Peloponnesian War	Guerra del Peloponneso
+Pencil	Matita
+Pendulum	Pendolo
+Penelope	Penelope (mitologia)
+Penguin	Pinguino
+Penicillin	Penicillina
+Peninsula	Penisola
+Pennsylvania	Pennsylvania
+Pennsylvania	Categoria:Pennsylvania
+Pentagon	Pentagono (geometria)
+Pentagram	Pentagramma (geometria)
+Pentecost	Pentecoste
+Pentecostalism	Pentecostalismo
+People	Categoria:Persone
+People's Republic of China	Cina
+Pepin the Short	Pipino il Breve
+Pepsi	Pepsi Cola
+Peptide	Peptide
+Percentage	Percentuale
+Perception	Percezione
+Perciformes	Perciformes
+Percussion instrument	Strumento a percussione
+Percy Bysshe Shelley	Percy Bysshe Shelley
+Peregrine Falcon	Falco peregrinus
+Perestroika	Perestrojka
+Perfume	Profumo
+Pericles	Pericle
+Period (periodic table)	Periodo della tavola periodica
+Periodic table	Tavola periodica
+Perm	Perm'
+Permafrost	Permafrost
+Permian	Permiano (geologia)
+Permutation	Permutazione
+Pernambuco	Pernambuco
+Perpetual motion	Moto perpetuo
+Persephone	Persefone
+Persepolis	Persepoli
+Perseus	Perseo (mitologia)
+Perseus (constellation)	Perseo (costellazione)
+Persian Empire	Persia
+Persian Gulf	Golfo Persico
+Personal digital assistant	Palmare
+Perth	Perth
+Peru	Perù
+Peru	Categoria:Perù
+Pesticide	Pesticida
+Peter Abelard	Pietro Abelardo
+Peter Paul Rubens	Pieter Paul Rubens
+Peter Sellers	Peter Sellers
+Petrarch	Francesco Petrarca
+Petroleum	Petrolio
+Petrology	Petrologia
+Phanerozoic	Fanerozoico
+Pharaoh	Faraone
+Pharmacology	Farmacologia
+Pharynx	Faringe
+Phase (matter)	Fase (chimica)
+Phenol	Fenolo
+Phenomenology	Fenomenologia
+Phenotype	Fenotipo
+Phenylalanine	Fenilalanina
+Phenylketonuria	Fenilchetonuria
+Phi (letter)	Phi (lettera)
+Philadelphia	Filadelfia (Pennsylvania)
+Philately	Filatelia
+Philately	Categoria:Filatelia
+Philip II of Macedon	Filippo II di Macedonia
+Philip II of Spain	Filippo II di Spagna
+Philipp Lenard	Philipp von Lenard
+Philippine Sea	Mare delle Filippine
+Philippines	Filippine
+Philippines	Categoria:Filippine
+Philology	Filologia
+Philology	Categoria:Filologia
+Philosopher's stone	Pietra filosofale
+Philosophy	Filosofia
+Philosophy	Categoria:Filosofia
+Philosophy	Portale:Filosofia
+Phnom Penh	Phnom Penh
+Phobia	Fobia
+Phobos (moon)	Fobos (astronomia)
+Phoenicia	Fenici
+Phoenix	Phoenix (Arizona)
+Phoenix	Phoenix
+Phoenix (constellation)	Fenice (costellazione)
+Phoenix (mythology)	Fenice
+Phoenix (spacecraft)	Phoenix Mars Lander
+Phoneme	Fonema
+Phonetics	Fonetica
+Phonetics	Categoria:Fonetica
+Phonology	Fonologia
+Phosphate	Gruppo fosfato
+Phosphoric acid	Acido fosforico
+Phosphorus	Fosforo
+Photography	Fotografia
+Photography	Categoria:Fotografia
+Photon	Fotone
+Photosphere	Fotosfera
+Photosynthesis	Fotosintesi clorofilliana
+Phylum	Phylum
+Physical chemistry	Chimica fisica
+Physical chemistry	Categoria:Chimica fisica
+Physician	Medico
+Physics	Fisica
+Physics	Categoria:Fisica
+Physics	Portale:Fisica
+Physiology	Fisiologia
+Physiology	Categoria:Fisiologia
+Pi	Pi greco
+Pi (letter)	Pi (lettera greca)
+Piano	Pianoforte
+Picardie	Piccardia
+Piciformes	Piciformes
+Pictor	Pittore (costellazione)
+Pidgin	Pidgin
+Pidgin (software)	Pidgin (software)
+Piedmont	Piemonte
+Pierre	Pierre (Dakota del Sud)
+Pierre Curie	Pierre Curie
+Pierre de Fermat	Pierre de Fermat
+Piet Mondrian	Piet Mondrian
+Pieter Zeeman	Pieter Zeeman
+Pigment	Pigmento
+Pilsen	Plzeň
+Pinaceae	Pinaceae
+Pindar	Pindaro
+Pine	Pinus
+Pineapple	Ananas comosus
+Ping	Ping
+Pink	Rosa (colore)
+Pinniped	Pinnipedia
+Piracy	Pirateria
+Pisa	Pisa'
+Pisces (constellation)	Pesci (costellazione)
+Piston	Pistone (meccanica)
+Pittsburgh	Pittsburgh
+Pituitary gland	Ipofisi
+Pixel	Pixel
+Pizza	Pizza
+Plagiarism	Plagio (diritto)
+Plane (mathematics)	Piano (geometria)
+Planet	Pianeta
+Planetary nebula	Nebulosa planetaria
+Plankton	Plancton
+Plant	Plantae
+Plasma (physics)	Fisica del plasma
+Plasmid	Plasmide
+Plastic	Materie plastiche
+Plastid	Plastidio
+Plate tectonics	Tettonica a zolle
+Platelet	Piastrina
+Platinum	Platino
+Plato	Platone
+Platypus	Ornithorhynchus anatinus
+Playboy	Playboy
+Playing card	Carta da gioco
+Pleiades (star cluster)	Pleiadi (astronomia)
+Pleistocene	Pleistocene
+Pleven	Pleven
+Pliny the Elder	Gaio Plinio Secondo
+Pliny the Younger	Gaio Plinio Cecilio Secondo
+Pliocene	Pliocene
+Plotinus	Plotino
+Plovdiv	Plovdiv
+Plum	Prunus domestica
+Plutarch	Plutarco
+Pluto	Plutone (astronomia)
+Pluto (disambiguation)	Pluto
+Plutonium	Plutonio
+Plymouth	Plymouth (Regno Unito)
+Pneumonia	Polmonite
+Po River	Po
+Poaceae	Poaceae
+Podcast	Podcasting
+Poetry	Poesia
+Poetry	Categoria:Poesia
+Pogrom	Pogrom
+Point (geometry)	Punto (geometria)
+Poison	Veleno
+Poitiers	Poitiers
+Poitou-Charentes	Poitou-Charentes
+Poker	Poker
+Poland	Polonia
+Poland	Categoria:Polonia
+Polar bear	Ursus maritimus
+Polaris	Stella Polare
+Police	Polizia
+Poliomyelitis	Poliomielite
+Political party	Partito politico
+Political science	Scienze politiche
+Political science	Categoria:Scienze politiche
+Politician	Politico
+Politics	Politica
+Politics	Categoria:Politica
+Pollen	Polline
+Pollination	Impollinazione
+Pollution	Inquinamento
+Polo	Polo (sport)
+Polonium	Polonio
+Polyethylene	Polietilene
+Polygamy	Poligamia
+Polygon	Poligono
+Polyhedron	Poliedro
+Polyhymnia	Polimnia
+Polymer	Polimero
+Polynesia	Polinesia
+Polynomial	Polinomio
+Polytheism	Politeismo
+Polyvinyl chloride	Cloruro di polivinile
+Pomegranate	Punica
+Pomelo	Citrus maxima
+Pompeii	Scavi archeologici di Pompei
+Pompey	Gneo Pompeo Magno
+Pontius Pilate	Ponzio Pilato
+Pop art	Pop art
+Pop music	Musica pop
+Pope	Papa
+Pope Alexander VI	Papa Alessandro VI
+Poplar	Populus
+Population	Popolazione
+Populism	Populismo
+Porcelain	Porcellana
+Pornography	Pornografia
+Port	Porto (struttura)
+Port Louis	Port Louis
+Port Moresby	Port Moresby
+Port Vila	Port Vila
+Port of Spain	Port of Spain
+Port-au-Prince	Port-au-Prince
+Portland	Portland (Oregon)
+Portland	Portland
+Porto	Oporto
+Portrait	Ritratto
+Portsmouth	Portsmouth
+Portugal	Portogallo
+Portugal	Categoria:Portogallo
+Poseidon	Poseidone
+Positron	Positrone
+Postage stamp	Francobollo
+Postal code	Codice postale
+Postmodernism	Postmodernismo
+Potassium	Potassio
+Potassium nitrate	Nitrato di potassio
+Potato	Solanum tuberosum
+Potential energy	Energia potenziale
+Potsdam	Potsdam
+Pound (mass)	Libbra (unità di massa)
+Pound sterling	Sterlina britannica
+Poverty	Povertà
+Power (physics)	Potenza (fisica)
+Power station	Centrale elettrica
+Praetor	Pretore (storia romana)
+Prague	Praga
+Prague	Categoria:Praga
+Praia	Praia
+Praseodymium	Praseodimio
+Prayer	Preghiera
+Precambrian	Precambriano
+Precession	Precessione
+Precipitation (meteorology)	Precipitazione (meteorologia)
+Pregnancy	Gravidanza
+Prehistory	Preistoria
+Prehistory	Categoria:Preistoria
+President	Presidente
+President of the United States	Presidente degli Stati Uniti
+Pressure	Pressione
+Pretoria	Pretoria
+Priam	Priamo
+Price	Prezzo
+Priest	Sacerdote
+Primate	Primates
+Primates	Categoria:Primati
+Prime Meridian	Meridiano di Greenwich
+Prime minister	Primo ministro
+Prime number	Numero primo
+Prince Edward Island	Isola del Principe Edoardo
+Prince Philip	Principe Filippo, duca di Edimburgo
+Prince of Wales	Principe del Galles
+Princeton University	Università di Princeton
+Principle of relativity	Principio di relatività
+Printing	Stampa
+Prion	Prione
+Prism (geometry)	Prisma
+Prison	Prigione
+Prisoner of war	Prigioniero di guerra
+Prix Goncourt	Premio Goncourt
+Probability	Probabilità
+Probability theory	Teoria della probabilità
+Procyonidae	Procyonidae
+Professor	Professore
+Profit	Profitto
+Programmer	Programmatore
+Programming language	Linguaggio di programmazione
+Progressive rock	Rock progressivo
+Project	Progetto
+Prokaryote	Prokaryota
+Prolog	Prolog
+Prometheus	Prometeo (mitologia)
+Promethium	Promezio
+Pronoun	Pronome
+Propaganda	Propaganda
+Propane	Propano
+Prophet	Profeta
+Prose	Prosa
+Prostate	Prostata
+Protactinium	Protoattinio
+Protectorate	Protettorato
+Protein	Proteina
+Proterozoic	Proterozoico
+Protestant Reformation	Riforma protestante
+Protestantism	Protestantesimo
+Protist	Protista
+Protocol	Protocollo
+Proton	Protone
+Protozoa	Protozoa
+Providence	Providence (Rhode Island)
+Proxima Centauri	Proxima Centauri
+Prunus	Prunus
+Prussia	Prussia
+Psalms	Salmi
+Pseudonym	Pseudonimo
+Pseudoscience	Categoria:Pseudoscienza
+Pseudoscience	Pseudoscienza
+Psi (letter)	Psi (lettera)
+Psoriasis	Psoriasi
+Psychiatry	Psichiatria
+Psychiatry	Categoria:Psichiatria
+Psychoanalysis	Psicoanalisi
+Psychology	Psicologia
+Psychology	Categoria:Psicologia
+Psychosis	Psicosi
+Psychotherapy	Psicoterapia
+Ptah	Ptah
+Pterosaur	Pterosauria
+Ptolemaic dynasty	Dinastia tolemaica
+Ptolemy	Claudio Tolomeo
+Puberty	Pubertà
+Public domain	Pubblico dominio
+Public relations	Pubbliche relazioni
+Puerto Rico	Porto Rico
+Puerto Rico	Categoria:Porto Rico
+Pula	Pola
+Pulley	Carrucola
+Pulsar	Pulsar
+Pump	Pompa
+Punctuation	Punteggiatura
+Punjab (India)	Punjab
+Punk	Categoria:Punk
+Punk rock	Punk rock
+Pupil	Pupilla (anatomia)
+Puppis	Poppa (costellazione)
+Pyongyang	Pyongyang
+Pyramid	Piramide
+Pyramid (geometry)	Piramide#Geometria
+Pyrenees	Pirenei
+Pyrite	Pirite
+Pyrrhic victory	Vittoria di Pirro
+Pythagoras	Pitagora
+Python (programming language)	Python
+Pyxis	Bussola (costellazione)
+Q	Q
+Qatar	Qatar
+Qatar	Categoria:Qatar
+Qin Dynasty	Dinastia Qin
+Qing Dynasty	Dinastia Qing
+Quadratic equation	Equazione di secondo grado
+Quadrilateral	Quadrilatero
+Quaestor	Questore (storia romana)
+Quantum field theory	Teoria quantistica dei campi
+Quantum mechanics	Meccanica quantistica
+Quantum mechanics	Categoria:Meccanica quantistica
+Quarantine	Quarantena
+Quark	Quark (particella)
+Quartz	Quarzo
+Quasar	Quasar
+Quaternary	Quaternario (geologia)
+Quaternion	Quaternione
+Quebec	Québec (provincia)
+Quebec	Categoria:Québec
+Quebec City	Québec (città)
+Quechua	Lingua quechua
+Queen (chess)	Donna (scacchi)
+Queens	Queens
+Queensland	Queensland
+Quentin Tarantino	Quentin Tarantino
+Question mark	Punto interrogativo
+Quetzalcoatl	Quetzalcoatl
+Quince	Cydonia oblonga
+Quito	Quito
+R	R
+RAF (disambiguation)	RAF
+RAID	RAID
+RNA	RNA
+Ra	Ra
+Rabat	Rabat
+Rabbi	Rabbino
+Rabindranath Tagore	Rabindranath Tagore
+Raccoon Dog	Nyctereutes procyonoides
+Race	Razza
+Rachel Carson	Rachel Carson
+Racism	Razzismo
+Racism	Categoria:Razzismo
+Radar	Radar
+Radian	Radiante
+Radio	Categoria:Radio
+Radio telescope	Radiotelescopio
+Radioactive decay	Radioattività
+Radiocarbon dating	Metodo del carbonio-14
+Radiology	Radiologia
+Radium	Radio (elemento)
+Radius	Raggio (geometria)
+Radon	Radon
+Rain	Pioggia
+Rainbow	Arcobaleno
+Rainer Maria Rilke	Rainer Maria Rilke
+Raleigh	Raleigh (Carolina del Nord)
+Ralph Waldo Emerson	Ralph Waldo Emerson
+Rama	Rama
+Ramadan	Ramadan
+Ramayana	Ramayana
+Ramesses II	Ramesse II
+Random access memory	Random access memory
+Ranunculaceae	Ranunculaceae
+Rape	Stupro
+Rapeseed	Brassica napus
+Raphael	Raffaello Sanzio
+Raphael (archangel)	Arcangelo Raffaele
+Rapid transit	Categoria:Metropolitane
+Raspberry	Rubus idaeus
+Rat	Rattus
+Rational number	Numero razionale
+Ratite	Struthioniformes
+Ravenna	Ravenna
+Rawalpindi	Rawalpindi
+Ray Bradbury	Ray Bradbury
+Read-only memory	Read only memory
+Real number	Numero reale
+Recession	Recessione
+Recife	Recife
+Rectangle	Rettangolo
+Rectifier	Raddrizzatore
+Recursion	Algoritmo ricorsivo
+Recycling	Riciclaggio dei rifiuti
+Red	Rosso
+Red Army Faction	Rote Armee Fraktion
+Red Deer	Cervus elaphus
+Red Fox	Vulpes vulpes
+Red Panda	Ailurus fulgens
+Red Sea	Mar Rosso
+Red algae	Rhodophyta
+Red blood cell	Globulo rosso
+Red dwarf	Nana rossa
+Red giant	Gigante rossa
+Redshift	Spostamento verso il rosso
+Redshift (disambiguation)	Spostamento verso il rosso
+Reduced instruction set computer	RISC
+Referendum	Referendum
+Refraction	Rifrazione
+Refractive index	Indice di rifrazione
+Refugee	Rifugiato
+Regent	Reggente
+Reggae	Reggae
+Regiment	Reggimento
+Regina	Regina (Canada)
+Region	Regione (geografia)
+Reims	Reims
+Reincarnation	Reincarnazione
+Reindeer	Rangifer tarandus
+Relation (mathematics)	Relazione (matematica)
+Relativism	Relativismo
+Relativity	Categoria:Teorie relativistiche
+Relay	Relè
+Religion	Religione
+Religion	Categoria:Religione
+Religious Society of Friends	Quaccherismo
+Rembrandt	Rembrandt Harmenszoon van Rijn
+Renaissance	Rinascimento
+Renaissance	Categoria:Rinascimento
+Reproduction	Riproduzione
+Reptile	Reptilia
+Republic	Repubblica
+Republic of China	Repubblica di Cina
+Republic of Ireland	Irlanda
+Republic of Ireland	Categoria:Repubblica d'Irlanda
+Republic of the Congo	Repubblica del Congo
+Republic of the Congo	Categoria:Repubblica del Congo
+Republican Party (United States)	Partito Repubblicano (Stati Uniti)
+Requiem	Requiem
+Resistor	Resistore
+Respiratory system	Apparato respiratorio
+Restaurant	Ristorante
+Reticulum	Reticolo (costellazione)
+Retina	Retina
+Retinol	Retinolo
+Revolution	Rivoluzione (politica)
+Revolver	Rivoltella
+Rhea (moon)	Rea (astronomia)
+Rhea (mythology)	Rea (mitologia)
+Rhenium	Renio
+Rhetoric	Retorica
+Rhetoric	Categoria:Retorica
+Rhine	Reno (Germania)
+Rhinoceros	Rhinocerotidae
+Rho (letter)	Rho (lettera)
+Rhode Island	Rhode Island
+Rhode Island	Categoria:Rhode Island
+Rhodes	Rodi
+Rhodium	Rodio
+Rhombus	Rombo (geometria)
+Rhyme	Rima (linguistica)
+Rhythm	Ritmo (musica)
+Rhythm and blues	Rhythm and blues
+Rib	Costola
+Riboflavin	Riboflavina
+Ribosome	Ribosoma
+Rice	Oryza sativa
+Richard Feynman	Richard Feynman
+Richard Nixon	Richard Nixon
+Richard Strauss	Richard Strauss
+Richard Wagner	Richard Wagner
+Richard Wright (musician)	Richard Wright (musicista)
+Richmond	Richmond (Virginia)
+Riga	Riga (Lettonia)
+Rigel	Rigel
+Right ascension	Ascensione Retta
+Ring (mathematics)	Anello (algebra)
+Ringo Starr	Ringo Starr
+Rio Grande	Rio Grande (fiume - Stati Uniti)
+Rio de Janeiro	Rio de Janeiro
+Rio de Janeiro (state)	Rio de Janeiro (stato)
+River	Fiume
+River Thames	Tamigi
+Riyadh	Riyad
+Road	Strada
+Roald Amundsen	Roald Amundsen
+Robert A. Heinlein	Robert Anson Heinlein
+Robert Andrews Millikan	Robert Millikan
+Robert Boyle	Robert Boyle
+Robert Burns	Robert Burns
+Robert De Niro	Robert De Niro
+Robert E. Lee	Robert Edward Lee
+Robert Falcon Scott	Robert Falcon Scott
+Robert Hooke	Robert Hooke
+Robert Koch	Robert Koch
+Robert Louis Stevenson	Robert Louis Stevenson
+Robert Oppenheimer	Robert Oppenheimer
+Robert Owen	Robert Owen
+Robert Redford	Robert Redford
+Robert Schumann	Robert Schumann
+Robin Hood	Robin Hood
+Robot	Robot
+Rock	Morra cinese
+Rock (geology)	Roccia
+Rock and roll	Rock and roll
+Rock music	Rock
+Rock music	Categoria:Generi musicali rock
+Rocket	Razzo
+Rocky Mountains	Montagne Rocciose
+Rococo	Rococò
+Rodent	Rodentia
+Roe Deer	Capreolus capreolus
+Roentgenium	Roentgenio
+Roger Bacon	Ruggero Bacone
+Roman Catholic Church	Chiesa cattolica
+Roman Empire	Impero romano
+Roman Republic	Repubblica Romana
+Roman calendar	Calendario romano
+Roman law	Diritto romano
+Roman legion	Legione romana
+Roman mythology	Mitologia romana
+Roman mythology	Categoria:Mitologia romana
+Romania	Romania
+Romania	Categoria:Romania
+Romansh	Lingua romancia
+Romanticism	Romanticismo
+Rome	Roma
+Rome	Categoria:Roma
+Ronald Reagan	Ronald Reagan
+Roof	Tetto
+Rook (bird)	Corvus frugilegus
+Rook (chess)	Torre (scacchi)
+Roosevelt	Roosevelt
+Root	Radice (botanica)
+Rosa Parks	Rosa Parks
+Rosaceae	Rosaceae
+Rosales	Rosales
+Rosario	Rosario (Argentina)
+Rosary	Rosario
+Rose	Rosa (botanica)
+Roseau	Roseau
+Rosemary	Rosmarinus officinalis
+Rosetta Stone	Stele di Rosetta
+Rosh Hashanah	Rosh haShana
+Ross Sea	Mare di Ross
+Rostock	Rostock
+Rotifer	Rotifera
+Rotterdam	Rotterdam
+Router	Router
+Rowing (sport)	Canottaggio
+Royal Air Force	Royal Air Force
+Royal Society	Royal Society
+Rubber	Gomma (materiale)
+Rubicon	Rubicone
+Rubidium	Rubidio
+Ruble	Rublo
+Rubus idaeus	Rubus idaeus
+Ruby	Rubino
+Ruby (programming language)	Ruby
+Rudolf Diesel	Rudolf Diesel
+Rudolf Hess	Rudolf Heß
+Rudolf Steiner	Rudolf Steiner
+Rudyard Kipling	Rudyard Kipling
+Rugby football	Rugby (sport)
+Rupert Murdoch	Rupert Murdoch
+Russia	Russia
+Russia	Categoria:Russia
+Russian Orthodox Church	Chiesa ortodossa russa
+Russian Revolution (1917)	Rivoluzione russa
+Russo-Japanese War	Guerra russo-giapponese
+Ruthenium	Rutenio
+Rutherford B. Hayes	Rutherford B. Hayes
+Rutherfordium	Rutherfordio
+Rwanda	Ruanda
+Rwanda	Categoria:Ruanda
+Rye	Secale cereale
+S	S
+SOAP	SOAP
+SOS	SOS
+Sacrament	Sacramento
+Sacramento	Sacramento (California)
+Saddam Hussein	Saddam Hussein
+Safari (web browser)	Safari (browser)
+Saffron	Crocus sativus
+Sagitta	Freccia (costellazione)
+Sagittarius (constellation)	Sagittario (costellazione)
+Sahara	Deserto del Sahara
+Sail	Vela (sistema di propulsione)
+Saint	Santo
+Saint Andrew	Andrea apostolo
+Saint George	San Giorgio
+Saint Kitts and Nevis	Saint Kitts e Nevis
+Saint Kitts and Nevis	Categoria:Saint Kitts e Nevis
+Saint Lawrence River	San Lorenzo (fiume)
+Saint Lucia	Santa Lucia (stato)
+Saint Lucia	Categoria:Santa Lucia
+Saint Martin	Saint-Martin (isola)
+Saint Nicholas	San Nicola di Bari
+Saint Patrick	San Patrizio
+Saint Paul	Saint Paul (Minnesota)
+Saint Peter	Pietro apostolo
+Saint Petersburg	San Pietroburgo
+Saint Petersburg	Categoria:San Pietroburgo
+Saint Vincent and the Grenadines	Saint Vincent e Grenadine
+Saint Vincent and the Grenadines	Categoria:Saint Vincent e Grenadine
+Sake	Sake
+Saladin	Saladino
+Salah	Ṣalāt
+Salamander	Urodela
+Salem	Salem (Oregon)
+Salerno	Salerno
+Saliva	Saliva
+Salman Rushdie	Salman Rushdie
+Salmonidae	Salmonidae
+Salt	Sale da cucina
+Salt (chemistry)	Sale
+Salt Lake City	Salt Lake City
+Salvador	Salvador (città)
+Salzburg	Salisburgo
+Salzburg (state)	Salisburghese
+Samara	Samara (città)
+Samarium	Samario
+Samarkand	Samarcanda
+Samoa	Samoa
+Samoa	Categoria:Samoa
+Samsara	Saṃsāra
+Samuel Beckett	Samuel Beckett
+Samuel F. B. Morse	Samuel Finley Breese Morse
+Samuel Taylor Coleridge	Samuel Taylor Coleridge
+Samurai	Samurai
+San Antonio	San Antonio (Stati Uniti)
+San Diego	San Diego (California)
+San Francisco	San Francisco
+San Jose	San José (California)
+San Juan	San Juan (Porto Rico)
+San Marino	San Marino
+San Marino	Categoria:San Marino
+San Marino	Città di San Marino
+San Salvador	San Salvador (El Salvador)
+Sand	Sabbia
+Sandro Botticelli	Sandro Botticelli
+Sandstone	Arenaria (roccia)
+Sandwich	Sandwich (cucina)
+Sanskrit	Lingua sanscrita
+Santa Claus	Babbo Natale
+Santa Fe	Santa Fe (Nuovo Messico)
+Santiago	Santiago del Cile
+Santiago	Santiago (disambigua)
+Santiago de Cuba	Santiago di Cuba
+Santo Domingo	Santo Domingo (città)
+Santos (Săo Paulo)	Santos
+Sapphire	Zaffiro
+Sappho	Saffo
+Sapporo	Sapporo
+Sarah Bernhardt	Sarah Bernhardt
+Sarajevo	Sarajevo
+Saratov	Saratov
+Sarcophagus	Sarcofago
+Sardine	Sardina pilchardus
+Sardinia	Sardegna
+Sari	Sari
+Sarin	Sarin
+Saskatchewan	Saskatchewan
+Satan	Satana
+Satanism	Satanismo
+Satellite	Satellite artificiale
+Satire	Satira
+Saturday	Sabato
+Saturn	Saturno (astronomia)
+Saturn	Categoria:Saturno
+Saturn (disambiguation)	Saturno
+Saturn (mythology)	Saturno (divinità)
+Satyr	Satiro (mitologia)
+Sauce	Salsa (cucina)
+Saudi Arabia	Arabia Saudita
+Saudi Arabia	Categoria:Arabia Saudita
+Saul Bellow	Saul Bellow
+Sausage	Salume
+Savanna	Savana
+Saxony	Sassonia
+Saxony	Categoria:Sassonia
+Saxophone	Sassofono
+Scandinavia	Scandinavia
+Scandinavian Peninsula	Penisola scandinava
+Scandium	Scandio
+Scapula	Scapola
+Scheldt	Schelda
+Scheme (programming language)	Scheme
+Schizophrenia	Schizofrenia
+Scholasticism	Scolastica
+School	Scuola
+Schutzstaffel	Schutzstaffel
+Science	Scienza
+Science	Categoria:Scienza
+Science fiction	Fantascienza
+Science fiction	Categoria:Fantascienza
+Scientific method	Metodo scientifico
+Scientist	Scienziato
+Scientology	Scientology
+Scipio Africanus	Publio Cornelio Scipione
+Scissors	Forbici
+Sciuridae	Sciuridae
+Scorpion	Scorpiones
+Scorpius	Scorpione (costellazione)
+Scotland	Scozia
+Scotland	Categoria:Scozia
+Scots Pine	Pinus sylvestris
+Scottish Gaelic	Lingua gaelica scozzese
+Scouting	Scautismo
+Scrabble	Scrabble
+Screw	Vite (meccanica)
+Screwdriver	Giravite
+Scrotum	Scroto
+Sculptor (constellation)	Scultore (costellazione)
+Sculpture	Scultura
+Sculpture	Categoria:Scultura
+Sea	Mare
+Sea Otter	Enhydra lutris
+Sea anemone	Actiniaria
+Sea cucumber	Holothuroidea
+Sea level	Livello del mare
+Sea of Azov	Mar d'Azov
+Sea of Japan	Mar del Giappone
+Sea of Marmara	Mar di Marmara
+Sea of Okhotsk	Mare di Ochotsk
+Sea urchin	Echinoidea
+Seaborgium	Seaborgio
+Seahorse	Hippocampus
+Search engine	Motore di ricerca
+Sears Tower	Sears Tower
+Season	Stagione
+Seattle	Seattle
+Second	Secondo
+Second Crusade	Seconda crociata
+Second Vatican Council	Concilio Vaticano II
+Second law of thermodynamics	Secondo principio della termodinamica
+Sect	Setta
+Sedimentary rock	Roccia sedimentaria
+Seed	Seme
+Segovia	Segovia
+Seine	Senna
+Seismology	Sismologia
+Seismology	Categoria:Sismologia
+Selene	Selene
+Selenium	Selenio
+Seleucus I Nicator	Seleuco I
+Semantics	Semantica
+Semantics	Categoria:Semantica
+Semen	Sperma
+Semicolon	Punto e virgola
+Semiconductor	Semiconduttore
+Semiotics	Semiotica
+Semitic	Semiti
+Senate	Senato
+Senegal	Senegal
+Senegal	Categoria:Senegal
+Seoul	Seoul
+Seppuku	Seppuku
+September	Settembre
+September 11	11 settembre
+September 11	Attentati dell'11 settembre 2001
+September 17	17 settembre
+September 29	29 settembre
+Septuagint	Septuaginta
+Sequence	Successione (matematica)
+Serbia	Serbia
+Serbia	Categoria:Serbia
+Serbia and Montenegro	Serbia e Montenegro
+Serbia and Montenegro	Categoria:Serbia e Montenegro
+Serfdom	Servitù della gleba
+Sergei Eisenstein	Sergej Michajlovič Ejzenštejn
+Sergei Rachmaninoff	Sergej Vasil'evič Rachmaninov
+Series (mathematics)	Serie
+Serine	Serina (chimica)
+Serotonin	Serotonina
+Serpens	Serpente (costellazione)
+Server (computing)	Server
+Set	Insieme
+Set (mythology)	Seth
+Set theory	Teoria degli insiemi
+Set theory	Categoria:Teoria degli insiemi
+Sevastopol	Sebastopoli
+Seven Years' War	Guerra dei sette anni
+Severe acute respiratory syndrome	SARS
+Seville	Siviglia
+Sex	Sesso (biologia)
+Sex organ	Apparato genitale
+Sexism	Sessismo
+Sextant	Sestante
+Sexual intercourse	Attività sessuale
+Sexuality	Categoria:Sessualità
+Sexually transmitted disease	Malattia sessualmente trasmissibile
+Seychelles	Seychelles
+Seychelles	Categoria:Seychelles
+Shah	Scià
+Shahadah	Shahada
+Shamanism	Sciamanesimo
+Shanghai	Shanghai
+Share (finance)	Azione (finanza)
+Shareware	Shareware
+Sharia	Shari'a
+Shark	Selachimorpha
+Sheffield	Sheffield
+Sherlock Holmes	Sherlock Holmes
+Shetland	Isole Shetland
+Shield	Scudo (difesa)
+Shikoku	Shikoku
+Shinto	Shintoismo
+Ship	Nave
+Shiva	Shiva
+Shogi	Shogi
+Shogun	Shōgun
+Shorthand	Stenografia
+Shrimp	Caridea
+Shrub	Arbusto
+Siberia	Siberia
+Siberian Husky	Siberian Husky
+Sichuan	Sichuan
+Sicily	Sicilia
+Sicily	Categoria:Regione Sicilia
+Siemens (unit)	Siemens (unità di misura)
+Sierra Leone	Sierra Leone
+Sierra Leone	Categoria:Sierra Leone
+Sigma	Sigma (lettera greca)
+Sigmund Freud	Sigmund Freud
+Sign language	Lingua dei segni
+Sigrid Undset	Sigrid Undset
+Sikhism	Sikhismo
+Sikkim	Sikkim
+Silesia	Slesia
+Silicon	Silicio
+Silicon Valley	Silicon Valley
+Silicon dioxide	Silice
+Silk	Seta
+Silk Road	Via della seta
+Silurian	Siluriano
+Silver	Argento
+Simone de Beauvoir	Simone de Beauvoir
+Sin	Peccato
+Sinai Peninsula	Penisola del Sinai
+Sinclair Lewis	Sinclair Lewis
+Singapore	Singapore
+Singapore	Categoria:Singapore
+Single (music)	Singolo
+Siren	Sirena (mitologia)
+Sirenia	Sirenia
+Sirius	Sirio
+Sistine Chapel	Cappella Sistina
+Sisyphus	Sisifo
+Sitting Bull	Toro Seduto
+Situation comedy	Situation comedy
+Six-Day War	Guerra dei sei giorni
+Skagerrak	Skagerrak
+Skateboard	Skateboard
+Skepticism	Scetticismo
+Skin	Pelle
+Skinhead	Skinhead
+Skopje	Skopje
+Skull	Cranio
+Skylab	Skylab
+Skyscraper	Grattacielo
+Slash (musician)	Slash
+Slavery	Schiavismo
+Slayer	Slayer
+Sleep	Sonno
+Slovakia	Slovacchia
+Slovakia	Categoria:Slovacchia
+Slovenia	Slovenia
+Slovenia	Categoria:Slovenia
+Small intestine	Intestino tenue
+Smog	Smog
+Smolensk	Smolensk
+Snake	Serpentes
+Snooker	Snooker
+Snow	Neve
+Soap	Sapone
+Social psychology	Psicologia sociale
+Socialism	Socialismo
+Socialism	Categoria:Socialismo
+Socialist Party (France)	Partito Socialista (Francia)
+Society	Categoria:Società
+Society	Società
+Society of Jesus	Compagnia di Gesù
+Sociolinguistics	Sociolinguistica
+Sociology	Sociologia
+Sociology	Categoria:Sociologia
+Socrates	Socrate
+Sodium	Sodio
+Sodium bicarbonate	Bicarbonato di sodio
+Sodium chloride	Cloruro di sodio
+Sodium hydroxide	Idrossido di sodio
+Sofia	Sofia
+Softball	Softball
+Software	Categoria:Software
+Soil	Suolo
+Solanaceae	Solanaceae
+Solanaceae	Categoria:Solanaceae
+Solar System	Sistema solare
+Solar System	Categoria:Sistema solare
+Solar eclipse	Eclissi solare
+Solar energy	Energia solare
+Solar wind	Vento solare
+Solid	Solido
+Solid state	Solido
+Solidarity	Solidarność
+Solomon	Re Salomone
+Solomon Islands	Isole Salomone
+Solomon Islands	Categoria:Isole Salomone
+Solon	Solone
+Solstice	Solstizio
+Solution	Soluto
+Solvent	Solvente
+Somalia	Somalia
+Somalia	Categoria:Somalia
+Somerset	Somerset
+Somme	Somme (dipartimento francese)
+Sonata	Sonata
+Song	Canzone (musica)
+Song of Solomon	Cantico dei cantici
+Sonnet	Sonetto
+Sophia Loren	Sophia Loren
+Sophism	Sofistica
+Sophocles	Sofocle
+Soprano	Soprano
+Sorbonne	Sorbona
+Sorghum	Sorghum
+Sorting algorithm	Algoritmo di ordinamento
+Soul	Anima
+Sound	Suono
+Soup	Minestra
+Source code	Codice sorgente
+South	Sud
+South Africa	Categoria:Sudafrica
+South America	America meridionale
+South America	Categoria:America meridionale
+South Australia	Australia Meridionale
+South Carolina	Carolina del Sud
+South Carolina	Categoria:Carolina del Sud
+South China Sea	Mar Cinese meridionale
+South Dakota	Dakota del Sud
+South Dakota	Categoria:Dakota del Sud
+South Island	Isola del Sud
+South Korea	Corea del Sud
+South Korea	Categoria:Corea del Sud
+South Pole	Polo Sud
+South Vietnam	Vietnam del Sud
+Southeast Asia	Sud-est asiatico
+Southern Hemisphere	Emisfero australe
+Sovereignty	Sovranità
+Soviet Union	Unione Sovietica
+Soviet Union	Categoria:Unione Sovietica
+Soybean	Glycine max
+Space	Spazio
+Space Shuttle	Space Shuttle
+Space station	Stazione spaziale
+Spacecraft	Veicolo spaziale
+Spaghetti	Spaghetti
+Spain	Spagna
+Spain	Categoria:Spagna
+Spam (electronic)	Spam
+Spanish Civil War	Guerra civile spagnola
+Spanish people	Categoria:Spagnoli
+Spanish-American War	Guerra ispano-americana
+Sparta	Sparta
+Spear	Lancia (arma)
+Special relativity	Relatività ristretta
+Species	Specie
+Spectroscopy	Spettroscopia
+Speed	Velocità media
+Speed of light	Velocità della luce
+Speleology	Speleologia
+Spencer Tracy	Spencer Tracy
+Sperm Whale	Physeter macrocephalus
+Spermatophyte	Spermatophyta
+Spermatozoon	Spermatozoo
+Sphere	Sfera
+Sphinx	Sfinge#Mitologia greca
+Spice	Spezia (alimento)
+Spider	Araneae
+Spin (physics)	Spin
+Spinach	Spinacia oleracea
+Spinal cord	Midollo spinale
+Spiral galaxy	Galassia spirale
+Spleen	Milza
+Split	Spalato
+Sponge	Porifera
+Sport	Sport
+Spreadsheet	Foglio elettronico
+Spree	Sprea
+Spring (season)	Primavera
+Springfield	Springfield (Illinois)
+Spyware	Spyware
+Squamata	Squamata
+Square (geometry)	Quadrato (geometria)
+Square metre	Metro quadro
+Square root	Radice quadrata
+Squash (sport)	Squash
+Squirrel	scoiattolo
+Sri Lanka	Sri Lanka
+Sri Lanka	Categoria:Sri Lanka
+St. Louis	Saint Louis (Missouri)
+Stadium	Stadio
+Stainless steel	Acciaio inox
+Stalinism	Stalinismo
+Standard Generalized Markup Language	Standard Generalized Markup Language
+Standard deviation	Deviazione standard
+Stanford University	Stanford University
+Stanley Kubrick	Stanley Kubrick
+Star	Stella
+Star of David	Maghen David
+Starch	Amido
+Starfish	Asteroidea
+State	Stato
+Staten Island	Staten Island
+Statistical mechanics	Meccanica statistica
+Statistics	Statistica
+Statistics	Categoria:Statistica
+Statue of Liberty	Statua della Libertà
+Stavanger	Stavanger
+Steam	Vapore
+Steam engine	Motore a vapore
+Steel	Acciaio
+Stefan Zweig	Stefan Zweig
+Steffi Graf	Steffi Graf
+Stegosaurus	Stegosaurus
+Stem cell	Cellula staminale
+Stendhal	Stendhal
+Stephen Hawking	Stephen Hawking
+Steppe	Steppa
+Steradian	Steradiante
+Sternum	Sterno
+Steroid	Steroide
+Steven Spielberg	Steven Spielberg
+Sting	Sting
+Stock exchange	Borsa valori
+Stockholm	Stoccolma
+Stoicism	Stoicismo
+Stomach	Stomaco
+Stone Age	Età della pietra
+Stonehenge	Stonehenge
+Stork	Ciconiidae
+Storm	Tempesta
+Strait	Stretto
+Strait of Gibraltar	Stretto di Gibilterra
+Strait of Hormuz	Stretto di Hormuz
+Strait of Magellan	Stretto di Magellano
+Strait of Messina	Stretto di Messina
+Strasbourg	Strasburgo
+Strategy	Strategia
+Stratigraphy	Stratigrafia (geologia)
+Stratosphere	Stratosfera
+Strawberry	Fragaria
+Stress (medicine)	Stress (medicina)
+String theory	Teoria delle stringhe
+Stroke	Ictus
+Strong interaction	Forza nucleare forte
+Strontium	Stronzio
+Structuralism	Strutturalismo (filosofia)
+Stub	Template:S
+Student	Studente
+Stupa	Stupa
+Sturmabteilung	Sturmabteilung
+Stuttgart	Stoccarda
+Styx	Stige (fiume)
+Sub-Saharan Africa	Africa subsahariana
+Subculture	Subcultura
+Sublimation (chemistry)	Sublimazione
+Submarine	Sottomarino
+Subset	Sottoinsieme
+Subtraction	Sottrazione
+Subversion (software)	Subversion
+Sucre	Sucre (città)
+Sucrose	Saccarosio
+Sudan	Sudan
+Sudan	Categoria:Sudan
+Sudoku	Sudoku
+Suez Canal	Canale di Suez
+Suffix	Suffisso
+Sufism	Sufismo
+Sugar	Zucchero
+Suharto	Suharto
+Sukarno	Sukarno
+Sulawesi	Sulawesi
+Sulfur	Zolfo
+Sulfur dioxide	Diossido di zolfo
+Sulfur mustard	Iprite
+Sulfuric acid	Acido solforico
+Sultan	Sultano
+Sumatra	Sumatra
+Sumer	Sumeri
+Summer	Estate
+Sumo	Sumo
+Sun	Sole
+Sun	Categoria:Sole
+Sun Yat-sen	Sun Yat-sen
+Sunday	Domenica
+Sundial	Meridiana
+Sunflower	Helianthus annuus
+Sunni Islam	Sunnismo
+Sunspot	Macchia solare
+Supercomputer	Supercomputer
+Superconductivity	Superconduttività
+Superman	Superman
+Supernova	Supernova
+Supreme Court of the United States	Corte Suprema degli Stati Uniti
+Sura	Sura
+Surface tension	Tensione superficiale
+Surgeon	Chirurgia
+Surgery	Chirurgia
+Suriname	Suriname
+Suriname	Categoria:Suriname
+Surrealism	Surrealismo
+Surrey	Surrey
+Susan Sontag	Susan Sontag
+Sushi	Sushi
+Suva	Suva
+Svalbard	Isole Svalbard
+Swallow	Hirundinidae
+Swan	Cygnus (uccelli)
+Swastika	Svastica
+Swaziland	Swaziland
+Swaziland	Categoria:Swaziland
+Sweden	Svezia
+Sweden	Categoria:Svezia
+Swedish krona	Corona svedese
+Sweet potato	Ipomoea batatas
+Swimming	Nuoto
+Swimming	Categoria:Nuoto
+Swiss franc	Franco svizzero
+Swiss people	Categoria:Svizzeri
+Switzerland	Svizzera
+Switzerland	Categoria:Svizzera
+Sword	Spada (arma)
+Sydney	Sydney
+Syllable	Sillaba
+Sylvia Plath	Sylvia Plath
+Symbiosis	Simbiosi (ecologia)
+Symbol	Simbolo
+Symphony	Sinfonia
+Symptom	Sintomo
+Synagogue	Sinagoga
+Syndicate	Sindacato
+Synesthesia	Sinestesia (psicologia)
+Synonym	Sinonimia
+Syntax	Sintassi
+Synthesizer	Sintetizzatore
+Syphilis	Sifilide
+Syracuse	Siracusa
+Syria	Siria
+Syria	Categoria:Siria
+System	Sistema
+Systematics	Sistematica (biologia)
+T	T
+T. E. Lawrence	Thomas Edward Lawrence
+T. S. Eliot	Thomas Stearns Eliot
+Table (furniture)	Tavolo
+Table tennis	Tennis tavolo
+Taboo	Tabù
+Tacitus	Publio Cornelio Tacito
+Taekwondo	Taekwondo
+Tagus	Tago
+Tahiti	Tahiti
+Tai chi chuan	Taijiquan
+Tail	Coda (anatomia)
+Taipei	Taipei
+Taiwan	Categoria:Taiwan
+Taiwan	Taiwan (isola)
+Taj Mahal	Taj Mahal
+Tajikistan	Tagikistan
+Tajikistan	Categoria:Tagikistan
+Talc	Talco
+Taliban	Talebani
+Tallahassee	Tallahassee
+Tallinn	Tallinn
+Talmud	Talmud
+Tamil Nadu	Tamil Nadu
+Tampa	Tampa
+Tampere	Tampere
+Tanakh	Tanakh
+Tang Dynasty	Dinastia Tang
+Tangier	Tangeri
+Tango (dance)	Tango argentino
+Tank	Carro armato
+Tantalum	Tantalio
+Tantalus	Tantalo (mitologia)
+Tanzania	Tanzania
+Tanzania	Categoria:Tanzania
+Taoism	Taoismo
+Tapir	Tapirus
+Tardigrade	Tardigrada
+Tarn	Tarn
+Tarragon	Artemisia dracunculus
+Tartarus	Tartaro (mitologia)
+Tartu	Tartu
+Tashkent	Taškent
+Tasman Sea	Mar di Tasman
+Tasmania	Tasmania
+Tasmanian Devil	Sarcophilus harrisii
+Taste	Gusto
+Tattoo	Tatuaggio
+Tau	Tau (lettera)
+Taurus (constellation)	Toro (costellazione)
+Tawny Owl	Strix aluco
+Tax	Tassa
+Taxicab	Taxi
+Taxon	Taxon
+Taxonomy	Tassonomia
+Taxus baccata	Taxus baccata
+Tbilisi	Tbilisi
+Tea	Tè
+Tea	Categoria:Tè
+Teacher	Docente
+Technetium	Tecnezio
+Techno	Techno
+Technology	Tecnologia
+Technology	Categoria:Tecnologia
+Tegucigalpa	Tegucigalpa
+Tehran	Teheran
+Tel Aviv	Tel Aviv
+Telecommunication	Telecomunicazioni
+Telegraphy	Telegrafo
+Telepathy	Telepatia
+Telephone	Telefono
+Telescope	Telescopio
+Telescopium	Telescopio (costellazione)
+Television	Televisione
+Television	Categoria:Televisione
+Tellurium	Tellurio
+Temperature	Temperatura
+Temple	Tempio
+Temple of Artemis	Tempio di Artemide
+Ten Commandments	Dieci comandamenti
+Tenerife	Tenerife
+Tennessee	Tennessee
+Tennessee	Categoria:Tennessee
+Tennessee Williams	Thomas Lanier Williams
+Tennis	Tennis
+Tennis	Categoria:Tennis
+Tenor	Tenore
+Tenzing Norgay	Tenzing Norgay
+Tequila	Tequila
+Terbium	Terbio
+Termite	Isoptera
+Terpsichore	Tersicore
+Terrestrial planet	Pianeta terrestre
+Terrorism	Terrorismo
+Terrorism	Categoria:Terrorismo
+Tertullian	Quinto Settimio Fiorente Tertulliano
+Tesla (unit)	Tesla
+Testicle	Testicolo
+Testosterone	Testosterone
+Tetanus	Tetano
+Tethys (moon)	Teti (astronomia)
+Tethys (mythology)	Teti (Urano)
+Tetrahedron	Tetraedro
+Tetrahydrocannabinol	Delta-9-Tetraidrocannabinolo
+Tetrapod	Tetrapoda
+Texas	Texas
+Texas	Categoria:Texas
+Textile	Tessuto (manufatto)
+Thailand	Thailandia
+Thailand	Categoria:Thailandia
+Thales	Talete
+Thalia	Talia (musa)
+Thallium	Tallio
+Thanatos	Tanato (mitologia)
+Thanksgiving	Giorno del Ringraziamento
+Thanksgiving (Canada)	Giorno del Ringraziamento
+Thanksgiving (United States)	Giorno del Ringraziamento
+Thanksgiving (disambiguation)	Giorno del Ringraziamento
+The Gambia	Gambia
+The Gambia	Categoria:Gambia
+The Hague	L'Aia
+The Star-Spangled Banner	The Star-Spangled Banner
+Theatre	Teatro
+Theatre	Categoria:Teatro
+Thebe (moon)	Tebe (astronomia)
+Thebes	Tebe (Grecia)
+Thebes	Tebe (Egitto)
+Theia	Teia (mitologia)
+Themis	Temi
+Themistocles	Temistocle
+Theocracy	Teocrazia
+Theodolite	Teodolite
+Theodor Mommsen	Theodor Mommsen
+Theodore Roosevelt	Theodore Roosevelt
+Theodosius I	Teodosio I
+Theology	Teologia
+Theology	Categoria:Teologia
+Theorem	Teorema
+Theory	Teoria
+Theory of relativity	Teoria della relatività
+Theravada	Buddhismo Theravada
+Thermodynamics	Termodinamica
+Thermodynamics	Categoria:Termodinamica
+Thermometer	Termometro
+Theseus	Teseo
+Thessaloniki	Salonicco
+Thessaly	Tessaglia
+Theta	Theta (lettera)
+Thetis	Teti (Nereo)
+Thiamine	Tiamina
+Think tank	Think tank
+Third Crusade	Terza crociata
+Third World	Terzo mondo
+Thirty Years' War	Guerra dei trent'anni
+Thomas Aquinas	Tommaso d'Aquino
+Thomas Edison	Thomas Alva Edison
+Thomas Hardy	Thomas Hardy
+Thomas Hobbes	Thomas Hobbes
+Thomas Jefferson	Thomas Jefferson
+Thomas Malthus	Thomas Robert Malthus
+Thomas Mann	Thomas Mann
+Thomas More	Tommaso Moro
+Thomas Paine	Thomas Paine
+Thomas Young (scientist)	Thomas Young
+Thor	Thor
+Thorium	Torio
+Thoth	Thot
+Thought	Pensiero
+Thrace	Tracia
+Thucydides	Tucidide
+Thulium	Tulio
+Thumb	Pollice (dito)
+Thuringia	Turingia
+Thuringia	Categoria:Turingia
+Thursday	Giovedì
+Thylacine	Thylacinus cynocephalus
+Thyme	Thymus
+Thymine	Timina
+Thyroid	Tiroide
+Tianjin	Tientsin
+Tiber	Tevere
+Tiberius	Tiberio Claudio Nerone
+Tibet	Tibet
+Tibet	Categoria:Tibet
+Ticino	Canton Ticino
+Tide	Marea
+Tierra del Fuego	Terra del Fuoco (arcipelago)
+Tiger	Panthera tigris
+Tigris	Tigri
+Tilia	Tilia
+Timbuktu	Timbuktu
+Time	Tempo
+Time	Categoria:Tempo
+Time (magazine)	TIME
+Time zone	Fuso orario
+Timor	Timor
+Timur	Tamerlano
+Tin	Stagno
+Tirana	Tirana
+Tissue (biology)	Tessuto (biologia)
+Tit (bird)	Paridae
+Titan (disambiguation)	Titano
+Titan (moon)	Titano (astronomia)
+Titan (mythology)	Titano (mitologia)
+Titania (moon)	Titania (astronomia)
+Titanic (disambiguation)	Titanic (disambigua)
+Titanium	Titanio
+Titian	Tiziano
+Titus	Tito (imperatore romano)
+Tivoli	Tivoli
+Tobacco	Nicotiana tabacum
+Tocantins (state)	Tocantins
+Tocopherol	Tocoferolo
+Tofu	Tōfu
+Togo	Togo
+Togo	Categoria:Togo
+Tokyo	Tōkyō
+Toledo	Toledo
+Toluene	Toluene
+Tom Hanks	Tom Hanks
+Tom and Jerry	Tom & Jerry
+Tomato	Solanum lycopersicum
+Ton	Tonnellata
+Tonga	Tonga
+Tonga	Categoria:Tonga
+Tongue	Lingua (anatomia)
+Toni Morrison	Toni Morrison
+Tonne	Tonnellata
+Tony Blair	Tony Blair
+Tool	Utensile
+Tooth	Dente
+Toothbrush	Spazzolino da denti
+Topaz	Topazio
+Topeka	Topeka
+Topology	Topologia
+Topology	Categoria:Topologia
+Torah	Torah
+Tornado	Tornado
+Toronto	Toronto
+Torpedo	Siluro
+Torque	Momento torcente
+Tortoise	Testudinidae
+Torture	Tortura
+Torus	Toro (geometria)
+Totalitarianism	Totalitarismo
+Toulon	Tolone
+Toulouse	Tolosa
+Tour de France	Tour de France
+Tourism	Turismo
+Tourism	Categoria:Turismo
+Tours	Tours
+Tower	Torre
+Tower of Babel	Torre di Babele
+Tower of London	Torre di Londra
+Town	Città
+Toxicity	Veleno
+Toxicology	Tossicologia
+Toy	Giocattolo
+Toyota	Toyota
+Tractor	Trattore agricolo
+Trade	Commercio
+Trade union	Sindacato
+Trademark	Marchio
+Tradition	Tradizione
+Tragedy	Tragedia
+Train	Treno
+Train station	Stazione ferroviaria
+Trajan	Traiano
+Tram	Tram
+Transcendental number	Numero trascendente
+Transformer	Trasformatore
+Transistor	Transistor
+Transliteration	Traslitterazione
+Transmission Control Protocol	Transmission Control Protocol
+Transportation	Categoria:Trasporto
+Transsexualism	Transessuale
+Transylvania	Transilvania
+Trapezoid	Trapezio (geometria)
+Treaty	Trattato internazionale
+Treaty of Versailles	Trattato di Versailles (1919)
+Tree	Albero (botanica)
+Trento	Trento
+Trenton	Trenton (New Jersey)
+Triangle	Triangolo
+Triangulum	Triangolo (costellazione)
+Triangulum Australe	Triangolo Australe (costellazione)
+Triassic	Triassico
+Tributary	Affluente
+Triceratops	Triceratops
+Trier	Treviri
+Trigonometric function	Funzione trigonometrica
+Trigonometry	Trigonometria
+Trigonometry	Categoria:Trigonometria
+Trilobite	Trilobita
+Trilogy	Trilogia
+Trinidad	Trinidad (isola)
+Trinidad and Tobago	Trinidad e Tobago
+Trinidad and Tobago	Categoria:Trinidad e Tobago
+Trinitrotoluene	Trinitrotoluene
+Trinity	Trinità
+Tripoli	Tripoli (Libia)
+Triskelion	Triscele
+Tritium	Trizio
+Triton (moon)	Tritone (astronomia)
+Triton (mythology)	Tritone (mitologia)
+Triumphal arch	Arco trionfale
+Trojan Horse	Cavallo di Troia
+Trojan War	Guerra di Troia
+Trojan horse (computing)	Trojan
+Troll	Troll (mitologia)
+Troll (Internet)	Troll (Internet)
+Trolleybus	Filobus
+Trombone	Trombone
+Trondheim	Trondheim
+Tropic of Cancer	Tropico del Cancro
+Tropic of Capricorn	Tropico del Capricorno
+Tropics	Zona torrida
+Troposphere	Troposfera
+Trotskyism	Trotskismo
+Troy	Troia (Asia Minore)
+Truck	Autocarro
+Truman Doctrine	Dottrina Truman
+Trumpet	Tromba
+Truth	Verità
+Trygve Lie	Trygve Lie
+Tryptophan	Triptofano
+Tsar	Zar
+Tsunami	Tsunami
+Tuareg	Tuareg
+Tuba	Tuba (strumento musicale)
+Tuber (genus)	Tuber (genere)
+Tuberculosis	Tubercolosi
+Tucana	Tucano (costellazione)
+Tucson	Tucson
+Tuesday	Martedì
+Tulip	Tulipa
+Tumor	Tumore
+Tundra	Tundra
+Tungsten	Tungsteno
+Tunicate	Tunicata
+Tunis	Tunisi
+Tunisia	Tunisia
+Tunisia	Categoria:Tunisia
+Tunnel	Tunnel
+Turbine	Turbina
+Turin	Torino
+Turing machine	Macchina di Turing
+Turkey	Turchia
+Turkey	Categoria:Turchia
+Turkmenistan	Turkmenistan
+Turkmenistan	Categoria:Turkmenistan
+Turmeric	Curcuma longa
+Turtle	Testudines
+Tuscany	Toscana
+Tuvalu	Tuvalu
+Tuvalu	Categoria:Tuvalu
+Tux	Tux
+Tycho Brahe	Tycho Brahe
+Typewriter	Macchina per scrivere
+Typhon	Tifone (mitologia)
+Typography	Tipografia
+Typography	Categoria:Tipografi
+Tyrannosaurus	Tyrannosaurus rex
+Tyre	Tiro (città)
+Tyrol (state)	Tirolo (Austria)
+Tyrrhenian Sea	Mar Tirreno
+U	U
+UNESCO	Organizzazione delle Nazioni Unite per l'Educazione, la Scienza e la Cultura
+Ufa	Ufa (città)
+Uganda	Uganda
+Uganda	Categoria:Uganda
+Ukraine	Ucraina
+Ukraine	Categoria:Ucraina
+Ulan Bator	Ulan Bator
+Ulster	Ulster
+Ultrasound	Controllo ultrasonoro
+Ultraviolet	Radiazione ultravioletta
+Ulysses S. Grant	Ulysses Simpson Grant
+Umbrella	Ombrello
+Umbria	Umbria
+Uncertainty principle	Principio di indeterminazione di Heisenberg
+Unemployment	Disoccupazione
+Unicorn	Unicorno
+Unidentified flying object	UFO
+Uniform Resource Locator	Uniform Resource Locator
+Union (set theory)	Unione (insiemistica)
+United Arab Emirates	Emirati Arabi Uniti
+United Arab Emirates	Categoria:Emirati Arabi Uniti
+United Arab Republic	Repubblica Araba Unita
+United Kingdom	Regno Unito
+United Kingdom	Categoria:Regno Unito
+United Nations	Organizzazione delle Nazioni Unite
+United Nations	Categoria:Nazioni Unite
+United Nations Children's Fund	Fondo delle Nazioni Unite per l'infanzia
+United States	Stati Uniti d'America
+United States	Categoria:Stati Uniti
+United States Air Force	United States Air Force
+United States Congress	Congresso degli Stati Uniti d'America
+United States Constitution	Costituzione degli Stati Uniti
+United States House of Representatives	Camera dei Rappresentanti degli Stati Uniti
+United States Military Academy	Accademia Militare degli Stati Uniti
+United States Navy	United States Navy
+United States Senate	Senato degli Stati Uniti
+United States Virgin Islands	Isole Vergini americane
+United States dollar	Dollaro statunitense
+Universe	Universo
+University	Università
+University of Chicago	University of Chicago
+University of Pennsylvania	University of Pennsylvania
+Unix	Unix
+Unix	Categoria:Unix
+Ununbium	Ununbio
+Ununhexium	Ununhexio
+Ununpentium	Ununpentio
+Ununquadium	Ununquadio
+Ununtrium	Ununtrio
+Upanishad	Upaniṣad
+Uppsala	Uppsala
+Upsilon	Ypsilon
+Ur	Ur (Mesopotamia)
+Uracil	Uracile
+Ural Mountains	Urali
+Urania	Urania (mitologia)
+Uranium	Uranio
+Uranus	Urano (astronomia)
+Uranus	Categoria:Urano
+Uranus (mythology)	Urano (mitologia)
+Urdu	Lingua urdu
+Urea	Urea
+Urine	Urina
+Ursa Major	Orsa Maggiore (costellazione)
+Ursa Minor	Orsa Minore (costellazione)
+Uruguay	Uruguay
+Uruguay	Categoria:Uruguay
+Utah	Utah
+Utah	Categoria:Utah
+Uterus	Utero
+Utilitarianism	Utilitarismo
+Utopia	Utopia
+Utrecht (city)	Utrecht
+Utrecht (province)	Utrecht (provincia)
+Uttar Pradesh	Uttar Pradesh
+Uzbekistan	Uzbekistan
+Uzbekistan	Categoria:Uzbekistan
+V	V
+Vaccine	Vaccino
+Vacuole	Vacuolo
+Vacuum	Vuoto (fisica)
+Vacuum tube	Valvola termoionica
+Vaduz	Vaduz
+Vagina	Vagina
+Valence	Valence (Drôme)
+Valence (chemistry)	Valenza
+Valencia	Valencia
+Valencia	Valencia (disambigua)
+Valentina Tereshkova	Valentina Vladimirovna Tereškova
+Valentine's Day	San Valentino
+Valhalla	Valhalla
+Valkyrie	Valchiria
+Valletta	La Valletta
+Valley	Valle
+Vampire	Vampiro
+Vanadium	Vanadio
+Vancouver	Vancouver
+Vancouver Island	Isola di Vancouver
+Vandalism	Vandalismo
+Vanir	Vanir
+Vanuatu	Vanuatu
+Vanuatu	Categoria:Vanuatu
+Var (department)	Var (dipartimento francese)
+Variance	Varianza
+Varna	Varna (Bulgaria)
+Vatican City	Città del Vaticano
+Vatican City	Categoria:Vaticano
+Vector (spatial)	Vettore (matematica)
+Vega	Vega
+Vegetable	Verdura
+Vegetarianism	Vegetarismo
+Vein	Vena
+Vela (constellation)	Vele (costellazione)
+Velociraptor	Velociraptor mongoliensis
+Velocity	Velocità
+Veneto	Veneto
+Venezuela	Venezuela
+Venezuela	Categoria:Venezuela
+Venice	Venezia
+Venus	Venere (astronomia)
+Venus (disambiguation)	Venere
+Venus (mythology)	Venere (divinità)
+Verb	Verbo
+Vermont	Vermont
+Vermont	Categoria:Vermont
+Verona	Verona
+Versailles	Versailles
+Vertebra	Vertebra
+Vertebral column	Colonna vertebrale
+Vertebrate	Vertebrata
+Vespasian	Tito Flavio Vespasiano
+Vesta (mythology)	Vesta (divinità)
+Veto	Veto
+Vice President of the United States	Vicepresidente degli Stati Uniti
+Vichy	Vichy
+Victor Hugo	Victor Hugo
+Victoria	Port Victoria
+Victoria	Victoria (Columbia Britannica)
+Victoria	Victoria
+Victoria (Australia)	Victoria (Australia)
+Victoria Falls	Cascate Vittoria
+Video	Video
+Video game	Videogioco
+Vienna	Vienna
+Vienna	Categoria:Vienna
+Vienne	Vienne (dipartimento francese)
+Vientiane	Vientiane
+Vietnam	Vietnam
+Vietnam	Categoria:Vietnam
+Vietnam War	Guerra del Vietnam
+Vietnam War	Categoria:Guerra del Vietnam
+Viking	Vichinghi
+Vilfredo Pareto	Vilfredo Pareto
+Village	Villaggio
+Vilnius	Vilnius
+Vincent van Gogh	Vincent van Gogh
+Vincenzo Bellini	Vincenzo Bellini
+Vinegar	Aceto
+Viola	Viola (strumento musicale)
+Violence	Violenza
+Violin	Violino
+Virgil	Publio Virgilio Marone
+Virgin Islands	Isole Vergini
+Virginia	Virginia
+Virginia	Categoria:Virginia
+Virginia Woolf	Virginia Woolf
+Virginity	Verginità
+Virgo (constellation)	Vergine (costellazione)
+Virtual memory	Memoria virtuale
+Virtual reality	Realtà virtuale
+Virtue	Virtù
+Virus	Virus (biologia)
+Viscosity	Viscosità
+Vishnu	Viṣṇu
+Vistula	Vistola
+Vitamin	Vitamine
+Vitamin A	Retinolo
+Vitamin B6	Piridossina
+Vitamin D	Colecalciferolo
+Vitamin K	Vitamina K
+Vittorio De Sica	Vittorio De Sica
+Vitus Bering	Vitus Jonassen Bering
+Vivien Leigh	Vivien Leigh
+Vladimir Lenin	Lenin
+Vladimir Nabokov	Vladimir Vladimirovič Nabokov
+Vladimir Putin	Vladimir Vladimirovič Putin
+Vladivostok	Vladivostok
+Vocative case	Vocativo
+Vodka	Vodka
+Volans	Pesce Volante (costellazione)
+Volcano	Vulcano
+Volcanology	Categoria:Vulcanologia
+Volcanology	Vulcanologia
+Volga River	Volga
+Volgograd	Volgograd
+Volleyball	Pallavolo
+Volleyball	Categoria:Pallavolo
+Volt	Volt
+Voltage	Tensione elettrica
+Voltaire	Voltaire
+Volume	Volume
+Vomiting	Vomito
+Voodoo	Vudù
+Vowel	Vocale
+Vulcan (mythology)	Vulcano (divinità)
+Vulgar Latin	Latino volgare
+Vulgate	Vulgata
+Vulpecula	Volpetta (costellazione)
+Vulva	Vulva
+W	W
+W. Somerset Maugham	William Somerset Maugham
+WYSIWYG	WYSIWYG
+Wahhabism	Wahhabismo
+Wake Island	Isola di Wake
+Wales	Galles
+Wales	Categoria:Galles
+Walnut	Juglans
+Walrus	Odobenus rosmarus
+Walt Disney	Walt Disney
+Walt Whitman	Walt Whitman
+Walter Gropius	Walter Gropius
+Walter Scott	Walter Scott
+War	Guerra
+War	Categoria:Guerra
+War crime	Crimine di guerra
+War of the Spanish Succession	Guerra di successione spagnola
+Wars of the Roses	Guerra delle due rose
+Warsaw	Varsavia
+Wart	Verruca
+Washing machine	Lavatrice
+Washington	Washington (distretto di Columbia)
+Washington	Washington (stato)
+Washington	Categoria:Stato di Washington
+Washington (disambiguation)	Washington
+Wassily Kandinsky	Vasilij Vasil'evič Kandinskij
+Waste	Rifiuti
+Water	Acqua
+Water	Categoria:Acqua
+Water polo	Pallanuoto
+Waterfall	Cascata
+Watergate scandal	Scandalo Watergate
+Watermelon	Citrullus lanatus
+Watt	Watt
+Watt-hour	Wattora
+Wave	Onda (fisica)
+Wavelength	Lunghezza d'onda
+Wax	Cera
+Weak interaction	Interazione debole
+Weapon	Arma
+Weather	Tempo atmosferico
+Web browser	Browser
+Web page	Pagina Web
+Webcam	Webcam
+Weber (unit)	Weber
+Website	Sito web
+Wednesday	Mercoledì
+Week	Settimana
+Weight	Forza peso
+Weightlifting	Sollevamento pesi
+Weimar	Weimar
+Weimar Republic	Repubblica di Weimar
+Welding	Saldatura
+Wellington	Wellington (Nuova Zelanda)
+Werewolf	Licantropo
+Wernher von Braun	Wernher von Braun
+Weser River	Weser
+West	Ovest
+West Africa	Africa occidentale
+West Bank	Cisgiordania
+West Bengal	Bengala Occidentale
+West Berlin	Berlino Ovest
+West Germany	Germania Ovest
+West Sussex	West Sussex
+West Virginia	Virginia Occidentale
+West Virginia	Categoria:Virginia Occidentale
+Western Australia	Australia Occidentale
+Western Roman Empire	Impero Romano d'Occidente
+Western Sahara	Sahara Occidentale
+Western Sahara	Categoria:Sahara Occidentale
+Westminster Abbey	Abbazia di Westminster
+Whale	Balena
+Wheat	Frumento
+Wheel	Ruota
+Whisky	Whisky
+White House	Casa Bianca
+White Sea	Mar Bianco
+White blood cell	Leucocita
+White dwarf	Nana bianca
+Whitehorse	Whitehorse
+Wicca	Wicca
+Wide area network	Wide Area Network
+Wiesbaden	Wiesbaden
+Wildcat	Felis silvestris
+Wilhelm Ostwald	Wilhelm Ostwald
+Will (law)	Testamento
+William Blake	William Blake
+William Butler Yeats	William Butler Yeats
+William Faulkner	William Faulkner
+William Gladstone	William Ewart Gladstone
+William Golding	William Golding
+William Harvey	William Harvey
+William Henry Harrison	William Henry Harrison
+William Herschel	William Herschel
+William Howard Taft	William Howard Taft
+William I	Guglielmo I di Germania
+William II	Guglielmo II di Germania
+William James	William James
+William McKinley	William McKinley
+William Rowan Hamilton	William Rowan Hamilton
+William Shakespeare	William Shakespeare
+William Shockley	William Bradford Shockley
+William Wordsworth	William Wordsworth
+William of Ockham	Guglielmo di Ockham
+Willow	Salix
+Willy Brandt	Willy Brandt
+Wind power	Energia eolica
+Windhoek	Windhoek
+Windmill	Mulino a vento
+Window	Finestra
+Wine	Vino
+Wine	Categoria:Vino
+Winnipeg	Winnipeg
+Winston Churchill	Winston Churchill
+Winter	Inverno
+Winter Olympic Games	Olimpiadi invernali
+Wisconsin	Wisconsin
+Wisconsin	Categoria:Wisconsin
+Wolfgang Amadeus Mozart	Wolfgang Amadeus Mozart
+Wolfgang Pauli	Wolfgang Pauli
+Woman	Donna
+Wood	Legno
+Woodrow Wilson	Woodrow Wilson
+Woodwind instrument	Legni
+Woody Allen	Woody Allen
+Worcestershire	Worcestershire
+Word	Parola
+Word processor	Videoscrittura
+World	Mondo
+World Bank	Banca Internazionale per la Ricostruzione e lo Sviluppo
+World Health Organization	Organizzazione mondiale della sanità
+World Meteorological Organization	Organizzazione Meteorologica Mondiale
+World Trade Center	World Trade Center
+World Trade Organization	Organizzazione Mondiale del Commercio
+World War I	Prima guerra mondiale
+World War I	Categoria:Prima guerra mondiale
+World War II	Seconda guerra mondiale
+World War II	Categoria:Seconda guerra mondiale
+World Wide Web	World Wide Web
+World Wide Web	Categoria:World Wide Web
+World war	Guerra mondiale
+Worm	Verme
+Wormhole	Wormhole
+Writing system	Scrittura
+Wuhan	Wuhan
+Wyoming	Wyoming
+Wyoming	Categoria:Wyoming
+X	X
+X-ray	Raggi X
+Xenarthra	Xenarthra
+Xenon	Xeno
+Xenophanes	Senofane
+Xenophobia	Xenofobia
+Xenophon	Senofonte (storico)
+Xi	Xi (lettera)
+Xinjiang	Xinjiang
+Xylophone	Xilofono
+Y	Y
+Yahweh	Tetragramma biblico
+Yak	Bos grunniens
+Yakuza	Yakuza
+Yale University	Università di Yale
+Yalta	Jalta
+Yalta Conference	Conferenza di Jalta
+Yangon	Rangoon
+Yangtze River	Chang Jiang
+Yard	Iarda
+Yasser Arafat	Yasser Arafat
+Year	Anno
+Years	Categoria:Anni
+Yeast	Lievito
+Yellow	Giallo
+Yellow River	Fiume Giallo
+Yellow Sea	Mar Giallo
+Yellowstone National Park	Parco nazionale di Yellowstone
+Yemen	Yemen
+Yemen	Categoria:Yemen
+Yenisei River	Enisej
+Yerevan	Yerevan
+Yeti	Yeti
+Yggdrasil	Yggdrasill
+Yo-yo	Yo-yo
+Yoga	Yoga
+Yoghurt	Yogurt
+Yoko Ono	Yoko Ono
+Yokohama	Yokohama
+Yom Kippur	Yom Kippur
+Yom Kippur War	Guerra del Kippur
+York	York
+Yosemite National Park	Parco nazionale di Yosemite
+Young's modulus	Modulo di elasticità
+Ytterbium	Itterbio
+Yttrium	Ittrio
+Yuan Dynasty	Dinastia Yuan
+Yugoslavia	Jugoslavia
+Yugoslavia	Categoria:Jugoslavia
+Yukon	Yukon
+Yunnan	Yunnan
+Yuri Gagarin	Jurij Alekseevič Gagarin
+Z	Z
+Zachary Taylor	Zachary Taylor
+Zagreb	Zagabria
+Zambezi	Zambesi
+Zambia	Zambia
+Zambia	Categoria:Zambia
+Zanzibar	Zanzibar
+Zaragoza	Saragozza
+Zealand	Zelanda (isola)
+Zebra	Zebra
+Zen	Buddhismo Zen
+Zenith	Zenit
+Zeno (emperor)	Zenone di Bisanzio
+Zeno of Citium	Zenone di Cizio
+Zeno of Elea	Zenone di Elea
+Zeta	Zeta (lettera)
+Zeus	Zeus
+Zeus (disambiguation)	Zeus
+Ziggurat	Ziqqurat
+Zimbabwe	Zimbabwe
+Zimbabwe	Categoria:Zimbabwe
+Zinc	Zinco
+Zionism	Sionismo
+Zirconium	Zirconio
+Zodiac	Zodiaco
+Zombie	Zombi
+Zoo	Giardino zoologico
+Zoology	Zoologia
+Zoology	Categoria:Zoologia
+Zoroaster	Zoroastro
+Zoroastrianism	Zoroastrismo
+Zulu	Zulu

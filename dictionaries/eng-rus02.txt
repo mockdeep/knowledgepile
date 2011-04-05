@@ -1,0 +1,5656 @@
+# English-Russian dictionary created from English Wiktionary
+# Created on: 2011-04-05T22:48:44+02:00
+# Licence: GNU Free Documentation Licence http://www.gnu.org/copyleft/fdl.html
+# Download updated version of this file at: http://www.dicts.info/uddl.php
+# Contact us at: http://www.dicts.info/contact.php
+-ible	-аемый
+-ism	-изм
+-logy	-логия
+A-bomb	атомная бомба
+AIDS	СПИД
+ASAP	как можно скорее
+Aachen	Aaxeн
+Aaron	Аарон
+Abel	Авель
+Abidjan	Абиджан
+Abkhaz	абхазский
+Abkhazian	абхазский
+Abraham	Авраам
+Abraham	Аврам
+Abram	Авраам
+Abu Dhabi	Абу-Даби
+Achilles	Ахилл
+Achilles heel	Ахиллесова пята
+Acropolis	(Akropol')
+Adam	Адам
+Adam and Eve	Адам и Ева
+Adam's apple	кадык
+Addis Ababa	Аддис-Абеба
+Adelaide	Аделаида
+Aden	Аден
+Adrian	Адриан
+Adriatic Sea	Адриатическое море
+Aegean Sea	Эгейское море
+Aeschylus	Эсхил
+Afghan	афганец
+Afghan	афганский
+Afghanistan	Афганистан
+Africa	Африка
+Afrikaans	африкаанс
+Agatha	Агафия (Agaphija)
+Ainu	айнский
+Alaska	Аляска
+Albania	Албания
+Albanian	албанский
+Albanian	албанец
+Albert	Альберт
+Alexander	Александр
+Alexander the Great	Александр Македонский
+Alfred	Альфред (Al'fred)
+Algeria	Алжир
+Algiers	Алжир
+Alice	Алиса
+Allah	Аллах
+Alphonse	Альфонс (Al'fons)
+Alps	Альпы
+America	Америка
+American	американец
+American	американский
+American Samoa	Восточное Самоа
+American bison	бизон
+Amharic	амхарский
+Amsterdam	Амстердам
+Andalusia	Андалусия
+Andorra	Андорра
+Andrew	Андрей
+Angola	Ангола
+Ankara	Анкара
+Ann	Анна (Anna)
+Anno Domini	после
+Antarctica	Антарктида
+Antigua and Barbuda	Антигуа и Барбуда
+Antwerp	Антверпен
+April	апрель
+Aquarius	Водолей
+Arab	араб
+Arab	арабский
+Arabic	арабский
+Arctic Ocean	Северный Ледовитый океан
+Ares	Марс
+Argentina	Аргентина
+Aries	Овен
+Arkhangelsk	Архангельск
+Armageddon	Армагеддон
+Armenia	Армения
+Armenian	армянский
+Armenian	армянин
+Armenian SSR	Армянская ССР
+Arthur	Артур
+Aruba	Аруба
+Asia	Азия
+Athena	Афина
+Athens	Афины
+Atlantic Ocean	Атлантический океан
+Atlantis	Атлантида
+August	август
+Australia	Австралия
+Australian	австралиец
+Australian	австралийский
+Austria	Австрия
+Austrian	австриец
+Austrian	австрийский
+Ayers Rock	Айерс-Рок
+Aymara	аймара
+Azerbaijan	Азербайджан
+Azerbaijan SSR	Азербайджанская ССР
+Azeri	азербайджанский
+Azeri	азербайджанец
+BC	до Р. Хр.
+Bactria	Бактрия
+Baghdad	Багдад
+Bahamas	Багамы
+Bahrain	Бахрейн
+Balearic Islands	Балеарские острова
+Bali	Бали
+Baltic Sea	Балтийское море
+Bangkok	Бангкок
+Bangladesh	Бангладеш
+Barbados	Барбадос
+Barbara	Варвара
+Basque	баскский язык
+Basque	баск
+Basque	баскский
+Bavaria	Бавария
+Beijing	Пекин
+Beirut	Бейрут
+Belarus	Беларусь
+Belarusian	белорусский
+Belarusian	белорус
+Belgium	Бельгия
+Belgrade	Белград
+Belize	Белиз
+Belorussian	белорусский
+Bengali	бенгальский
+Benin	Бенин
+Bering Sea	Берингово море
+Berlin	Берлин
+Bermuda	Бермуды
+Bethlehem	Вифлеем
+Bhutan	Бутан
+Bible	библия
+Black Death	чёрная смерть
+Black Sea	Чёрное море
+Bogota	Богота
+Bohemia	Богемия
+Bolivia	Боливия
+Bosnia	Босния
+Bosnia and Herzegovina	Босния и Герцеговина
+Bosphorus	Босфор
+Botswana	Ботсвана
+Brasil	Бразилия
+Bratislava	Братислава
+Brazil	Бразилия
+Breton	бретонский
+Breton	бретонец
+British	британец
+Bronze Age	Бронзовый век
+Brunei	Бруней Дарассалам
+Brussels	Брюссель
+Bucharest	Бухарест
+Budapest	Будапешт
+Buddha	Будда
+Buddhism	будизм
+Bulgaria	Болгария
+Bulgarian	болгарский
+Bulgarian	болгарин
+Burgundy	Бургундия
+Burkina Faso	Буркина-Фасо
+Burma	Бирма
+Burundi	Бурунди
+Byelorussian SSR	Белорусская ССР
+Byzantine Empire	Византийская империя
+CIS	СНГ
+Caaba	Кааба
+Cairo	Каир
+California	Калифорния
+Cambodia	Камбоджа
+Cameroon	Камерун
+Canada	Канада
+Canada goose	Канадская казарка
+Canadian	канадец
+Canadian	канадский
+Cancer	Рак
+Cape Town	Кейптаун
+Cape Verde	Кабо-Верде
+Cape of Good Hope	Мыс Доброй Надежды
+Caspian Sea	Каспийское море
+Catalan	каталонский
+Catalan	каталонец
+Catalonia	Каталония
+Caucasus	Кавказ
+Celt	кельт
+Celtic	кельтский
+Central African Republic	Центрально-африканская Республика
+Central Europe	Центральная Европа
+Chad	Чад
+Chechen	чеченский
+Cheddar cheese	Чеддер
+Chennai	Ченнаи
+Chile	Чили
+China	Китай
+Chinese	китайский язык
+Chinese	китайский
+Chinese	китаец
+Chinese	китайцы
+Chinese	мандаринский диалект
+Christ	Христос
+Christian	христианин
+Christian	христианский
+Christianity	христианство
+Christmas	Рождество
+Christmas tree	новогодняя ёлка
+Christopher	Христофор
+Cinderella	Зoлушкa
+Cleopatra	Клеопатра
+Coca-Cola	Кока-кола
+Cologne	Кёльн
+Colombia	Колумбия
+Colossus of Rhodes	Колосс Родосский
+Columbia	Колумбия
+Common Slavonic	праславянский язык
+Commonwealth of Independent States	Содружество Независимых Государств
+Comoros	Коморские острова
+Congo	Конго
+Constantinople	Константинополь
+Cook Islands	Кука острова
+Copenhagen	Копенгаген
+Cornish	Корнуэльский
+Costa Rica	Коста-Рика
+Crimean Tatar	крымскотатарский
+Croatia	Хорватия
+Croatian	хорватский
+Crusade	крестовый поход
+Cuba	Куба
+Cupid	Купидон
+Cyprus	Кипр
+Cyrillic	кириллица
+Czech	чешский
+Czech Republic	Чешская Республика
+Czechia	Чехия
+DNA	ДНК
+Damascus	Дамаск
+Daniel	Даниил
+Danish	датский
+Danube	Дунай
+Darius	Дарий
+David	Давид
+Dead Sea	Мёртвое море
+December	декабрь
+Democritus	Демокрит
+Denmark	Дания
+Dervish	дервиш
+Djibouti	Джибути
+Dominica	Доминика
+Dominican Republic	Доминиканская Республика
+Dublin	Дублин
+Dubrovnik	Дубровник
+Dutch	голландский
+Dutch	голландец
+EU	Европейский
+Earth	Земля
+East Timor	Восточный Тимор
+Easter	Пасха
+Easter Island	остров Пасхи
+Easter egg	Пасхальное яйцо
+Eastern Europe	Восточная Европа
+Ecuador	Эквадор
+Edinburgh	Эдинбург
+Egypt	Египет
+Egyptian	египтянин
+Egyptian	египетский
+El Salvador	Сальвадор
+Elizabeth	Елизавета
+England	Англия
+English	английский
+English	англичанин
+Englishman	англичанин
+Epirus	Эпир
+Equatorial Guinea	Экваториальная Гвинея
+Eric	Эрич
+Eritrea	Эритрия
+Esau	Исав
+Esperanto	эсперанто
+Estonia	Эстония
+Estonian	эстонский
+Ethiopia	Эфиопия
+Euclidean geometry	евклидова геометрия
+Europe	Европа
+European Central Bank	Европейский центральный банк
+European Union	Европейский союз
+European bison	зубр
+Eve	Ева
+Falkland Islands	Фолклендские острова
+Faroe Islands	Фарерские острова
+Faroese	фарерский
+February	февраль
+Ferris wheel	колесо обозрения
+Fez	Фес
+Fiji	Фиджи
+Finland	Финляндия
+Finn	финн
+Finnish	финский
+Flanders	Фландрия
+Flemish	фламандский
+Fomalhaut	Фомальгаут
+France	Франция
+French	французский
+French	французы
+French Guiana	Французская Гвиана
+Friday	пятница
+GDP	ВНП
+Gabon	Габон
+Galicia	Галиция
+Gambia	Гамбия
+Ganges	Ганг
+Gemini	Близнецы
+Genesis	Книга Бытие
+Geneva	Женева
+Genoa	Генуя
+George	Юрий
+Georgetown	Джорджтаун
+Georgia	Грузия
+Georgian	грузинский
+Georgian	грузин
+German	немецкий
+German	немец
+Germany	Германия
+Ghana	Гана
+Gibraltar	Гибралтар
+Glasgow	Глазго
+Gnosticism	гностицизм
+God	бог
+Goddess	богиня
+Golden Gate Bridge	Золотые Ворота
+Good Friday	страстная пятница
+Great Britain	Великобритания
+Great Pyramid of Giza	пирамида Хеопса
+Greece	Греция
+Greek	греческий
+Greek	грек
+Greenland	Гренландия
+Greenlandic	гренландский язык
+Grenada	Гренада
+Guadeloupe	Гваделупа
+Guam	Гуам
+Guatemala	Гватемала
+Guernsey	Гернси
+Guinea	Гвинея
+Guinea-Bissau	Гвинея-Бисау
+Gujarati	Гуярати
+Gulf of Bothnia	Ботнический залив
+Gulf of Finland	Финский залив
+Gulf of Riga	Рижский залив
+Guyana	Гайана
+Gypsy	цыган
+Haapsalu	Хаапсалу
+Habakkuk	Аввакум
+Haiti	Гаити
+Hanukkah	Ханука
+Happy New Year	С Новым годом
+Havana	Гавана
+Hawaii	Гавайи
+Hebrew	иврит
+Hebrew	еврейский
+Hebrew	еврей
+Hegira	геджра
+Helen	Елена
+Helsinki	Хельсинки
+Henry	Genrikh
+Hezbollah	хесболлах
+Hijra	геджра
+Hindi	хинди
+Hinduism	индуизм
+Holland	Голландия
+Holy Ghost	Святой Дух
+Holy Grail	Святой Грааль
+Honduras	Гондурас
+How old are you?	сколько вам лет
+Hubble constant	закон Хаббла
+Hungarian	венгерский язык
+Hungarian	венгерец
+Hungarian	венгерский
+Hungarian notation	венгерская нотация
+Hungary	Венгрия
+I	я
+I don't know	не знаю
+I don't understand	не понимаю
+I love you	Я вaс люблю
+I think so	я так думаю
+I'm fine, thank you	спасибо, хорошо
+I'm in love with you	Я полюбил тебя
+Iceland	Исландия
+India	Индия
+Indian Ocean	Индийский океан
+Indonesia	Индонезия
+Interlingua	интерлингва
+International Phonetic Alphabet	международный фонетический алфавит
+Internet	интернет
+Internet Protocol	межсетевой протокол
+Iran	Иран
+Iraq	Ирак
+Iraqi	Иракско
+Ireland	Ирландия
+Irene	Ирина
+Irish	ирландский
+Irish	ирландец
+Irish Sea	Ирландское море
+Iron Age	железный век
+Is it going to rain?	Будет дождь?
+Isaac	Исаак
+Islam	ислам
+Islamic	исламский
+Israel	Израиль
+Istanbul	Стамбул
+Italian	итальянский
+Italian	итальянец
+Italy	Италия
+Ivory Coast	Кот-д'Ивуар
+Ixion	Иксион
+Ixion	28978 Иксион
+Jacob	Иаков
+Jainism	Джайнизм
+Jalalabad	Джалалабад
+Jamaica	Ямайка
+James	Яков
+Jane	Иванна
+January	январь
+Janus	Янус
+Japan	Япония
+Japanese	японский
+Japanese	японец
+Jehovah	Иегова
+Jehovah's Witnesses	Свидетели Иеговы
+Jehovah's Witnesses	свидетель Иеговы
+Jerusalem	Иерусалим
+Jesus	Иисус
+Jesus Christ	Иисус Христос
+Jew	иудей
+Jew's harp	варган
+Jewish	еврейский
+Joachim	Аким
+John	Иван
+John	Иоанн
+Jordan	Иордания
+Jordan	Иордан
+Joseph	Иосиф
+Judaism	иудаизм
+Julia	Юлия, (Julija)
+July	июль
+June	июнь
+Jupiter	Юпитер
+Justin	Юстин
+Kabul	Кабул
+Kali	Кали
+Karachi	Карачи
+Karelian	карельский
+Karlovac	Карловац
+Kashubian	кашубский
+Kazakhstan	Казахстан
+Kazan	Казань
+Kenya	Кения
+Khartoum	Хартум
+Khrushchev	Хрущёв
+Kiev	Киев
+Kiribati	Кирибати
+Klingon	клингонский
+Kohtla-Järve	Кохтла-Ярве
+Korea	Корея
+Korean	корейский
+Korean	кореец
+Kosovo	Косово
+Kurdish	курдский
+Kuwait	Кувейт
+Kyoto	Киото
+Kyrgyzstan	Киргизстан
+Lao	лаосец
+Lao	лаосский
+Laos	Лаос
+Laotian	лаосец
+Laotian	лаосский
+Latin	латинский язык
+Latin	латинский
+Latin	римлянин
+Latin	римский
+Latin	романский
+Latin alphabet	латиница
+Latvia	Латвия
+Latvian	латышский
+Latvian	латыш
+Laurence	Лаврентий
+Lebanon	Ливан
+Leo	Лев
+Lesotho	Лесото
+Liberia	Либерия
+Libra	Весы
+Libya	Ливия
+Liechtenstein	Лихтенштейн
+Lisbon	Лиссабон
+Lithuania	Литва
+Lithuanian	литовский язык
+Lithuanian	литовец
+Lithuanian	литовский
+Little Red Riding Hood	Красная Шапочка
+Liverpool	Ливерпуль
+Livonian	ливский
+London	Лондон
+London	лондонский
+Lucian	Лукиан
+Luke	Лука
+Luxembourg	Люксембург
+Macedonia	Македония
+Macedonian	македонский
+Macedonian	македонец
+Madagascar	Мадагаскар
+Malawi	Малави
+Malay	малайский
+Malaysia	Малайзия
+Maldives	Мальдивы
+Mali	Мали
+Malta	Мальта
+Man	человек
+Mandarin	мандаринский
+Manila hemp	манильская пенька
+Manitoba	Манитоба
+March	март
+Margaret	Маргарита
+Mark	Марк
+Mars	Марс
+Marshall Islands	Маршалловы острова
+Marshallese	маршалльский
+Martha	Марфа
+Martian	марсианин
+Martin	Мартин
+Martinique	Мартиника
+Marxism	мaрксизм
+Mary	Мария
+Matthew	Матвей
+Mauritania	Мавритания
+Mauritius	Маврикий
+May	май
+Mayotte	Майотта
+Mazandaran	Мазендеран
+McDonald's	Макдональдс
+Mediterranean Sea	Средиземное море
+Mercury	Меркурий
+Merry Christmas	С Рождеством Христовым
+Merry Christmas and a Happy New Year!	С Рождеством Христовым и с Новым годом
+Mesolithic	Мезолит
+Meuse	Маас
+Mexico	Мексика
+Mexico	Мехико
+Mexico City	Мехико
+Micah	Михей
+Michael	Михаил
+Mickey Mouse	Микки Маус
+Micronesia	Микронезия
+Milan	Милан
+Milky Way	Млечный путь
+Miriam	Мариамна
+Mississippi	Миссисипи
+Missouri	Миссури
+Mohammad	Мухаммед
+Moksha	мокшанский
+Moldova	Молдова
+Monaco	Монако
+Monastir	Битола
+Monday	понедельник
+Mongolia	Монголия
+Mongolian	монгольский
+Mongolian	монгол
+Moon	Луна
+Morocco	Марокко
+Moscow	Москва
+Moses	Моисей
+Mount Everest	Эверест
+Mozambique	Мозамбик
+Muay Thai	тайский бокс
+Muggle	Маггл
+Muhammad	Мухаммед
+Munich	Мюнхен
+Muscat	Маскат
+Muse	муза
+Muslim	мусульманин
+Muslim	мусульманский
+Myanmar	Мьянма
+Möbius strip	лист Мёбиуса
+NATO	НАТО
+Nagykanizsa	Надьканижа
+Nahuatl	науатль
+Namibia	Намибия
+Naples	Неаполь
+Narva	Нарва
+Nauru	Науру
+Naypyidaw	Пьинмана
+Nenets	ненецкий
+Neolithic	Неолит
+Nepal	Непал
+Neptune	Нептун
+Netherlands	Нидерланды
+Netherlands	нидерландский
+New Delhi	Нью-Дели
+New Guinea	Новая Гвинея
+New Jersey	Нью-Джерси
+New Testament	Новый Завет
+New Year	Новый год
+New Year's Day	Новый год
+New York	Нью-Йорк
+New York	шт. Нью-Йорк
+New York City	Нью-Йорк
+New Zealand	Новая Зеландия
+Nicaragua	Никарагуа
+Nicholas	Николай
+Niger	Нигер
+Nigeria	Нигерия
+Nike	Ника
+Nile	Нил
+Niue	остров Ниуэ
+Noah	Ной
+Norfolk Island	Норфолкские острова
+North America	Северная Америка
+North Korea	Северная Корея
+North Pole	Северный полюс
+North Sea	Северное море
+Northern Europe	Северная Европа
+Northern Territory	Северная территория
+Norway	Норвегия
+Norwegian	норвежский
+Norwegian	норвежец
+November	ноябрь
+Novi Sad	Нови Сад
+Occam's razor	бритва Оккама
+Occitan	окситанский
+Oceania	Океания
+October	октябрь
+Odyssey	Одиссея
+Old Slavonic	праславянский язык
+Olympic Games	Олимпийские игры
+Olympic Winter Games	Зимние Олимпийские игры
+Oman	Оман
+Orinoco	Ориноко
+Orion	Орион
+Ouagadougou	Уагадугу
+Oxford	Оксфорд
+Pacific Ocean	Тихий океан
+Pakistan	Пакистан
+Palau	Палау
+Paleolithic	Палеолит
+Palestine	Палестина
+Panama	Панама
+Pangaea	Пангея
+Papua New Guinea	Папуа-Новая Гвинея
+Paraguay	Парагвай
+Paris	Париж
+Paris	Парис
+Paul	Павел
+People's Republic of China	Китайская Народная Республика
+Persia	Персия
+Persian	перс
+Peru	Перу
+Peshawar	Пешавар
+Philippines	Филиппины
+Pisces	Рыбы
+Planck's constant	постоянная Планка
+Pliny	Плиний
+Plutarch	Плутарх
+Pluto	Плутон
+Poland	Польша
+Polish	польский
+Popemobile	папамобиль
+Portugal	Португалия
+Portuguese	португальский
+Prague	Прага
+Protestant	протестант
+Proto-Indo-European	праиндоевропейский язык
+Puerto Rico	Пуэрто-Рико
+Punjab	Панджаб
+Punjabi	пенджабский
+Pythagoras	Пифагор
+Pärnu	Пярну
+QED	ч. т. д.
+Qatar	Катар
+Quechua	кечуа
+Qur'an	Коран
+Rachel	Рахиль
+Ramadan	Рамадан
+Rangoon	Янгон
+Red Sea	Красное море
+Republic of Korea	Республика Коре́я
+Revelation	Апокалипсис
+Rhine	Рейн
+Richard	Ричард
+Robert	Роберт
+Roman	римский
+Romania	Румыния
+Rome	Рим
+Rome wasn't built in a day	Москва не сразу строилась
+Rosetta Stone	Розеттский камень
+Roxanne	Роксана
+Russia	Россия
+Russian	русский
+Russian	российский
+Russian Federation	Российская Федерация
+Rwanda	Руанда
+Saami	саамский язык
+Sagittarius	Стрелец
+Saint Kitts and Nevis	Сент-Кристофер и Невис
+Saint Lucia	Сент-Люсия
+Saint Vincent and the Grenadines	Сен-Винсент и Гренадины
+Sami	саамский язык
+Samoa	Самоа
+Samosata	Самосата
+Samuel	Самуил
+San Francisco	Сан-Франциско
+San Marino	Сан Марино
+Sanskrit	санскрит
+Santa Claus	Дед Мороз
+Sarah	Сара
+Sarajevo	Сараево
+Satan	Сатана
+Saturday	суббота
+Saturn	Сатурн
+Saudi Arabia	Саудовская Аравия
+Scandinavia	Скандинавия
+Schrödinger's cat	кот Шрёдингера
+Scorpio	Скорпион
+Scorpius	Скорпион
+Scotland	Шотландия
+Scottish Gaelic	шотландский
+Sea of Japan	Японское море
+Senegal	Сенегал
+Seoul	Сеул
+September	сентябрь
+Septuagint	Септуагинта
+Serb	серб
+Serbia and Montenegro	Сербия и Черногория
+Serbian	серб
+Serbian	сербский
+Seychelles	Сейшелы
+Shanghai	Шанхай
+Sherlock Holmes	Шерлок Холмс
+Shiraz	Шираз
+Siberia	Сибирь
+Sicily	Сицилия
+Sierra Leone	Сьерра-Леоне
+Singapore	Сингапур
+Skopje	Скопье
+Slav	славянин
+Sleeping Beauty	Спящая Красавица
+Slovakia	Словакия
+Slovene	словенский
+Slovene	словенец
+Slovenia	Словения
+Slovenian	словенский
+Slovenian	словенец
+Sofia	София
+Solomon Islands	Соломоновы острова
+Somalia	Сомали
+Sorbian	лужицкий
+South Africa	Южная Африка
+South America	Южная Америка
+South Korea	Южная Корея
+South Pole	Южный полюс
+Southern Europe	Южная Европа
+Soviet Union	Советский Союз
+Space Shuttle	многоразовый транспортный космический корабль
+Spain	Испания
+Spaniard	Испанец
+Spanish	испанский
+Spanish	испанец
+Spider-Man	Человек-паук
+Sri Lanka	Шри-Ланка
+Stephen	Степан
+Stone Age	Каменный век
+Sudan	Судан
+Sudeten	Судеты
+Sudetenland	Судетская область
+Suez Canal	Суэцкий канал
+Sumerian	шумерский язык
+Sun	Солнце
+Sunday	воскресенье
+Supreme Leader	высший руководитель
+Suriname	Суринам
+Svalbard	Свалбард
+Svalbard and Jan Mayen Islands	Свалбард и Ян Мейен острова
+Swahili	суахили
+Swaziland	Свазиленд
+Sweden	Швеция
+Switzerland	Швейцария
+Sydney	Сидней
+Syria	Сирия
+T-shirt	футболка
+TV	ТВ
+Taiwan	Тайвань
+Taiwanese	тайванец
+Taj Mahal	Тадж-Махал
+Tajik	таджикский
+Tajikistan	Таджикистан
+Tallinn	Таллин
+Tamil	тамил
+Tamil Tigers	Тамильские тигры
+Tanzania	Танзания
+Tartu	Тарту
+Tasmania	Тасмания
+Tatar	татарский язык
+Taurus	Телец
+Tehran	Тегеран
+Template:A-bomb/Translations	атомная бомба
+Template:color-colour (noun)	цвет
+Template:color-colour (verb)	красить
+Template:color-colour (verb)	краснеть
+Template:mirror/Translations	зеркало
+Template:program-programme-noun	программа
+Ten Commandments	десять заповедей
+Tetris	Тетрис
+Teutonic Knights	Тевтонский орден
+Thai	тайский
+Thailand	Таиланд
+Thames	Темза
+The Hague	Гаага
+Thomas	Фома
+Thursday	четверг
+Tibet	Тибет
+Tigris	Тигр
+Timişoara	Тимишоара
+Tirana	Тирана
+Togo	Того
+Tokelau	Токелау острова
+Tokyo	Токио
+Tonga	Тонга
+Transnistria	Приднестровье
+Transylvania	Трансильвания
+Trinidad and Tobago	Тринидад и Тобаго
+Tuesday	вторник
+Tunisia	Тунис
+Turkey	Турция
+Turkish	турецский
+Turkmenistan	Туркменистан
+Tuvalu	Тувалу
+UFO	НЛО
+USA	США
+USSR	СССР
+Uganda	Уганда
+Ukraine	Украина
+Ukrainian	украинский
+Ukrainian	украинец
+Uluru	Улуру
+Unicode	Юникод
+Union of Soviet Socialist Republics	Союз Советских Социалистических Республик
+United Arab Emirates	Объединённые Арабские Эмираты
+United Kingdom	Великобритания
+United Nations	Организация Объединённых Наций
+United States Army	Армия Соединённых Штатов Америки
+United States of America	Соединённые Штаты Америки
+Uranus	Уран
+Uruguay	Уругвай
+Uzbekistan	Узбекистан
+Vancouver	Ванкувер
+Vanuatu	Вануату
+Vatican City	Ватикан
+Venezuela	Венесуэла
+Venus	Венера
+Victoria	Виктория
+Vienna	Вена
+Vietnam	Вьетнам
+Vietnamese	вьетнамский
+Vietnamese	вьетнамец
+Vincent	Винсент (Winsent)
+Virgin Mary	Дева Мария
+Virgo	Дева
+Vulgar Latin	вульгарная латынь
+Wales	Уэльс
+Wallachia	Валахия
+Warsaw	Варшава
+Wednesday	среда
+Western Europe	Западная Европа
+Western Sahara	Западная Сахара
+Wheel of Fortune	Колесо удачи
+White House	Белый дом
+Wikimedia Foundation	Фонд Викимедиа
+Wikipedia	Википедия
+Wiktionary	Викисловарь
+Wiktionary:Votes/2007-10/Lemma entries/words	sc=Cyrl
+William	Vilgelm
+World War I	Первая мировая война
+World War II	Вторая Мировая война
+X-ray	рентген
+X-ray	рентгеновский луч
+Xerxes	Ксеркс
+Xhosa	коса
+Yangon	Янгон
+Yellow Sea	Жёлтое море
+Yemen	Йемен
+Yiddish	идиш
+Young's modulus	модуль Юнга
+Yugoslavia	Югославия
+Zagreb	Загреб
+Zambia	Замбия
+Zimbabwe	Зимбабве
+Zoroastrianism	Зороастризм
+Zürich	Цюрих
+a little	немного
+aardvark	трубкозуб
+abaca	текстильный банан
+abash	смущать
+abbey	аббатство
+abdomen	брюшная полость
+abduct	похитить
+abessive case	абессив
+abhor	ненавидеть
+ability	возможность
+ablative case	аблятивный падеж
+abolish	отменить
+abortion	аборт
+about	кругом
+about	приблизительно
+about	о
+about	почти
+about	рядом
+about	готов
+about	по
+about	вокруг
+about	в окружности
+abscess	гнойничок
+absinth	полынь
+absinthe	абсент
+absolute	абсолютный
+absolute zero	абсолютный нуль
+absolutive case	абсолютный падеж
+absolve	освобождать
+absorb	поглощать
+absorption	всасывание
+abstract	конспект
+abstract	абстрактный
+abuse	злоупотребление
+abuse	издевательство
+abuse	издеваться
+abuse	злоупотреблять
+accelerate	ускорять
+accelerate	ускоряться
+acceleration	ускорение
+accept	:ru:принять
+acceptance	одобрение
+according to	согласно
+according to	соответственно
+accordion	гармоника
+accumulator	аккумулятор
+accurate	аккуратный
+accusative	винительный падеж
+accusative	винительный
+accusative case	винительный падеж
+accusatory	обвинительно
+accuse	винить
+ace	туз
+ace	ас
+acid	кислый
+acid	кислота
+acid	кислятина
+acid	кислотный
+acid	тартрат диэтиламида лизергиновой кислоты
+acorn	жёлудь
+acquired immune deficiency syndrome	синдром приобретённого иммунодефицита
+acronym	акроним
+actinium	актиний
+action	действие
+activity	деятельность
+actor	актёр
+actor	деятель
+actress	актриса
+actual	действительный
+actual	нынешний
+actually	действительно
+acupuncture	акупунктура
+add	:ru:прибавить
+add	добавить
+addition	сложение
+adjective	имя прилaгaтeльнoe
+adjective	прилaгaтeльный
+adjust	отрегулировать
+administrator	администратор
+admiration	восхищение
+adult	взрослый
+adultery	прелюбодеяние
+advantage	преимущество
+adventure	авантюра
+adventure	приключение
+adverb	наречие
+advertisement	объявление
+advice	совет
+advocate	адвокат
+aeroplane	самолёт
+aesthetics	эстетика
+aetiology	этиология
+after	после
+after	за
+after	в честь
+after	из-за
+afternoon	пополудни
+again	опять
+against	против
+age	возраст
+age	эпоха
+age	поколение
+age	стареть
+age	старость
+aggressive	нападающий
+agnosticism	агностицизм
+ago	тому назад
+agoraphobia	Агорафобия
+agouti	агути
+agree	согласовывать
+agreement	согласие
+agreement	соглашение
+aid	помогать
+aim	цель
+air	воздух
+air force	военно-воздушные силы
+aircraft	летательный аппарат
+aircraft carrier	авиаматка
+airplane	самолёт
+airport	аэропорт
+al-Qaeda	Аль-Каида
+alarm clock	будильник
+albatross	альбатрос
+albeit	хотя
+albino	cуществительное
+albumen	белок
+alchemist	алхимик
+alcohol	алкогольный напиток
+alcohol	спирт
+alcoholic	алкоголик
+alcoholic	алкогольный
+alder	ольха
+ale	эль
+algebra	алгебра
+algorithm	алгоритм
+alibi	алиби
+alien	пришелец
+alien	иностранец
+alien	чужак
+alive	жив
+all	весь
+all	совсем
+allative case	аллативный падеж
+alligator	аллигатор
+alloy	сплав
+almond	миндаль
+almost	почти
+alone	одинокий
+alpaca	альпака
+alpha	альфа
+alphabet	алфавит
+alphabetic	алфавитный
+alphabetical	алфавитный
+alpine chough	альпийская галка
+already	уже
+also	тоже
+although	несмотря на то, что
+aluminium	алюминий
+aluminum	алюминий
+always	всегда
+amaranth	амарант
+amber	янтарь
+amber	янтарный
+ambigram	амбиграмма
+ambrosia	амброзия
+ambulance	санитарная машина
+ameliorate	улучшать
+americium	америций
+amethyst	аметист
+among	среди
+ampersand	амперсанд
+amphetamine	амфетамин
+amphibian	амфибия
+an	''not used''
+anachronistic	анахронистическо
+anagram	анаграмма
+anal sex	анальный секс
+analogy	аналогия
+analyst	аналитик
+anarchism	анархизм
+anarchy	анархия
+anatomy	анатомирование
+anchor	якорь
+anchovy	анчоус
+ancient	древний
+and	и
+angel	ангел
+anger	гнев
+angle	угол
+animal	животное
+animal	звериный
+anime	аниме
+ankle	лодыжка
+anno Domini	после
+annoy	надоедать
+annual	годичный
+answer	ответ
+answer	решение
+ant	муравей
+antelope	антилопа
+antenna	антенна
+anthill	муравейник
+anthrax	сибирская язва
+anthropology	антропология
+antichrist	антихрист
+anticlockwise	против часовой стрелки
+antimony	сурьма
+antler	рога
+anus	анус
+any	любой
+anyone	кто-либо
+apatite	апатит
+ape	обезьяна
+aphorism	афоризм
+apology	извинение
+apostasy	отступничество
+apostrophe	апостроф
+apothecary	аптекарь
+apothecary	аптека
+appendicitis	аппендицит
+appendix	приложение
+appendix	аппендикс
+apple	яблоко
+apple	яблоня
+apple pie	яблочный пирог
+apple tree	яблоня
+appreciate	высоко ценить
+appreciate	быть признательным
+appreciate	принимать во внимание
+appreciate	дорожать
+approximately	приблизительно
+apricot	абрикос
+aquatic	акватический
+arbitrary	произвольный
+archaeology	археология
+archaic	архаичный
+archangel	архангел
+archduke	эрцгерцог
+archer	лучник
+architect	архитектор
+architecture	архитектура
+archive	архив
+archive	архивировать
+are	суть
+are	''(not used)''
+are	ар
+area	площадь
+argent	серебро
+argent	серебристый
+arginine	аргинин
+argon	аргон
+argument	обоснование
+argument	спор
+arise	возникать
+arithmetic	арифметика
+arm	рука
+arm	оружие
+armpit	подмышка
+army	армия
+arrange	устраивать
+arrow	стрела
+arrow	стрелка
+arsenic	мышьяк
+art	искусство
+artery	артерия
+artichoke	(artishok koliuchii)
+article	статья
+article	артикль
+article	предмет
+as	как
+as	когда
+as	поскольку
+ash	пепел
+ash	ясень
+ask	спрашивать
+ask	просить
+aspect	вид
+aspirin	аспирин
+ass	осёл
+ass	жопа
+asshole	жопа
+asshole	засранец
+astatine	астат
+asteroid	астероид
+astronaut	космонавт
+astronomy	астрономия
+at	в
+at sign	собака
+at symbol	собака
+atheism	атеизм
+atheist	атеист
+atmosphere	атмосфера
+atom	атом
+atom bomb	атомная бомба
+atomic bomb	атомная бомба
+atrocity	злодеяние
+attach	прикреплять
+attack	атака
+attempt	пытаться
+attic	чердак
+aubergine	баклажан
+aunt	тётка
+aunt	(''colloq.'') тётя
+author	автор
+authority	авторитет
+autobiography	автобиография
+autocracy	автократия
+automobile	автомобиль
+autonomous	автономно
+autonomy	автономия
+autumn	осень
+availability	наличие
+avalanche	лавина
+avenue	проспект
+average	среднее
+aviation	авиация
+avocado	авокадо
+avoid	избегать
+awl	шило
+axe	топор
+axis	oсь
+axis of evil	ось зла
+ayatollah	Аятолла
+aye-aye	айе-айе
+azure	голубой
+baboon	бабуин
+babysitter	приходящая няня
+back	спина
+back	зад
+backbone	позвоночник
+backbone	стержень
+backgammon	нарды
+bacon	бекон
+bad	плохой
+badger	барсук
+bagel	бублик
+bagpipes	волынка
+baker	хлебопёк
+bakery	хлебопекарня
+baklava	пахлава
+balalaika	балалайка
+balance	весы
+balcony	балкон
+bald	лысый
+ball	мяч
+ball	шар
+ball	бал
+ball	яйцо
+ball	клубок
+ball	сфера
+balloon	воздушный
+balloon	аэростат
+ballpoint pen	шариковая ручка
+bamboo	бамбук
+banal	банальный
+banana	банан
+bandy	хоккей с мячом
+banjo	банджо (bándžo)
+bank	банк
+bank	берег
+bankrupt	банкрот
+bankruptcy	банкротство
+banner	знамя
+banner	транспарант
+banner	баннер
+baptism	крещение
+barbed wire	колючая проволока
+barber	брадобрей
+barefoot	босиком
+barefoot	босой
+barge	баржа
+barium	барий
+bark	кора
+bark	лаять
+bark	лай
+barley	ячмень
+barn owl	сипуха
+baron	барон
+baseball	бейсбол
+basilisk	василиск
+basket	корзина
+basketball	баскетбол
+bass	басовый
+bassoon	фагот
+bastard	1. ублюдок
+bat	летучая мышь
+bat	бита
+bath	ванна
+bath	ванная
+bath	купание
+bathroom	туалет
+bathroom	ванная
+battery	батарея
+battle	битва
+battleship	линейный корабль
+bay	залив
+bayonet	штык
+be	быть
+beach	пляж
+beach volleyball	пляжный волейбол
+bean	боб
+bear	медведь
+bear	рожать
+bear	носить
+bear	выносить
+beard	борода
+beast	монстр
+beautiful	красивый
+beaver	бобр
+because	потому что
+become	становиться
+bed	кровать
+bed	дно
+bed	клумба
+bedbug	постельный клоп
+bedroom	спальня
+bee	пчела
+beech	бук
+beef	говядина
+beehive	улей
+beer	пиво
+beeswax	пчелиный воск
+beet	свёкла
+beetle	жук
+before	перед
+before	до
+beg	просить
+beg	умолять
+begin	начать
+behavior	поведение
+behaviour	поведение
+behind	за
+behind	позади
+behold	смотреть
+being	(живое
+being	существование
+bell	колокол
+belly	живот
+belt	пояс
+bench	скамейка
+berkelium	беркелий
+berry	:ry:ягода
+beryllium	бериллий
+best	лучший
+better	лучше
+between	между
+beverage	напиток
+biathlon	биатлон
+bicycle	велосипед
+bidet	биде
+big	большой
+big toe	большой палец
+billiards	бильярды
+billion	биллион
+billion	триллион
+billionaire	миллиардер
+biochemistry	Биохимия
+biography	биография
+biological	биологический
+biology	биология
+birch	берёза
+bird	птица
+bird of prey	хищная птица
+birthday	день рождения
+birthmark	родинка
+bishop	епископ
+bishop	слон
+bit	бит
+bit	кусок
+bitch	сука
+bitter	горький
+bittern	выпь
+black	чёрный
+black	негр
+black grouse	тетерев
+black hole	чёрная дыра
+black woodpecker	желна
+black-headed gull	Озерная чайка
+blackberry	ежевика
+blackbird	чёрный дрозд
+blackboard	классная доска
+blacksmith	кузнец
+blade	лезвие
+blanket	покрывало
+bleed	кровоточить
+bless	благославлять
+bless you	будь здоров
+blindness	слепота
+blog	блог
+blood	кровь
+blood type	группа крови
+bloody	окровавленный
+bloody	кровавый
+blow	дуть
+blowjob	минет
+blue	синий
+blue whale	блювал
+blueberry	голубика
+boar	кабан
+boar	хряк
+board	доска
+boat	лодка
+body	тело
+body	корпус
+body	труп
+bodybuilder	культурист
+bodybuilding	культуризм
+bohrium	борий
+boil	кипятить
+bold	смелый
+bold	жирный
+bomb	бомба
+bon appétit	приятного аппетита
+bone	кость
+book	книга
+book	забронировать
+bookshop	книжный магазин
+bookstore	книжный магазин
+boot	ботинок
+border	граница
+bored	пробуренный
+boredom	скука
+boring	сверлильный
+born	рожденный
+boron	бор
+both	оба
+bottle	бутылка
+bottle	бутылочка
+bouquet	букет
+bovine spongiform encephalopathy	сумашедшее заболевание коровы
+bow	лук
+bow	смычок
+bow	нос
+bow	кланяться
+bow	поклон
+bow	гнуться
+bow	излучина
+bowl	чаша
+bowtie	бабочка
+box	коробка
+boxer	боксёр
+boxing	бокс
+boy	мальчик
+boy	мужчина
+boy	слуга
+boy	ребята
+bra	бюстгальтер
+brain	мозг
+brain stem	мозговой ствол
+brake	тормоз
+brake	тормозить
+bran	отруб
+branch	ветвь
+branch	отделение
+brass	латунь
+brave	храбрейший
+bravery	храбрость
+bread	хлеб
+break	разбивать
+break	разбиваться
+break	ломаться
+break	ломать
+break	наоушать
+break	перерыв
+breakfast	завтрак
+breakfast	завтракать
+breast	грудь
+breed	плодиться
+bribe	взятка
+bribery	взяточничество
+brick	кирпич
+bride	невеста
+bridegroom	жених
+bridge	мост
+bridge	бридж
+bright	яркий
+bright	умный
+bring	принести
+bromine	бром
+bronze	бронза
+bronze	бронзовый
+broom	метла
+broth	бульон
+brothel	бардак
+brother	брат
+brother-in-law	зять
+brother-in-law	шурин
+brother-in-law	деверь
+brown	коричневый
+brown dwarf	коричневые карлики
+brush	щётка
+bucket	ведро
+buckwheat	гречиха
+bud	почка
+buffalo	буйвол
+buffalo	бизон
+bug	насекомое
+bug	баг
+build	строить
+building	здание
+building	строительство
+bulky	объемистый
+bull	бык
+bull	булла
+bulldog	бульдог
+bullet	пуля
+bumblebee	шмель
+burdock	лопух
+bureaucracy	бюрократия
+burn	гореть
+burn	жечь
+burn	ожог
+burn	обжигать
+burn	сжигание
+bus	автобус
+business card	визитная карточка
+businessman	предприниматель
+businesswoman	коммерсантка
+bustard	дрофа
+busybody	проныра
+but	но
+but	кроме
+butcher	мясник
+butter	сливочное масло
+butter	намазывать
+butter up	льстить
+butterfly	бабочка
+butterfly	баттерфляй
+buttock	ягодица
+button	пуговица
+button	кнопка
+buy	покупать
+buzzard	канюк
+by	около
+by	к
+by	по
+by the way	кстати
+bye	пока
+byte	байт
+cabbage	капуста
+cable	трос
+cactus	кактус
+cadmium	кадмий
+caesium	цезий
+cake	торт
+calcium	кальций
+calculate	вычислять
+calculator	калькулятор
+calculus of variations	Вариационное исчисление
+calendar	календарь
+calf	телёнок
+calf	икра
+californium	калифорний
+caliph	халиф
+call	звать
+call	звонок
+call	крик
+call	звонить
+call	зов
+call	кричать
+call	зваться
+callsign	позывной
+camel	верблюд
+camera	фотоаппарат
+camouflage	камуфляж
+campaign	кампания
+can	мочь
+can	бидон
+can	консервная банка
+can	лейка
+can	консервировать
+canary	кaнaрeйкa
+cancer	рак
+candidate	кандидат
+candle	свеча
+candlestick	канделябр
+cane	трость
+cane	тростник
+cannabis	конопля
+cannon	пушка
+capercaillie	глухарь
+capillary	капилляр
+capital	столица
+capital	капитал
+capital	заглавная буква
+capitalism	капитализм
+car	машина
+car	вагон
+car	кабина
+caramel	карамель
+carbon	углерод
+carbon	уголь
+carbon	копировальная бумага
+carbon dioxide	двуокись углерода
+carbon monoxide	окись углерода
+carboxylic acid	Карбоновые кислоты
+cardinal	количественное числительное
+cardinal	кардинал
+cardinal	главный
+cardinal	количественный
+cardinal number	кардинальное число
+cardinal number	мощность множества
+cardinal number	количественное числительное
+carefree	беззаботный
+carp	карп
+carpenter	плотник
+carpet	ковëр
+carrot	морковь
+carry	нести
+case	падеж
+case	ящик
+case	случай
+case	судебное дело
+cash	наличные
+caste	каста
+castle	ладья
+castling	рокировка
+castration	кастрация
+cat	кот
+cat	кошка
+catalogue	каталог
+catamaran	катамаран
+catapult	катапульта
+category	категория
+caterpillar	гусеница
+catfish	сом
+cathedral	собор
+catheter	катетер
+cattle	скот
+cauliflower	цветная капуста
+cause	причинять
+cave	подземелье
+caviar	икра
+cease	прекращать
+cedar	кедр
+cedilla	седиль
+ceiling	потолок
+celery	сельдерей
+cell	клетка
+cell	камера
+cell	келья
+cell phone	сотовый телефон
+cellulose	целлюлоза
+cemetery	кладбище
+cenotaph	кенотаф
+cent	цент
+centimetre	сантиметр
+century	столетие
+century	центурия
+ceramic	керамика
+cerium	церий
+chaffinch	зяблик
+chain	цепь
+chain	сеть
+chair	стул
+chalcedony	халцедон
+chalk	мел
+chamber	комната
+chamois	серна
+champagne	шампанское
+chandelier	люстра
+change	изменяться
+change	изменять
+change	заменять
+channel	направлять
+chaos	хаос
+chaos theory	теория хаоса
+chapter	глава
+character	персонаж
+character	характер
+character	буква
+charcoal	уголь
+chase	гнаться
+chase	погоня
+chaulk	мел
+cheap	дешёвый
+cheap	низкопробный
+check	шах
+check	чек
+check	счёт
+checkmate	шах и мат
+checksum	контрольная сумма
+cheek	щека
+cheers	за ваше здоровье
+cheese	сыр
+cheetah	гепард
+chemical	химический
+chemist	химик
+cheque	чек
+cherry	черешня
+cherry	вишня
+chess	шахматы
+chessboard	шахматная доска
+chest	грудь
+chest	сундук
+chestnut	каштан
+chew	жевать
+chewing gum	жевачка
+chick	цыпленок
+chick	птенец
+chick	цыпочка
+chicken	цыплёнок
+chicken	курятина
+chicken	трус
+child	ребёнок
+chimney	труба
+chimpanzee	шимпанзе
+chin	подбородок
+chisel	долото
+chlorine	хлор
+chlorophyll	хлорофилл
+chocolate	шоколад
+chocolate	шоколадка
+chocolate	шоколадный
+choice	выбор
+choose	выбирать
+chord	аккорд
+chromium	хром
+chromosome	хромосома
+church	церковь
+cicada	цикада
+cigar	сигара
+cigarette	сигарета
+cinema	кинотеатр
+cinema	кинофильм
+cinema	кино
+cinnamon	корица
+cinnamon	коричное дерево
+circle	окружность
+circle	круг
+circle	орбита
+circle	окружать
+circle	кружиться
+circle	кружить
+circumference	длина окружности
+circumstance	обстоятельство
+city	город
+city	городской
+civil war	гражданская война
+clarinet	кларнет
+classification	классифицирование
+claustrophobia	клаустрофобия
+clay	глина
+cleaver	большой
+cliché	клише
+client	клиент
+cliff	скала
+climb	подниматься
+clitoris	клитор
+clock	часы
+clockwise	по часовой стрелке
+close	закрывать
+close	близкий
+closed	закрытый
+cloth	ткань
+cloth	тряпка
+clothes	одежда
+cloud	облако
+cloudberry	морошка
+clove	гвоздика
+clown	клоун
+club	клуб
+club	дубинка
+club	трефа
+clubs	трефы
+coach	тренер
+coal	уголь
+coarse	грубый
+coast	морской берег
+coat	пальто
+coat	слой
+coat of arms	герб
+cobalt	кобальт
+cobra	кобра
+cocaine	кокаин
+cock	хуй
+cock	петух
+cock-a-doodle-doo	кукареку
+cockroach	таракан
+cocktail	коктейль
+cocoa	какао порошок
+cocoa	какао
+coconut	кокос
+cod	треска
+code	код
+coeliac disease	целиакия
+coffee	кофе
+coffee	кофейное дерево
+coffee	кофейный
+cognac	коньяк
+coin	монета
+cola	кола
+cold	холодный
+cold	простуда
+cold	холод
+cold fusion	холодный термоядерный синтез
+collaborate	сотрудничать
+collaborate	сотрудничать с врагом
+collage	коллаж
+collar	ворот
+collarbone	ключица
+colloquial	разговорный
+colon	двоеточие
+colon	ободочная кишка
+colonel	полковник
+colony	колония
+colt	жеребёнок
+comb	расчёска
+comb	гребень
+come	приходить
+comet	комета
+comfortable	удобный
+comma	запятая
+common	обычный
+common	общий
+common gull	чайка
+common kestrel	пустельга обыкновенная
+commonwealth	содружество
+communism	коммунизм
+communist	коммунист
+communist	коммунистический
+company	компания
+comparative	сравнительный
+compass	компас
+complete	вполне
+complete	завершить
+complex	сложный
+complex number	комплексное число
+complexity	сложность
+component	компонент
+computer	компьютер
+computer game	компьютерная игра
+comrade	товарищ
+concentration camp	концлагерь
+concrete	бетон
+concrete	бетонный
+concrete	конкретный
+condition	условие
+condom	презерватив
+conductor	дирижёр
+conductor	проводник
+conductor	кондуктор
+conflagration	большой пожар
+conflict	конфликт
+conjunction	союз
+connoisseur	знаток
+conscious	сознающий
+consonant	согласный
+consonant	согласная
+constellation	созвездие
+consumption	потребление
+contact	контактировать
+contact	контакт
+contact lens	контактный линз
+contagion	инфекция
+contemporary	современный
+contempt	презрение
+continent	материк
+contract	контракт
+contradict	противоречить
+contradict	перечить
+convex	выпуклый
+cook	повар
+cook	готовить
+cook	готовиться
+cooked	сваренный
+cool	прохладный
+coordinate	координаты
+copper	медь
+copper	медный
+copra	копра
+copy	копировать
+copy	подражать
+copy	принять
+copyright	авторское право
+cor anglais	английский рожок
+coral	коралловый полип
+core	ядро
+corn	кукуруза
+corner	угол
+corporation	корпорация
+corpse	труп
+corridor	коридор
+corset	грация
+cotton	хлопок
+cough	кашлять
+cough	кашель
+count	граф
+count	считать
+countess	графиня
+country	страна
+country	деревня
+country	деревенский
+coup d'état	путч
+couple	пара
+courage	мужество
+cover	крышка
+cover	прятать
+cover	обложка
+cow	корова
+coward	трус
+coyote	койот
+crab	краб
+cranberry	клюква
+crane	журавль
+crane	кран
+crayfish	рак
+crayon	цветной карандаш
+crazy	сумасшедший
+cream	сливки
+create	создавать
+creation	мироздание
+creation	созидание
+creative	творческий
+creator	создатель
+creep	ползти
+cricket	сверчок
+crisis	кризис
+crocodile	крокодил
+croissant	круассан
+cross	крест
+cross	пересекать
+crossbow	арбалет
+crow	ворона
+crowbar	ломик
+crown	корона
+crude oil	сырая нефть
+cruel	жестокий
+crust	корка
+cry	плакать
+cry	плач
+cry	кричать
+cry	крик
+crystal	кристалл
+crystal	хрусталь
+cub	детёныш
+cube	куб
+cube	возводить в куб
+cubism	кубизм
+cuckoo	кукушка
+cucumber	огурец
+culture	культура
+cum	кончать
+cunt	пизда
+cup	чашка
+cure	лечение
+cure	вылечить
+curiosity	любопытство
+curium	кюрий
+currant	смородина
+currency	валюта
+current	поток
+current	ток
+current	нынешний
+curriculum vitae	резюме
+curve	изгиб
+cushion	подушка
+customer	клиент
+cyan	голубой цвет
+cycle	цикл
+cylinder	цилиндр
+cymbal	цимбалы
+cypress	кипарис
+czar	царь
+czarina	царица
+dachshund	такса
+daddy	папа
+daffodil	жёлтый нарцисс
+dagger	кинжал
+daily	ежедневный
+daily	ежедневно
+dam	плотина
+damage	повреждение
+damage	повреждать
+dance	танец
+dancer	танцор
+dandelion	одуванчик
+dangerous	опасный
+dare	сметь
+dark	тёмный
+dark	тьма
+dark	темнота
+dark	неведение
+darkness	темнота
+darmstadtium	дармштадтий
+date	финик
+date	дата
+date	встреча
+dative	дательный падеж
+dative	дательный
+dative case	дательный падеж
+daughter	дочь
+daughter-in-law	невестка
+dawn	восход солнца
+dawn	наступать
+day	сутки
+day	день
+day after tomorrow	послезавтрашний
+day after tomorrow	послезавтра
+day before yesterday	позавчера
+day before yesterday	позавчерашний
+dead	мертвый
+deadly nightshade	белладонна
+deaf	глухой
+death	смерть
+debate	дебат
+debate	дискутировать
+debtor	должник
+decade	десятилетие
+decay	гнить
+deceased	покойный
+deceased	покойник
+deceive	обманывать
+declare	объявлять
+declension	склонение
+deed	поступок
+deep	глубокий
+deer	олень
+defamation	диффамация
+defeatism	пораженчество
+defecate	испражняться
+defendant	обвиняемый
+definite article	определённый артикль
+deism	деизм
+delirium	делирий
+democracy	демократия
+democratic	демократический
+den	нора
+dentist	зубной врач
+deodorant	Дезодорант
+deoxyribonucleic acid	дезоксирибонуклеиновая кислота
+depression	депрессия
+description	описание
+desert	пустыня
+desert	дезертировать
+design	конструкция
+desire	желание
+despise	презреть
+destroy	разрушать
+deuterium	дейтерий
+development	развитие
+devil	чёрт
+devil	дьявол
+dew	роса
+dialect	диалект
+dialectology	диалектология
+diameter	диаметр
+diamond	алмаз
+diary	дневник
+dick	хуй
+dictionary	словарь
+die	умирать
+die	кость
+difference	разница
+difference	различие
+difference	отличительная черта
+different	другой
+different	разный
+difficult	трудный
+digestion	пищеварение
+digit	цифра
+dill	укроп
+dinner	ужин
+dinosaur	динозавр
+dirty	грязный
+dirty	пачкать
+discussion	обсуждение
+disease	заболевание
+disgust	отвращение
+dish	тарелка
+dish	блюдо
+diskette	дискет
+district	район
+ditch	канава
+division	деление
+division	раздел
+division	дивизия
+do	делать
+do you speak English	Вы говорите по-английски
+dobra	Добра
+doctor	доктор
+dodo	додо
+dog	собака
+doll	кукла
+dollar	доллар
+dolphin	дельфин
+donation	пожертвование
+donkey	осёл
+door	дверь
+dormouse	соня полчок
+dot	точка
+double	двойной
+doubt	сомнение
+dough	тесто
+doughnut	пончик
+dove	голубь
+down	ниже
+dowry	приданое
+doxology	доксология
+dozen	дюжина
+dragon	дракон
+dragonfly	стрекоза
+drastic	сильнодействующий (silnodéistvuiushy), ru
+draw	рисовать
+drawer	ящик
+dream	сон
+dream	видеть сон
+dream	мечтать
+dress	платье
+dress	одевать
+dress	одеваться
+drink	пить
+drink	напиток
+drink	питьё
+drive	ехать
+driver	водитель
+driver	драйвер
+dromedary	дромадер
+drone	трутень
+drop	капля
+drown	потонуть
+drum	барабан
+drunk	пьяный
+drunk	пьяница
+dry	сухой
+dry	высыхать
+dry	сушить
+duchess	герцогиня
+duck	утка
+duckling	утёнок
+dude	чувак
+duke	герцог
+dulcimer	дульцимер
+duma	государственная дума
+dune	дюна
+dung	кал
+dungeon	донжон
+dust	пыль
+duty	долг
+duty	пошлина
+dwarf	карлик
+dwarf planet	карликовая планета
+dynamics	динамика
+e-mail	электронная почта
+e.g.	напр.
+each	каждый
+eagle	орёл
+eagle owl	филин
+ear	ухо
+ear	пахать
+early	рано
+earring	серьга
+earth	земля
+earth	заземлять
+earthquake	землетрясение
+earthworm	дождевой червь
+earwax	сера
+earwig	уховертка
+east	восток
+easy	лёгкий
+eat	есть
+ebb	отлив
+ebony	чёрное дерево
+echidna	ехидна
+eclipse	затмение
+eco-	эко-
+ecology	экология
+economics	эконóмика
+economy	экономика
+ecumenism	Экуменизм
+eczema	экзема
+edit	изменять
+edition	издание
+eel	угорь
+egg	(''shelled egg'') яйцо
+egg yolk	желток
+ego	эго
+eigenvalue	собственное значение
+eight	восемь
+eighteen	восемнадцать
+eighth	восьмой
+eighty	восемьдесят
+eighty-eight	восемьдесят восемь
+eighty-five	восемьдесят пять
+eighty-four	восемьдесят четыре
+eighty-nine	восемьдесят девять
+eighty-one	восемьдесят один
+eighty-seven	восемьдесят семь
+eighty-six	восемьдесят шесть
+eighty-three	восемьдесят три
+eighty-two	восемьдесят два
+elderberry	бузина
+electricity	электричество
+electromagnet	электромагнит
+electromagnetism	электричество
+electron	электрон
+elegant	шикарный
+elephant	слон
+elevator	лифт
+eleven	одиннадцать
+eleventh	одиннадцатый
+elf	эльф
+elixir of life	жизненный эликсир
+elk	лось
+ellipse	эллипс
+elm	вяз
+embed	вделывать
+embezzlement	хищение
+embryo	зародыш
+emerald	изумруд
+emotion	эмоция
+emperor	император
+empire	империя
+empty set	пустое множество
+emu	эму
+encephalopathy	энцефалопатия
+encourage	ободрять
+encyclopaedia	энциклопедия
+encyclopedia	энциклопедия
+end	конец
+end	кончиться
+end	окончать
+enemy	враг
+energy	энергия
+engine	двигатель
+engineer	инженер
+engineer	машинист
+english	russian
+enigma	загадка
+enough	достаточно
+enter	входить
+enthusiasm	энтузиазм
+entropy	Энтропия
+envelope	конверт
+environment	среда
+envy	зависть
+ephemeral	эфемерный
+epiglottis	надгортанник
+epoch	эпоха
+equation	уравнение
+equator	экватор
+equilibrium	равновесие
+equinox	равноденствие
+era	эра
+ereyesterday	позавчера
+ereyesterday	позавчерашний
+ergative case	эргативный падеж
+ergo	поэтому
+ermine	горностай
+erotic	эротический
+escalator	эскалатор
+eschatology	эсхатология
+essay	эссе
+establishment	основание
+et cetera	и так далее
+etc.	и т.д.
+etcetera	и так далее
+eternal	вечный
+ethnic cleansing	этнические чистки
+etymology	этимология
+eucalyptus	эвкалипт
+eukaryote	эукариота
+eunuch	eвнух
+euro	евро
+euthanasia	эвтаназия
+evacuate	эвакуировать
+evacuation	опорожнение
+even	даже
+even	чётный
+even	ровный
+evening	вечер
+eventually	в конце концов
+every	каждый
+everything	всё
+everywhere	везде
+evil	злой
+evil	зло
+evolution	эволюция
+ewe	овца
+exactly	точно
+exaggerate	преувиличивать
+example	Пример
+excommunication	отлучение
+excrement	кал
+excuse me	Простите меня
+exist	существовать
+exit	выход
+expensive	дорогой
+experience	испытывать
+experiment	эксперимент
+explain	объяснить
+expression	выражение
+extensive	обширный
+extraterrestrial	инопланетянин
+eye	глаз
+eye	ушко
+eye	глазок
+eyebrow	бровь
+eyelash	ресница
+eyelid	веко
+face	лицо
+face	грань
+face	выражение лица
+face	предстать
+fact	факт
+factorial	Факториал
+factory	завод
+faeces	испражнения
+faggot	педик
+failure	провал
+fairy	фея
+fairy tale	сказка
+faith	вера
+falcon	сокол
+fall	падать
+fall	падение
+fall in love	влюбиться
+fallow deer	лань
+family	семья
+family	семейство
+family	род
+family	семейный
+fan	вентилятор
+fan	веер
+fan	болельщик
+fang	клык
+far	дальный
+fare	плата за проезд
+farm	ферма
+farmer	крeстянин
+fart	пердеть
+fart	пердь
+fast food	полуфабрикаты
+fat	жирный
+fat	жир
+fat	толстый
+fate	судьба
+father	отец
+father	святой
+father-in-law	(''wife’s father-in-law'') свёкор
+fatherland	отечество
+fathom	морская сажень
+faucet	кран
+fault	ошибка
+fawn	оленёнок
+fax	факс
+façade	фасад
+fear	бояться
+fear	страх
+feather	перо
+feature	особенность
+feceate	испражняться
+feces	испражнения
+fee	гонорар
+feed	кормить
+feel	ощущать
+feeling	чувство
+feeling	ощущение
+feeling	предчувствие
+feeling	гордость
+feeling	симпатия
+female	женский
+female	самка
+feminine	женский
+fence	забор
+fermata	фермата
+ferret	хорёк африканский
+ferry	паром
+fetus	плод
+fever	лихорадка
+few	немногий
+fiasco	фиаско
+field	пастбище
+field	поле
+field	область
+fifteen	пятнадцать
+fifth	пятый
+fifty	пятьдесят
+fifty-eight	пятьдесят восемь
+fifty-five	пятьдесят пять
+fifty-four	пятьдесят четыре
+fifty-nine	пятьдесят девять
+fifty-one	пятьдесят один
+fifty-seven	пятьдесят семь
+fifty-six	пятьдесят шесть
+fifty-three	пятьдесят три
+fifty-two	пятьдесят два
+fig	инжир
+fig	инжирное дерево
+fight	бороться
+figure	цифра
+figure	рисунок
+figure	фигура
+figure skating	фигурное катание
+file	файл
+file	напильник
+file	дело
+file	подпиливать
+file	колонна
+fill	заполнить
+finch	зяблик
+find	найти
+fine	штраф
+finger	палец
+fingerprint	отпечаток пальца
+fir	ель
+fire	горение
+fire	пожар
+fire	печь
+fire	огонь
+fire	увольнять
+fire	стрелять
+fire	обжигать
+firefighter	пожарный
+firefly	светляк
+fireplace	камин
+first	первый
+fish	рыба
+fish	рыбачить
+fish	рыбный
+fisher	рыбак
+fishing	рыбалка
+fishing rod	удочка
+fist	кулак
+five	пять
+five hundred	пятьсот
+flag	вымпел
+flame	пламя
+flamethrower	огнемёт
+flamingo	фламинго
+flat	плоский
+flax	лён
+flea	блоха
+flesh	мягкая ткань
+flex	напрягать
+flight	полёт
+flood	наводнение
+floor	пол
+floor	этаж
+floppy	гибкий
+flounder	камбала
+flow	течение
+flow	течь
+flow	прилив
+flower	цветок
+flower	цвести
+fluid	жидкость
+fluorine	фтор
+flute	флейта
+fly	муха
+fly	лететь
+fly	ширинка
+foal	жеребёнок
+foam	пена
+fodder	корм
+foetus	плод
+fog	туман
+fold	перегибать
+folder	папка
+font	шрифт
+food	еда
+fool	дурак
+foosball	кикер
+foot	нога
+foot	фут
+football	футбол
+for	потому что
+for	для
+for	к
+for	за
+for example	например
+forbid	запретить
+force	сила
+ford	брод
+forefinger	указательный палец
+forehead	лоб
+foreign	иностранный
+foreign	инородный
+foreign	чуждый
+forest	лес
+forget-me-not	незабудка
+fork	вилка
+fork	вилы
+fork	развилка
+formaldehyde	формальдегид
+formula	формула
+forty	сорок
+forty-eight	сорок восемь
+forty-five	сорок пять
+forty-four	сорок четыре
+forty-nine	сорок девять
+forty-one	сорок один
+forty-seven	сорок семь
+forty-six	сорок шесть
+forty-three	сорок три
+forty-two	сорок два
+forward	передний
+forward	пересылать
+forward	вперёд
+fountain	фонтан
+four	четыре
+four-stroke engine	четырёхтактный двигатель
+fourteen	четырнадцать
+fourth	четвёртый
+fox	лиса
+fox	ловкий
+francium	франций
+freckle	веснушка
+free	свободный
+free	бесплатный
+free	освобождать
+free	беспрепятственный
+freedom	свобода
+freedom of speech	свобода слова
+freeze	замерзать
+freeze	замораживать
+freeze	замирать
+french kiss	французский поцелуй
+frequency	частота
+frequent	частый
+fresh	свежий
+friend	приятель
+friend	друг
+friends	друзья
+friendship	дружба
+frog	лягушка
+from	из
+from scratch	с
+froth	пена
+fruit	плод
+fruit	гомик
+fuck	ебать
+fuck	трахать
+fuck	ебня
+fuck	заебать
+fuck	разъебать
+fuck	ёб
+fuck you	пошёл на хуй
+fuel	топливо
+full	полный
+full	сытый
+full moon	полнолуние
+function	функция
+functionality	функциональность
+funeral	похороны
+fungus	гриб
+furniture	мебель
+furrow	борозда
+future	будущее
+future	будущий
+future	будущее время
+galaxy	галактика
+galaxy	Млечный путь
+gallium	галлий
+game	игра
+garbage	отброс
+garden	сад
+garden	садовый
+garlic	чеснок
+gas chamber	газовая камера
+gas station	бензозаправочная станция
+gasoline	бензин
+gaucho	гаучо
+gay	гей
+gay	весёлый
+gay	яркий
+gazelle	газель
+gender	род
+gender	пол
+genie	джинн
+genitive	родительный падеж
+genitive	родительный
+genitive case	родительный падеж
+genius	гений
+genocide	геноцид
+genre	жанр
+geography	география
+geology	геология
+germanium	германий
+gerund	герундий
+gerund	деепричастие
+get lost	отвали
+ghost	привидение
+gift	пoдaрoк
+gift	дар
+giraffe	жираф
+girl	девчонка
+girlfriend	подруга
+girlfriend	приятельница
+give	давать
+give a blowjob	отсосать
+give me	дайте мне
+glacier	ледник
+glad	счастлив
+gland	железа
+glasnost	гласность
+glass	стекло
+glass	стакан
+glaucoma	глаукома
+global warming	глобальное потепление
+globalisation	глобализация
+glockenspiel	глокеншпиль
+glove	перчатка
+glue	клей
+gnat	мошка
+gneiss	гнейс
+gnu	гну
+go	ходить
+go	исчезать
+go	го
+goal	ворота
+goal	цель
+goal	гол
+goalkeeper	вратарь
+goat	коза
+goatee	козья́ бор́одка
+god	бог
+goddess	богиня
+gold	золото
+gold	золотой
+golden eagle	беркут
+goldfish	золотая рыбка
+goldsmith	кузнец золота
+golf	гольф
+gong	гонг
+good	добро
+good	хороший
+good day	добрый день
+good evening	добрый вечер
+good luck	удачи
+good morning	доброе утро
+goodbye	до свидания
+goods	товар
+google	гуглить
+goose	гусь
+gooseberry	крыжовник
+gorilla	горилла
+goshawk	тетеревятник
+gospel	евангелие
+gout	подагра
+government	правительство
+gram	грамм
+grammar	грамматика
+grand unification theory	теория великого объединения
+grandchild	внук
+granddaughter	внучка
+grandfather	дед
+grandmother	бабушка
+grandparent	дедушка
+grandson	внук
+grape	виноградина
+graph	граф
+graph theory	теория графов
+grass	трава
+grass	газон
+grass	травка
+grasshopper	кузнечик
+gratis	бесплатно
+gratitude	благодарность
+graveyard	кладбище
+gravity	тяжесть
+grease	сало
+great	великий
+great spotted woodpecker	пестрый дятел
+great tit	синица
+great-grandfather	прадед
+greed	алчность
+greedy	жадный
+green	зелёный
+green	неопытный
+green woodpecker	зелёный дятел
+greenhouse	теплица
+grey	серый
+grey heron	серая цапля
+greylag goose	серый гусь
+griffin	грифон
+griffon vulture	белоголовый сип
+groom	жених
+gross domestic product	валовой национальный продукт
+group	группа
+guard	беречь
+guard	стражник
+guess	догадка
+guess	угадать
+guest	гость
+guest	постоялец
+guide book	путеводитель
+guilt	вина
+guinea fowl	цесарка
+guinea pig	морская свинка
+guitar	гитара
+guitarist	гитарист
+gules	красный
+gull	чайка
+gullet	пищевод
+gum	десна
+gun	пистолет
+gun	орудие
+gunpowder	порох
+gypsy	цыган
+haddock	пикша
+hadron	адрон (adron)
+haemorrhage	кровоизлияние
+hafnium	гафний
+hail	град
+hail	идти
+hair	волосы
+hair	волос
+haircut	стрижка
+hajj	хадж
+half	половина
+half brother	единоутробный брат
+hallelujah	аллилуйя
+halo	нимб
+halva	халва
+ham	окорок
+hamburger	гамбургер
+hammer	молот
+hammock	гамак
+hamster	хомяк
+hand	рука
+hand	стрелка
+hand	карты
+hand	передавать
+hand	рабочий
+handball	гандбол
+handcuffs	наручники
+hangover	похмелье
+happen	происходить
+happiness	счастье
+happy	счастливый
+happy	удачный
+happy birthday	с днём рождения
+harbor	гавань
+harbour	гавань
+hard	твёрдый
+hard	тяжёлый
+hardly	едва
+hare	заяц
+harem	гарем
+harp	арфа
+harpoon	гарпун
+harpsichord	клавесин
+harrow	борона
+harsh	жестковатый
+harvestman	сенокосец
+hassium	хассий
+hat	шляпа
+hate	ненавидеть
+hatred	ненависть
+have	иметь
+hawk	ястреб
+hawthorn	боярышник
+hay	сено
+hay	собирать сено
+hazel	лесной орех
+hazelnut	лесной орех
+he	он
+head	голова
+head	глава
+head	возглавлять
+head	направляться
+health	здоровье
+hear	слышать
+heart	сердце
+heart	черви
+heart attack	острый инфаркт миокарда
+hearth	очаг
+heat	тепло
+heat	теплота
+heather	вереск
+heaven	небо
+heavy	тяжелый
+hedgehog	ёж
+heel	пятка
+height	высота
+helicopter	вертолёт
+helium	гелий
+hell	ад
+hello	привет
+hello	алло
+hello	ау
+helmet	шлем
+help	помощь
+help	помогать
+help	помогите
+hemisphere	полушарие
+hemorrhage	кровоизлияние
+hemp	конопля
+hen	курица
+henna	хна
+here	здесь
+here	сюда
+heretic	еретик
+hermaphrodite	гермафродит
+hernia	грыжа
+hero	герой
+heroin	героин
+heron	цапля
+herring	сельдь
+herself	сама
+heterosexuality	гетеросексуальность
+hi	привет
+hide	прятать
+hide	прятаться
+hide and seek	прятки
+high	высокий
+highway	шоссе
+hill	холм
+himself	сам
+hinder	мешать
+hinder	задний
+hinny	лошак
+hip	бедро
+hippopotamus	гиппопотам
+his	его
+history	история
+hitchhike	голосовать
+hither	сюда
+hobbit	хоббит
+hobby	хобби
+hockey	хоккей
+hoe	сапка
+holiday	праздник
+holiday	отгул
+holly	падуб
+holmium	гольмий
+home	дом
+homeland	родина
+homeopathy	гомеопатия
+homeostasis	гомеостаз
+homework	домашнее задание
+homogeneous	однороден
+homosexual	гомосексуалист
+homosexual	гомосексуальный
+homosexuality	гомосексуальность
+honest	честный
+honesty	добросовестность
+honey	мёд
+honey	душенька
+honey bee	пчела медоносная
+honeybee	пчела медоносная
+hoof	копыто
+hook	крюк
+hook	крючок
+hooray	ура
+hope	надеяться
+hope	надежда
+horizon	горизонт
+hormone	инкреть
+horn	рог
+horn	рожок
+hornet	шершень
+horny	злоебучий
+horse	лошадь
+horseradish	хрен
+horseshoe	подкова
+hospital	больница
+hostility	враждебность
+hot	горячий
+hot	острый
+hotel	гостиница
+hound	гончая
+hour	час
+hourglass	песочные часы
+house	дом
+house arrest	домашний арест
+house music	house
+housewife	домохозяйка
+how	как
+how are you	Как дела
+how much is it	сколько это стоит
+however	однако
+hug	обнимать
+hug	объятие
+huge	огромный
+human	человек
+human	человеческий
+human rights	права человека
+hummingbird	колибри
+humor	юмор
+humour	юмор
+hundred	сто
+hunger	голод
+hungry	гoлoдный
+hunt	охота
+hunt	охотиться
+hunter	охотник
+hurricane	ураган
+husband	муж
+hussar	гусар
+hut	хата
+hydrochloric acid	соляная кислота
+hydrogen	водород
+hyena	гиена
+hymn	гимн
+hyperbola	гипербола
+hypertension	гипертензия
+hyphen	дефис
+hypocrisy	лицемерие
+hyponym	гипоним
+i.e.	т. е.
+ibex	горный альпийский козел
+ice	лёд
+ice	мороженое
+ice cream	мороженое
+ice hockey	хоккей с шайбой
+iceberg	айсберг
+ichthyology	рыбоведение
+icicle	сосулька
+iconostasis	иконостас
+ideal	идеал
+ideal gas	Идеальный газ
+identity	тождественность
+idiom	идиома
+idiot	идиот
+idle	незанятый
+if	если
+if only	если бы только
+illness	нездоровье
+ilmenite	ильменит
+image	образ
+immediate	немедленно
+immortal	бессмертный
+immortality	бессмертие
+imperative	повелительное наклонение
+imperialism	империализм
+important	важный
+improve	улучшать
+in	в
+in person	лично
+in spite of	несмотря на
+in the flesh	лично
+in vain	напрасно
+incarcerate	заключить в турьму
+incest	кровосмешение
+inch	дюйм
+income	доход
+income tax	подоходный налог
+indefinite article	неопределённый член
+independence	независимость
+index	указатель
+indium	индий
+infarct	инфаркт
+inflation	инфляция
+inflection	склонение
+information	информация
+ingot	слиток
+inherit	унаследовать
+injury	рана
+ink	чернила
+innovation	нововведение
+insanity	безумие
+insect	насекомое
+inside out	наизнанку
+inside out	назубок
+insignificant	незначительный
+instrument	инструмент
+instrumental	творительный падеж
+instrumental case	творительный падеж
+insurgent	мятежник
+intelligence	разведка
+interesting	интересно
+interferon	интерферон
+interjection	междометие
+internal combustion engine	двигатель внутреннего сгорания
+international	международный
+interpreter	переводчик
+intersection	пересечение множеств
+intestine	кишка
+intransitive verb	непереходный глагол
+invasion	вторжение
+invisible	невидимый
+iodine	йод
+iridium	иридий
+iris	радужная оболочка
+iris	ирис
+iron	железо
+iron	утюг
+iron	гладить
+iron	железный
+irony	ирония
+is	есть
+island	остров
+it	он
+it	его
+it's all Greek to me	китайская грамота
+itself	себя
+ivory	слоновая кость
+jack	валет
+jack	домкрат
+jackal	шакал
+jackdaw	галка
+jaguar	ягуар
+jam	мармелад
+jar	кувшин
+jargon	жаргон
+jasmine	жасмин
+jaundice	желтуха
+jay	сойка
+jazz	джаз
+jelly	джем
+jelly	желе
+jellyfish	медуза
+jerk off	дрочить
+jetty	мол
+jihad	джихад
+joint	сустав
+joke	анекдот
+joke	шутка
+joke	шутить
+joule	джоуль
+journalism	Журналистика
+joy	радость
+joystick	джойстик
+judge	судья
+judge	судить
+judo	дзюдо
+juice	сок
+juniper	можжевельник
+junk food	неполноценный
+kangaroo	кенгуру
+kestrel	пустельга обыкновенная
+kestrel	cоколы
+key	ключ
+key	клавиша
+key	тональность
+keyboard	клавиатура
+khagan	каган
+kick the bucket	сыграть в ящик
+kidney	почка
+kill	убивать
+kill two birds with one stone	убить одним выстрелом двух зайцев
+killer whale	косатка
+kilogram	килограмм
+kilometer	километр
+kilometre	километр
+kind	добрый
+kindergarten	детский сад
+king	король
+kingdom	королевство
+kingdom	царство
+kingfisher	зимородок
+kiss	целовать
+kiss	поцелуй
+kiss	целоваться
+kitchen	кухня
+kite	воздушный змей
+kite	коршун
+kitten	котёнок
+kitty	кошка
+kiwi	киви
+kiwi fruit	киви
+knee	колено
+knife	нож
+knight	рыцарь
+knight	конь
+knot	узел
+know	знать
+know	уметь
+knowledge	ведение
+knuckle	сустав
+koala	коала
+krypton	криптон
+kyanite	кианит
+lac	лак
+lacrosse	лакросс
+lady	госпожа
+ladybird	божья коровка
+ladybug	божья коровка
+lahar	лахар
+lake	озеро
+lake	лак
+lamb	ягнёнок
+lamb	ягнятина
+land	земля
+land	приземляться
+language	sc=Cyrl
+language	язык
+lantern	фонарь
+lanthanum	лантан
+laptop	ноутбук
+larch	лиственница
+large	большой
+lark	жаворонок
+larva	личинка
+larynx	гортань
+last	последний
+last night	прошлый
+last year	прошлый год
+late	поздно
+lathe	токарный станок
+lather	мыльная пена
+lather	мылить
+lattice	решётка
+laugh	смеяться
+laugh	смех
+laughter	смех
+laurel	лавр
+lavender	лаванда
+law	закон
+law	право
+lawrencium	лоуренсий
+lawyer	юрист
+lazy	ленивый
+lead	свинец
+lead	водить
+lead	руководить
+lead/experiment	свинец
+lead/experiment	??????
+lead/experiment2	свинец
+lead/experiment2	??????
+leaf	лист
+leap	скакать
+leap	скачок
+leap year	високосный год
+leash	поводок
+least weasel	ласка
+leather	кожа
+leave	уходить
+leave	оставлять
+leech	пиявка
+left	левый
+left	оставаться
+leg	нога
+legible	разборчивый
+lemon	лимон
+lemon balm	Лимонник
+lemur	лемур
+length	длина
+leopard	леопард
+lesser spotted woodpecker	далый дятел
+lesson	урок
+let's go	айда
+let's go	пошёл
+letter	письмо
+letter	буква
+lettuce	салат
+levitation	левитация
+lexeme	лексема
+lexicography	лексикография
+liar	лгун
+library	библиотека
+lichen	лишайник
+lick	лизать
+lid	крышка
+lie	лгать
+lie	ложь
+lieutenant	лейтенант
+life	жизнь
+life	пожизненный срок
+light	свет
+light	зажигать
+light	освещать
+light	лёгкий
+light	бледный
+light	светлый
+light year	световой год
+lighter	зажигалка
+lighthouse	маяк
+lightning	молния
+like	как
+like	нравиться
+like father, like son	Яблочко от яблоньки недалеко падает
+lilac	сирень
+lily of the valley	ландыш
+lime	известь
+lime	липа
+limestone	известняк
+line	линия
+linear algebra	лине́йная а́лгебра
+linen	полотно
+linguistics	языкознание
+link	звено
+link	связь
+link	гиперссылка
+lion	лев
+lioness	львица
+lip	губа
+lipstick	губная помада
+liqueur	ликёр
+liquid	жидкость
+liquid	жидкий
+listen	слушать
+listen	слышать
+literature	литература
+lithium	литий
+litre	литр
+little finger	мизинец
+little owl	домовый
+liturgy	литургия
+live	жить
+live	выживать
+liver	печень
+livestock	поголовье
+living room	гостиная
+lizard	ящерица
+llama	лама
+lobster	омар
+locative	местный падеж
+locative case	местный падеж
+lock	замок
+locust	саранчук
+loess	лёсс
+log	бревно
+lol	lol, лол
+long	длинный
+long-eared owl	ушастая сова
+look	внешность
+lord	лорд
+lord	господин
+lose	пoтeрять
+lose	проиграть
+lotus	лотос
+louse	вошь
+louse	гнида
+love	любовь
+love	любить
+love	любимый
+love	нуль
+love triangle	любовный треугольник
+lover	любовник
+low	низкий
+luck	удача
+luckily	к
+lucky	удачливый
+lucky	счастливый
+lukewarm	тепловатый
+lukewarm	прохладный
+lullaby	колыбельная
+lumpsucker	пинагор
+lunch	обед
+lunch	обедать
+lung	лёгкое
+lute	лютня
+lutetium	лютеций
+lynx	рысь
+lysine	лизин
+mace	булава
+machete	мачете
+machine	машина
+machine gun	пулемёт
+machine translation	машинный перевод
+mackerel	скумбрия
+macroeconomics	Макроэкономика
+magazine	журнал
+magazine	магазин
+magazine	склад боеприпасов
+magic wand	волшебная палочка
+magnesium	магний
+magnet	магнит
+magnetic	магнитный
+magnetism	магнетизм
+magpie	сорока
+main	главный
+maize	кукуруза
+make a mountain out of a molehill	делать из мухи слона
+malaria	малярия
+male	самец
+mallard	обыкновенная кряква
+mammal	млекопитающее
+mammoth	мамонт
+man	мужчина
+man	человек
+man	фигура
+mandarin	мандарин
+mandarin orange	мандарин
+mandrake	мандрагора
+mane	грива
+manganese	марганец
+mango	манго
+manual	инструкция
+manual	ручной
+many	много
+many thanks	большое спасибо
+map	карта
+maple	клён
+march	марш
+march	маршировать
+march	ход
+mare	кобыла
+marijuana	марихуана
+marionette	марионетка
+mark	марка
+market	рынок
+marmot	сурок
+marrow	sc=Cyrl
+marten	куница
+martyr	мученик
+masculine	мужской
+massacre	массовое убийство
+mastiff	дог
+maternal death	смерть стельности
+mathematics	математика
+mattress	матрац
+mature	зрeлый
+maybe	может быть
+mayonnaise	майонез
+mayor	мэр
+me	меня
+me	я
+me too	я тоже
+mead	мёд
+meadow	луг
+meal	еда
+meal	мука
+mean	значить
+mean	средний
+mean	иметь в виду
+mean	злой
+mechanic	механик
+mechanics	Механика
+medicine	лекарство
+medicine	медицина
+meditation	раздумье
+meitnerium	мейтнерий
+melancholy	меланхоличный
+melancholy	меланхолия
+melon	дыня
+melt	таять
+member	член
+memory	память
+memory	воспоминание
+men	мужская
+mendelevium	менделевий
+menorah	менора
+menstruation	менструальный цикл
+menu	меню
+meow	мяукание
+meow	мяукать
+meow	мяу
+merchant	торговец
+mercury	ртуть
+mermaid	русалка
+messenger	посыльный
+metal	металл
+metal	металлический
+metastasis	метастаз
+meter	метр
+meter	счётчик
+metre	метр
+metrosexual	метросексуал
+micro-	микро-
+microwave oven	микроволновая печь
+midbrain	средний мозг
+middle finger	средний палец
+midnight	полночь
+midwife	акушер
+mild	слабый
+milk	молоко
+milk	доить
+milkmaid	доярка
+millennium	тысячелетие
+millet	пшено
+milliard	миллиард
+millimetre	миллиметр
+million	миллион
+millionaire	миллионер
+millisecond	миллисекунда
+minaret	минарет
+mind	ум
+mine	шахта
+mine	мина
+mine	мой
+miner	шахтёр
+mineralogy	минералогия
+minion	верный слуга
+minister	министр
+mink	норка
+mint	монетный двор
+mint	мята
+minuet	менуэт
+minus	минус
+minute	минута
+minute	протокол
+mirage	мираж
+misfortune	несчастье
+miss	не
+missile	ракета
+mission	миссия
+mistake	ошибка
+mistake	неправильно
+mister	гражданин
+mistletoe	омела
+misunderstand	неправильно
+mitochondrion	митохондрия
+mix	смешивать
+moa	Моа
+mobile	мобильный
+mobile phone	мобильный телефон
+model	модель
+modern	современный
+moist	влажный
+moisture	влажность
+molar	коренной зуб
+molasses	меласса
+mole	крот
+mole	родинка
+molecule	молекула
+molybdenum	молибден
+moment	момент
+monastery	монастырь
+money	деньги
+money	наличные
+mongoose	мангуст
+monitor	монитор
+monkey	обезьяна
+monopoly	монополия
+monotheism	монотеизм
+monsoon	муссон
+monster	чудовище
+month	месяц
+monthly	месячно
+mood	настроение
+mood	наклонение
+moon	спутник
+moon	месяц
+moon	луна
+moose	лось
+morality	этика
+moreover	кроме того
+morning	утро
+morpheme	морфема
+mortal	смертный
+mortality	смертность
+mortar	ступа
+mortar	известковый раствор
+mortgage	ипотека
+mosque	мечеть
+mosquito	москит
+moss	мох
+most	большинство
+moth	моль
+mother	мать
+mother tongue	родной язык
+mother-in-law	''(wife’s mother-in-law)'' свекровь
+motherfucker	пидор
+motion	движение
+motivate	мотивировать
+motive	движущий
+motive	мотив
+motor	мотор
+motorcycle	мотоцикл
+mouflon	муфлон
+mountain	гора
+mourn	горевать
+mouse	мышь
+moustache	усы
+mouth	рот
+mouth	устье
+move	двигать
+movement	движение
+movie	фильм
+much	много
+mucus	слизь
+mud	грязь
+muezzin	муэдзин
+mugwort	чернобыль
+mulberry	шелковица
+mulberry	тута
+mule	мул
+multiplication	умножение
+multiply	умножать
+multiverse	мультивселенная
+mumps	заушница
+murder	убийство
+murder	убивать
+muscle	мышца
+muse	муза
+museum	музей
+mushroom	гриб
+music	музыка
+musician	музыкант
+muskrat	ондатра
+mussel	мидия
+must	должен
+mustache	усы
+mustard	горчица
+mute	немой
+mutual	взаимный
+my	мой
+my name is	меня зовут
+myself	себя
+mysterious	таинственный
+mystery	тайна
+myth	миф
+mythology	мифология
+nail	гвоздь
+nail	ноготь
+nail	прибивать
+naked	голый
+name	имя
+name	именовать
+name	выбирать
+name	определять
+name	обвинять
+name day	именины
+nape	затылок
+napkin	салфетка
+narrative	повествование
+narrow	узкий
+narwhal	нарвал
+nation	нация
+national	национальный
+nationalism	национализм
+nationality	национальность
+native	родной
+natural	естественный
+natural language	естественный язык
+nature	природа
+naughty	озорной
+nausea	тошнота
+navel	пупок
+navy	военно-морской флот
+near	близкий
+nearly	около
+neat	опрятный
+nebula	туманность
+necessary	необходимый
+neck	шея
+neck	горлышко
+necktie	галстук
+need	нужда
+needle	игла
+needle	стрелка
+negative	отрицательный
+neglect	пренебрежение
+negotiation	переговоры
+neighborhood	соседство
+neighbour	сосед
+neighbourhood	соседство
+neodymium	неодим
+neon	неон
+nephew	племянник
+neptunium	нептуний
+nerd	ботан
+nervous	нервный
+nest	гнездо
+nest	притон
+nettle	крапива
+neutral	нейтральный
+neutrino	нейтрино
+neutron	нейтрон
+never	никогда
+nevertheless	тем не менее
+new	новый
+news	новости
+newspaper	газета
+next	следующий
+next	ближайший
+next	возле
+nice	милый
+nickel	никель
+nickname	псевдоним
+niece	племянница
+nigger	негр
+night	sc=Cyrl
+nightfall	вечер
+nightingale	обыкновенный соловей
+nightmare	кошмар
+nine	девять
+nineteen	девятнадцать
+ninety	девяносто
+ninety-eight	девяносто восемь
+ninety-five	девяносто пять
+ninety-four	девяносто четыре
+ninety-nine	девяносто девять
+ninety-one	девяносто один
+ninety-seven	девяносто семь
+ninety-six	девяносто шесть
+ninety-three	девяносто три
+ninety-two	девяносто два
+ninja	ниндзя
+ninth	девятый
+niobium	ниобий
+nit	гнида
+nitrogen	азот
+no	нет
+no	воспрещается
+no one	никто
+no smoking	воспрещается курить
+no.	№
+nobelium	нобелий
+noble	благородный
+nobody	никто
+noise	шум
+nominative	именительный падеж
+nominative	именительный
+nominative case	именительный падеж
+none	никто
+none	никакой
+nonsense	вздор
+noodle	лапша
+noon	полдень
+normal	нормальный
+north	север
+northeast	северо-восток
+northwest	северо-запад
+nose	нос
+nostril	ноздря
+not	не
+note	записка
+nothing	ничто
+notify	уведомлять
+noun	имя существительное
+novel	роман
+novelist	романист
+novelty	новизна
+now	сейчас
+nowadays	в наше время
+nowhere	нигде
+numb	онемелый
+number	число
+number	номер
+number	нумеровать
+numeral	числительное
+numerous	многочисленный
+nun	монахиня
+nurse	медсестра
+nut	орех
+nut	гайка
+nut	сумасшедший
+nut	яйцо
+nutmeg	мускатный орех
+nutritional	питательный
+oak	дуб
+oar	весло
+oat	овёс
+oath	присяга
+oath	клятва
+obedience	послушание
+obese	толстый
+object	объект
+objection	возражение
+objective	цель
+oboe	гобой
+obscure	тёмный
+observe	наблюдать
+obsession	одержимость
+obstacle	препятствие
+obtain	добывать
+obvious	очевидный
+occasion	случай
+occasional	случайный
+occupation	занятие
+occurrence	происшествие
+ocean	океан
+octagon	восьмиугольник
+octopus	осьминог
+odd	странный
+odd	нечётный
+odour	запах
+oesophagus	пищевод
+of course	конечно
+offer	предлагать
+office	контора
+office	ведомство
+officer	офицер
+often	часто
+oh my God	Боже мой
+ohm	ом
+oil	масло
+oil	нефть
+old	старый
+old	''(dative case
+old man	дед
+olive	оливка
+olive	оливковый
+olive tree	олива
+omelette	омлет
+omission	упущение
+on	на
+on	в
+once	один раз
+once	как только
+once	однажды
+once upon a time	давным-давно
+one	один
+one	единица
+one	''not translated''; ''expressed by nominalization
+oneself	себя
+onion	лук
+only	только
+only	единственный
+only	но
+onward	вперёд
+onyx	оникс
+open	открывать
+open	открытый
+open	открываться
+open	поднимать
+operate	оперировать
+operating system	операционная система
+operation	операция
+opinion	мнение
+opossum	опоссум
+opportunity	возможность
+opposite	противоположный
+oppress	притеснять
+or	или
+or	золотой
+oral	устный
+oral sex	оральный секс
+orange	апельсин
+orange	апельсиновое дерево
+orange	оранжевый
+orbit	орбита
+orca	кoсатка
+orchestra	оркестр
+orchid	орхидея
+order	порядок
+order	приказ
+order	приказывать
+order	орден
+order	заказ
+order	заказывать
+order	упорядочивать
+order	приводить в порядок
+order	отряд
+ordinary	обыкновенный
+ore	руда
+organ	орган
+organization	организация
+origin	происхождение
+original	первоначальный
+ornament	орнамент
+orphan	сирота
+orthoclase	ортоклаз
+osmium	осмий
+osprey	скопа
+ostrich	страус
+other	другой
+otter	выдра
+ouch	ох
+ounce	унция
+our	наш
+ourselves	себя
+out	вы-
+oven	духовка
+over	над
+overcome	преодолевать
+overmorrow	послезавтрашний
+owe	быть должным
+owl	сова
+own	свой
+own	владеть
+own	побеждать
+owner	владелец
+ox	вол
+oxygen	кислород
+oyster	устрица
+package	посылка
+page	страница
+pagoda	пагода
+pain	боль
+paint	краска
+paint	рисовать
+paint	красить
+painter	художник
+painter	маляр
+pair	пара
+pair of compasses	циркуль
+pajamas	пижама
+palace	дворец
+palaeolithic	Палеолит
+palate	небо
+pale	бледный
+palladium	палладий
+palm	пальма
+palm	ладонь
+pancake	блин
+pancreas	поджелудочная железа
+panda	панда
+pandeism	пандеизм
+pantheism	пантеизм
+pants	брюки
+pants	трусы
+paper	бумага
+parabola	парабола
+parachute	парашют
+parade	парад
+paragraph	параграф
+parallel	параллельный
+pardon me	простите
+parent	родитель
+parents	родители
+park	парк
+park	ставить на стоянку
+parliament	парламент
+parrot	попугай
+parsley	петрушка
+part	часть
+part	роль
+part of speech	часть речи
+participate	участвовать
+participle	причастие
+partridge	куропатка
+party	партия
+party	тусовка
+pasha	паша
+passenger	пассажир
+passport	паспорт
+past	прошлое
+past	прошедшее время
+past participle	причастие прошедшего времени
+past tense	прошедшее время
+path	тропа
+patience	терпение
+patient	пациент
+patient	терпеливейший
+pause	пауза
+pavement	тротуар
+pavement	мостовая
+paw	лапа
+pawn	пешка
+pay	платить
+pea	горох
+peace	мир
+peace	покой
+peach	персик
+peacock	павлин
+peak	вершина
+peanut	арахис
+pear	груша
+pearl	жемчуг
+pederast	педераст
+peel	корка
+pejorative	уничижи́тельный
+pelican	пеликан
+pen	ручка
+penalty	штраф
+pencil	карандаш
+penetrate	проникать
+penguin	пингвин
+peninsula	полуостров
+penis	мужской половой член
+penny	пенни
+pentagon	пяти́угольник
+penultimate	предпоследний
+people	люди
+people	народ
+people	родня
+perch	окунь
+peregrine falcon	обыкновенный сокол
+perestroika	перестройка
+perfume	духи
+perfume	благоухание
+perfume	душить
+perhaps	возможно
+perineum	промежность
+period	точка
+period	период
+periodic table	периодическая система
+permanent	постоянный
+permission	разрешение
+perseverance	упорство
+persist	упорствовать
+person	человек
+person	лицо
+personal	личный
+personality	личность
+perspiration	пот
+persuade	убеждать
+petrol	бензин
+petroleum	нефть
+pharmacy	аптека
+pharynx	фаринкс
+pheasant	фазан
+philosopher	философ
+philosopher's stone	философский камень
+philosophy	философия
+phobia	фобия
+phoenix	феникс
+phone	телефон
+phone	позвонить
+phoneme	фонема
+phonetics	фонетика
+phosphorus	фосфор
+photograph	фотография
+photon	фотон
+photosynthesis	фотосинтез
+phrase	устойчивое словосочетание
+phrase	фраза
+physical	физический
+physician	врач
+physics	физика
+physiology	физиология
+pi	пи
+pianist	пианист
+piano	пианино
+picture	фотография
+picture	картина
+picture	кино
+pie	пирог
+piece	кусок
+pier	пристань
+pig	свинья
+pigeon	голубь
+piglet	поросёнок
+pigsty	свинарник
+pike	щука
+pile	куча
+pill	таблетка
+pillar	столб
+pillow	подушка
+pilot	лётчик
+pimp	cутенёр
+pimple	угорь
+pin	булавка
+pine	сосна
+pineal gland	шишковидная железа
+pineapple	ананас
+pink	розовый
+pipe	трубка
+pipe	труба
+piranha	пиранья
+piss	ссаки
+piss	сцать
+pistachio	фисташка
+pistol	пистолет
+pity	жалость
+pizza	пицца
+place	место
+place	класть
+place	площадь
+plague	чума
+plain	простой
+plaintiff	истец
+plan	планировать
+plan	план
+plane	рубанок
+plane	плоскость
+plane	самолёт
+plane	строгать
+plane	уровень
+plane	платан
+planet	планета
+plant	растение
+plant	сажать
+plant	завод
+plantation	плантация
+plastic	пластмасса
+plate	тарелка
+platform	платформа
+platinum	платина
+platypus	утконос
+play	играть
+play	игра
+play	пьеса
+pleasant	приятный
+please	пoжaлуйстa
+please	нравиться
+pleasure	удовольствие
+pledge	залог
+plenty	изобилие
+pliers	плоскогубцы
+plough	плуг
+plough	пахать
+plow	плуг
+plow	пахать
+plum	слива
+plumber	водопроводчик
+plural	множественное число
+plural	множественный
+plus	плюс
+plutonium	плутоний
+pocket	карман
+poem	стихотворение
+poet	поэт
+poetry	поэзия
+point	пункт
+poison	яд
+poisonous	ядовитый
+polar bear	белый медведь
+pole	жердь
+pole	полюс
+polecat	хорёк
+police	милиция
+policeman	полицейский
+policy	политика
+polish	полировать
+polite	вежливый
+politician	политический деятель
+politics	политика
+pollen	цветень
+polonium	полоний
+polygon	многоугольник
+polysynthetic	полисинтетический
+polytheism	политеизм
+pond	пруд
+poor	бедный
+poor	жалкий
+popcorn	попкорн
+pope	папа римский
+poplar	тополь
+poppy	мак
+popular	популярный
+population	население
+porcelain	фарфор
+porcupine	дикобраз
+pork	свинина
+pornography	порнография
+porpoise	морская свинья
+port	порт
+portion	доля
+portmanteau	чемодан
+position	положение
+positive	положительный
+possess	обладать
+possessive	притяжательный падеж
+possessive case	притяжательный падеж
+possibility	возможность
+possible	возможный
+post office	почтовое отделение
+postage stamp	марка
+postcard	почтовая открытка
+postpone	окладывать
+pot	горшок
+potassium	калий
+potato	картофель
+potter	гончар
+pouch	мешок
+pound	фунт
+pour	лить
+poverty	бедность
+powder	порошок
+power	сила
+power	власть
+power	степень
+power	электричество
+power set	булеан
+practice	практика
+prairie dog	луговая собачка
+praise	хвалить
+prank	выходка
+pray	молиться
+prayer	молитва
+precious	драгоценный
+precise	точный
+predicate	предикат
+predict	предсказывать
+prefer	предпочитать
+prefix	приставка
+pregnancy	беременность
+prepare	готовить
+preposition	предлог
+prepuce	крайняя плоть
+prescription	предписание
+presence	присутствие
+present	представлять
+present	подарок
+present	нынешний
+present	настоящее
+present	присутствующий
+president	президент
+press	нажимать
+pressure	давление
+pretend	делать вид
+pretty	хорошенький
+prevent	предотвращать
+previous	предыдущий
+price	цена
+pride	гордость
+priest	жрец
+primary	первичный
+prime	простой
+prime minister	премьер-министр
+prime number	простое число
+primitive	примитивно
+primitive	примитивный
+princess	княгиня
+principal	основной
+principle	принцип
+print	печатать
+prison	тюрьма
+prisoner of war	военнопленный
+privacy	уединение
+private	частный
+privilege	привилегия
+prize	премия
+proactive	проактивный
+probably	вероятно
+problem	проблема
+procedure	процедура
+produce	производить
+profession	профессия
+professor	профессор
+profit	прибыль
+programming language	язык программирования
+progress	прогресс
+prohibit	запрещать
+project	план
+promethium	прометий
+prominent	выступающий
+promise	обещание
+promote	способствовать
+pronoun	местоимение
+pronounce	произносить
+pronunciation	произношение
+proof	доказательство
+proper	подходящий
+proper noun	имя собственное
+property	имущество
+property	собственность
+property	свойство
+propose	предлагать
+prostitute	проститутка
+protect	защищать
+protection	защита
+protest	протестовать
+proton	протон
+proud	гордый
+proverb	пословица
+provide	обеспечивать
+province	област
+pseudonym	псевдоним
+psychiatrist	психиатр
+psychologist	психолог
+psychology	психология
+psychopolitics	психополитика
+pub	бар
+public	общественный
+publish	издавать
+puck	шайба
+pull	тянуть
+pulse	пульс
+pump	насос
+pumpkin	тыква
+pun	каламбур
+punish	наказывать
+pupil	ученик
+puppy	щенок
+pure	чистый
+purpose	цель
+purpure	пурпурный
+purse	сумка
+pursue	преследовать
+pus	гной
+push	толкать
+pussy	манда
+pussy	кошечка
+pussy	гнойный
+puzzle	загадка
+pylon	опора
+pyramid	пирамида
+python	питон
+quackery	медицинское очковтирательство
+quail	перепел
+quality	качество
+quality	качественный
+quantization	квантование
+quark	кварк
+quarter	четверть
+quarter	квартал
+quartz	кварц
+queen	королева
+queen	ферзь
+queen	дама
+queen	матка
+queer	гей
+question	вопрос
+question mark	вопросительный знак
+queue	очередь
+quick	быстрый
+quickly	быстро
+quicksand	сыпучие пески
+quiet	тихий
+quiet	спокойный
+quiet	успокаиваться
+quit	бросать
+quiver	колчан
+quotation	цитата
+quotation mark	кавычки
+rabbi	раввин
+rabbit	кролик
+rabies	бешенство
+raccoon	енот
+race	гонки
+radiation	излучение
+radio	радио
+radium	радий
+radius	радиус
+radon	радон
+rage	ярость
+railroad	железная дорога
+rain	дождь
+rain cats and dogs	лить как из ведра
+rainbow	радуга
+rainbow trout	радужная форель
+raise	поднимать
+raisin	изюм
+ram	баран
+rape	преступление
+rape	похищать
+rapid	быстрый
+rare	редкий
+raspberry	малина
+rat	крыса
+rattlesnake	гремучая змея
+raven	ворон
+ravine	промоина
+raw	сырой
+ray	луч
+ray	скат
+razor	бритва
+reaction	реакция
+read	читать
+ready	готовый
+real	настоящий
+reality	реальность
+realize	представлять
+realize	реализовать
+really	действительно
+realm	королевство
+reason	разум
+reason	причина
+rebel	взбунтовать
+rebellion	восстание
+receipt	квитанция
+receive	получать
+recent	недавний
+reception	приём
+recipe	рецепт
+recognize	узнавать
+recommend	рекомендовать
+record	рекорд
+record	записывать
+recreation	отдых
+rectangle	прямоугольник
+red	красный
+red	рыжий
+red deer	олень
+redhead	рыжий
+redshift	красное смещение
+refer	относить
+reflect	отражать
+refresh	освежать
+refrigerator	холодильник
+refugee	Беженец
+refuse	отказывать
+regime change	изменение режима
+region	район
+region	область
+register	регистрировать
+regret	сожалеть
+regret	сожаление
+regular	регулярный
+regulate	регулировать
+regulation	устав
+rein	вожжа
+reindeer	северный олень
+reinforce	подкреплять
+reject	отвергать
+relationship	отношение
+relative	родственник
+relativity	относительность
+release	отпускать
+relief	облегчение
+religion	религия
+rely	полагаться на
+remain	оставаться
+remark	замечание
+remember	помнить
+remember	запоминать
+remind	напоминать
+remote	отдалённый
+remove	устранять
+rent	нанимать
+repair	ремонт
+repair	ремонтировать
+repeat	повторять
+replace	заменять
+report	доклад
+report	сообщать
+represent	представлять
+representative	представитель
+reptile	прeсмыкaющeeся
+republic	республика
+reputation	репутация
+request	просьба
+requirement	необходимость
+rescue	спасать
+resemble	походить
+reserve	запас
+reserve	резервировать
+residence	местожительство
+resign	отказываться
+resistance	сопротивление
+resistor	резистор
+resolve	решать
+resource	ресурс
+respect	уважение
+responsibility	ответственность
+rest	отдыхать
+rest	остаток
+restaurant	ресторан
+restrict	ограничивать
+result	результат
+retreat	отступать
+reveal	выявлять
+revenge	реванш
+revolution	революция
+reward	награда
+rhinoceros	носорог
+rhodium	родий
+rhombus	ромб
+rhubarb	ревень
+rib	ребро
+rice	рис
+rich	богатый
+ride	ехать
+rider	всадник
+ridiculous	нелепый
+rifle	винтовка
+right	правый
+right	правильный
+right	право
+right	прямой
+right	исправлять
+right	перпендикулярный
+rigid	жёсткий
+ring	кольцо
+ring	звонить
+ring	ринг
+ring finger	безымянный палец
+ring tone	мобильная игра
+ripe	зрелый
+ritual	ритуал
+river	река
+rivet	заклепка
+road	дорога
+rob	грабить
+robin	зарянка
+rock	(горный
+rock	камень
+rock	скала
+rock	рок
+rock	качать
+rock	качаться
+rock dove	сизый голубь
+rocket	ракета
+rodent	грызун
+roe	икра
+roe deer	косуля
+roentgenium	рентгений
+roll	катить
+roll	свёртывать
+roll	завёртывать
+roof	крыша
+roof	свод
+rook	ладья
+rook	грач
+room	комната
+room	пространство
+rooster	петух
+root	корень
+rope	верёвка
+rose	роза
+rosemary	розмарин
+rot	гнить
+rotten	гнилой
+rough	шероховатый
+round	круглый
+row	ряд
+royal	королевский
+rub	тереть
+rubidium	рубидий
+ruble	рубль
+rude	грубый
+ruin	гибель
+rule	правило
+ruler	линейка
+rum	ром
+ruminant	жевание жвачки
+run	бегать
+run/experiment	бегать
+rust	ржавчина
+rutabaga	брюква
+ruthenium	рутений
+rutile	рутил
+rye	рожь
+röntgen	рентген
+sable	черный
+sable	соболь
+sabotage	саботаж
+sabre	сабля
+sack	мешок
+sacrifice	жертва
+sacrifice	жертвовать
+sad	печальный
+saddle	седло
+safe	сейф
+safety	безопасность
+saffron	шафран
+sailing	парусный спорт
+sailor	матрос
+saint	святой
+salad	салат
+salary	зарплата
+sale	продажа
+salesman	продавец
+salesperson	продавец
+saliva	слюна
+salmon	лосось
+salt	соль
+salt	солить
+salty	солёный
+same	самый
+sample	образец
+samurai	самурай
+sand	песок
+sandwich	сандвич
+sapphire	сапфир
+sarcasm	сарказм
+sarcophagus	саркофаг
+satellite	спутник
+satisfaction	удовлетворение
+sauce	соус
+sausage	колбаса
+sausage	сосиска
+save	спасать
+save	сохранять
+saw	пила
+saw	пилить
+saxophone	саксофон
+say	говорить
+say	гласить
+saying	пoслoвицa
+scabbard	ножны
+scabies	чесотка
+scaffolding	леса
+scale	весы
+scale	масштаб
+scale	чешуйка
+scales	весы
+scandium	скандий
+scanner	блок развертки
+scapegoat	козёл отпущения
+scar	шрам
+scarce	скудный
+scare	пугать
+scarecrow	пугало
+scarf	шарф
+scatter	разбрасывать
+scene	сцена
+scent	запах
+schedule	расписание
+scheme	схема
+school	школа
+school	высшая школа
+school	кафедра
+school	учение
+school	учить
+school	косяк
+science	наука
+scientist	учёный
+scissors	ножницы
+scold	бранить
+score	счёт
+scorpion	скорпион
+scratch	царапать
+scream	кричать
+screen	экран
+screw	винт
+screwdriver	отвёртка
+scrotum	мошонка
+sculpture	скульптура
+sea	море
+sea horse	морской конёк
+sea lion	морской лев
+sea urchin	морской ёж
+seagull	чайка
+seal	тюлень
+seal	печать
+seaplane	гидросамолёт
+search	искать
+season	время года
+season	сезон
+second	секунда
+second	второй
+second	секундант
+secret	тайна
+secretary	секретарь
+sect	секта
+security	безопасность
+see	видеть
+seed	семя
+seek	искать
+seem	казаться
+seismic	сейсмический
+seize	захватывать
+seldom	редко
+select	отбирать
+selenium	селен
+self	себя
+selfish	эгоистичный
+sell	продавать
+semelfactive	однократный
+semen	семя
+semiconductor	полупроводник
+send	посылать
+sense	чувство
+sense	смысл
+sentence	предложение
+sentence	приговор
+sentence	наказание
+sentence	приговаривать
+sentence	осуждение
+separate	отделять
+separate	отдельный
+sergeant	сержант
+serious	серьёзный
+serpent	змея
+servant	слуга
+service	служба
+service	обслуживание
+session	сессия
+set	множество
+set	набор
+set on fire	поджечь
+set theory	теория множеств
+seven	семь
+seven deadly sins	семь смертных грехов
+seventeen	семнадцать
+seventh	седьмой
+seventy	семьдесят
+seventy-five	семьдесят пять
+seventy-four	семьдесят четыре
+seventy-nine	семьдесят девять
+seventy-one	семьдесят один
+seventy-seven	семьдесят семь
+seventy-six	семьдесят шесть
+seventy-three	семьдесят три
+seventy-two	семьдесят два
+several	несколько
+sew	шить
+sewing machine	швейная машинка
+sex	пол
+sex	секс
+sexology	сексология
+sexual	сексуальный
+sexual orientation	сексуальная ориентация
+shackles	наручники
+shade	тень
+shadow	тень
+shahada	шахада
+shallow	мелкий
+shame	стыд
+shampoo	шампунь
+shape	форма
+share	доля
+share	акция
+shark	акула
+sharp	острый
+shave	бриться
+she	она
+sheath	ножны
+sheep	овца
+sheepdog	овчарка
+sheet	простыня
+sheet	лист
+shelf	полка
+shepherd	пастух
+shh	тише
+shield	защита
+shield	щит
+shield	защищать
+shine	светиться
+ship	корабль
+shirt	рубашка
+shit	говно
+shit	срать
+shit	ебать
+shit	говнюк
+shit	высирать
+shit	дрисня
+shock	шок
+shoe	туфля
+shoe	подкова
+shoe	башмак
+shoe polish	вакса
+shoot	выстрелить
+shoot	стрелять
+shop	магазин
+shore	берег
+shot	выстрел
+shotgun	дробовик
+shoulder	плечо
+shoulder	обочина
+shoulder blade	лопатка
+shout	кричать
+shovel	лопата
+show	показывать
+show	спектакль
+show	выставка
+shower	ливень
+shower	душ
+shower	принять душ
+shrew	бурозубка
+shrimp	креветка
+shrine	рака
+shy	застенчивый
+sick	болен
+sickle	серп
+side	сторона
+side	страница
+sideburns	бакенбарды
+siege	осада
+sieve	сетка
+sight	зрение
+sight	достопримечательность
+sight	вид
+sight	прицел
+sight	увидеть
+sign	знак
+significance	значение
+silence	молчание
+silicon	кремний
+silk	шёлк
+silkworm	тутовый шелкопряд
+silver	серебро
+silver	серебряный
+silver	серебристый
+silversmith	серебряный кузнец
+similar	подобный
+simple	простой
+simultaneous	одновременный
+simultaneously	одновременно
+sin	грех
+sin	грешить
+since	с
+since	поскольку
+sincere	искренний
+sing	петь
+singer	певец
+singular	единственное число
+sink	тонуть
+sister	сестра
+sister	медсестра
+sister-in-law	невестка
+sisters	сестра
+sit	сидеть
+sit down	садиться
+six	шесть
+sixteen	шестнадцать
+sixth	шестой
+sixty	шестьдесят
+sixty-eight	шестьдесят восемь
+sixty-five	шестьдесят пять
+sixty-four	шестьдесят четыре
+sixty-nine	шестьдесят девять
+sixty-one	шестьдесят один
+sixty-seven	шестьдесят семь
+sixty-six	шестьдесят шесть
+sixty-three	шестьдесят три
+sixty-two	шестьдесят два
+skeleton	скелет
+ski	лыжа
+ski	кататься на лыжах
+skill	квалификация
+skim	рикошетировать
+skin	кожа
+skin	шкура
+skin	корка
+skirt	юбка
+skull	череп
+skunk	скунс
+sky	небо
+sky	небеса
+skylark	жаворонок
+skyscraper	небоскрёб
+slander	клевета
+slang	сленг
+sleep	сон
+sleep	спать
+sleeve	рукав
+slender	тонкий
+slide	скользить
+slight	незначительный
+sloth	ленивец
+sloth	лень
+slow	медленный
+slug	слизняк
+sly	хитрый
+small	маленький
+smell	обонять
+smell	запах
+smell	обоняние
+smell	пахнуть
+smile	улыбка
+smile	улыбаться
+smith	кузнец
+smoke	дым
+smoke	курить
+smoke	дымиться
+smoke	курево
+smoke	коптить
+smooth	гладкий
+snail	улитка
+snake	змея
+sneeze	чихать
+snob	сноб
+snot	сопли
+snow	снег
+snow	снежить
+snow	снегопад
+snow leopard	ирбис
+snowball	снежок
+snowman	снежная баба
+snowstorm	пурга
+so	так
+so	очень
+soap	мыло
+soccer	футбол
+socialism	социализм
+society	общество
+sock	носок
+sodium	натрий
+sofa	софа
+soft	мягкий
+software	программное обеспечение
+soil	земля
+solar system	Солнечная система
+soldier	солдат
+sole	подошва
+solid	твёрдый
+solid	твёрдое тело
+solid	крепкий
+solid	крупный
+solitude	одиночество
+solution	решение
+solution	раствор
+some	несколько
+somebody	кто-то
+someone	кто-то
+something	что-то
+something	нечто
+sometimes	временами
+somewhere	где-то
+somnambulism	сомнамбулизм
+son	сын
+son of a bitch	сукин сын
+son of a whore	сукин сын
+son-in-law	зять
+sonata form	сонатная форма
+song	песня
+sonnet	сонет
+soon	скоро
+sorghum	сорго
+sorrow	горе
+sorry	простить
+sorry	прошу прощения
+sorry	жаль
+sort	тип
+sort	сортировать
+sort	сортировка
+soul	душа
+soul	соул
+sound	звучать
+soup	суп
+sour	кислый
+source code	исходный код
+south	юг
+south	южный
+southeast	юго-восток
+southeast	юго-восточный
+southern	южный
+southwest	юго-запад
+southwest	юго-западный
+sow	сеять
+space	пространство
+space	пробел
+spacecraft	космический корабль
+spaceship	космический корабль
+spade	лопата
+spade	пика
+spades	пики
+spaghetti	спагетти
+spam	спам
+spark	искра
+spark plug	свеча зажигания
+sparrow	воробей
+sparrow hawk	перепелятник
+speak	говорить
+speaker	громкоговоритель
+speaker	носитель
+special	специальный
+speciality	специальность
+specialty	специальность
+specific	конкретный
+speech	речь
+speed	скорость
+speed of sound	скорость звука
+spell	произносить
+spell	заклинание
+spend	тратить
+sperm	сперма
+sperm whale	кашалот
+sphere	шар
+sphere	сфера
+spider	паук
+spinach	шпинат
+spinal cord	спинной мозг
+spine	позвоночник
+spirit	душа
+spirit	привидение
+spirit	алкоголь
+spirit	дух
+spiritual	духовный
+spit	плевать
+spleen	селезёнка
+splendid	великолепный
+split	делить
+split	расщеплять
+spoilt	испорченный
+sponge	губка
+spoon	ложка
+sport	спорт
+spot	пятно
+spouse	супруг
+spring	весна
+spring	источник
+spring	пружина
+spring	прыгать
+spruce	ель
+spy	агент
+spy	шпионить
+square	квадрат
+square	площадь
+square root	квадратный корень
+squid	кальмар
+squirrel	белка
+stag-beetle	жук
+stage	сцена
+stainless steel	нержавеющая сталь
+stair	лестница
+stairs	лестница
+stake	кол
+stalemate	пат
+stallion	жеребец
+stand	стоять
+stand	вставать
+stand	выдерживать
+stanza	строфа
+stapler	сшиватель
+star	звезда
+starfish	морская звезда
+starling	скворец
+start	начало
+starvation	голодание
+state	состояние
+state	государство
+state	штат
+statement	заявление
+station	станция
+statistics	статистика
+statue	статуя
+stay	оставаться
+steak	бифштекс
+steal	краcть
+steel	сталь
+steel	стальной
+steer	кастрированный
+stem cell	стволовая клетка
+step	шаг
+step	шагать
+stepbrother	сводный брат
+stepdaughter	падчерица
+stepfather	отчим
+stepmother	мачеха
+stepson	пасынок
+sterilize	простерилизовать
+stern	корма
+stern	строгий
+stick	палка
+stick	трость
+stick	приклеивать
+still	всё ещё
+stillbirth	мертворождение
+stink	вонь
+stirrup	стремя
+stock	запас
+stocking	чулок
+stomach	желудок
+stomach	живот
+stone	камень
+stop	останавливаться
+stop	останавливать
+stop	переставать
+stop	прекращать
+stop	остановка
+stork	аист
+story	рассказ
+story	этаж
+stove	плита
+stove	печь
+straight	прямой
+strait	пролив
+strange	странный
+straw	солома
+strawberry	земляника
+stream	поток
+street	улица
+strength	сила
+stress	напряжение
+stretch	вытягивать
+strict	строгий
+strike	забастовка
+string	бечёвка
+strong	сильный
+strong	прочный
+strong	стойкий
+strong	крепкий
+strontium	стронций
+struggle	борьба
+stubborn	упорный
+student	студент
+study	изучать
+stuff	вещество
+stupid	глупый
+sturgeon	осётр
+style	тип
+subject	предмет
+subject	подданный
+subjunctive	сослагательное наклонение
+subliminal message	25-й кадр
+submarine	подводная лодка
+subscribe	подписываться
+subsequent	последующий
+subset	подмножество
+substance	вещество
+substantial	существенный
+substitute	заменять
+subtract	вычитать
+subtraction	вычитание
+subtropics	Субтропики
+subway	метрополитен
+suck	сосать
+sudden	неожиданный
+suddenly	вдруг
+suffer	страдать
+sufficient	достаточный
+sugar	сахар
+sugar beet	сахарная свёкла
+sugar cane	сахарный тростник
+suggest	предлагать
+suicide	самоубийство
+suit	костюм
+suitcase	чемодан
+sulfur	сера
+sum	сумма
+summary	итоги
+summer	лето
+sunflower	подсолнечник
+sunglasses	солнечные очки
+sunrise	восход солнца
+sunrise	заря
+sunset	заход солнца
+superfluous	лишний
+superior	высший
+superlative	превосходный
+superstition	суеверие
+supper	ужин
+suppose	полагать
+suppose	предполагать
+suppress	подавлять
+supreme	высший
+sure	уверенный
+surely	конечно
+surface	поверхность
+surname	фамилия
+surprise	удивлять
+surprise	сюрприз
+surprise	удивление
+surprise	внезапный
+surrender	сдаваться
+suspect	подозревать
+swallow	ласточка
+swallow	глотать
+swan	лебедь
+swastika	свастика
+swear	клясться
+swear	ругаться
+sweat	пот
+sweat	потеть
+swede	брюква
+sweep	подметать
+sweet	сладкий
+sweet	милый
+sweet	конфета
+sweet	пресный
+sweet	душистый
+sweet	сладкозвучный
+swim	плавать
+swimming pool	бассейн
+swimsuit	купальный костюм
+swing	качать
+switch	выключатель
+switch	стрелка
+sword	меч
+swordfish	рыба-меч
+syllable	слог
+syllogism	силлогизм
+sympathetic nervous system	симпатическая нервная система
+symptom	признак
+synagogue	синагога
+synchronize	синхронизировать
+synthesizer	синтезатор
+system	система
+table	стол
+table	таблица
+table football	кикер
+table tennis	настольный теннис
+tablespoon	столовая ложка
+tadpole	головастик
+tail	хвост
+tailor	портной
+take	брать
+talent	талант
+talisman	талисман
+talk	говорить
+talk	разговор
+talk	лекция
+tall	высокий
+tame	приручённый
+tangent	тангенс
+tantalum	тантал
+tape	лента
+tape recorder	магнитофон
+tapir	тапир
+tattoo	татуировка
+taunt	колкость
+taunt	насмехаться
+tawny owl	неясыть серая
+tax	налог
+taxi	такси
+tea	чай
+tea	чашка
+tea leaf	чайный лист
+teach	учить
+teacher	учитель
+team	команда
+teapot	чайник
+tear	слеза
+tear	рвать
+teat	центрик
+technetium	технеций
+technique	техника
+teddy bear	плюшевый мишка
+teenager	подросток
+telegram	телеграмма
+telephone	телефон
+telephone	телефонировать
+telescope	телескоп
+television	телевидение
+television	телевизор
+tell	сказать
+tellurium	теллур
+temperature	температура
+template	шаблон
+temple	храм
+temple	висок
+temporary	временный
+temptation	искушение
+ten	десять
+ten	десятка
+ten thousand	десять тысяч
+tendency	тенденция
+tender	нежный
+tendon	сухожилие
+tennis	теннис
+tent	палатка
+tenth	десятый
+term	термин
+terrible	ужасный
+terror	ужас
+terrorism	tерроризм
+terrorist	террорист
+test	экзамен
+test	проба
+testicle	яичко
+testimony	показание
+testosterone	тестостерон
+textbook	учебник
+thallium	таллий
+than	чем
+thank	благодарить
+thank you	спасибо
+thank you very much	большое спасибо
+thanks	спасибо
+that	что
+that	тот
+that	который
+that	это
+the	''not used''
+the early bird gets the worm	кто рано встаёт, тому бог подаёт
+the grass is always greener on the other side	Соседняя очередь всегда движется быстрее
+theater/homonyms	театр
+theft	кража
+their	их
+theism	теизм
+theme	тема
+themselves	себя
+then	тогда
+then	затем
+theory	теория
+there	там
+there	туда
+thermometer	термометр
+thesaurus	тезаурус
+these	эти
+thesis	диссертация
+they	они
+thick	толстый
+thick	густой
+thief	вор
+thigh	бедро
+thimble	напёрсток
+thing	вещь
+think	думать
+third	третий
+third person	третье лицо
+thirst	жажда
+thirsty	томимый жаждой
+thirteen	тринадцать
+thirteenth	тринадцатый
+thirty	тридцать
+thirty-eight	тридцать восемь
+thirty-five	тридцать пять
+thirty-four	тридцать четыре
+thirty-nine	тридцать девять
+thirty-one	тридцать один
+thirty-seven	тридцать семь
+thirty-six	тридцать шесть
+thirty-three	тридцать три
+thirty-two	тридцать два
+this	это
+thither	туда
+thou	ты
+though	тем не менее
+thought	мысль
+thousand	тысяча
+thread	нить
+three	три
+three	тройка
+thrice	трижды
+throat	горло
+thrombocytopenia	тромбоцитопения
+throne	трон
+throw	бросать
+thrush	дрозд
+thumb	большой палец
+thunder	гром
+thunder	греметь
+thus	таким образом
+tick	клещ
+tiddlywinks	игра́ в бло́шки
+tide	прилив
+tie	галстук
+tie	связывать
+tiger	тигр
+till	до
+till	пахать
+till	пока
+time	время
+time	раз
+timid	робкий
+tin	олово
+tin	жестянка
+tin	оловянный
+tire	шина
+tired	усталый
+tit	синица
+tit	титька
+titanium	титан
+title	заглавие
+tmesis	тмезис
+to	на
+to	(suffix) -ать
+toad	жаба
+tobacco	табак
+today	сегодня
+toe	палец
+together	вместе
+toilet	туалет
+toilet	унитаз
+toilet paper	туалетная бумага
+tolerate	допускать
+toll	пошлина
+tom	кот
+tomahawk	томагавк
+tomato	помидор
+tomorrow	завтра
+ton	тонна
+tone	тон
+tongs	схваты
+tongue	язык
+tonight	сегодня вечером
+tonight	сегодняшний
+too	также
+too	чересчур
+tool	инструмент
+tooth	зуб
+toothbrush	зубная щётка
+toothpaste	зубная паста
+top	вершина
+topic	предмет
+torment	мучение
+tornado	смерч
+tortoise	черепаха
+total	сумма
+total	итог
+toucan	тукан
+touch	трогать
+touch	волноваться
+tourist	турист
+tournament	турниры
+towel	полотенце
+town	город
+toy	игрушка
+trachea	трахея
+tractor	трактор
+trade	торговля
+tradition	традиция
+traffic	движение
+tragedy	трагедия
+train	поезд
+training	тренировка
+tram	трамвай
+transfer	переносить
+transfer	переход
+transformation	преобразования
+transitive verb	переходный глагол
+translate	переводить
+translation	перевод
+translation	трансляция
+translations	переводы
+translator	переводчик
+transliterate	транслитерация
+transliteration	транслитерирование
+transport	перевозить
+transportation	транспорт
+transvestite	трансвестит
+travel	путешествовать
+treacle	меласса
+treasure	сокровище
+treasurer	казначей
+tree	дерево
+tree trunk	ствол
+trial	суд
+trial	испытание
+triangle	треугольник
+tribe	племя
+trillion	триллион
+trillion	квинтиллион
+trinity	троица
+trip	поездка
+trouble	беспокойство
+trousers	брюки
+trout	форель
+truck	грузовик
+true	верный
+true	истинный
+true	наcтоящий
+trumpet	труба
+trumpet	играть
+trunk	ствол
+trunk	сундук
+trunk	хобот
+trunk	багажник
+truth	правда
+tsar	царь
+tsarina	царица
+tsunami	цунами
+tube	труба
+tuberculosis	туберкулёз
+tulip	тюльпан
+tuna	тунец
+tundra	тундра
+tungsten	вольфрам
+turd	говно
+turkey	индюк
+turmeric	куркума
+turnip	репа
+turquoise	бирюза
+turquoise	бирюзовый
+turtle	черепаха
+turtle dove	горлица
+tusk	клык
+twat	манда
+twelfth	двенадцатый
+twelve	двенадцать
+twenty	двадцать
+twenty-eight	двадцать восемь
+twenty-five	двадцать пять
+twenty-four	двадцать четыре
+twenty-nine	двадцать девять
+twenty-one	двадцать один
+twenty-seven	двадцать семь
+twenty-six	двадцать шесть
+twenty-three	двадцать три
+twenty-two	двадцать два
+twice	дважды
+twilight	сумерки
+twin	близнец
+twist	скручивать
+two	два
+two	двойка
+two hundred	двести
+typewriter	пишущая машинка
+typhoon	тайфун
+tzar	царь
+ubiquitous	вездесущий
+udder	вымя
+ugly	уродливый
+ulcer	язва
+umbrella	зонтик
+unbibium	унбибий
+unbinilium	унбинилий
+unbiunium	унбиуний
+uncle	дядя
+under	под
+underpants	трусы
+undress	раздеваться
+undress	раздевать
+unemployment	безработица
+unicorn	единорог
+unidentified flying object	неопознанный летающий объект
+uniform	форма
+uniform	однообразный
+union	союз
+union	объединение множеств
+unique	уникальный
+unit	единица
+unite	объединять
+universal	всеобщий
+university	университет
+unjust	несправедливый
+unknown	неизвестный
+unless	если не
+unmarried	хoлoстoй
+unnecessary	ненужный
+unreal	нереальный
+unrequited love	неразделённая любовь
+until	до
+until	пока не
+ununennium	унунэнний
+ununhexium	унунгексий
+ununpentium	унунпентий
+ununquadium	унунквадий
+ununseptium	унунсептий
+ununtrium	унунтрий
+up	вверх
+upper	верхний
+urban	городской
+urgent	срочный
+urine	моча
+use	использовать
+use	употребление
+useful	полезный
+user	пользователь
+user	потребитель
+usual	обыкновенный
+utopia	утопия
+vacant	свободный
+vacation	проводить/провести отпуск
+vacuum	вакуум
+vacuum	пылесос
+vacuum cleaner	пылесос
+vagina	влагалище
+vague	неопределённый
+valid	действительный
+valley	долина
+valuable	ценный
+value	значение
+value	ценность
+value added tax	налог на добавленную стоимость
+vampire	вампир
+vanadium	ванадий
+vandalism	вандализм
+vanish	исчезать
+vapour	пар
+variable	переменная
+variable	переменный
+various	разный
+vas deferens	семявыносящий проток
+vase	ваза
+vast	более обширный
+veal	телятина
+vector	вектор
+vegetable	овощ
+vehicle	транспортное средство
+vein	вена
+vending machine	торговый автомат
+venom	яд
+verandah	веранда
+verb	глагол
+vernacular	народный язык
+versus	против
+vert	зеленый
+very	очень
+vessel	сосуд
+vessel	корабль
+vicinity	окрестность
+victory	победа
+view	вид
+view	видеть
+village	село
+vindication	виндикация
+vinegar	уксус
+vineyard	виноградник
+violation	нарушение
+violet	фиолетовый
+violet	фиалка
+violin	скрипка
+viper	гадюка
+virgin	девственница
+virtual	виртуальный
+virtual reality	Виртуальная реальность
+virtuoso	виртуоз
+virus	вирус
+visa	виза
+visible	видимый
+visit	посещать
+vital	жизненный
+vocative	звательный падеж
+vocative case	звательный падеж
+vodka	водка
+voice	голос
+volcano	вулкан
+volleyball	волейбол
+volt	вольт
+voltage	напряжение
+vomit	блевать
+vomit	блевотина
+vote	голосовать
+vote	голос
+vowel	гласный
+voyage	путешествие
+vulture	стервятник
+wage	жалованье
+waggon	телега
+wagon	телега
+waist	талия
+waiter	кельнер
+walk	ходить
+walk	прогулка
+walk	походить
+wall	стена
+wall	стенка
+wallet	бумажчик
+wallpaper	обои
+walnut	грецкий орех
+walrus	морж
+want	хотеть
+war	война
+wardrobe	гардероб
+warfare	война
+warm	тёплый
+warrior	боец
+wart	бородавка
+warthog	бородавочник
+wash	мыть
+wasp	оса
+watch	наручные часы
+watch	смотреть
+watch	стража
+watch	вахта
+water	вода
+water	поливать
+water	поить
+water	минеральная вода
+waterfall	водопад
+watering can	лейка
+watermelon	арбуз
+waterproof	водонепроницаемый
+wave	волна
+wave	махать
+wax	воск
+way	путь
+way	способ
+we	мы
+weak	слабый
+weakness	слабость
+weapon	оружие
+weapon of mass destruction	оружие массового поражения
+weapons of mass destruction	оружия массового поражения
+wear	носить
+weather	погода
+weave	сплести
+weaver	ткач
+web	[сеть
+web colors	цвета в Web
+wedding	свадьба
+wedge	клин
+weed	сорняк
+week	неделя
+weekend	конец
+weekly	еженедельный
+weekly	раз в неделю
+weekly	еженедельно
+weep	плакать
+weight	вес
+weight	груз
+welcome	добро пожаловать
+welcome	приветствовать
+welcome	желанный
+well	колодец
+well	здоровый
+well	хорошо
+were	были (byli)
+werewolf	вервольф
+west	запад
+west	западный
+wet	мокрый
+wet	мочить
+whale	кит
+wharf	пристань
+what	что
+what	как
+what	который
+what the fuck	какого хуя
+what time is it	который час
+what's your name	как тебя зовут
+wheat	пшеница
+wheel	колесо
+wheelbarrow	тачка
+wheelchair	кресло-каталка
+when	когда
+when in Rome, do as the Romans do	С волками жить, по-волчьи выть
+when pigs fly	когда рак на горе свистнет
+when the cat's away the mice will play	Без кота мышам раздолье
+where	где
+where	куда
+where is the toilet	где туалет
+wherefore	почему
+which	который
+while	пока
+while	хотя
+whip	кнут
+whiskey	виски
+whisky	виски
+whisper	шёпот (šopot)
+whistle	свисток
+whistle	свист
+white	белый
+white dwarf	белый карлик
+who	кто
+who	что
+whore	курва
+whose	чей
+why	почему
+why	причина
+wicked	злой
+wide	широкий
+widow	вдова
+wife	жена
+wig	парик
+wiki	вики
+wild	дикий
+wild boar	кабан
+will	завещание
+will	воля
+willingly	охотно
+willow	ива
+wind	ветер
+wind	ветеры
+window	окно
+window	витрина
+wine	вино
+wine	бордо
+wing	крыло
+winter	зима
+wire	проволока
+wisdom tooth	зуб мудрости
+wise	мудрый
+wisent	зубр
+wish	желать
+wish	желание
+witch	ведьма
+with	с
+with	''(instrumental case
+within	внутри
+without	без
+wizard	волшебник
+wolf	волк
+wolf	пожирать
+wollastonite	волластонит
+wolverine	росомаха
+woman	женщина
+womb	матка
+women	женщины
+wonder	чудо
+wonder	удивляться
+wonderful	замечательный
+wood	дерево
+woodpecker	дятел
+woodwind instrument	камышовая аппаратура
+wool	шерсть
+word	слово
+work	работать
+work	работа
+worker	работник
+workers of the world, unite	Пролетарии всех стран, соединяйтесь
+world	мир
+world war	мировая война
+worm	червь
+worm	стерва
+wormwood	чернобыль
+worry	беспокойство
+worse	худший
+worst	наихудший
+worth	цена
+worthless	ничего не стоящий
+wound	рана
+wrath	гнев
+wreck	авария
+wrestling	борьба
+wrist	запястье руки
+write	писать
+write	написать
+writer	писатель
+xenon	ксенон
+xenophobia	ксенофобия
+xylophone	ксилофон
+y'all	вы
+yacht	яхта
+yard	двор
+yeah	ага
+year	год
+yearly	ежегодный
+yearly	ежегодно
+yeast	дрожжи
+yellow	жёлтый
+yellow	трусливый
+yes	да
+yesterday	вчера
+yoghurt	йогурт
+yoke	ярмо
+yolk	желток
+you	вы
+you	вас
+you're welcome	не за что
+young	молодой
+yourself	себя
+yttrium	иттрий
+zebra	зебра
+zelkova	дзельква
+zero	нуль
+zero	настраивать
+zinc	цинк
+zip fastener	застежка молния
+zirconium	цирконий
+zither	цитра
+zone	зона
+zoo	зоопарк
+zoology	зоология

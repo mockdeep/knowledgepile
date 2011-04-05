@@ -1,0 +1,7406 @@
+# English-Russian dictionary created from Wikipedia database
+# Created on: 2011-04-05T22:50:10+02:00
+# Licence: GNU Free Documentation Licence http://www.gnu.org/copyleft/fdl.html
+# Download updated version of this file at: http://www.dicts.info/uddl.php
+# Contact us at: http://www.dicts.info/contact.php
+0 (number)	0 (число)
+1	1 год
+1 (number)	1 (число)
+10	10 год
+10 (number)	10 (число)
+100	100 год
+100	Категория:100 год
+100 (number)	100 (число)
+1000	1000 год
+1000	Категория:1000 год
+1000 (number)	Тысяча
+101	101 год
+105	105 год
+11	11 год
+11 (number)	11 (число)
+110	110 год
+115	115 год
+12	12 год
+12	Категория:12 год
+12 (number)	12 (число)
+120	120 год
+125	125 год
+13	13 год
+13 (number)	13 (число)
+130	130 год
+135	135 год
+14	14 год
+14	Категория:14 год
+14 (number)	14 (число)
+140	140 год
+144	144 год
+145	145 год
+15	15 год
+15 (number)	15 (число)
+150	150 год
+1530s	1530-е
+155	155 год
+16	16 год
+16	Категория:16 год
+16 (number)	16 (число)
+160	160 год
+165	165 год
+17	17 год
+17	Категория:17 год
+17 (number)	17 (число)
+170	170 год
+1728	1728 год
+1728	Категория:1728 год
+175	175 год
+1750s	1750-е
+1750s	Категория:1750-е
+1760s	1760-е
+1760s	Категория:1760-е
+1770s	1770-е
+1770s	Категория:1770-е
+1780s	1780-е
+1780s	Категория:1780-е
+1790s	1790-е
+1790s	Категория:1790-е
+18	18 год
+18 (number)	18 (число)
+180	180 год
+1820s	1820-е
+1820s	Категория:1820-е
+1830s	1830-е
+1830s	Категория:1830-е
+1840s	1840-е
+1840s	Категория:1840-е
+1850s	1850-е
+1860s	1860-е
+1860s	Категория:1860-е
+1870s	1870-е
+1870s	Категория:1870-е
+1880s	1880-е
+1880s	Категория:1880-е
+1890s	1890-е
+1890s	Категория:1890-е
+19	19 год
+19 (number)	19 (число)
+190	190 год
+1900s	1900-е
+1900s	Категория:1900-е
+1920s	1920-е
+1920s	Категория:1920-е
+1930s	1930-е
+1930s	Категория:1930-е
+1940s	1940-е
+1940s	Категория:1940-е
+1950s	1950-е
+1950s	Категория:1950-е
+1960s	1960-е
+1960s	Категория:1960-е
+1970s	1970-е
+1970s	Категория:1970-е
+1980s	1980-е
+1980s	Категория:1980-е
+1990s	1990-е
+1990s	Категория:1990-е
+2	2 год
+2 (number)	2 (число)
+20	20 год
+20 (number)	20 (число)
+200	200 год
+21	21 год
+21 (number)	21 (число)
+22	22 год
+22 (number)	22 (число)
+23	23 год
+23 (number)	23 (число)
+24	24 год
+24 (number)	24 (число)
+25	25 год
+25 (number)	25 (число)
+26	26 год
+26 (number)	26 (число)
+27	27 год
+27 (number)	27 (число)
+28	28 год
+28 (number)	28 (число)
+29	29 год
+29 (number)	29 (число)
+3	3 год
+3 (number)	3 (число)
+30	30 год
+30 (number)	30 (число)
+300	300 год
+31	31 год
+31 (number)	31 (число)
+32	32 год
+32 (number)	32 (число)
+33	33 год
+33 (number)	33 (число)
+34	34 год
+34 (number)	34 (число)
+35	35 год
+35 (number)	35 (число)
+36	36 год
+36 (number)	36 (число)
+37	37 год
+37 (number)	37 (число)
+38	38 год
+38 (number)	38 (число)
+39	39 год
+39 (number)	39 (число)
+4	4 год
+4 (number)	4 (число)
+40	40 год
+40 (number)	40 (число)
+400	400 год
+41	41 год
+41 (number)	41 (число)
+42	42 год
+42 (number)	42 (число)
+43	43 год
+43 (number)	43 (число)
+44	44 год
+45	45 год
+45 (number)	45 (число)
+46	46 год
+46 (number)	46 (число)
+47	47 год
+48	48 год
+49	49 год
+49 (number)	49 (число)
+5	5 год
+5 (number)	5 (число)
+50	50 год
+50 (number)	50 (число)
+500	500 год
+500	Категория:500 год
+51	51 год
+52	52 год
+53	53 год
+54	54 год
+55	55 год
+56	56 год
+57	57 год
+58	58 год
+59	59 год
+6	6 год
+6 (number)	6 (число)
+60	60 год
+60 (number)	60 (число)
+61	61 год
+62	62 год
+63	63 год
+64	64 год
+65	65 год
+66	66 год
+67	67 год
+68	68 год
+69	69 год
+7	7 год
+7 (number)	7 (число)
+70	70 год
+71	71 год
+72	72 год
+73	73 год
+74	74 год
+75	75 год
+76	76 год
+77	77 год
+78	78 год
+79	79 год
+8	8 год
+8 (number)	8 (число)
+80	80 год
+80 (number)	80 (число)
+81	81 год
+82	82 год
+83	83 год
+84	84 год
+85	85 год
+86	86 год
+87	87 год
+88	88 год
+89	89 год
+9	9 год
+9 (number)	9 (число)
+90	90 год
+91	91 год
+92	92 год
+93	93 год
+94	94 год
+95	95 год
+96	96 год
+97	97 год
+98	98 год
+99	99 год
+A	A (латиница)
+A (Cyrillic)	А (кириллица)
+A cappella	А капелла
+ABC	ABC
+AIDS	Синдром приобретённого иммунного дефицита
+ALGOL	Алгол
+AZ (football club)	АЗ (футбольный клуб)
+Aachen	Ахен
+Aalborg	Ольборг
+Aar	Ааре
+Aardvark	Трубкозуб
+Aarhus	Орхус
+Aaron	Аарон
+Abacus	Абак (математика)
+Abadan	Абадан
+Abbot	Аббат
+Abbreviation	Аббревиатура
+Abdomen	Брюшко
+Abel Tasman	Тасман, Абел Янезон
+Abelian group	Абелева группа
+Aberdeen	Абердин
+Abidjan	Абиджан
+Abkhazia	Абхазия
+Abkhazia	Категория:Абхазия
+Abolitionism	Аболиционизм
+Abortion	Искусственный аборт
+Abraham	Авраам
+Abraham Lincoln	Линкольн, Авраам
+Absinthe	Абсент
+Absolute magnitude	Абсолютная звёздная величина
+Absolute value	Абсолютная величина
+Absolute zero	Абсолютный нуль температуры
+Absolutism (European history)	Абсолютизм
+Abstract art	Абстракционизм
+Abstract expressionism	Абстрактный экспрессионизм
+Abstraction	Абстракция
+Abu Dhabi	Абу-Даби
+Abu Dhabi (emirate)	Абу-Даби (эмират)
+Abuja	Абуджа
+Acacia	Акация
+Academy Award	Оскар (премия)
+Acapulco	Акапулько
+Acceleration	Ускорение
+Accipitridae	Ястребиные
+Accordion	Аккордеон
+Accountancy	Бухгалтерский учёт
+Accountancy	Категория:Бухгалтерский учёт
+Accra	Аккра
+Accusative case	Винительный падеж
+Acetaldehyde	Ацетальдегид
+Acetic acid	Уксусная кислота
+Acetone	Диметилкетон
+Acetylcholine	Ацетилхолин
+Acetylene	Ацетилен
+Acheron	Ахерон
+Achillea millefolium	Тысячелистник обыкновенный
+Achilles	Ахилл
+Acid	Кислота
+Acid rain	Кислотный дождь
+Acne vulgaris	Акне
+Aconcagua	Аконкагуа
+Acorn	Жёлудь
+Acoustics	Акустика
+Acoustics	Категория:Акустика
+Acre	Акр
+Acre	Акко (город)
+Acre (state)	Акри (штат Бразилии)
+Acropolis	Акрополь
+Actinide	Актиноиды
+Actinium	Актиний
+Actor	Актёр
+Acts of the Apostles	Деяния святых апостолов
+Acupuncture	Акупунктура
+Ad hominem	Ad hominem
+Ada (programming language)	Ада (язык программирования)
+Adam	Адам
+Adam Smith	Смит, Адам
+Adana	Адана
+Addiction	Вредные привычки
+Addis Ababa	Аддис-Абеба
+Addition	Сложение (математика)
+Adelaide	Аделаида (город)
+Aden	Аден
+Adenine	Аденин
+Adenosine triphosphate	Аденозинтрифосфорная кислота
+Adiabatic process	Адиабатический процесс
+Adige	Адидже (река)
+Adjective	Имя прилагательное
+Admiral	Адмирал
+Adolescence	Подросток
+Adolf Eichmann	Эйхман, Адольф
+Adolf Hitler	Гитлер, Адольф
+Adonis	Адонис
+Adoption	Усыновление
+Adrenal gland	Надпочечники
+Adriatic Sea	Адриатическое море
+Adsorption	Адсорбция
+Adult	Взрослый
+Advent	Адвент
+Adverb	Наречие
+Advertising	Реклама
+Aegean Sea	Эгейское море
+Aeneas	Эней
+Aeneid	Энеида
+Aeolus	Эол
+Aerodynamics	Аэрогазодинамика
+Aerosol	Аэрозоль
+Aeschylus	Эсхил
+Aesop	Эзоп
+Aesthetics	Эстетика
+Afghanistan	Афганистан
+Afghanistan	Категория:Афганистан
+Africa	Африка
+Africa	Категория:Африка
+African American	Афроамериканцы
+Afrikaans	Африкаанс
+Agamemnon	Агамемнон
+Agar	Агар-агар
+Agate	Агат
+Agatha Christie	Кристи, Агата
+Aggression	Агрессия (психология)
+Agnatha	Бесчелюстные
+Agnosticism	Агностицизм
+Agora	Агора
+Agoraphobia	Агорафобия
+Agra	Агра
+Agriculture	Сельское хозяйство
+Agriculture	Категория:Сельское хозяйство
+Agrigento	Агридженто
+Aikido	Айкидо
+Ain	Эн (департамент)
+Air force	Военно-воздушные силы
+Airbus	Airbus
+Aircraft	Воздушное судно
+Aircraft	Категория:Воздушные суда
+Aircraft carrier	Авианосец
+Airline	Авиакомпания
+Airport	Аэропорт
+Ajax	Аякс
+Ajax (mythology)	Аякс Великий
+Ajax (programming)	AJAX
+Akhenaten	Эхнатон
+Akira Kurosawa	Куросава, Акира
+Al Capone	Аль Капоне
+Al Gore	Гор, Альберт
+Al-Qaeda	Аль-Каида
+Alabama	Алабама (штат)
+Alabama	Категория:Алабама
+Alan Shepard	Шепард, Алан Бартлет
+Alan Turing	Тьюринг, Алан Матисон
+Alanine	Аланин
+Alaska	Аляска
+Alaska	Категория:Аляска
+Alban Berg	Берг, Альбан
+Albania	Албания
+Albania	Категория:Албания
+Albany	Олбани (Нью-Йорк)
+Albatross	Альбатросовые
+Albedo	Альбедо
+Albert Abraham Michelson	Майкельсон, Альберт Абрахам
+Albert Camus	Камю, Альбер
+Albert Einstein	Эйнштейн, Альберт
+Albert Schweitzer	Швейцер, Альберт
+Albert Speer	Шпеер, Альберт
+Alberta	Альберта
+Alberta	Категория:Альберта
+Albinism	Альбинизм
+Albite	Альбит
+Album	Музыкальный альбом
+Albuquerque	Альбукерке
+Alchemy	Алхимия
+Alchemy	Категория:Алхимия
+Alcohol	Спирты
+Alcoholic beverage	Алкогольные напитки
+Alcoholism	Алкоголизм
+Aldebaran	Альдебаран
+Aldehyde	Альдегиды
+Alder	Ольха
+Aldous Huxley	Хаксли, Олдос Леонард
+Alec Guinness	Гиннесс, Алек
+Aleksandr Solzhenitsyn	Солженицын, Александр Исаевич
+Aleppo	Халеб
+Aleutian Islands	Алеутские острова
+Alexander	Александр
+Alexander Fleming	Флеминг, Александр
+Alexander Graham Bell	Белл, Александер Грэм
+Alexander Hamilton	Гамильтон, Александр
+Alexander Pope	Поуп, Александр
+Alexander Pushkin	Пушкин, Александр Сергеевич
+Alexander the Great	Александр Македонский
+Alexandre Dumas	Дюма, Александр (отец)
+Alexandre Dumas	Дюма, Александр (сын)
+Alexandria	Александрия
+Alexis de Tocqueville	Токвиль, Алексис
+Alfred Dreyfus	Дрейфус, Альфред
+Alfred Hitchcock	Хичкок, Альфред
+Alfred Nobel	Нобель, Альфред Бернхард
+Alfred North Whitehead	Уайтхед, Альфред Норт
+Alfred Russel Wallace	Уоллес, Альфред Рассел
+Alfred the Great	Альфред Великий
+Algae	Водоросли
+Algebra	Алгебра
+Algebra	Категория:Алгебра
+Algebraic number	Алгебраическое число
+Algeria	Алжир
+Algeria	Категория:Алжир
+Algiers	Алжир (город)
+Algorithm	Алгоритм
+Alhambra	Альгамбра
+Ali	Али ибн Абу Талиб
+Alkali metal	Щелочные металлы
+Alkaloid	Алкалоид
+Alkane	Алканы
+Alkene	Алкены
+Alkyne	Алкины
+Allah	Аллах
+Allegory	Аллегория
+Allele	Аллели
+Allen Ginsberg	Гинзберг, Аллен
+Allergy	Аллергия
+Alliteration	Аллитерация
+Allophone	Аллофон
+Allosaurus	Аллозавр
+Allotropy	Аллотропия
+Alloy	Сплав
+Almanac	Альманах
+Almaty	Алма-Ата
+Almond	Миндаль
+Aloe	Алоэ
+Alpha (letter)	Альфа (буква)
+Alpha Centauri	Альфа Центавра
+Alpha particle	Альфа-частица
+Alphabet	Алфавит
+Alps	Альпы
+Alps	Категория:Альпы
+Alsace	Эльзас
+Altair	Альтаир
+Altar	Алтарь
+Altay Mountains	Алтайские горы
+Alternating current	Переменный ток
+Alternative medicine	Категория:Альтернативная медицина
+Alternative medicine	Нетрадиционная медицина
+Altruism	Альтруизм
+Aluminium	Алюминий
+Aluminium oxide	Оксид алюминия
+Alvar Aalto	Аалто, Алвaр
+Alzheimer's disease	Болезнь Альцгеймера
+Amanita muscaria	Мухомор красный
+Amanita phalloides	Поганка бледная
+Amaryllidaceae	Амариллисовые
+Amaterasu	Аматэрасу
+Amazon River	Амазонка
+Ambassador	Посол
+Amber	Янтарь
+Ambrose	Амвросий Медиоланский
+Amedeo Avogadro	Авогадро, Амедео
+Amelia Earhart	Эрхарт, Амелия
+American Bison	Американский бизон
+American Black Bear	Барибал
+American Civil War	Гражданская война в США
+American Revolutionary War	Война за независимость США
+American Samoa	Американское Самоа
+American Standard Code for Information Interchange	ASCII
+American football	Американский футбол
+American football	Категория:Американский футбол
+Americium	Америций
+Amerigo Vespucci	Веспуччи, Америго
+Amethyst	Аметист
+Amharic	Амхарский язык
+Amide	Амиды
+Amine	Амины
+Amino acid	Аминокислоты
+Amish	Амиши
+Amman	Амман
+Ammeter	Амперметр
+Ammonia	Аммиак
+Amnesia	Амнезия
+Amnesty	Амнистия
+Ampere	Ампер
+Amphetamine	Амфетамин
+Amphibian	Земноводные
+Amphitheatre	Амфитеатр
+Amphora	Амфора
+Amplitude	Амплитуда
+Amsterdam	Амстердам
+Amsterdam	Категория:Амстердам
+Amun	Амон
+Amur	Амур (река)
+Anabaptist	Анабаптисты
+Anagram	Анаграмма
+Anaheim	Анахайм (Калифорния)
+Anal sex	Анальный секс
+Analytic geometry	Аналитическая геометрия
+Anarchism	Анархизм
+Anarchism	Категория:Анархизм
+Anatidae	Утиные
+Anatole France	Франс, Анатоль
+Anatomy	Категория:Анатомия
+Anatomy	Анатомия
+Anaxagoras	Анаксагор из Клазомен
+Anaximander	Анаксимандр
+Anchor	Якорь
+Anchorage	Анкоридж
+Ancient Greek	Древнегреческий язык
+Ancient history	Категория:Древний мир
+Andalusia	Андалусия
+Andaman Sea	Андаманское море
+Anders Celsius	Цельсий, Андерс
+Andes	Анды
+Andhra Pradesh	Андхра-Прадеш
+Andorra	Андорра
+Andorra	Категория:Андорра
+Andrea Palladio	Палладио, Андреа
+Andrei Sakharov	Сахаров, Андрей Дмитриевич
+Andrei Tarkovsky	Тарковский, Андрей Арсеньевич
+Andrew Jackson	Джексон, Эндрю
+Andrew Johnson	Джонсон, Эндрю
+Andrew Lloyd Webber	Ллойд Уэббер, Эндрю
+Android	Андроид
+Andromeda	Андромеда
+Andromeda (constellation)	Андромеда (созвездие)
+Andromeda (mythology)	Андромеда (мифология)
+Andromeda Galaxy	Галактика Андромеды
+Andy Warhol	Уорхол, Энди
+Anemia	Анемия
+Anemometer	Анемометр
+Anesthesia	Анестезия
+Angara River	Ангара
+Angel	Ангел
+Angel Falls	Анхель
+Angle	Угол
+Angola	Ангола
+Angola	Категория:Ангола
+Anguilla	Ангилья
+Angular momentum	Момент импульса
+Angular velocity	Угловая скорость
+Anicius Manlius Severinus Boethius	Аниций Манлий Торкват Северин Боэций
+Aniline	Анилин
+Animal	Животные
+Animal husbandry	Животноводство
+Animation	Мультипликация
+Anime	Аниме
+Anime	Категория:Аниме
+Animism	Анимизм
+Anise	Анис
+Ankara	Анкара
+Annapolis	Аннаполис (Мэриленд)
+Annapurna	Аннапурна
+Anne Boleyn	Болейн, Анна
+Annelid	Кольчатые черви
+Anno Domini	От Рождества Христова
+Annunciation	Благовещение Пресвятой Богородицы
+Anode	Анод
+Anseriformes	Гусеобразные
+Ant	Муравьи
+Antakya	Антакья
+Antalya	Анталья
+Antananarivo	Антананариву
+Antarctica	Антарктида
+Antarctica	Категория:Антарктида
+Antares	Антарес
+Antenna (radio)	Антенна
+Anthony Hopkins	Хопкинс, Филип Энтони
+Anthrax	Сибирская язва
+Anthropology	Антропология
+Anthropology	Категория:Антропология
+Anthroposophy	Антропософия
+Antibiotic	Антибиотики
+Antibody	Антитело
+Antichrist	Антихрист
+Anticyclone	Антициклон
+Antigen	Антиген
+Antigone	Антигона
+Antigua and Barbuda	Антигуа и Барбуда
+Antimatter	Антивещество
+Antimony	Сурьма
+Antioxidant	Антиоксиданты
+Antipope	Антипапа
+Antisemitism	Антисемитизм
+Antisemitism	Категория:Антисемитизм
+Antlia	Насос (созвездие)
+Antofagasta	Антофагаста (город)
+Antoine Lavoisier	Лавуазье, Антуан Лоран
+Anton Bruckner	Брукнер, Антон
+Anton Chekhov	Чехов, Антон Павлович
+Antonio Stradivari	Страдивари, Антонио
+Antonio Vivaldi	Вивальди, Антонио
+Antonym	Антонимы
+Antwerp	Антверпен
+Antwerp (province)	Антверпен (провинция)
+Anubis	Анубис
+Anus	Анус человека
+Aorta	Аорта
+Apache	Апачи
+Apatite	Апатит
+Ape	Человекообразные обезьяны
+Aphasia	Афазия
+Aphorism	Афоризм
+Aphrodite	Афродита
+Apia	Апиа
+Apiaceae	Зонтичные
+Apocrypha	Апокриф (религия)
+Apodiformes	Стрижеобразные
+Apollo	Аполлон
+Apollo (disambiguation)	Аполлон (значения)
+Apollo program	Категория:Программа «Аполлон»
+Apoptosis	Апоптоз
+Appalachian Mountains	Аппалачи
+Appendicitis	Аппендицит
+Apple	Яблоко
+Applied mathematics	Прикладная математика
+Apricot	Абрикос
+April	Апрель
+April 14	14 апреля
+April Fools' Day	День смеха
+Apse	Апсида (архитектура)
+Apulia	Апулия
+Apus	Райская Птица (созвездие)
+Aqaba	Акаба
+Aqua regia	Царская водка
+Aquamarine	Аквамарин
+Aquarium	Аквариум
+Aquarius (constellation)	Водолей (созвездие)
+Aqueduct	Акведук
+Aquila (constellation)	Орёл (созвездие)
+Aquitaine	Аквитания (историческая область Франции)
+Ara (constellation)	Жертвенник (созвездие)
+Arab	Арабы
+Arab League	Лига арабских государств
+Arabian Peninsula	Аравийский полуостров
+Arabian Sea	Аравийское море
+Arabic alphabet	Арабское письмо
+Arabic language	Арабский язык
+Araceae	Ароидные
+Arachnid	Паукообразные
+Arafura Sea	Арафурское море
+Aragon	Арагон
+Aral Sea	Аральское море
+Aram Khachaturian	Хачатурян, Арам Ильич
+Arcadia	Аркадия
+Arcangelo Corelli	Корелли, Арканджело
+Arch	Арка
+Archaeology	Археология
+Archaeology	Категория:Археология
+Archaeopteryx	Археоптерикс
+Archangel	Архангелы
+Archbishop	Архиепископ
+Archean	Архей
+Archetype	Архетип
+Archimedes	Архимед
+Archipelago	Архипелаг
+Architect	Архитектор
+Architecture	Архитектура
+Architecture	Категория:Архитектура
+Archive	Архив
+Archosaur	Архозавры
+Arctic	Арктика
+Arctic Circle	Полярный круг
+Arctic Ocean	Северный Ледовитый океан
+Arctic fox	Песец
+Ardennes	Арденны (горы)
+Ardennes (department)	Арденны (департамент)
+Are	Ар
+Area	Площадь
+Arecaceae	Пальмовые
+Ares	Арес
+Argentina	Аргентина
+Argentina	Категория:Аргентина
+Argon	Аргон
+Argos	Аргос (город)
+Aria	Ария
+Ariadne	Ариадна
+Arianism	Арианство
+Aries (constellation)	Овен (созвездие)
+Aristarchus of Samos	Аристарх Самосский
+Aristocracy	Аристократия
+Aristophanes	Аристофан
+Aristotle	Аристотель
+Arithmetic	Арифметика
+Arithmetic	Категория:Арифметика
+Arithmetic progression	Арифметическая прогрессия
+Arius	Арий
+Arizona	Аризона (штат)
+Arizona	Категория:Аризона
+Ark of the Covenant	Ковчег завета
+Arkansas	Арканзас
+Arkansas	Категория:Арканзас
+Arles	Арль
+Armadillo	Броненосцы
+Armenia	Армения
+Armenia	Категория:Армения
+Armenian language	Армянский язык
+Arminius	Арминий
+Armour	Доспехи
+Army	Армия
+Arnhem	Арнем
+Arno River	Арно (река)
+Arnold Schoenberg	Шёнберг, Арнольд
+Aromatic hydrocarbon	Арены
+Arquebus	Аркебуза
+Arras	Аррас
+Arrow	Стрела
+Arsenic	Мышьяк
+Art	Искусство
+Art Deco	Ар-деко
+Art Nouveau	Модерн
+Art history	Категория:История искусства
+Art history	История искусства
+Artemis	Артемида
+Artemisia (plant)	Полынь
+Artemisia absinthium	Полынь горькая
+Artery	Артерия
+Arthritis	Артрит
+Arthropod	Членистоногие
+Arthur Compton	Комптон, Артур Холли
+Arthur Conan Doyle	Конан Дойль, Артур
+Arthur Miller	Миллер, Артур
+Arthur Rimbaud	Рембо, Жан Никола Артюр
+Arthur Schopenhauer	Шопенгауэр, Артур
+Arthur Wellesley	Веллингтон, Артур Уэлсли
+Artificial intelligence	Искусственный интеллект
+Artificial intelligence	Категория:Искусственный интеллект
+Artillery	Артиллерия
+Artillery	Категория:Артиллерия
+Artist	Деятель искусств
+Arts	Категория:Искусство
+Arturo Toscanini	Тосканини, Артуро
+Aruba	Аруба
+Aruba	Категория:Аруба
+Asbestos	Асбест (материал)
+Asclepius	Асклепий
+Asexuality	Асексуальность
+Asgard	Асгард
+Ash Wednesday	Пепельная среда
+Ashurbanipal	Ашшурбанапал
+Asia	Азия
+Asia	Категория:Азия
+Asmara	Асмэра
+Aspartame	Аспартам
+Asphalt	Асфальт
+Aspirin	Ацетилсалициловая кислота
+Assam	Ассам
+Assembly language	Язык ассемблера
+Association of Southeast Asian Nations	АСЕАН
+Assyria	Ассирия
+Assyria	Категория:Ассирия
+Astana	Астана
+Astatine	Астат
+Asteraceae	Астровые
+Asteraceae	Категория:Сложноцветные
+Asteroid	Астероид
+Asteroid belt	Главный пояс астероидов
+Asthenosphere	Астеносфера
+Asthma	Бронхиальная астма
+Astigmatism (eye)	Астигматизм (медицина)
+Astrakhan	Астрахань
+Astrobiology	Космическая биология
+Astrolabe	Астролябия
+Astrology	Астрология
+Astrology	Категория:Астрология
+Astrometry	Астрометрия
+Astronaut	Космонавт
+Astronomical unit	Астрономическая единица
+Astronomy	Астрономия
+Astronomy	Категория:Астрономия
+Astronomy	Портал:Астрономия
+Astrophysics	Астрофизика
+Astrophysics	Категория:Астрофизика
+Aswan	Асуан
+Asymptote	Асимптота
+Asynchronous Transfer Mode	ATM
+Atacama Desert	Атакама
+Aten	Атон
+Atheism	Категория:Атеизм
+Athena	Афина
+Athens	Афины
+Athletics	Категория:Лёгкая атлетика
+Athletics (track and field)	Лёгкая атлетика
+Atlanta	Атланта (Джорджия)
+Atlantic Ocean	Атлантический океан
+Atlantic Ocean	Категория:Атлантический океан
+Atlantis	Атлантида
+Atlas (disambiguation)	Атлас (значения)
+Atlas (moon)	Атлас (спутник)
+Atlas (mythology)	Атлант
+Atlas Mountains	Атлас (горы)
+Atmosphere (unit)	Атмосфера (единица измерения)
+Atmospheric pressure	Атмосферное давление
+Atoll	Атолл
+Atom	Атом
+Atomic clock	Атомные часы
+Atomic mass	Атомная масса
+Atomic mass unit	Атомная единица массы
+Atomic number	Зарядовое число
+Atomic physics	Категория:Атомная физика
+Atreus	Атрей
+Atropine	Атропин
+Attica	Аттика
+Attila the Hun	Аттила
+Au	Ау
+Auckland	Окленд (Новая Зеландия)
+Auction	Аукцион
+August	Август
+August 1	1 августа
+August 15	15 августа
+August 6	6 августа
+August Strindberg	Стриндберг, Юхан Август
+Augusta	Огаста (Мэн)
+Auguste Comte	Конт, Огюст
+Auguste Rodin	Роден, Франсуа Огюст Рене
+Augustine of Hippo	Аврелий Августин
+Augustus	Октавиан Август
+Auriga (constellation)	Возничий (созвездие)
+Aurora	Аврора (значения)
+Aurora (astronomy)	Полярное сияние
+Austin	Остин (Техас)
+Australasia	Австралазия
+Australia	Австралия
+Australia	Категория:Австралия
+Australian dollar	Австралийский доллар
+Australopithecus	Австралопитек
+Austria	Австрия
+Austria	Категория:Австрия
+Austria-Hungary	Австро-Венгрия
+Author	Автор
+Authority	Авторитет
+Autism	Аутизм
+Auto racing	Автоспорт
+Autobiography	Автобиография
+Automated teller machine	Банкомат
+Automobile	Автомобиль
+Autonomic nervous system	Вегетативная нервная система
+Autotroph	Продуценты
+Autumn	Осень
+Auvergne (region)	Овернь
+Avalanche	Лавина
+Avant-garde	Авангард (искусство)
+Avatar	Аватара
+Avena	Овёс
+Averroes	Аверроэс
+Avesta	Авеста
+Aviation	Категория:Авиация
+Aviation	Авиация
+Avicenna	Авиценна
+Avignon	Авиньон
+Avocado	Авокадо
+Avogadro's law	Закон Авогадро
+Axe	Топор
+Axiom	Аксиома
+Axon	Аксон
+Ayatollah	Аятолла
+Ayn Rand	Рэнд, Айн
+Azerbaijan	Азербайджан
+Azerbaijan	Категория:Азербайджан
+Azimuth	Азимут (геодезия)
+Azores	Азорские острова
+Aztec	Ацтеки
+Azurite	Азурит
+B	B (латиница)
+BASIC	BASIC
+Baal	Баал
+Baboon	Павианы
+Babylon	Вавилон
+Backgammon	Нарды
+Bacteria	Бактерии
+Bacteria	Категория:Бактерии
+Bacteriophage	Бактериофаги
+Bactrian Camel	Бактриан
+Badminton	Бадминтон
+Baffin Bay	Море Баффина
+Baffin Island	Баффинова Земля
+Baghdad	Багдад
+Bahamas	Категория:Багамы
+Bahrain	Бахрейн
+Bahrain	Категория:Бахрейн
+Baja California	Нижняя Калифорния (штат)
+Baklava	Пахлава
+Baku	Баку
+Balalaika	Балалайка
+Balance sheet	Бухгалтерский баланс
+Baldr	Бальдр
+Balearic Islands	Балеарские острова
+Baleen whale	Беззубые киты
+Bali	Бали
+Balkan Mountains	Балканские горы
+Balkan Wars	Балканские войны
+Balkans	Балканский полуостров
+Ball	Игры с мячом
+Ballet	Балет
+Ballet	Категория:Балет
+Ballistic missile	Баллистическая ракета
+Ballpoint pen	Шариковая ручка
+Baltic Sea	Балтийское море
+Baltimore	Балтимор
+Bamako	Бамако
+Bamboo	Бамбуковые
+Banana	Банан
+Banana republic	Банановая республика
+Bangalore	Бангалор
+Bangkok	Бангкок
+Bangladesh	Бангладеш
+Bangladesh	Категория:Бангладеш
+Bangui	Банги
+Banjul	Банжул
+Bank	Банк
+Banknote	Банкнота
+Banks	Категория:Банки
+Baptism	Крещение
+Baptist	Баптизм
+Bar (unit)	Бар (единица измерения)
+Barbados	Барбадос
+Barbados	Категория:Барбадос
+Barbarian	Варвары
+Barbra Streisand	Стрейзанд, Барбра
+Barcelona	Барселона
+Barcelona	Категория:Барселона
+Barents Sea	Баренцево море
+Bari	Бари
+Barium	Барий
+Barley	Ячмень
+Barn Owl	Обыкновенная сипуха
+Barn Swallow	Деревенская ласточка
+Barometer	Барометр
+Baron	Барон
+Baroque	Барокко
+Barranquilla	Барранкилья
+Barrel (unit)	Баррель (американский нефтяной)
+Baryon	Барион
+Basalt	Базальт
+Base (chemistry)	Химическое основание
+Baseball	Бейсбол
+Baseball	Категория:Бейсбол
+Basel	Базель
+Bash	Bash
+Basidiomycota	Базидиомицеты
+Basil	Базилик душистый
+Basil of Caesarea	Василий Великий
+Basilica	Базилика
+Basilicata	Базиликата
+Basiliscus	Василиск (византийский император)
+Basilisk	Василиск
+Basketball	Баскетбол
+Basketball	Категория:Баскетбол
+Basra	Басра
+Bass guitar	Бас-гитара
+Basse-Normandie	Нижняя Нормандия
+Basseterre	Бастер
+Bassoon	Фагот
+Bast (mythology)	Баст
+Bastille	Бастилия
+Bat	Рукокрылые
+Bath	Бат
+Batman	Бэтмен
+Baton Rouge	Батон-Руж (Луизиана)
+Bats	Категория:Рукокрылые
+Battalion	Батальон
+Battery (electricity)	Батарея (электротехника)
+Battle of Austerlitz	Битва под Аустерлицем
+Battle of Britain	Битва за Британию
+Battle of Hastings	Битва при Гастингсе
+Battle of Lepanto (1571)	Битва при Лепанто (1571)
+Battle of Marathon	Битва при Марафоне
+Battle of Midway	Битва за Мидуэй
+Battle of Thermopylae	Фермопильское сражение
+Battle of Trafalgar	Трафальгарское сражение
+Battle of Verdun	Битва при Вердене
+Battle of Waterloo	Битва при Ватерлоо
+Battle of the Bulge	Арденнская операция
+Battle of the Somme	Битва на Сомме
+Battleship	Линейный корабль
+Bauhaus	Баухауз
+Bauxite	Боксит
+Bavaria	Бавария
+Bavaria	Категория:Бавария
+Bay Laurel	Лавр благородный
+Bay of Bengal	Бенгальский залив
+Bay of Biscay	Бискайский залив
+Bayer	Bayer AG
+Bayonet	Штык
+Bayonne	Байонна
+Beach	Пляж (морской)
+Beagle	Бигль
+Beak	Клюв
+Bear	Медвежьи
+Beaufort Sea	Море Бофорта
+Beaufort scale	Шкала Бофорта
+Beaver	Бобровые
+Bebop	Бибоп
+Becquerel	Беккерель (единица измерения)
+Bed	Кровать
+Bede	Беда Достопочтенный
+Bedouin	Бедуины
+Bee	Пчела
+Beech	Бук
+Beekeeping	Категория:Пчеловодство
+Beer	Пиво
+Beer	Категория:Пиво
+Beetle	Жесткокрылые
+Behaviorism	Бихевиоризм
+Beijing	Пекин
+Beirut	Бейрут
+Belarus	Белоруссия
+Belarus	Категория:Белоруссия
+Belfast	Белфаст
+Belgium	Бельгия
+Belgium	Категория:Бельгия
+Belgrade	Белград
+Belisarius	Велизарий
+Belize	Белиз
+Belize	Категория:Белиз
+Bell (instrument)	Колокол
+Bellerophon	Беллерофонт
+Belly dance	Танец живота
+Belo Horizonte	Белу-Оризонти
+Beluga	Белуха (млекопитающее)
+Benelux	Бенилюкс
+Bengal	Бенгалия
+Benghazi	Бенгази
+Benin	Бенин
+Benin	Категория:Бенин
+Benito Mussolini	Муссолини, Бенито
+Benjamin Britten	Бриттен, Эдвард Бенджамен
+Benjamin Disraeli	Дизраэли, Бенджамин
+Benjamin Franklin	Франклин, Бенджамин
+Benjamin Harrison	Гаррисон, Бенджамин
+Benny Goodman	Гудмен, Бенни
+Beowulf	Беовульф
+Bergen	Берген
+Bering Sea	Берингово море
+Bering Strait	Берингов пролив
+Berkelium	Берклий
+Berkshire	Беркшир
+Berlin	Берлин
+Berlin	Категория:Берлин
+Bermuda	Бермуды
+Bermuda	Категория:Бермудские острова
+Bermuda Triangle	Бермудский треугольник
+Bernardo Bertolucci	Бертолуччи, Бернардо
+Berne	Берн
+Bernhard Riemann	Риман, Бернхард
+Berry	Ягода
+Bertolt Brecht	Брехт, Бертольт
+Bertrand Russell	Рассел, Бертран Артур Уильям
+Beryl	Берилл
+Beryllium	Бериллий
+Beta (letter)	Бета (буква)
+Beta decay	Бета-распад
+Betelgeuse	Бетельгейзе
+Bethlehem	Вифлеем
+Bette Davis	Дэвис, Бетт
+Beverly Hills	Беверли-Хиллз (Калифорния)
+Bey	Бей
+Bhutan	Бутан
+Bhutan	Категория:Бутан
+Bible	Библия
+Bible	Категория:Библия
+Bibliography	Библиография
+Bicycle	Велосипед
+Big Bang	Большой взрыв
+Bihar	Бихар
+Bikini	Бикини
+Bile	Жёлчь человека
+Bill Clinton	Клинтон, Уильям Джефферсон
+Bill Gates	Гейтс, Билл
+Billy Wilder	Уайлдер, Билли
+Binary star	Двойная звезда
+Binoculars	Бинокль
+Biochemistry	Биохимия
+Biochemistry	Категория:Биохимия
+Biodiversity	Биоразнообразие
+Biogeography	Биогеография
+Biography	Биография
+Biography	Портал:Персоналии
+Biological warfare	Биологическое оружие
+Biology	Биология
+Biology	Категория:Биология
+Biology	Портал:Биология
+Biomass	Биомасса
+Biome	Природная зона
+Biometrics	Биометрия
+Biophysics	Биофизика
+Biopsy	Биопсия
+Biosphere	Биосфера
+Biotechnology	Биотехнология
+Biotechnology	Категория:Биотехнология
+Biotin	Биотин
+Bipolar disorder	Биполярное аффективное расстройство
+Birch	Берёза
+Bird	Птицы
+Birmingham	Бирмингем (Алабама)
+Birth control	Контрацепция
+Bisexuality	Бисексуальность
+Bishkek	Бишкек
+Bishop	Епископ
+Bishop (chess)	Слон (шахматы)
+Bismarck	Бисмарк (Северная Дакота)
+Bismarck (disambiguation)	Бисмарк (значения)
+Bismuth	Висмут
+Bissau	Бисау
+Bit	Бит
+Bithynia	Вифиния
+Bivalvia	Двустворчатые
+Black	Чёрный цвет
+Black Death	Чёрная смерть
+Black Forest	Шварцвальд
+Black Kite	Чёрный коршун
+Black Sea	Чёрное море
+Black Stork	Чёрный аист
+Black body	Абсолютно чёрное тело
+Black hole	Чёрная дыра
+Black pepper	Перец чёрный
+Blackbird	Чёрный дрозд
+Blaise Pascal	Паскаль, Блез
+Blender (software)	Blender
+Blindness	Слепота
+Blitzkrieg	Блицкриг
+Bloemfontein	Блумфонтейн
+Blog	Блог
+Blood	Кровь
+Blood plasma	Плазма крови
+Blood pressure	Кровяное давление
+Blood type	Группы крови
+Blood vessel	Кровеносный сосуд
+Blue	Синий цвет
+Blue Whale	Синий кит
+Blues	Блюз
+Boar	Дикий кабан
+Board game	Настольная игра
+Boat	Лодка
+Bob Dylan	Дилан, Боб
+Bob Marley	Марли, Роберт Неста
+Bobby Fischer	Фишер, Роберт Джеймс
+Bobsleigh	Бобслей
+Bodhisattva	Бодхисаттва
+Body mass index	Индекс массы тела
+Bodybuilding	Бодибилдинг
+Bohemia	Чехия (историческая область)
+Bohrium	Борий
+Boiling point	Температура кипения
+Boise	Бойсе (Айдахо)
+Boletus edulis	Белый гриб
+Bolivia	Боливия
+Bolivia	Категория:Боливия
+Bollywood	Болливуд
+Bologna	Болонья
+Bolshevik	Большевик
+Bolzano	Больцано (город)
+Bomb	Бомба
+Bomber	Бомбардировщик
+Bombyx mori	Тутовый шелкопряд
+Bond (finance)	Облигация
+Bone	Кость
+Bone marrow	Костный мозг человека
+Bonn	Бонн
+Bonsai	Бонсай
+Book	Книга
+Book of Esther	Книга Есфирь
+Book of Joshua	Книга Иисуса Навина
+Book of Judges	Книга Судей Израилевых
+Book of Mormon	Книга Мормона
+Book of Numbers	Книга Числа
+Book of Revelation	Откровение Иоанна Богослова
+Book of Ruth	Книга Руфь
+Boolean algebra (structure)	Булева алгебра
+Boomerang	Бумеранг
+Bordeaux	Бордо
+Boris Godunov	Борис Годунов
+Boris Pasternak	Пастернак, Борис Леонидович
+Boris Spassky	Спасский, Борис Васильевич
+Borneo	Калимантан
+Boron	Бор (элемент)
+Bosnia and Herzegovina	Босния и Герцеговина
+Bosnia and Herzegovina	Категория:Босния и Герцеговина
+Boson	Бозон (элементарная частица)
+Bosporus	Босфор
+Boston	Бостон
+Boston Tea Party	Бостонское чаепитие
+Bot	Шаблон:Bot
+Botanical garden	Ботанический сад
+Botany	Ботаника
+Botany	Категория:Ботаника
+Botswana	Ботсвана
+Botswana	Категория:Ботсвана
+Bottle	Бутылка
+Bottlenose Dolphin	Афалина
+Bourgeoisie	Буржуазия
+Bourgogne	Бургундия
+Bouvet Island	Буве
+Bovid	Полорогие
+Bow (weapon)	Лук (оружие)
+Bowling	Боулинг
+Boxer (dog)	Боксёр (порода собак)
+Boxers	Категория:Боксёры
+Boxing	Бокс
+Boxing	Категория:Бокс
+Bracket	Скобки
+Braga	Брага (Португалия)
+Brahma	Брахма
+Brahmaputra River	Брахмапутра
+Braille	Шрифт Брайля
+Brain	Головной мозг
+Brainstorming	Метод мозгового штурма
+Bram Stoker	Стокер, Брэм
+Brandenburg	Бранденбург
+Brandy	Бренди
+Brass	Латунь
+Brassicaceae	Капустные
+Brassiere	Бюстгальтер
+Bratislava	Братислава
+Braunschweig	Брауншвейг
+Brazil	Бразилия
+Brazil	Категория:Бразилия
+Brazzaville	Браззавиль
+Bread	Хлеб
+Breast	Женская грудь
+Breast cancer	Злокачественные новообразования молочной железы
+Bremen	Бремен
+Bremen (state)	Бремен (федеральная земля)
+Bremerhaven	Бремерхафен
+Brescia	Брешиа
+Brest	Брест (Франция)
+Brest	Брест (Белоруссия)
+Brest	Брест
+Bretagne	Бретань
+Brick	Кирпич
+Bridge	Мост
+Bridges	Категория:Мосты
+Bridgetown	Бриджтаун
+Brigade	Бригада
+Brighton	Брайтон
+Brindisi	Бриндизи
+Brisbane	Брисбен
+Bristol	Бристоль
+British Columbia	Британская Колумбия
+British Empire	Британская империя
+British Isles	Британские острова
+British Virgin Islands	Британские Виргинские острова
+British people	Категория:Персоналии:Великобритания
+Brno	Брно
+Broadway (New York City)	Бродвей (улица)
+Broccoli	Брокколи
+Bromine	Бром
+Bronze	Бронза
+Bronze Age	Бронзовый век
+Brooklyn	Бруклин
+Brooklyn Bridge	Бруклинский мост
+Brown	Коричневый цвет
+Brown Bear	Бурый медведь
+Brownian motion	Броуновское движение
+Bruce Lee	Ли, Брюс
+Bruges	Брюгге
+Brunei	Бруней
+Brunei	Категория:Бруней
+Brussels	Брюссель
+Bubonic plague	Чума
+Bucharest	Бухарест
+Buckingham Palace	Букингемский дворец
+Buckminster Fuller	Фуллер, Ричард Бакминстер
+Buckwheat	Гречиха#.D0.93.D1.80.D0.B5.D1.87.D0.B8.D1.85.D0.B0 .D0.BE.D0.B1.D1.8B.D0.BA.D0.BD.D0.BE.D0.B2.D0.B5.D0.BD.D0.BD.D0.B0.D1.8F
+Budapest	Будапешт
+Buddha	Будда
+Buddhism	Буддизм
+Buddhism	Категория:Буддизм
+Buddy Holly	Бадди Холли
+Buenos Aires	Буэнос-Айрес
+Buffalo	Буффало
+Building	Здание
+Bujumbura	Бужумбура
+Bulgaria	Болгария
+Bulgaria	Категория:Болгария
+Bumblebee	Шмели
+Buoyancy	Закон Архимеда
+Bureaucracy	Бюрократия
+Burgomaster	Бургомистр
+Burkina Faso	Буркина Фасо
+Burkina Faso	Категория:Буркина Фасо
+Burma	Мьянма
+Burma	Категория:Мьянма
+Bursa	Бурса (город)
+Burundi	Категория:Бурунди
+Bus	Автобус
+Bus (computing)	Шина (компьютеры)
+Business	Предприятие
+Businesspeople	Категория:Предприниматели
+Buster Keaton	Китон, Бастер
+Butane	Бутан (химия)
+Butter	Сливочное масло
+Butterfly	Чешуекрылые
+Butterfly effect	Эффект бабочки
+Bydgoszcz	Быдгощ
+Byte	Байт
+Byzantine Empire	Категория:Византия
+C	C (латиница)
+C (programming language)	Си (язык программирования)
+C. S. Lewis	Льюис, Клайв Стэйплз
+CD (disambiguation)	CD (значения)
+CHAOS (Linux distribution)	CHAOS
+CN Tower	Си-Эн Тауэр
+COBOL	КОБОЛ
+Cabaret	Кабаре
+Cacao	Какао
+Cache	Кэш
+Cactus	Кактусовые
+Cadmium	Кадмий
+Cadmus	Кадм
+Caelum	Резец (созвездие)
+Caesium	Цезий
+Caffeine	Кофеин
+Cairo	Каир
+Cake	Кекс
+Calabria	Калабрия
+Calais	Кале
+Calcite	Кальцит
+Calcium	Кальций
+Calcium carbonate	Карбонат кальция
+Calcium oxide	Оксид кальция
+Calculator	Калькулятор
+Calculus	Математический анализ
+Caldera	Кальдера
+Calendar	Календарь
+Caliber	Калибр
+California	Калифорния
+California	Категория:Калифорния
+Californium	Калифорний
+Caligula	Калигула
+Caliph	Халиф
+Caliphate	Халифат
+Calligraphy	Каллиграфия
+Calliope	Каллиопа
+Callisto (moon)	Каллисто (спутник)
+Callisto (mythology)	Каллисто
+Calorie	Калория
+Calvados	Кальвадос (департамент)
+Calvary	Голгофа
+Calvin Coolidge	Кулидж, Калвин
+Calvinism	Кальвинизм
+Calypso (mythology)	Калипсо
+Cambodia	Камбоджа
+Cambodia	Категория:Камбоджа
+Cambrian	Кембрий
+Cambridge	Кембридж
+Cambridge	Кембридж (Массачусетс)
+Cambridge (disambiguation)	Кембридж (значения)
+Camel	Верблюды
+Camembert (cheese)	Камамбер
+Camera	Фотоаппарат
+Cameroon	Камерун
+Cameroon	Категория:Камерун
+Campania	Кампания
+Canada	Канада
+Canada	Категория:Канада
+Canadian dollar	Канадский доллар
+Canal	Канал (водный)
+Canary Islands	Канарские острова
+Canary Islands	Категория:Канарские острова
+Canberra	Канберра
+Cancer	Карцинома
+Cancer (constellation)	Рак (созвездие)
+Candela	Кандела
+Candle	Свеча
+Canidae	Псовые
+Canis Major	Большой Пёс (созвездие)
+Canis Minor	Малый Пёс (созвездие)
+Cannabis	Конопля
+Cannabis (drug)	Марихуана
+Cannes	Канны (Франция)
+Cannibalism	Каннибализм
+Cannon	Пушка
+Canoe	Каноэ
+Canon (company)	Canon Inc.
+Canopus	Канопус
+Cantata	Кантата
+Canterbury	Кентербери
+Cantonese (linguistics)	Кантонский диалект
+Canute the Great	Кнуд Великий
+Capacitance	Электрическая ёмкость
+Capacitor	Электрический конденсатор
+Cape Canaveral	Мыс Канаверал
+Cape Horn	Мыс Горн
+Cape Town	Кейптаун
+Cape Verde	Кабо-Верде
+Cape Verde	Категория:Кабо-Верде
+Cape of Good Hope	Мыс Доброй Надежды
+Capital	Столица
+Capital (economics)	Капитал
+Capital punishment	Смертная казнь
+Capitalism	Капитализм
+Cappadocia	Каппадокия
+Capricornus	Козерог (созвездие)
+Capsicum	Капсикум
+Caracal	Каракал
+Caracas	Каракас
+Carambola	Карамбола
+Carat (mass)	Карат
+Carat (purity)	Карат
+Caravaggio	Караваджо
+Carbohydrate	Углеводы
+Carbon	Углерод
+Carbon cycle	Геохимический цикл углерода
+Carbon dioxide	Диоксид углерода
+Carbon monoxide	Монооксид углерода
+Carbonic acid	Угольная кислота
+Carboniferous	Каменноугольный период
+Carboxylic acid	Карбоновые кислоты
+Carburetor	Карбюратор
+Card game	Карточная игра
+Cardamom	Кардамон
+Cardiff	Кардифф
+Cardinal (Catholicism)	Кардинал
+Cardinal Richelieu	Ришельё, Арман Жан дю Плесси
+Cardiology	Кардиология
+Cardiology	Категория:Кардиология
+Cardiovascular system	Категория:Сердечно-сосудистая система
+Caribbean	Вест-Индия
+Caribbean	Категория:Карибские острова
+Caribbean Sea	Карибское море
+Caricature	Карикатура
+Carina (constellation)	Киль (созвездие)
+Carl David Anderson	Андерсон, Карл Давид
+Carl Jung	Юнг, Карл Густав
+Carl Lewis	Льюис, Карл
+Carl Maria von Weber	Вебер, Карл Мария
+Carl Orff	Орф, Карл
+Carnival	Карнавал
+Carnivora	Хищные
+Carnivore	Плотоядные
+Carnivorous plant	Хищные растения
+Carolingian dynasty	Каролинги
+Carolus Linnaeus	Линней, Карл
+Carpathian Mountains	Карпаты
+Carrot	Морковь
+Carson City	Карсон-Сити (Невада)
+Cartagena	Картахена
+Cartesian coordinate system	Прямоугольная система координат
+Cartesian product	Прямое произведение
+Carthage	Карфаген
+Cartography	Картография
+Cartography	Категория:Картография
+Cary Grant	Кэри Грант
+Caryophyllales	Гвоздичноцветные
+Casablanca	Касабланка
+Cashew	Кешью
+Casino	Казино
+Caspian Sea	Каспийское море
+Cassandra	Кассандра
+Cassiopeia (constellation)	Кассиопея (созвездие)
+Cast iron	Чугун
+Caste	Каста
+Castile (historical region)	Кастилия
+Castle	Замок (строение)
+Castling	Рокировка
+Castries	Кастри
+Casus belli	Casus belli
+Cat	Кошка
+Catalonia	Каталония (автономное сообщество)
+Catalonia	Категория:Каталония
+Catalysis	Катализатор
+Cataphract	Катафракт
+Cataract	Катаракта
+Catfish	Сомообразные
+Catharism	Катары
+Cathedral	Собор (храм)
+Catherine Parr	Парр, Екатерина
+Catherine of Aragon	Екатерина Арагонская
+Cathode	Катод
+Catholicism	Католицизм
+Cattle	Корова
+Cattle Egret	Египетская цапля
+Catullus	Гай Валерий Катулл
+Caucasus	Кавказ
+Caucasus	Категория:Кавказ
+Caucasus Mountains	Кавказ
+Cavalry	Кавалерия
+Cave	Пещера
+Caviar	Рыбья икра
+Cayenne	Кайенна
+Cayman Islands	Каймановы острова
+Cecil Rhodes	Родс, Сесиль Джон
+Cedar	Кедр
+Celery	Сельдерей
+Celestial mechanics	Категория:Небесная механика
+Celestial mechanics	Небесная механика
+Celestial sphere	Небесная сфера
+Celibacy	Целибат
+Cell (biology)	Клетка
+Cell membrane	Клеточные мембраны
+Cell nucleus	Клеточное ядро
+Cell wall	Клеточная стенка
+Cello	Виолончель
+Cellulose	Целлюлоза
+Celsius	Градус Цельсия
+Cement	Цемент
+Cemetery	Кладбище
+Cenozoic	Кайнозой
+Census	Перепись населения
+Centaur	Кентавры
+Centaurus	Центавр (созвездие)
+Center of mass	Центр масс
+Centimetre	Сантиметр
+Central Africa	Центральная Африка
+Central African Republic	Центральноафриканская Республика
+Central African Republic	Категория:Центрально-Африканская Республика
+Central America	Центральная Америка
+Central America	Категория:Центральная Америка
+Central Intelligence Agency	Центральное разведывательное управление
+Central Park	Центральный парк (Нью-Йорк)
+Central Powers	Центральные державы
+Central bank	Центральный банк
+Central nervous system	Центральная нервная система
+Central processing unit	Процессор
+Centre	Центр (регион Франции)
+Centriole	Центриоль
+Century	Век
+Cephalopod	Головоногие
+Cepheus (constellation)	Цефей (созвездие)
+Ceramic	Керамика
+Cerberus	Цербер
+Cereal	Хлебные зерновые культуры
+Cerebellum	Мозжечок
+Ceres	Церера
+Ceres (dwarf planet)	Церера (карликовая планета)
+Ceres (mythology)	Церера (мифология)
+Cerium	Церий
+Cesare Borgia	Борджиа, Чезаре
+Cestoda	Ленточные черви
+Cetacea	Китообразные
+Cetus	Кит (созвездие)
+Chad	Чад (государство)
+Chad	Категория:Чад
+Chaffinch	Зяблик
+Chair	Стул
+Chalcedony	Халцедон
+Chamaeleon	Хамелеон (созвездие)
+Chamois	Серна
+Champagne (wine)	Шампанское
+Champagne-Ardenne	Шампань-Арденны
+Channel Tunnel	Евротоннель
+Chaos (mythology)	Хаос (мифология)
+Charadriiformes	Ржанкообразные
+Charlemagne	Карл Великий
+Charleroi	Шарлеруа
+Charles	Чарльз, принц Уэльский
+Charles Baudelaire	Бодлер, Шарль
+Charles Darwin	Дарвин, Чарлз Роберт
+Charles Dickens	Диккенс, Чарльз
+Charles Fourier	Фурье, Шарль
+Charles Lindbergh	Линдберг, Чарльз
+Charles Peirce	Пирс, Чарльз Сандерс
+Charles Thomson Rees Wilson	Вильсон, Чарлз Томсон Риз
+Charles de Gaulle	Де Голль, Шарль
+Charles the Bald	Карл II Лысый
+Charleston	Чарлстон (Западная Вирджиния)
+Charlie Chaplin	Чаплин, Чарльз Спенсер
+Charlie Parker	Паркер, Чарльз
+Charlotte	Шарлотт (Северная Каролина)
+Charmed	Зачарованные (телесериал)
+Charon (moon)	Харон (спутник)
+Charon (mythology)	Харон (мифология)
+Chartres	Шартр
+Chauvinism	Шовинизм
+Che Guevara	Че Гевара, Эрнесто
+Chechnya	Чечня
+Chechnya	Категория:Чечня
+Cheese	Сыр
+Cheetah	Гепард
+Chelyabinsk	Челябинск
+Chemical bond	Химическая связь
+Chemical compound	Химическое соединение
+Chemical element	Химический элемент
+Chemical formula	Химическая формула
+Chemical reaction	Химические реакции
+Chemical warfare	Химическое оружие
+Chemistry	Химия
+Chemistry	Категория:Химия
+Chemistry	Портал:Химия
+Chemnitz	Кемниц (Саксония)
+Chemotherapy	Химиотерапия
+Chennai	Ченнаи
+Cheque	Чек
+Chernobyl	Чернобыль
+Cherry	Вишня
+Chert	Кремень
+Cherub	Херувимы
+Chess	Шахматы
+Chess	Категория:Шахматы
+Chess opening	Дебют
+Chester A. Arthur	Артур, Честер
+Chestnut	Каштан
+Chewing gum	Жевательная резинка
+Cheyenne	Шайенн (Вайоминг)
+Chi (letter)	Хи (буква)
+Chiang Kai-shek	Чан Кайши
+Chicago	Чикаго
+Chicken	Курица
+Chickenpox	Ветряная оспа
+Chickpea	Нут (растение)
+Chihuahua	Чиуауа
+Child	Ребёнок
+Childbirth	Роды
+Chile	Чили
+Chile	Категория:Чили
+Chimborazo (volcano)	Чимборасо
+Chimera (mythology)	Химера
+Chimpanzee	Шимпанзе
+China	Категория:Китай
+China	Китай (цивилизация)
+Chios	Хиос (остров)
+Chiron	Хирон (мифология)
+Chitin	Хитин
+Chlorine	Хлор
+Chloroform	Хлороформ
+Chlorophyll	Хлорофилл
+Chloroplast	Хлоропласт
+Chocolate	Шоколад
+Choir	Хор
+Cholera	Холера
+Cholesterol	Холестерол
+Chondrichthyes	Хрящевые рыбы
+Chongqing	Чунцин
+Chord (music)	Аккорд
+Chordate	Хордовые
+Christchurch	Крайстчёрч
+Christiaan Huygens	Гюйгенс, Христиан
+Christian Dior	Диор, Кристиан
+Christianity	Христианство
+Christianity	Категория:Христианство
+Christmas	Рождество Христово
+Christmas Eve	Сочельник
+Christmas tree	Новогодняя ёлка
+Christopher Columbus	Колумб, Христофор
+Christopher Marlowe	Марло, Кристофер
+Chromatin	Хроматин
+Chromatography	Хроматография
+Chromium	Хром
+Chromosome	Хромосома
+Chronology	Категория:Хронология
+Chuck Berry	Берри, Чак
+Chukchi Sea	Чукотское море
+Church	Церковь
+Church of England	Англиканская церковь
+Cicero	Цицерон
+Ciconiiformes	Аистообразные
+Cider	Сидр
+Cigarette	Сигарета
+Cinderella	Золушка (сказка)
+Cinnabar	Киноварь
+Cinnamon	Корица
+Circe	Цирцея
+Circinus	Циркуль (созвездие)
+Circle	Окружность
+Circulatory system	Кровообращение
+Circumcision	Обрезание
+Circus	Цирк
+Cirrhosis	Цирроз печени
+Citizenship	Гражданин
+Citric acid	Лимонная кислота
+Citric acid cycle	Цикл трикарбоновых кислот
+Citrus	Цитрусовые
+City-state	Город-государство
+Civil war	Гражданская война
+Civilization	Цивилизация
+Civilization (computer game)	Civilization
+Clarinet	Кларнет
+Clark Gable	Гейбл, Кларк
+Class	Класс
+Class (biology)	Класс (биология)
+Class (computer science)	Класс (программирование)
+Classical mechanics	Классическая механика
+Classical music	Классическая музыка
+Classical music	Категория:Классическая музыка
+Classicism	Классицизм
+Claude Monet	Моне, Клод
+Claude Shannon	Шеннон, Клод Элвуд
+Claudio Monteverdi	Монтеверди, Клаудио Джованни Антонио
+Claudius	Клавдий
+Clavicle	Ключица
+Clay	Глина
+Clef	Ключ (музыка)
+Clement Attlee	Эттли, Клемент
+Cleopatra (disambiguation)	Клеопатра (значения)
+Clergy	Духовенство
+Cleveland	Кливленд (Огайо)
+Client-server	Технология «клиент-сервер»
+Climate	Климат
+Climate	Категория:Климат
+Climate change	Изменение климата
+Climatology	Климатология
+Climatology	Категория:Климатология
+Clinical depression	Большое депрессивное расстройство
+Clio	Клио
+Clitoris	Клитор
+Clock	Часы
+Clock Tower	Биг-Бен
+Cloning	Клонирование (биотехнология)
+Clothing	Категория:Одежда
+Clothing	Одежда
+Cloud	Облако
+Clove	Гвоздика (пряность)
+Clover	Клевер
+Clovis I	Хлодвиг I
+Cnidaria	Стрекающие
+Coal	Уголь
+Coast	Побережье
+Coat of arms	Герб
+Cobalt	Кобальт
+Cocaine	Кокаин
+Coccinellidae	Божьи коровки
+Cockatoo	Какаду
+Cockroach	Таракановые
+Cocktail	Коктейль
+Coconut	Кокосовая пальма
+Cocos (Keeling) Islands	Кокосовые острова
+Codeine	Кодеин
+Coffea	Кофейное дерево
+Coffee	Кофе
+Coffee	Категория:Кофе
+Cognac (drink)	Коньяк
+Cognitive psychology	Когнитивная психология
+Coin	Монета
+Cola	Кола
+Colchis	Колхида
+Cold War	Холодная война
+Cold War	Категория:Холодная война
+Colin Powell	Пауэлл, Колин Лютер
+Collage	Коллаж
+Collagen	Коллаген
+Colloid	Коллоидные системы
+Cologne	Кёльн
+Colombia	Колумбия
+Colombia	Категория:Колумбия
+Colombo	Коломбо
+Colonel	полковник
+Colony	Колония
+Color	Цвет
+Color blindness	Дальтонизм
+Colorado	Колорадо
+Colorado	Категория:Колорадо
+Colorado River	Колорадо (река)
+Colosseum	Колизей
+Colossus of Rhodes	Колосс Родосский
+Colubrid	Ужеобразные
+Columba (constellation)	Голубь (созвездие)
+Columbia	Колумбия (Южная Каролина)
+Columbia	Колумбия (значения)
+Columbia River	Колумбия (река)
+Columbia University	Колумбийский университет
+Columbidae	Голубиные
+Columbiformes	Категория:Голубеобразные
+Columbiformes	Голубеобразные
+Columbus	Колумбус (Огайо)
+Columbus	Колумбус (значения)
+Coma	Кома (медицина)
+Coma Berenices	Волосы Вероники (созвездие)
+Combustion	Горение
+Comedy	Комедия
+Comenius	Коменский, Ян Амос
+Comet	Комета
+Comma (punctuation)	Запятая
+Commedia dell'arte	Комедия дель арте
+Commerce	Категория:Коммерция
+Common Fig	Инжир
+Common cold	Острая респираторная вирусная инфекция
+Commonwealth of Independent States	Содружество Независимых Государств
+Commonwealth of Nations	Содружество наций
+Communication	Категория:Связь
+Communication	Общение
+Communism	Коммунизм
+Communism	Категория:Коммунизм
+Comoros	Коморские острова
+Comoros	Категория:Коморские острова
+Compact Disc	Компакт-диск
+Company (military unit)	Рота (армия)
+Compass	Компас
+Compass (drafting)	Циркуль
+Competition	Соревнование
+Compiler	Компилятор
+Complex instruction set computer	CISC
+Complex number	Комплексное число
+Composer	Композитор
+Composite material	Композиционный материал
+Composite number	Составное число
+Computational linguistics	Математическая лингвистика
+Computed tomography	Компьютерная томография
+Computer	Компьютер
+Computer architecture	Архитектура компьютера
+Computer display	Монитор
+Computer file	Файл
+Computer graphics	Категория:Компьютерная графика
+Computer hardware	Компьютерная техника
+Computer hardware	Категория:Аппаратное обеспечение
+Computer network	Компьютерная сеть
+Computer program	Компьютерная программа
+Computer programming	Программирование
+Computer programming	Категория:Программирование
+Computer science	Информатика
+Computer science	Категория:Информатика
+Computer software	Программное обеспечение
+Computer virus	Компьютерный вирус
+Computer-aided design	Система автоматизации проектных работ
+Computing	Категория:Вычислительная техника
+Conakry	Конакри
+Concentration	Концентрация растворов
+Concerto	Концерт (произведение)
+Concord	Конкорд (Нью-Хэмпшир)
+Concrete	Бетон
+Condom	Презерватив
+Conducting	Дирижёр
+Cone (geometry)	Конус
+Confederate States of America	Конфедеративные Штаты Америки
+Confederation	Конфедерация
+Confession	Исповедь
+Confirmation	Миропомазание
+Conflict	Конфликт
+Confucianism	Конфуцианство
+Confucius	Конфуций
+Congo	Конго
+Congo River	Конго (река)
+Conic section	Коническое сечение
+Connecticut	Коннектикут
+Connecticut	Категория:Коннектикут
+Connective tissue	Соединительная ткань
+Conquistador	Конкистадор
+Consensus	Консенсус
+Conservation of energy	Закон сохранения энергии
+Conservatism	Консерватизм
+Consonant	Согласные
+Constantine I	Константин I Великий
+Constellation	Созвездие
+Constitution (political)	Конституция
+Consul	Консул (Древний Рим)
+Consumption (economics)	Потребление
+Contact lens	Контактные линзы
+Continent	Континент
+Continental drift	Теория дрейфа материков
+Continental shelf	Шельф
+Contract	Договор
+Contract bridge	Бридж
+Convection	Конвекция
+Cooking	Кулинария
+Cooperative	Кооператив
+Coordinate system	Система координат
+Coordinated Universal Time	Универсальное координированное время
+Copenhagen	Копенгаген
+Copper	Медь
+Copyright	Авторское право
+Cor anglais	Английский рожок
+Coraciiformes	Ракшеобразные
+Coral	Коралл
+Coral Sea	Коралловое море
+Coral reef	Коралловые рифы
+Coriander	Кориандр
+Corinth	Коринф
+Coriolis effect	Сила Кориолиса
+Cork (city)	Корк
+Cormorant	Баклановые
+Cornea	Роговица
+Cornell University	Корнелльский университет
+Cornwall	Корнуолл
+Corona Borealis	Северная Корона (созвездие)
+Corporation	Корпорация
+Corrosion	Коррозия
+Corsica	Корсика
+Corundum	Корунд
+Corvette	Корвет
+Corvidae	Врановые
+Corvus (constellation)	Ворон (созвездие)
+Cosmic microwave background radiation	Реликтовое излучение
+Cosmic ray	Космические лучи
+Cosmology	Космология
+Cosmology	Категория:Космология
+Costa Rica	Коста-Рика
+Costa Rica	Категория:Коста-Рика
+Cotonou	Котону
+Cotopaxi	Котопакси
+Cotton	Хлопок
+Cougar	Пума
+Coulomb	Кулон
+Coulomb's law	Закон Кулона
+Council of Chalcedon	Халкидонский собор
+Council of Ephesus	Эфесский собор
+Council of Trent	Тридентский собор
+Counterpoint	Контрапункт
+Country	Страна
+Country music	Кантри
+Court	Суд
+Covalent bond	Ковалентная связь
+Coventry	Ковентри
+Coyote	Койот
+Crab	Крабы
+Crab Nebula	Крабовидная туманность
+Crane (bird)	Журавли
+Crater (constellation)	Чаша (созвездие)
+Creationism	Креационизм
+Cremona	Кремона
+Cretaceous	Меловой период
+Crete	Крит
+Cricket	Крикет
+Cricket (insect)	Настоящие сверчки
+Crime	Преступление
+Crimea	Крым
+Crimean War	Крымская война
+Criminal law	Категория:Уголовное право
+Criminal law	Уголовное право
+Criminology	Криминология
+Criminology	Категория:Криминология
+Croatia	Хорватия
+Croatia	Категория:Хорватия
+Crocodile	Настоящие крокодилы
+Crocodilia	Крокодилы
+Cronus	Кронос
+Cross	Крест
+Cross product	Векторное произведение
+Crossbow	Арбалет
+Crossword	Кроссворд
+Crow	Вороны
+Crucifixion	Распятие (казнь)
+Cruiser	Крейсер
+Crust (geology)	Земная кора
+Crustacean	Ракообразные
+Crux	Южный Крест (созвездие)
+Cryptography	Криптография
+Cryptography	Категория:Криптография
+Crystal	Кристаллы
+Crystallography	Кристаллография
+Crystallography	Категория:Кристаллография
+Ctenophore	Гребневики
+Cuba	Куба
+Cuba	Категория:Куба
+Cube	Куб
+Cubic metre	Кубический метр
+Cubism	Кубизм
+Cuculiformes	Кукушкообразные
+Cucumber	Огурец обыкновенный
+Cucurbitaceae	Тыквенные
+Cultural Revolution	Культурная революция в Китае
+Culture	Культура
+Culture	Категория:Культура
+Cumbria	Камбрия
+Cupressaceae	Кипарисовые
+Curitiba	Куритиба
+Curium	Кюрий
+Curling	Кёрлинг
+Currency	Категория:Валюты
+Currency	Валюта
+Curry	Карри (блюдо)
+Curve	Кривая
+Cusco	Куско
+Cyan	Голубой цвет
+Cyanide	Цианиды
+Cyanobacteria	Цианобактерии
+Cybele	Кибела
+Cybernetics	Кибернетика
+Cyberpunk	Киберпанк
+Cyclades	Киклады
+Cycling	Велосипедный спорт
+Cycling	Категория:Велосипедный спорт
+Cyclone	Циклон
+Cyclops	Циклопы
+Cygnus (constellation)	Лебедь (созвездие)
+Cylinder (geometry)	Цилиндр
+Cyperaceae	Осоковые
+Cyprinid	Карповые
+Cypriniformes	Карпообразные
+Cyprus	Кипр
+Cyprus	Категория:Кипр
+Cyrillic alphabet	Кириллица
+Cyrus the Great	Кир II Великий
+Cystic fibrosis	Муковисцидоз
+Cytoplasm	Цитоплазма
+Cytosine	Цитозин
+Cytoskeleton	Цитоскелет
+Czech Republic	Чехия
+Czech Republic	Категория:Чехия
+Czechoslovakia	Чехословакия
+Czechoslovakia	Категория:Чехословакия
+D	D (латиница)
+D. H. Lawrence	Лоуренс, Дэвид Герберт
+D. W. Griffith	Гриффит, Дэвид
+DDT	ДДТ
+DNA	Дезоксирибонуклеиновая кислота
+DOS	DOS
+DVD	DVD
+Dachshund	Такса
+Dada	Дадаизм
+Daedalus	Дедал
+Dagger	Кинжал
+Daguerreotype	Дагеротипия
+Dahlia	Георгина
+Dakar	Дакар
+Dalai Lama	Далай-лама
+Dallas	Даллас
+Dalmatia	Далмация
+Dam	Плотина
+Damascus	Дамаск
+Dance	Танец
+Dance	Категория:Танцы
+Dandelion	Одуванчик
+Daniel Bernoulli	Бернулли, Даниил
+Daniel Defoe	Дефо, Даниэль
+Daniel Ortega	Ортега, Даниэль
+Danish krone	Датская крона
+Dante Alighieri	Данте Алигьери
+Danube	Дунай
+Daphne	Дафна
+Dar es Salaam	Дар-эс-Салам
+Dardanelles	Дарданеллы
+Darfur	Дарфур
+Darjeeling	Дарджилинг (город)
+Dark matter	Скрытая масса
+Darmstadtium	Дармштадтий
+Darwin	Дарвин (город)
+Darwin	Дарвин
+Das Kapital	Капитал (Карл Маркс)
+Data	Данные
+Data mining	Интеллектуальный анализ данных
+Data structure	Структура данных
+Database	База данных
+Database management system	Система управления базами данных
+Date Palm	Финиковая пальма
+Dative case	Дательный падеж
+Daugavpils	Даугавпилс
+David	Давид
+David Hilbert	Гильберт, Давид
+David Hume	Юм, Дэвид
+David Livingstone	Ливингстон, Давид
+David Ricardo	Рикардо, Давид
+Davis Cup	Кубок Дэвиса
+Day	Сутки
+Days	Категория:Даты
+De facto	De facto
+Deacon	Диакон
+Dead Sea	Мёртвое море
+Dead Sea scrolls	Кумранские рукописи
+Deadly nightshade	Белладонна
+Death	Смерть
+Death	Категория:Смерть
+Decade	Десятилетие
+December	Декабрь
+December 31	31 декабря
+December 8	8 декабря
+Decibel	Децибел
+Decimal	Десятичная система счисления
+Decius (emperor)	Деций Траян
+Deco	Деку
+Deconstruction	Деконструкция
+Deductive reasoning	Дедуктивное умозаключение
+Deer	Оленевые
+Deflation	Дефляция (экономика)
+Degree	Градус
+Degree (angle)	Градус (геометрия)
+Deimos (moon)	Деймос
+Deism	Деизм
+Delaware	Делавэр
+Delaware	Категория:Делавэр
+Delft	Делфт
+Delhi	Дели
+Dell	Dell
+Delphi	Дельфы
+Delphinus	Дельфин (созвездие)
+Delta	Дельта
+Delta (letter)	Дельта (буква)
+Deluge (mythology)	Всемирный Потоп
+Demagogy	Демагогия
+Dementia	Деменция
+Demeter	Деметра
+Democracy	Демократия
+Democratic Party (United States)	Демократическая партия США
+Democratic Republic of the Congo	Демократическая Республика Конго
+Democratic Republic of the Congo	Категория:Демократическая Республика Конго
+Democritus	Демокрит
+Demography	Демография
+Demography	Категория:Демография
+Demon	Демон
+Demosthenes	Демосфен
+Deng Xiaoping	Дэн Сяопин
+Dengue fever	Лихорадка денге
+Denis Diderot	Дидро, Дени
+Denmark	Дания
+Denmark	Категория:Дания
+Dennis Gabor	Габор, Дэннис
+Density	Плотность
+Dental caries	Кариес зубов
+Dentistry	Категория:Стоматология
+Dentistry	Стоматология
+Denver	Денвер (Колорадо)
+Derivative	Производная функции
+Dermatology	Дерматология
+Des Moines	Де-Мойн (Айова)
+Desert	Пустыня
+Deserts	Категория:Пустыни
+Desiderius Erasmus	Эразм Роттердамский
+Design	Дизайн
+Design	Категория:Дизайн
+Desmond Tutu	Туту, Десмонд
+Destroyer	Эскадренный миноносец
+Determinant	Определитель
+Determinism	Детерминизм
+Detroit	Детройт
+Deuterium	Дейтерий
+Deuteronomy	Второзаконие
+Developmental psychology	Психология развития
+Device driver	Драйвер
+Devon	Девон (графство)
+Devonian	Девонский период
+Dew	Роса
+Dew point	Точка росы
+Dhaka	Дакка
+Dharma	Дхарма
+Dhaulagiri	Дхаулагири
+Dhole	Красный волк
+Diabetes mellitus	Сахарный диабет
+Diacritic	Диакритический знак
+Dialect	Диалект
+Dialectic	Диалектика
+Dialectical materialism	Диалектический материализм
+Diameter	Диаметр
+Diamond	Алмаз
+Diana	Диана, принцесса Уэльская
+Diana (mythology)	Диана (богиня)
+Diarrhea	Диарея
+Diaspora	Диаспора
+Diatom	Диатомовые водоросли
+Dice	Игральная кость
+Dicotyledon	Двудольные
+Dictatorship	Диктатура
+Dictionary	Словарь
+Diego Rivera	Ривера, Диего
+Diesel	Дизельное топливо
+Diesel engine	Дизельный двигатель
+Dietrich Bonhoeffer	Бонхёффер, Дитрих
+Differential equation	Дифференциальное уравнение
+Diffraction	Дифракция
+Diffusion	Диффузия
+Digestion	Пищеварение
+Digestive system	Категория:Пищеварительная система
+Digital	Цифровой
+Digital camera	Цифровой фотоаппарат
+Digital photography	Цифровая фотография
+Digital subscriber line	XDSL
+Dijon	Дижон
+Dill	Укроп
+Dimension	Размерность пространства
+Dingo	Динго
+Dinosaur	Динозавры
+Diocese	Диоцез
+Diocletian	Диоклетиан
+Diode	Диод
+Dionysus	Дионис
+Diphtheria	Дифтерия
+Diphthong	Дифтонг
+Diplodocus	Диплодок
+Diplomacy	Дипломатия
+Diplomacy	Категория:Дипломатия
+Dire Straits	Dire Straits
+Direct current	Постоянный ток
+Disaccharide	Дисахариды
+Disambiguation	Категория:Многозначные термины
+Disc jockey	Диджей
+Discourse	Дискурс
+Discrimination	Дискриминация
+Disease	Болезнь
+Distance	Расстояние
+Distillation	Дистилляция
+Divergence	Дивергенция
+Division (mathematics)	Деление (математика)
+Division (military)	Дивизия
+Divorce	Развод
+Dizzy Gillespie	Гиллеспи, Диззи
+Djibouti	Категория:Джибути
+Djibouti (city)	Джибути (город)
+Dmitri Mendeleev	Менделеев, Дмитрий Иванович
+Dmitri Shostakovich	Шостакович, Дмитрий Дмитриевич
+Dnieper River	Днепр
+Dnipropetrovsk	Днепропетровск
+Doberman Pinscher	Доберман
+Doctor of the Church	Учители церкви
+Document	Документ
+Dodecahedron	Додекаэдр
+Dodecanese	Додеканес (острова)
+Dodo	Дронты
+Dodoma	Додома
+Dog	Домашняя собака
+Dogma	Догмат
+Doha	Доха
+Dolly (sheep)	Долли (овца)
+Dolmen	Дольмен
+Dolomite	Доломит
+Dolphin	Дельфиновые
+Domain (biology)	Домен (биология)
+Domain name	Доменное имя
+Dome	Купол
+Domesday Book	Книга страшного суда
+Domestication	Одомашнивание
+Dominica	Доминика
+Dominica	Категория:Доминика
+Dominican Order	Доминиканцы
+Dominican Republic	Доминиканская Республика
+Dominican Republic	Категория:Доминиканская Республика
+Domitian	Домициан
+Don Quixote	Дон Кихот
+Don River (Russia)	Дон
+Donald Duck	Дональд Дак
+Donatello	Донателло
+Donato Bramante	Донато Браманте
+Donetsk	Донецк
+Donkey	Осёл
+Door	Дверь
+Dopamine	Дофамин
+Doppler effect	Эффект Доплера
+Dorado	Золотая Рыба (созвездие)
+Doric order	Дорический ордер
+Doris Lessing	Лессинг, Дорис
+Dortmund	Дортмунд
+Douala	Дуала (город)
+Double bass	Контрабас
+Douglas MacArthur	Макартур, Дуглас
+Dover	Довер (Делавэр)
+Dover	Дувр
+Down syndrome	Синдром Дауна
+Draco (constellation)	Дракон (созвездие)
+Dracula	Дракула (роман)
+Dragon	Дракон
+Drainage basin	Речной бассейн
+Drama	Драма (род литературы)
+Draughts	Шашки
+Dream	Сновидение
+Dresden	Дрезден
+Drink	Напитки
+Dromedary	Одногорбый верблюд
+Drought	Засуха
+Drug addiction	Наркомания
+Druid	Друиды
+Drum	Барабан
+Dualism	Дуализм
+Dualism (philosophy of mind)	Дуализм
+Dubai	Дубай (эмират)
+Dublin	Дублин
+Dubnium	Дубний
+Dubrovnik	Дубровник
+Duck	Утки
+Dugong	Дюгонь
+Duke	Герцог
+Duke Ellington	Эллингтон, Дюк
+Duke University	Университет Дьюка
+Dune	Дюна
+Dunkirk	Дюнкерк
+Duodenum	Двенадцатиперстная кишка человека
+Durban	Дурбан
+Dushanbe	Душанбе
+Dustin Hoffman	Хофман, Дастин Ли
+Dutch people	Категория:Персоналии:Нидерланды
+Dwight D. Eisenhower	Эйзенхауэр, Дуайт Дэвид
+Dynamite	Динамит
+Dynasty	Династия
+Dyslexia	Дислексия
+Dysprosium	Диспрозий
+Dystopia	Антиутопия
+E	E (латиница)
+E (mathematical constant)	E (математическая константа)
+E-mail	Электронная почта
+E. T. A. Hoffmann	Гофман, Эрнст Теодор Амадей
+ETA	ЭТА
+Eagle	Орлиные
+Ear	Ухо
+Eared seal	Ушастые тюлени
+Earless seal	Настоящие тюлени
+Earth	Земля
+Earth	Категория:Земля
+Earth science	Науки о Земле
+Earthquake	Землетрясение
+East	Восток
+East Africa	Восточная Африка
+East China Sea	Восточно-Китайское море
+East Germany	Германская Демократическая Республика
+East Sussex	Восточный Сассекс
+East Timor	Восточный Тимор
+East Timor	Категория:Восточный Тимор
+Easter	Пасха
+Eastern Orthodox Church	Православие
+Ebola	Геморрагическая лихорадка Эбола
+Ebro	Эбро
+Eccentricity (mathematics)	Эксцентриситет
+Ecclesiastes	Книга Екклесиаста
+Echidna	Ехидны
+Echidna (mythology)	Ехидна (мифология)
+Echinoderm	Иглокожие
+Eclipse	Затмение
+Eclipse (software)	Eclipse
+Ecliptic	Эклиптика
+Ecological niche	Экологическая ниша
+Ecology	Экология
+Ecology	Категория:Экология
+Econometrics	Эконометрика
+Economics	Экономика
+Economics	Категория:Экономика
+Economy	Экономика
+Ecosystem	Экосистема
+Ecuador	Эквадор
+Ecuador	Категория:Эквадор
+Ecumenical council	Вселенские соборы
+Edgar Allan Poe	По, Эдгар Аллан
+Edgar Degas	Дега, Эдгар
+Edgar Rice Burroughs	Берроуз, Эдгар Райс
+Edinburgh	Эдинбург
+Edirne	Эдирне
+Edmond Halley	Галлей, Эдмонд
+Edmonton	Эдмонтон
+Edmund Burke	Бёрк, Эдмунд
+Edmund Hillary	Хиллари, Эдмунд
+Edmund Husserl	Гуссерль, Эдмунд
+Eduard Buchner	Бухнер, Эдуард
+Education	Образование
+Education	Категория:Образование
+Edvard Grieg	Григ, Эдвард
+Edvard Munch	Мунк, Эдвард
+Edward Gibbon	Гиббон, Эдуард
+Edward Jenner	Дженнер, Эдуард
+Edward the Confessor	Эдуард Исповедник
+Edwin Hubble	Хаббл, Эдвин Пауэлл
+Egg (biology)	Яйцо
+Eggplant	Баклажан
+Egypt	Арабская Республика Египет
+Egypt	Категория:Египет
+Egyptian pound	Египетский фунт
+Egyptology	Египтология
+Eiffel Tower	Эйфелева башня
+Eindhoven	Эйндховен
+Einsteinium	Эйнштейний
+Ejaculation	Эякуляция
+El Cid	Сид Кампеадор
+El Greco	Эль Греко
+El Paso	Эль-Пасо
+El Salvador	Сальвадор
+El Salvador	Категория:Сальвадор
+Elam	Элам
+Elbe	Эльба (река)
+Eleanor Roosevelt	Рузвельт, Элеонора
+Election	Выборы
+Electra	Электра
+Electric charge	Электрический заряд
+Electric current	Электрический ток
+Electric field	Электрическое поле
+Electric guitar	Электрогитара
+Electric motor	Электрический двигатель
+Electrical engineering	Категория:Электротехника
+Electrical engineering	Электротехника
+Electrical resistance	Электрическое сопротивление
+Electricity	Электричество
+Electricity	Категория:Электричество
+Electrocardiogram	Электрокардиограмма
+Electrochemistry	Электрохимия
+Electrochemistry	Категория:Электрохимия
+Electrolysis	Электролиз
+Electrolyte	Электролит
+Electromagnetic radiation	Электромагнитное излучение
+Electromagnetism	Электродинамика
+Electromagnetism	Категория:Электромагнетизм
+Electron	Электрон
+Electron microscope	Электронный микроскоп
+Electronegativity	Электроотрицательность
+Electronics	Электроника
+Electronics	Категория:Электроника
+Elegy	Элегия (литература)
+Elementary particle	Элементарная частица
+Elephant	Слоновые
+Elevator	Лифт
+Elf	Эльф
+Elia Kazan	Элиа Казан
+Elias Canetti	Канетти, Элиас
+Elijah	Илия (пророк)
+Elizabeth Taylor	Тейлор, Элизабет
+Ella Fitzgerald	Фицджеральд, Элла
+Ellipse	Эллипс
+Ellipsis	Многоточие
+Elm	Вяз
+Elvis Presley	Пресли, Элвис
+Embryo	Эмбрион
+Embryology	Эмбриология
+Emerald	Изумруд
+Emilia-Romagna	Эмилия-Романья
+Emiliano Zapata	Сапата, Эмилиано
+Emily Dickinson	Дикинсон, Эмили
+Emir	Эмир
+Emma Goldman	Гольдман, Эмма
+Emoticon	Смайлик
+Emotion	Эмоция
+Emotion	Категория:Эмоции
+Empathy	Эмпатия
+Empedocles	Эмпедокл Акрагантский
+Emperor	Император
+Emperor Penguin	Императорский пингвин
+Empire	Империя
+Empire State Building	Эмпайр-Стейт-Билдинг
+Empiricism	Эмпиризм
+Emu	Эму
+Emulator	Эмуляция
+Emulsion	Эмульсия
+Encyclopedia	Энциклопедия
+Endemism	Эндемик
+Endocrine system	Эндокринная система
+Endocrinology	Эндокринология
+Endocrinology	Категория:Эндокринология
+Energy	Энергия
+Energy	Категория:Энергия
+Energy (society)	Энергия
+Engine	Двигатель
+Engineer	Инженер
+Engineering	Инженерное дело
+Engineering	Категория:Технические науки
+England	Англия
+England	Категория:Англия
+English Channel	Ла-Манш
+English Civil War	Английская революция
+English language	Английский язык
+English language	Категория:Английский язык
+English people	Категория:Персоналии:Англия
+English people	Англичане
+Enki	Эа (мифология)
+Enrico Caruso	Карузо, Энрико
+Enrico Fermi	Ферми, Энрико
+Entertainment	Категория:Развлечения
+Enthalpy	Энтальпия
+Entomology	Энтомология
+Entomology	Категория:Энтомология
+Entropy	Термодинамическая энтропия
+Environment	Категория:Охрана окружающей среды
+Environment	Окружающая среда
+Enzyme	Ферменты
+Eon (geology)	Эон (геология)
+Eos	Эос
+Ephesus	Эфес (город)
+Epic poetry	Эпос
+Epicenter	Эпицентр землетрясения
+Epictetus	Эпиктет
+Epicurus	Эпикур
+Epidemic	Эпидемия
+Epidemiology	Эпидемиология
+Epigraphy	Эпиграфика
+Epilepsy	Эпилепсия
+Epimetheus (mythology)	Эпиметей
+Epinephrine	Адреналин
+Epiphany (Christian)	Богоявление
+Epirus (periphery)	Эпир
+Epistemology	Эпистемология
+Epistle to the Galatians	Послание к Галатам
+Epistle to the Romans	Послание к Римлянам
+Epithelium	Эпителий
+Epsilon	Эпсилон (буква)
+Equation	Уравнение
+Equator	Экватор
+Equatorial Guinea	Экваториальная Гвинея
+Equatorial Guinea	Категория:Экваториальная Гвинея
+Equidae	Лошади
+Equinox	Равноденствие
+Equisetum	Хвощ
+Erasure	Erasure
+Erato	Эрато
+Eratosthenes	Эратосфен
+Erbium	Эрбий
+Erebus	Эреб
+Erectile dysfunction	Импотенция
+Erection	Эрекция
+Ericaceae	Вересковые
+Ericales	Верескоцветные
+Eridanus (constellation)	Эридан (созвездие)
+Erik Axel Karlfeldt	Карлфельдт, Эрик Аксель
+Erik Satie	Сати, Эрик
+Eris (dwarf planet)	Эрида (карликовая планета)
+Eris (mythology)	Эрида (мифология)
+Eritrea	Категория:Эритрея
+Ernest Hemingway	Хемингуэй, Эрнест Миллер
+Ernest Rutherford	Резерфорд, Эрнест
+Ernst Werner von Siemens	Сименс, Вернер фон
+Eros (mythology)	Эрот
+Erosion	Эрозия почвы
+Erotica	Эротика
+Erwin Rommel	Роммель, Эрвин Йоханнес Ойген
+Escape velocity	Вторая космическая скорость
+Eschatology	Эсхатология
+Escherichia coli	Кишечная палочка
+Esfahan	Исфахан (город)
+Esophagus	Пищевод человека
+Esperanto	Эсперанто
+Esperanto	Категория:Эсперанто
+Espionage	Разведка
+Espoo	Эспоо
+Espresso	Эспрессо
+Essay	Эссе
+Essen	Эссен
+Essential oil	Эфирные масла
+Essex	Эссекс
+Ester	Сложные эфиры
+Estonia	Категория:Эстония
+Estrogen	Эстрогены
+Eta (letter)	Эта (буква)
+Etching	Офорт
+Ethane	Этан
+Ethanol	Этанол
+Ether	Простые эфиры
+Ethernet	Ethernet
+Ethics	Этика
+Ethics	Категория:Этика
+Ethiopia	Эфиопия
+Ethiopia	Категория:Эфиопия
+Ethnic group	Этнос
+Ethnography	Этнография
+Ethnology	Категория:Этнология
+Ethology	Этология
+Ethylene	Этилен
+Etymology	Этимология
+Eucalyptus	Эвкалипт
+Eucharist	Евхаристия
+Euclid	Евклид
+Euclidean geometry	Евклидова геометрия
+Eugene O'Neill	О’Нил, Юджин Гладстон
+Eukaryote	Эукариоты
+Eunuch	Евнух
+Euphemism	Эвфемизм
+Euphrates	Евфрат
+Eurasia	Евразия (континент)
+Eurasian Badger	Барсук
+Euripides	Еврипид
+Euro	Евро
+Europa (moon)	Европа (спутник)
+Europa (mythology)	Европа (мифология)
+Europe	Европа
+Europe	Категория:Европа
+European Central Bank	Европейский центральный банк
+European Community	Европейское сообщество
+European Magpie	Обыкновенная сорока
+European Union	Европейский Союз
+European Union	Категория:Европейский союз
+Europium	Европий
+Eusebius of Caesarea	Евсевий Кесарийский
+Euterpe	Эвтерпа
+Euthanasia	Эвтаназия
+Eva Braun	Браун, Ева Анна Паула
+Evanescence	Evanescence
+Evangelista Torricelli	Торричелли, Евангелиста
+Evaporation	Испарение
+Even-toed ungulate	Парнокопытные
+Evolution	Эволюция
+Excalibur	Экскалибур
+Exchange rate	Валютный курс
+Exclamation mark	Восклицательный знак
+Excommunication	Отлучение от церкви
+Executive (government)	Исполнительная власть
+Exhibitionism	Эксгибиционизм
+Existentialism	Экзистенциализм
+Exodus	Книга Исход
+Expected value	Математическое ожидание
+Experiment	Эксперимент
+Explosion	Взрыв
+Expo (exhibition)	Всемирная выставка
+Exponential function	Показательная функция
+Exponentiation	Возведение в степень
+Expressionism	Экспрессионизм
+Extinction	Вымирание
+Eye	Глаз
+Eye	Категория:Глаз
+Ezra Pound	Паунд, Эзра Лумис
+F	F (латиница)
+F. Scott Fitzgerald	Фицджеральд, Фрэнсис Скотт
+Fabaceae	Бобовые (семейство)
+Fable	Басня
+Face	Лицо (часть тела)
+Fact	Шаблон:Нет источника
+Factorial	Факториал
+Factory	Фабрика
+Facula	Солнечные пятна
+Fado	Фаду
+Fagaceae	Категория:Буковые
+Fagales	Букоцветные
+Fahrenheit	Градус Фаренгейта
+Fair use	Добросовестное использование
+Fairy	Фея
+Fairy tale	Сказка
+Falcon	Соколы
+Falconiformes	Соколообразные
+Falkland Islands	Фолклендские (Мальвинские) острова
+Fallopian tube	Фаллопиевы трубы
+Fallow Deer	Лань
+Falun Gong	Фалуньгун
+Family	Категория:Семья
+Family (biology)	Семейство
+Family history	Генеалогия
+Family name	Фамилия
+Fantasy	Фэнтези
+Far East	Дальний Восток
+Farad	Фарад
+Faroe Islands	Категория:Фарерские острова
+Fascism	Фашизм
+Fascism	Категория:Фашизм
+Fashion	Категория:Мода
+Fashion	Мода
+Fast food	Фастфуд
+Fasting	Пост
+Fatah	ФАТХ
+Fatty acid	Жирные кислоты
+Fault (geology)	Разлом
+Fauvism	Фовизм
+Fax	Факс
+Fear	Страх
+Feather	Перо
+February	Февраль
+February 12	12 февраля
+February 14	14 февраля
+February 2	2 февраля
+February 22	22 февраля
+February 29	29 февраля
+February Revolution	Февральская революция
+Feces	Кал
+Federal Bureau of Investigation	Федеральное бюро расследований
+Federal Reserve System	Федеральная резервная система (США)
+Federated States of Micronesia	Федеративные Штаты Микронезии
+Federated States of Micronesia	Категория:Федеративные Штаты Микронезии
+Federation	Федерация
+Federico Fellini	Феллини, Федерико
+Fedora (Linux distribution)	Fedora
+Feedback	Обратная связь
+Feldspar	Полевые шпаты
+Felidae	Кошачьи
+Felix Mendelssohn	Мендельсон, Феликс
+Feminism	Феминизм
+Feminism	Категория:Феминизм
+Fencing	Фехтование
+Feng shui	Фэншуй
+Fennel	Фенхель
+Fenrir	Фенрир
+Fenugreek	Пажитник сенной
+Ferdinand II	Фердинанд II (император Священной Римской империи)
+Ferdinand Magellan	Магеллан, Фернан
+Ferdinand de Saussure	Соссюр, Фердинанд де
+Fermentation (biochemistry)	Брожение
+Fermentation (food)	Брожение
+Fermion	Фермион
+Fermium	Фермий
+Fern	Папоротниковидные
+Ferrara	Феррара
+Ferry	Паром
+Fertile Crescent	Плодородный полумесяц
+Fertilisation	Половой процесс
+Fertilizer	Удобрение
+Fetus	Плод (анатомия)
+Feudalism	Феодализм
+Fever	Лихорадка
+Fiat	Fiat (компания)
+Fibonacci number	Числа Фибоначчи
+Fiction	Категория:Вымысел
+Fictional character	Персонаж
+Fidel Castro	Кастро, Фидель
+Field (mathematics)	Поле (алгебра)
+Field hockey	Хоккей на траве
+Fighter aircraft	Истребитель
+Figure skating	Фигурное катание
+Fiji	Фиджи
+Fiji	Категория:Фиджи
+File Allocation Table	File Allocation Table
+File Transfer Protocol	FTP
+File system	Файловая система
+Filippo Brunelleschi	Брунеллески, Филиппо
+Film	Категория:Кинематограф
+Film	Фильм (кинематография)
+Film	Портал:Кино
+Film director	Кинорежиссёр
+Fin Whale	Финвал
+Finance	Категория:Финансы
+Finance	Финансы
+Finger	Палец
+Fingerprint	Дактилоскопия
+Finland	Финляндия
+Finland	Категория:Финляндия
+Fir	Пихта
+Fire	Огонь
+Firearm	Огнестрельное оружие
+Firefighter	Пожарная охрана
+Firewall (networking)	Межсетевой экран
+Firmware	Микропрограмма
+First Council of Constantinople	Первый Константинопольский собор
+First Council of Nicaea	Первый Никейский собор
+First Crusade	Первый крестовый поход
+First Epistle to the Corinthians	1-е послание к Коринфянам
+First aid	Первая помощь
+First language	Родной язык
+Fish	Рыбы
+Fish	Категория:Рыбы
+Fishing	Рыболовство
+Fishing	Категория:Рыбная ловля
+Fjord	Фьорд
+Flag	Флаг
+Flagellum	Жгутик
+Flamenco	Фламенко
+Flamingo	Фламинго
+Flanders	Фландрия
+Flash memory	Флеш-память
+Flatulence	Метеоризм
+Flatworm	Плоские черви
+Flea	Блохи
+Flemish (linguistics)	Фламандский язык
+Flint	Кремень
+Flip-flop (electronics)	Триггер (электроника)
+Flood	Наводнение
+Floppy disk	Дискета
+Florence	Флоренция
+Florence Nightingale	Найтингейл, Флоренс
+Florida	Флорида
+Florida	Категория:Флорида
+Flour	Мука (порошок)
+Flower	Цветок
+Flowering plant	Цветковые растения
+Fluorite	Флюорит
+Flute	Флейта
+Fly	Двукрылые
+Fog	Туман
+Folic acid	Фолиевая кислота
+Folk music	Народная музыка
+Folklore	Фольклор
+Folklore	Категория:Фольклор
+Food	Пища
+Food additive	Пищевые добавки
+Food and Agriculture Organization	Продовольственная и сельскохозяйственная организация ООН
+Food chain	Пищевая цепь
+Foot	Стопа (анатомия)
+Foot (unit of length)	Фут
+Football (soccer)	Футбол
+Football (soccer)	Категория:Футбол
+Football (soccer) by country	Категория:Футбол по странам
+Football (soccer) clubs	Категория:Футбольные клубы
+Football (soccer) managers	Категория:Футбольные тренеры
+Football (soccer) players	Категория:Футболисты
+Football (soccer) venues	Категория:Футбольные стадионы
+Forbidden City	Запретный город
+Force	Сила
+Forest	Лес
+Forestry	Лесоводство
+Fork	Вилка (столовая)
+Form of government	Форма государственного правления
+Formaldehyde	Формальдегид
+Formic acid	Муравьиная кислота
+Fornax	Печь (созвездие)
+Fort Worth	Форт-Ворт
+Fortification	Фортификация
+Fortran	Фортран
+Fossil	Окаменелости
+Fossil fuel	Ископаемое топливо
+Foucault pendulum	Маятник Фуко
+Fountain	Фонтан
+Fourier series	Ряд Фурье
+Fourth Crusade	Четвёртый крестовый поход
+Fractal	Фрактал
+Fraction (mathematics)	Рациональная дробь
+France	Франция
+France	Категория:Франция
+Francis Bacon	Бэкон, Фрэнсис
+Francis Crick	Крик, Фрэнсис
+Francis Drake	Дрейк, Фрэнсис
+Francis Ford Coppola	Коппола, Фрэнсис Форд
+Francis II	Франц II
+Francis Poulenc	Пуленк, Франсис Жан Марсель
+Francis of Assisi	Франциск Ассизский
+Franciscan	Францисканцы
+Francisco Franco	Франко Баамонде, Франсиско
+Francisco Goya	Гойя, Франсиско Хосе де
+Francisco Pizarro	Писарро, Франсиско
+Francium	Франций
+Franco-Prussian War	Франко-прусская война 1870—1871
+Frank Lloyd Wright	Райт, Фрэнк Ллойд
+Frank Sinatra	Синатра, Фрэнсис Альберт
+Frankfort	Франкфорт (Кентукки)
+Frankfurt	Франкфурт-на-Майне
+Frankfurt	Категория:Франкфурт-на-Майне
+Frankfurt (Oder)	Франкфурт-на-Одере
+Frankfurt (disambiguation)	Франкфурт (значения)
+Franklin Pierce	Пирс, Франклин
+Frans Hals	Халс, Франс
+Franz Kafka	Кафка, Франц
+Franz Liszt	Лист, Ференц
+Franz Schubert	Шуберт, Франц
+Fred Astaire	Фред Астер
+Frederick I	Фридрих I Барбаросса
+Frederick II	Фридрих II (император Священной Римской империи)
+Frederick Sanger	Сенгер, Фредерик
+Frederick Soddy	Содди, Фредерик
+Fredericton	Фредериктон
+Free State	Свободное государство (ЮАР)
+Free will	Свобода воли
+Freedom (philosophy)	Свобода
+Freedom of speech	Свобода слова
+Freemasonry	Масонство
+Freetown	Фритаун
+Freeware	Freeware
+French Polynesia	Французская Полинезия
+French Polynesia	Категория:Французская Полинезия
+French Revolution	Великая французская революция
+French Revolution	Категория:Великая французская революция
+French people	Категория:Персоналии:Франция
+Frequency	Частота
+Fresco	Фреска
+Freshwater	Пресная вода
+Fresno	Фресно (Калифорния)
+Freyja	Фрейя
+Freyr	Фрейр
+Friction	Трение
+Friday	Пятница
+Fridtjof Nansen	Нансен, Фритьоф
+Friedrich Engels	Энгельс, Фридрих
+Friesland	Фрисландия
+Frigate	Фрегат
+Frigg	Фригг
+Fritz Haber	Габер, Фриц
+Friuli-Venezia Giulia	Фриули-Венеция-Джулия
+Frog	Бесхвостые
+Fructose	Фруктоза
+Fruit	Фрукт
+Fruit	Категория:Фрукты
+Fucking	Фукинг
+Fuel	Топливо
+Fuel cell	Топливный элемент
+Fugue	Фуга
+Fukuoka	Фукуока (город)
+Full moon	Полнолуние
+Funafuti	Фунафути
+Function (mathematics)	Функция (математика)
+Fundamental	Категория:Статьи
+Fundamental interaction	Фундаментальные взаимодействия
+Fundamentalism	Фундаментализм
+Fungi	Категория:Грибы
+Fungus	Грибы
+Funicular	Фуникулёр
+Funk	Фанк
+Furniture	Категория:Мебель
+Furniture	Мебель
+Future	Будущее
+Futurism (art)	Футуризм
+Fuzzy logic	Нечёткая логика
+Fyodor Dostoevsky	Достоевский, Фёдор Михайлович
+G	G (латиница)
+GIMP	GIMP
+GNOME	GNOME
+GNU	GNU
+Gabon	Габон
+Gabon	Категория:Габон
+Gaborone	Габороне
+Gabriel	Архангел Гавриил
+Gabriel Lippmann	Липпман, Габриэль
+Gadolinium	Гадолиний
+Gaetano Donizetti	Доницетти, Гаэтано
+Gaia (mythology)	Гея
+Galatia	Галатия
+Galaxy	Галактика
+Galen	Клавдий Гален
+Galena	Галенит
+Galicia (Central Europe)	Галиция
+Galicia (Spain)	Галисия
+Galilee	Галилея
+Galileo (spacecraft)	Галилео (КА)
+Galileo Galilei	Галилей, Галилео
+Gallbladder	Желчный пузырь
+Galley	Галера
+Galliformes	Курообразные
+Galliformes	Категория:Курообразные
+Gallium	Галлий
+Gallon	Галлон
+Galway	Голуэй
+Gamal Abdel Nasser	Насер, Гамаль Абдель
+Gambling	Азартная игра
+Game	Игра
+Game theory	Теория игр
+Gamma	Гамма (буква)
+Gamma ray	Гамма-излучение
+Ganesha	Ганеша
+Ganges	Ганг
+Ganja	Гянджа
+Gansu	Ганьсу
+Ganymede	Ганимед
+Ganymede (moon)	Ганимед (спутник)
+Gap	Гап
+Garden	Сад
+Garden of Eden	Эдем
+Gardening	Садоводство
+Garfield	Гарфилд
+Gargoyle	Горгулья
+Garlic	Чеснок
+Garnet	Гранат (минерал)
+Garonne	Гаронна
+Gas	Газ
+Gas constant	Универсальная газовая постоянная
+Gas giant	Газовые планеты
+Gasoline	Бензин
+Gastrointestinal tract	Желудочно-кишечный тракт
+Gastropoda	Брюхоногие
+Gaul	Галлия
+Gautama Buddha	Будда Гаутама
+Gay	Гей
+Gaza	Газа
+Gaza Strip	Сектор Газа
+Gear	Зубчатое колесо
+Geb	Геб
+Geisha	Гейша
+Gemini (constellation)	Близнецы (созвездие)
+Gemstone	Драгоценные камни
+Gene	Ген
+Genealogy	Генеалогия
+Genealogy	Категория:Генеалогия
+General Agreement on Tariffs and Trade	Генеральное соглашение по тарифам и торговле
+General Officer	Генерал
+General relativity	Общая теория относительности
+Genesis	Книга Бытие
+Genetic code	Генетический код
+Genetic engineering	Генная инженерия
+Genetics	Генетика
+Genetics	Категория:Генетика
+Geneva	Женева
+Genie	Джинн
+Genitive case	Родительный падеж
+Genoa	Генуя
+Genocide	Геноцид
+Genocide	Категория:Геноцид
+Genome	Геном
+Genotype	Генотип
+Genus	Род
+Geochemistry	Геохимия
+Geodesy	Геодезия
+Geodesy	Категория:Геодезия
+Geoffrey Chaucer	Чосер, Джефри
+Geography	География
+Geography	Категория:География
+Geography	Портал:География
+Geology	Категория:Геология
+Geology	Геология
+Geometric progression	Геометрическая прогрессия
+Geometry	Геометрия
+Geometry	Категория:Геометрия
+Geomorphology	Геоморфология
+Geophysics	Геофизика
+Geophysics	Категория:Геофизика
+Geopolitics	Геополитика
+Georg Philipp Telemann	Телеман, Георг Филипп
+Georg Wilhelm Friedrich Hegel	Гегель, Георг Вильгельм Фридрих
+George Berkeley	Беркли, Джордж
+George Bernard Shaw	Шоу, Джордж Бернард
+George Boole	Буль, Джордж
+George Bush	Буш, Джордж
+George Frideric Handel	Гендель, Георг Фридрих
+George Gershwin	Гершвин, Джордж
+George Harrison	Харрисон, Джордж
+George Lucas	Лукас, Джордж
+George Marshall	Маршалл, Джордж
+George Orwell	Оруэлл, Джордж
+George Paget Thomson	Томсон, Джордж Паджет
+George Sand	Жорж Санд
+George Stephenson	Стефенсон, Джордж
+George W. Bush	Буш, Джордж Уокер
+George Washington	Вашингтон, Джордж
+Georges Bizet	Бизе, Жорж
+Georges Braque	Брак, Жорж
+Georges Clemenceau	Клемансо, Жорж
+Georges Simenon	Сименон, Жорж
+Georgetown	Джорджтаун
+Georgia (U.S. state)	Джорджия
+Georgia (U.S. state)	Категория:Джорджия
+Georgia (country)	Грузия
+Georgia (country)	Категория:Грузия
+Gerald Ford	Форд, Джеральд
+Gerard Kuiper	Койпер, Джерард Петер
+German Shepherd Dog	Немецкая овчарка
+German language	Немецкий язык
+German language	Категория:Немецкий язык
+German mark	Немецкая марка
+Germanium	Германий
+Germany	Германия
+Germany	Категория:Германия
+Geronimo	Джеронимо
+Gestapo	Гестапо
+Geyser	Гейзер
+Ghana	Гана
+Ghana	Категория:Гана
+Ghent	Гент
+Ghetto	Гетто
+Ghost	Привидения
+Giacomo Puccini	Пуччини, Джакомо
+Giant Panda	Большая панда
+Gibbon	Гиббоновые
+Gibraltar	Гибралтар
+Gibraltar	Категория:Гибралтар
+Gigabyte	Гигабайт
+Gilgamesh	Гильгамеш
+Ginger	Имбирь
+Ginkgo	Гинкго
+Giordano Bruno	Джордано Бруно
+Giorgio Vasari	Вазари, Джорджо
+Giorgio de Chirico	Кирико, Джорджо де
+Giotto di Bondone	Джотто ди Бондоне
+Giovanni Boccaccio	Боккаччо, Джованни
+Giraffe	Жираф
+Giraffidae	Жирафовые
+Girolamo Savonarola	Савонарола, Джироламо
+Gironde	Жиронда
+Giuseppe Garibaldi	Гарибальди, Джузеппе
+Giuseppe Verdi	Верди, Джузеппе
+Giza	Гиза
+Glacier	Ледник
+Gladiator	Гладиатор
+Gland	Железа
+Glasgow	Глазго
+Glasnost	Гласность
+Glass	Стекло
+Glasses	Очки
+Glider	Планёр (летательный аппарат)
+Global Positioning System	GPS
+Global warming	Глобальное потепление
+Globalization	Глобализация
+Globe artichoke	Артишок
+Gloucestershire	Глостершир
+Glucagon	Глюкагон
+Glucose	Глюкоза
+Gluon	Глюон
+Glutamic acid	Глутаминовая кислота
+Glycerol	Глицерин
+Glycine	Глицин
+Glycogen	Гликоген
+Glycolysis	Гликолиз
+Gnathostomata	Челюстноротые
+Gneiss	Гнейс
+Gnosticism	Гностицизм
+Go (board game)	Го
+Goa	Гоа
+Goalkeeper	Вратарь
+Gobi Desert	Гоби
+God	Бог
+Golan Heights	Голанские высоты
+Gold	Золото
+Golda Meir	Меир, Голда
+Golden Eagle	Беркут
+Golden Gate Bridge	Золотые Ворота (мост)
+Golden Horde	Золотая Орда
+Golden Retriever	Золотистый ретривер
+Golf	Гольф
+Golf	Категория:Гольф
+Golgi apparatus	Аппарат Гольджи
+Gomel	Гомель
+Good Friday	Великая пятница
+Google	Google
+Google	Категория:Google
+Googol	Гугол
+Gorgon	Горгоны
+Gorilla	Гориллы
+Goshawk	Ястреб-тетеревятник
+Gospel	Евангелие
+Gospel of Luke	Евангелие от Луки
+Gothenburg	Гётеборг
+Gothic	Готика (значения)
+Gotthold Ephraim Lessing	Лессинг, Готхольд Эфраим
+Gottlieb Daimler	Даймлер, Готтлиб
+Gout	Подагра
+Government	Правительство
+Grace Kelly	Келли, Грейс
+Gradient	Градиент
+Graffiti	Граффити
+Graham Greene	Грин, Грэм
+Gram	Грамм
+Grammar	Грамматика
+Grammatical gender	Род (лингвистика)
+Granada	Гранада
+Grand Canyon	Гранд-Каньон
+Grand Slam (tennis)	Турниры Большого шлема (теннис)
+Grandmaster (chess)	Гроссмейстер (шахматы)
+Granite	Гранит
+Grape	Виноград
+Grapefruit	Грейпфрут
+Graphic design	Графический дизайн
+Graphical user interface	Графический интерфейс пользователя
+Graphite	Графит
+Gravitation	Гравитация
+Gravitational constant	Гравитационная постоянная
+Graviton	Гравитон
+Gray (unit)	Грэй (единица измерения)
+Gray Wolf	Волк
+Graz	Грац
+Great Barrier Reef	Большой барьерный риф
+Great Britain	Великобритания (остров)
+Great Crested Grebe	Большая поганка
+Great Depression	Великая депрессия
+Great Lakes	Великие озёра
+Great Rift Valley	Восточно-Африканская рифтовая долина
+Great Wall of China	Великая Китайская стена
+Great white shark	Большая белая акула
+Greater Antilles	Большие Антильские острова
+Greater London	Большой Лондон
+Greatest common divisor	Наибольший общий делитель
+Grebe	Поганковые
+Greece	Греция
+Greece	Категория:Греция
+Greek alphabet	Греческий алфавит
+Greek alphabet	Категория:Греческий алфавит
+Greek fire	Греческий огонь
+Greek mythology	Древнегреческая мифология
+Greek mythology	Категория:Древнегреческая мифология
+Green	Зелёный цвет
+Greenhouse	Оранжерея
+Greenhouse effect	Парниковый эффект
+Greenhouse gas	Парниковый газ
+Greenland	Гренландия
+Greenland	Категория:Гренландия
+Greenland Sea	Гренландское море
+Greenpeace	Гринпис
+Greenwich	Гринвич (Лондон)
+Greenwich Mean Time	Среднее время по Гринвичу
+Gregor Mendel	Мендель, Грегор Иоганн
+Gregorian calendar	Григорианский календарь
+Grenoble	Гренобль
+Greta Garbo	Гарбо, Грета
+Grey	Серый цвет
+Greylag Goose	Серый гусь
+Griffin	Грифон
+Gross domestic product	Валовой внутренний продукт
+Group	Группа
+Group (mathematics)	Группа (математика)
+Group (periodic table)	Группа периодической системы
+Group theory	Теория групп
+Grover Cleveland	Кливленд, Гровер
+Grozny	Грозный
+Gruiformes	Журавлеобразные
+Grus (constellation)	Журавль (созвездие)
+Guadalajara	Гвадалахара (Мексика)
+Guadeloupe	Гваделупа
+Guam	Гуам
+Guangdong	Гуандун
+Guangzhou	Гуанчжоу
+Guanine	Гуанин
+Guano	Гуано
+Guatemala	Категория:Гватемала
+Guatemala City	Гватемала (город)
+Guayaquil	Гуаякиль
+Guernsey	Гернси
+Guglielmo Marconi	Маркони, Гульельмо
+Guild	Цех
+Guillaume Apollinaire	Гийом Аполлинер
+Guillotine	Гильотина
+Guinea	Гвинея
+Guinea	Категория:Гвинея
+Guinea pig	Морская свинка
+Guinea-Bissau	Гвинея-Бисау
+Guinea-Bissau	Категория:Гвинея-Бисау
+Guitar	Гитара
+Gujarat	Гуджарат
+Gulag	ГУЛАГ
+Gulf Stream	Гольфстрим
+Gulf War	Война в Персидском заливе
+Gulf of Aden	Аденский залив
+Gulf of Aqaba	Акаба (залив)
+Gulf of Bothnia	Ботнический залив
+Gulf of Finland	Финский залив
+Gulf of Guinea	Гвинейский залив
+Gulf of Mexico	Мексиканский залив
+Gulf of Oman	Оманский залив
+Gulf of Riga	Рижский залив
+Gulf of Thailand	Сиамский залив
+Gull	Чайковые
+Gunpowder	Порох
+Gunpowder Plot	Пороховой заговор
+Guppy	Гуппи
+Gustav Klimt	Климт, Густав
+Gustav Ludwig Hertz	Герц, Густав Людвиг
+Gustav Mahler	Малер, Густав
+Gustave Courbet	Курбе, Гюстав
+Gustave Flaubert	Флобер, Гюстав
+Guy Fawkes	Фокс, Гай
+Guy de Maupassant	Мопассан, Ги де
+Guyana	Категория:Гайана
+Gymnosperm	Голосеменные
+Gynaecology	Гинекология
+Gypsum	Гипс
+Gyroscope	Гироскоп
+H	H (латиница)
+H. G. Wells	Уэллс, Герберт Джордж
+HIV	ВИЧ
+HTML	HTML
+Habitat	Ареал
+Hacker	Хакер
+Hadean	Катархей
+Hades	Аид
+Hadith	Хадис
+Hadrian	Адриан
+Hadrian's Wall	Вал Адриана
+Hadron	Адрон
+Haemophilia	Гемофилия
+Hafnium	Гафний
+Hagia Sophia	Софийский собор (Константинополь)
+Haifa	Хайфа
+Haiku	Хайку
+Hail	Град
+Hail Mary	Аве Мария
+Hair	Волосы
+Haiti	Гаити
+Haiti	Категория:Гаити
+Hajj	Хадж
+Halal	Халяль
+Halberd	Алебарда
+Half-life	Период полураспада
+Halle	Галле (Саксония-Анхальт)
+Halloween	Хеллоуин
+Hallucination	Галлюцинация
+Halogen	Галогены
+Hamas	Хамас
+Hamburg	Гамбург
+Hamburg	Категория:Гамбург
+Hamburger	Гамбургер
+Hamlet	Гамлет (пьеса)
+Hammer	Молоток
+Hammer and sickle	Серп и молот
+Hammurabi	Хаммурапи
+Hampshire	Хэмпшир
+Hamster	Хомяки
+Han Dynasty	Хань (династия)
+Hand	Кисть
+Hand grenade	Граната
+Handgun	Пистолет
+Hanging	Повешение
+Hanging Gardens of Babylon	Висячие сады Семирамиды
+Hannah Arendt	Арендт, Ханна
+Hannibal	Ганнибал Барка
+Hanoi	Ханой
+Hanover	Ганновер
+Hans Bethe	Бете, Ханс Альбрехт
+Hans Christian Andersen	Андерсен, Ганс Христиан
+Hanseatic League	Ганза
+Hanukkah	Ханука
+Hanuman	Хануман
+Happiness	Счастье
+Harare	Хараре
+Hardness	Твёрдость
+Harem	Гарем
+Harlem	Гарлем
+Harmonica	Губная гармоника
+Harmony	Гармония
+Harold Pinter	Пинтер, Гарольд
+Harp	Арфа
+Harpsichord	Клавесин
+Harpy	Гарпии
+Harriet Beecher Stowe	Бичер-Стоу, Гарриет
+Harrisburg	Гаррисберг (Пенсильвания)
+Harry Houdini	Гарри Гудини
+Hartford	Хартфорд (Коннектикут)
+Hassium	Хассий
+Hatred	Ненависть
+Haute-Normandie	Верхняя Нормандия
+Havana	Гавана
+Hawaii	Гавайи
+Hawaii	Категория:Гавайи
+Hazel	Лещина
+Head	Голова
+Head of state	Глава государства
+Health	Здоровье
+Health	Категория:Здоровье
+Heart	Сердце
+Heat engine	Тепловой двигатель
+Heaven	Рай
+Heavy metal	Категория:Метал
+Heavy metal music	Метал
+Heavy water	Тяжёлая вода
+Hebe (mythology)	Геба
+Hebei	Хэбэй
+Hebrew alphabet	Еврейское письмо
+Hebrew calendar	Еврейский календарь
+Hebrides	Гебридские острова
+Hecate	Геката
+Hectare	Гектар
+Hector	Гектор
+Hector Berlioz	Берлиоз, Гектор
+Hedgehog	Лесные ежи
+Hedonism	Гедонизм
+Heimdall	Хеймдалль
+Heinrich Hertz	Герц, Генрих Рудольф
+Heinrich Himmler	Гиммлер, Генрих
+Heinrich Schliemann	Шлиман, Генрих
+Hel (being)	Хель
+Helen	Елена Прекрасная
+Helen Keller	Келлер, Елена Адамс
+Helena	Хелена (Монтана)
+Helicopter	Вертолёт
+Helios	Гелиос
+Helium	Гелий
+Hell	Ад
+Helmut Schmidt	Шмидт, Гельмут
+Helsinki	Хельсинки
+Hematite	Гематит
+Hematology	Гематология
+Hematology	Категория:Гематология
+Hemoglobin	Гемоглобин
+Hemorrhoid	Геморрой
+Henri Becquerel	Беккерель, Антуан Анри
+Henri Bergson	Бергсон, Анри
+Henri Matisse	Матисс, Анри
+Henrik Ibsen	Ибсен, Генрик
+Henry (unit)	Генри (единица измерения)
+Henry Cavendish	Кавендиш, Генри
+Henry David Thoreau	Торо, Генри Дэвид
+Henry Fonda	Фонда, Генри
+Henry Ford	Форд, Генри
+Henry James	Джеймс, Генри
+Henry Kissinger	Киссинджер, Генри Альфред
+Henry Miller	Миллер, Генри
+Henry Moore	Мур, Генри Спенсер
+Henry Purcell	Пёрселл, Генри
+Hepatitis	Гепатит
+Hephaestus	Гефест
+Hera	Гера
+Heracles	Геракл
+Heraclitus	Гераклит Эфесский
+Heraldry	Геральдика
+Heraldry	Категория:Геральдика
+Herat	Герат
+Herbert Hoover	Гувер, Герберт
+Herbert Marcuse	Маркузе, Герберт
+Herbert Spencer	Спенсер, Герберт
+Hercules	Геркулес (мифология)
+Hercules (constellation)	Геркулес (созвездие)
+Heresy	Ересь
+Herman Melville	Мелвилл, Герман
+Hermann Hesse	Гессе, Герман
+Hermann Minkowski	Минковский, Герман
+Hermann von Helmholtz	Гельмгольц, Герман Людвиг Фердинанд
+Hermaphrodite	Гермафродитизм
+Hermeneutics	Герменевтика
+Hermes	Гермес
+Hero	Герой
+Hero of Alexandria	Герон
+Herod the Great	Ирод I Великий
+Herodotus	Геродот
+Heroin	Героин
+Heron	Цаплевые
+Herring Gull	Серебристая чайка
+Hertfordshire	Хартфордшир
+Hertz	Герц (единица измерения)
+Hesiod	Гесиод
+Hesperides	Геспериды
+Hesse	Гессен
+Hesse	Категория:Гессен
+Hestia	Гестия
+Heterosexuality	Гетеросексуальность
+Heterotroph	Консументы
+Hexadecimal	Шестнадцатеричная система счисления
+Hexagon	Правильный шестиугольник
+Hezbollah	Хезбалла
+Hibernation	Спячка
+Hideki Yukawa	Юкава, Хидэки
+Hieronymus Bosch	Босх, Иероним
+Hilbert space	Гильбертово пространство
+Himalayas	Гималаи
+Hindu Kush	Гиндукуш
+Hinduism	Индуизм
+Hinduism	Категория:Индуизм
+Hipparchus	Гиппарх
+Hippie	Хиппи
+Hippocrates	Гиппократ
+Hippocratic Oath	Клятва Гиппократа
+Hippopotamus	Обыкновенный бегемот
+Hirohito	Хирохито
+Hiroshima	Хиросима
+Hispaniola	Гаити (остров)
+Histidine	Гистидин
+Histology	Гистология
+Histology	Категория:Гистология
+Histone	Гистоны
+Historiography	Историография
+History	История
+History	Категория:История
+History	Портал:История
+Ho Chi Minh	Хо Ши Мин
+Ho Chi Minh City	Хошимин
+Hobart	Хобарт
+Hobbit	Хоббит
+Hobby	Хобби
+Hokusai	Кацусика Хокусай
+Holiday	Праздник
+Hollywood	Голливуд
+Holmium	Гольмий
+Holocene	Голоцен
+Holography	Голография
+Holy Grail	Святой Грааль
+Holy Roman Empire	Священная Римская империя
+Holy Roman Empire	Категория:Священная Римская империя
+Holy Spirit	Святой Дух
+Homeopathy	Гомеопатия
+Homeostasis	Гомеостаз
+Homer	Гомер
+Hominidae	Гоминиды
+Homo (genus)	Люди
+Homo erectus	Человек прямоходящий
+Homo habilis	Человек умелый
+Homonym	Омоним
+Homophobia	Гомофобия
+Homosexuality	Гомосексуальность
+Honduras	Гондурас
+Honduras	Категория:Гондурас
+Honey	Мёд
+Honey Buzzard	Осоед обыкновенный
+Hong Kong	Гонконг
+Hong Kong	Категория:Гонконг
+Honiara	Хониара
+Honolulu	Гонолулу
+Hookah	Кальян
+Hooke's law	Закон Гука
+Hoopoe	Удод
+Horace	Гораций
+Horatio Nelson	Нельсон, Горацио
+Horizon	Горизонт
+Hormone	Гормоны
+Horn (anatomy)	Рог
+Horn (instrument)	Валторна
+Horn of Africa	Сомали (полуостров)
+Horoscope	Гороскоп
+Horse	Лошадь
+Horse racing	Скачки
+Horsepower	Лошадиная сила
+Horus	Хор (мифология)
+Hosni Mubarak	Мубарак, Хосни
+Hospital	Больница
+Hotel	Гостиница
+Hour	Час
+Hourglass	Песочные часы
+House	Жилище
+House (TV series)	Доктор Хаус
+House Mouse	Домовая мышь
+House Sparrow	Домовый воробей
+Houston	Хьюстон
+Hovercraft	Судно на воздушной подушке
+Howard Carter (archaeologist)	Картер, Говард
+Hubble's law	Закон Хаббла
+Hudson Bay	Гудзонов залив
+Hudson River	Гудзон (река)
+Hugh Capet	Гуго Капет
+Hugo Grotius	Гроций, Гуго
+Huguenot	Гугеноты
+Human	Человек разумный
+Humanism	Гуманизм
+Humanities	Категория:Гуманитарные науки
+Humerus	Плечевая кость
+Humidity	Влажность
+Hummingbird	Колибри (семейство)
+Humor	Категория:Юмор
+Humour	Юмор
+Humpback Whale	Горбатый кит
+Humphrey Bogart	Богарт, Хамфри
+Humus	Гумус
+Hunan	Хунань
+Hundred Years' War	Столетняя война
+Hungary	Венгрия
+Hungary	Категория:Венгрия
+Hunger	Голод
+Hunting	Охота
+Hutu	Хуту
+Hybrid	Гибрид (биология)
+Hyderabad	Хайдарабад
+Hydra (constellation)	Гидра (созвездие)
+Hydrocarbon	Углеводороды
+Hydrochloric acid	Соляная кислота
+Hydroelectricity	Гидроэлектростанция
+Hydrogen	Водород
+Hydrogen bond	Водородная связь
+Hydrogen cyanide	Синильная кислота
+Hydrogen peroxide	Пероксид водорода
+Hydrology	Гидрология
+Hydrology	Категория:Гидрология
+Hydrolysis	Гидролиз
+Hydrosphere	Гидросфера
+Hydroxide	Гидроксиды
+Hydrus	Южная Гидра (созвездие)
+Hyena	Гиена
+Hygiene	Категория:Гигиена
+Hymen	Девственная плева
+Hymenoptera	Категория:Перепончатокрылые
+Hymenoptera	Перепончатокрылые
+Hymn	Гимн
+Hyperbola	Гипербола (математика)
+Hyperbole	Гипербола (литература)
+Hyperion (moon)	Гиперион (спутник)
+Hyperion (mythology)	Гиперион (титан)
+Hypertension	Артериальная гипертензия
+Hypertext	Гипертекст
+Hypertext Transfer Protocol	HTTP
+Hypnos	Гипнос
+Hypnosis	Гипноз
+Hypothalamus	Гипоталамус
+Hypothesis	Гипотеза
+I	I (латиница)
+I. M. Pei	Бэй Юймин
+IPod	IPod
+Ian Fleming	Флеминг, Ян Ланкастер
+Iapetus (moon)	Япет (спутник)
+Iapetus (mythology)	Иапет
+Iberian Peninsula	Пиренейский полуостров
+Ibuprofen	Ибупрофен
+Ice	Лёд
+Ice age	Ледниковый период
+Ice cream	Мороженое
+Ice hockey	Хоккей с шайбой
+Ice hockey	Категория:Хоккей с шайбой
+Iceberg	Айсберг
+Iceland	Исландия
+Iceland	Категория:Исландия
+Ichthyology	Ихтиология
+Icon	Икона
+Iconoclasm	Иконоборчество
+Idaho	Айдахо
+Idaho	Категория:Айдахо
+Ideal gas	Идеальный газ
+Idealism	Идеализм
+Identity element	Нейтральный элемент
+Identity matrix	Единичная матрица
+Ideology	Идеология
+Ido	Идо
+Igloo	Иглу
+Ignatius of Loyola	Игнатий де Лойола
+Igneous rock	Вулканическая порода
+Igor Stravinsky	Стравинский, Игорь Фёдорович
+Iguazu Falls	Игуасу (водопады)
+Iliad	Илиада
+Illinois	Иллинойс (штат)
+Illinois	Категория:Иллинойс
+Illyria	Иллирия
+Image scanner	Сканер
+Imam	Имам
+Immanuel Kant	Кант, Иммануил
+Immune system	Иммунная система
+Immunology	Иммунология
+Immunology	Категория:Иммунология
+Imperialism	Империализм
+Impressionism	Импрессионизм
+Incest	Инцест
+Inch	Дюйм
+Incheon	Инчхон
+Inclined plane	Наклонная плоскость
+Independence	Независимость
+India	Индия
+India	Категория:Индия
+Indian Ocean	Индийский океан
+Indian Ocean	Категория:Индийский океан
+Indiana	Индиана
+Indiana	Категория:Индиана
+Indianapolis	Индианаполис
+Indira Gandhi	Ганди, Индира
+Indium	Индий
+Indochina	Индокитай
+Indonesia	Индонезия
+Indonesia	Категория:Индонезия
+Indra	Индра
+Inductance	Индуктивность
+Inductive reasoning	Индуктивное умозаключение
+Inductor	Катушка индуктивности
+Indulgence	Индульгенция
+Indus (constellation)	Индеец (созвездие)
+Indus River	Инд
+Industrial Revolution	Промышленная революция
+Industry	Промышленность
+Industry	Категория:Промышленность
+Inequality	Неравенство
+Inertia	Закон инерции
+Infantry	Пехота
+Infectious disease	Инфекционные заболевания
+Infinitive	Инфинитив
+Infinity	Бесконечность
+Inflammation	Воспаление
+Inflation	Инфляция
+Influenza	Грипп
+Information	Информация
+Information technology	Информационные технологии
+Information theory	Теория информации
+Infrared	Инфракрасное излучение
+Infrastructure	Инфраструктура
+Ingmar Bergman	Бергман, Эрнст Ингмар
+Ingrid Bergman	Бергман, Ингрид
+Inner Mongolia	Внутренняя Монголия
+Innovation	Инновация
+Innsbruck	Инсбрук
+Inorganic chemistry	Неорганическая химия
+Inorganic chemistry	Категория:Неорганическая химия
+Inquisition	Святая инквизиция
+Insect	Насекомые
+Insecticide	Инсектициды
+Insectivora	Насекомоядные
+Institution	Социальные институты
+Insulin	Инсулин
+Insurance	Страхование
+Integer	Целое число
+Integral	Интеграл
+Integrated circuit	Интегральная схема
+Intellectual property	Интеллектуальная собственность
+Intelligence	Интеллект
+Intelligence quotient	Коэффициент интеллекта
+Intercontinental ballistic missile	Межконтинентальная баллистическая ракета
+Interest	процентная ставка
+Interference	Интерференция (физика)
+Interjection	Междометие
+Interlingua	Интерлингва
+International Atomic Energy Agency	Международное агентство по атомной энергии
+International Civil Aviation Organization	Международная организация гражданской авиации
+International Court of Justice	Международный суд ООН
+International Date Line	Линия перемены даты
+International Labour Organization	Международная организация труда
+International Monetary Fund	Международный валютный фонд
+International System of Units	СИ
+International law	Категория:Международное право
+International organization	Международные организации
+Internet	Интернет
+Internet	Категория:Интернет
+Internet Explorer	Internet Explorer
+Internment	Концентрационный лагерь
+Interpreter (computing)	Интерпретатор
+Intersection (set theory)	Пересечение множеств
+Interval (music)	Интервал (музыка)
+Intestine	Кишечник человека
+Intranet	Интранет
+Invention	Изобретение
+Invertebrate	Беспозвоночные
+Io (moon)	Ио (спутник)
+Io (mythology)	Ио
+Iodine	Иод
+Ion	Ион
+Ionia	Иония
+Ionian Sea	Ионическое море
+Ionic bond	Ионная связь
+Ionosphere	Ионосфера
+Iota	Йота (буква)
+Iowa	Айова
+Iowa	Категория:Айова
+Iran	Иран
+Iran	Категория:Иран
+Iran-Iraq War	Ирано-иракская война (1980—1988)
+Iraq	Ирак
+Iraq	Категория:Ирак
+Ireland	Ирландия (остров)
+Ireland	Категория:Ирландия
+Irenaeus	Ириней Лионский
+Iridium	Иридий
+Iris (anatomy)	Радужная оболочка
+Iris (mythology)	Ирида
+Irish Republican Army	Ирландская республиканская армия
+Irish Sea	Ирландское море
+Irish people	Категория:Персоналии:Ирландия
+Iron	Железо
+Iron Age	Железный век
+Iron Curtain	Железный занавес
+Iron Maiden	Iron Maiden
+Irony	Ирония
+Irrational number	Иррациональное число
+Irredentism	Ирредентизм
+Irtysh River	Иртыш
+Isaac	Исаак
+Isaac Asimov	Азимов, Айзек
+Isaac Bashevis Singer	Зингер, Исаак Башевис
+Isaac Newton	Ньютон, Исаак
+Isadora Duncan	Дункан, Айседора
+Ishmael	Измаил (в Библии)
+Isis	Исида
+Islam	Ислам
+Islam	Категория:Ислам
+Islamabad	Исламабад
+Islamic calendar	Исламский календарь
+Island	Остров
+Isle of Man	Остров Мэн
+Isle of Man	Категория:Остров Мэн
+Isle of Wight	Остров Уайт
+Isomer	Изомерия
+Isoroku Yamamoto	Ямамото, Исороку
+Isotope	Изотопы
+Israel	Израиль
+Israel	Категория:Израиль
+Istanbul	Стамбул
+Istanbul	Категория:Стамбул
+Isthmus	Перешеек
+Isthmus of Panama	Панамский перешеек
+Italian Peninsula	Апеннинский полуостров
+Italo Calvino	Кальвино, Итало
+Italy	Италия
+Italy	Категория:Италия
+Ithaca	Итака (остров)
+Ivan Lendl	Лендл, Иван
+Ivan Pavlov	Павлов, Иван Петрович
+Ivan Turgenev	Тургенев, Иван Сергеевич
+Ivory	Слоновая кость
+Ivy League	Лига плюща
+Iwo Jima	Иодзима
+J	J (латиница)
+J. D. Salinger	Сэлинджер, Джером Дэвид
+J. M. Barrie	Барри, Джеймс Мэтью
+Jack Kerouac	Керуак, Джек
+Jack Lemmon	Леммон, Джек
+Jack London	Джек Лондон
+Jack the Ripper	Джек Потрошитель
+Jackdaw	Галка
+Jackson	Джексон (Миссисипи)
+Jackson Pollock	Поллок, Джексон
+Jacksonville	Джэксонвилл
+Jacob	Иаков
+Jacques Cartier	Картье, Жак
+Jacques Derrida	Деррида, Жак
+Jacques Offenbach	Оффенбах, Жак
+Jade	Нефрит
+Jaguar	Ягуар
+Jainism	Джайнизм
+Jakarta	Джакарта
+Jalalabad	Джалалабад
+Jamaica	Ямайка
+Jamaica	Категория:Ямайка
+James	Иаков Зеведеев
+James A. Garfield	Гарфилд, Джеймс Абрам
+James Bond	Джеймс Бонд
+James Buchanan	Бьюкенен, Джеймс
+James Clerk Maxwell	Максвелл, Джеймс Клерк
+James Cook	Кук, Джеймс
+James Franck	Франк, Джеймс
+James Joyce	Джойс, Джеймс
+James K. Polk	Полк, Джеймс Нокс
+James Madison	Мэдисон, Джеймс
+James Monroe	Монро, Джеймс
+James Naismith	Нейсмит, Джеймс
+James Prescott Joule	Джоуль, Джеймс Прескотт
+James Watt	Уатт, Джеймс
+Jammu and Kashmir	Джамму и Кашмир
+Jan Hus	Гус, Ян
+Jan van Eyck	Эйк, Ян ван
+Jane Austen	Остин, Джейн
+Jane Fonda	Фонда, Джейн Сеймур
+Jane Seymour	Сеймур, Джейн
+Janis Joplin	Джоплин, Дженис
+Janissary	Янычары
+January	Январь
+January 1	1 января
+January 19	19 января
+January 20	20 января
+January 6	6 января
+Janus (moon)	Янус (спутник)
+Janus (mythology)	Янус (мифология)
+Japan	Япония
+Japan	Категория:Япония
+Jason	Ясон
+Jaundice	Желтуха
+Java	Ява
+Java (disambiguation)	Ява (значения)
+Java (programming language)	Java
+Jawaharlal Nehru	Неру, Джавахарлал
+Jazz	Джаз
+Jazz	Категория:Джаз
+Jean Auguste Dominique Ingres	Энгр, Жан Огюст Доминик
+Jean Cocteau	Кокто, Жан
+Jean Piaget	Пиаже, Жан
+Jean Racine	Расин, Жан
+Jean Sibelius	Сибелиус, Ян
+Jean de La Fontaine	Лафонтен, Жан
+Jean-Jacques Rousseau	Руссо, Жан-Жак
+Jean-Paul Sartre	Сартр, Жан-Поль
+Jean-Philippe Rameau	Рамо, Жан Филипп
+Jeddah	Джидда
+Jefferson City	Джефферсон-Сити (Миссури)
+Jefferson Davis	Дэвис, Джефферсон
+Jehovah's Witnesses	Свидетели Иеговы
+Jellyfish	Медуза (биология)
+Jena	Йена (город)
+Jeremy Bentham	Бентам, Джереми
+Jerez de la Frontera	Херес-де-ла-Фронтера
+Jericho	Иерихон
+Jerome	Иероним Стридонский
+Jersey	Джерси
+Jerusalem	Иерусалим
+Jerusalem	Категория:Иерусалим
+Jesus	Иисус Христос
+Jet engine	Воздушно-реактивный двигатель
+Jew	Евреи
+Jew's harp	Варган
+Jihad	Джихад
+Jimi Hendrix	Хендрикс, Джеймс Маршалл
+Jimmy Carter	Картер, Джимми
+Joan of Arc	Жанна д’Арк
+Johann Bernoulli	Бернулли, Иоганн
+Johann Sebastian Bach	Бах, Иоганн Себастьян
+Johann Wolfgang von Goethe	Гёте, Иоганн Вольфганг
+Johannes Brahms	Брамс, Иоганнес
+Johannes Diderik van der Waals	Ван-дер-Ваальс, Ян Дидерик
+Johannes Gutenberg	Гутенберг, Иоганн
+Johannes Kepler	Кеплер, Иоганн
+Johannes Vilhelm Jensen	Йенсен, Йоханнес Вильхельм
+Johannesburg	Йоханнесбург
+John Adams	Адамс, Джон (президент)
+John Bardeen	Бардин, Джон
+John Cage	Кейдж, Джон Мильтон
+John Calvin	Кальвин, Жан
+John Chrysostom	Иоанн Златоуст
+John Dalton	Дальтон, Джон
+John Dewey	Дьюи, Джон
+John Galsworthy	Голсуорси, Джон
+John Herschel	Гершель, Джон
+John Keats	Китс, Джон
+John Lennon	Леннон, Джон
+John Locke	Локк, Джон
+John Major	Мейджор, Джон
+John Maynard Keynes	Кейнс, Джон Мейнард
+John Milton	Мильтон, Джон
+John Napier	Непер, Джон
+John Quincy Adams	Адамс, Джон Куинси
+John Ruskin	Рёскин, Джон
+John Steinbeck	Стейнбек, Джон
+John Stuart Mill	Милль, Джон Стюарт
+John Tyler	Тайлер, Джон
+John Wayne	Джон Уэйн
+John Wycliffe	Джон Виклиф
+John the Baptist	Иоанн Креститель
+John von Neumann	Нейман, Джон фон
+Johnny Cash	Кэш, Джонни
+Joint	Сустав
+Jonathan Swift	Свифт, Джонатан
+Jordan	Иордания
+Jordan	Категория:Иордания
+Jordan River	Иордан
+Jorge Luis Borges	Борхес, Хорхе Луис
+Joseph Conrad	Конрад, Джозеф
+Joseph Goebbels	Геббельс, Пауль Йозеф
+Joseph Haydn	Гайдн, Франц Йозеф
+Joseph Louis Gay-Lussac	Гей-Люссак, Жозеф Луи
+Joseph McCarthy	Маккарти, Джозеф Реймонд
+Joseph Priestley	Пристли, Джозеф
+Joseph Pulitzer	Пулитцер, Джозеф
+Joseph Schumpeter	Шумпетер, Йозеф
+Joseph Smith	Смит, Джозеф
+Joseph Stalin	Сталин, Иосиф Виссарионович
+Josephus	Иосиф Флавий
+Joule	Джоуль
+Journalism	Категория:Журналистика
+Journalism	Журналистика
+Journalist	Журналист
+Jovian	Иовиан
+Joystick	Джойстик
+Judaism	Иудаизм
+Judaism	Категория:Иудаизм
+Judas Iscariot	Иуда Искариот
+Judea	Иудея
+Judo	Дзюдо
+Judy Garland	Джуди Гарленд
+Jujutsu	Джиу-джитсу
+Jules Verne	Верн, Жюль
+Julian calendar	Юлианский календарь
+Julian the Apostate	Флавий Клавдий Юлиан
+Julius Caesar	Юлий Цезарь
+July	Июль
+July 1	1 июля
+July 4	4 июля
+June	Июнь
+June 14	14 июня
+June 21	21 июня
+June 23	23 июня
+June 24	24 июня
+June 29	29 июня
+June 3	3 июня
+Juneau	Джуно (Аляска)
+Juniper	Можжевельник
+Juno (mythology)	Юнона
+Jupiter	Юпитер (планета)
+Jupiter	Категория:Юпитер
+Jupiter (disambiguation)	Юпитер
+Jupiter (mythology)	Юпитер (мифология)
+Jurassic	Юрский период
+Justinian I	Юстиниан I
+Jutland	Ютландия
+K	K (латиница)
+K2	К2
+KGB	Комитет государственной безопасности СССР
+Kaaba	Кааба
+Kabbalah	Каббала
+Kabul	Кабул
+Kalahari Desert	Калахари
+Kamchatka Peninsula	Полуостров Камчатка
+Kamikaze	Камикадзе
+Kampala	Кампала
+Kandahar	Кандагар
+Kangaroo	Кенгуру
+Kansas	Канзас
+Kansas	Категория:Канзас
+Kansas City	Канзас-Сити (Миссури)
+Kappa	Каппа (буква)
+Kara Sea	Карское море
+Karachi	Карачи
+Karakoram	Каракорум (хребет)
+Karaoke	Караоке
+Karate	Карате
+Karen Blixen	Бликсен, Карен
+Karl Barth	Барт, Карл
+Karl Jaspers	Ясперс, Карл Теодор
+Karl Marx	Маркс, Карл
+Karl Popper	Поппер, Карл Рэймонд
+Karma	Карма
+Karnataka	Карнатака
+Katharine Hepburn	Хепбёрн, Кэтрин
+Kathmandu	Катманду
+Katowice	Катовице
+Kaunas	Каунас
+Kayak	Каяк
+Kazakhstan	Казахстан
+Kazakhstan	Категория:Казахстан
+Kazan	Казань
+Kazimir Malevich	Малевич, Казимир Северинович
+Kelvin	Кельвин
+Kent	Кент
+Kentucky	Кентукки
+Kentucky	Категория:Кентукки
+Kenya	Кения
+Kenya	Категория:Кения
+Kernel (computer science)	Ядро операционной системы
+Kerosene	Керосин
+Ketchup	Кетчуп
+Ketone	Кетоны
+Keyboard (computing)	Клавиатура
+Keyboard instrument	Клавишные музыкальные инструменты
+Khabarovsk	Хабаровск
+Khan	Хан (титул)
+Kharkiv	Харьков
+Khartoum	Хартум
+Khmer Rouge	Красные кхмеры
+Khufu	Хеопс
+Kibbutz	Кибуц
+Kidney	Почка (анатомия)
+Kiev	Киев
+Kigali	Кигали
+Kilobyte	Килобайт
+Kilogram	Килограмм
+Kilometre	Километр
+Kilometres per hour	Километр в час
+Kimono	Кимоно
+Kindergarten	Детский сад
+Kinematics	Кинематика точки
+Kinetic energy	Кинетическая энергия
+King (chess)	Король (шахматы)
+King Arthur	Король Артур
+King Lear	Король Лир (пьеса)
+Kingdom (biology)	Царство (биология)
+Kingston	Кингстон (Ямайка)
+Kingstown	Кингстаун
+Kinshasa	Киншаса
+Kiribati	Кирибати
+Kiribati	Категория:Кирибати
+Kirkuk	Киркук
+Kiss	Поцелуй
+Kite	Воздушный змей
+Kiwi	Киви (птица)
+Knee	Колено (анатомия)
+Knesset	Кнессет
+Knife	Нож
+Knight	Рыцарь
+Knight (chess)	Конь (шахматы)
+Knossos	Кносс
+Knot (speed)	Узел (единица измерения)
+Knowledge	Знание
+Knut Hamsun	Гамсун, Кнут
+Koala	Коала
+Kobe	Кобе
+Kola Peninsula	Кольский полуостров
+Kolkata	Калькутта
+Komodo dragon	Комодский варан
+Konqueror	Konqueror
+Konrad Adenauer	Аденауэр, Конрад
+Korea	Корея
+Korea	Категория:Корея
+Korean War	Корейская война 1950—1953
+Kosovo	Косово
+Kosovo	Категория:Косово и Метохия
+Krakatoa	Кракатау
+Kremlin	Кремль
+Krishna	Кришна
+Krypton	Криптон
+Ku Klux Klan	Ку-клукс-клан
+Kuala Lumpur	Куала-Лумпур
+Kublai Khan	Хубилай
+Kuiper belt	Пояс Койпера
+Kumquat	Кумкват
+Kunlun Mountains	Куньлунь
+Kuomintang	Гоминьдан
+Kura River	Кура (река)
+Kurdistan	Курдистан
+Kurdistan	Категория:Курдистан
+Kurdistan Workers Party	Рабочая партия Курдистана
+Kursk	Курск
+Kurt Vonnegut	Воннегут, Курт
+Kurt Waldheim	Вальдхайм, Курт
+Kuwait	Кувейт
+Kuwait	Категория:Кувейт
+Kuwait City	Кувейт (город)
+KwaZulu-Natal	Квазулу-Натал
+Kyoto	Киото
+Kyrgyzstan	Киргизия
+Kyrgyzstan	Категория:Киргизия
+L	L (латиница)
+L'Aquila	Л’Аквила
+LAMP (software bundle)	LAMP
+La Paz	Ла-Пас (Боливия)
+La Plata	Ла-Плата (город)
+La Spezia	Специя
+LaTeX	LaTeX
+Laboratory	Лаборатория
+Labour Party (UK)	Лейбористская партия (Великобритания)
+Labrador Retriever	Лабрадор ретривер
+Lacerta	Ящерица (созвездие)
+Lactic acid	Молочная кислота
+Lactose	Лактоза
+Lady Jane Grey	Джейн Грей
+Lagomorpha	Зайцеобразные
+Lagos	Лагос
+Lahore	Лахор
+Laissez-faire	Laissez-faire
+Lake	Озеро
+Lake Baikal	Байкал
+Lake Balaton	Балатон
+Lake Chad	Чад (озеро)
+Lake Constance	Боденское озеро
+Lake Erie	Эри (озеро)
+Lake Eyre	Эйр (озеро)
+Lake Geneva	Женевское озеро
+Lake Huron	Гурон (озеро)
+Lake Ilmen	Ильмень
+Lake Ladoga	Ладожское озеро
+Lake Malawi	Малави (озеро)
+Lake Michigan	Мичиган (озеро)
+Lake Onega	Онежское озеро
+Lake Ontario	Онтарио (озеро)
+Lake Superior	Верхнее озеро
+Lake Tanganyika	Танганьика
+Lake Victoria	Виктория (озеро)
+Lakshmi	Лакшми
+Lambda	Лямбда (буква)
+Lamiaceae	Яснотковые
+Lammergeier	Бородач
+Lamprey	Миноги
+Lancashire	Ланкашир
+Lancelet	Головохордовые
+Landfill	Свалка
+Language	Язык
+Languedoc-Roussillon	Лангедок-Руссильон
+Lansing	Лансинг (Мичиган)
+Lanthanide	Лантаноиды
+Lanthanum	Лантан
+Laos	Лаос
+Laos	Категория:Лаос
+Laptev Sea	Море Лаптевых
+Laptop	Ноутбук
+Larch	Лиственница
+Larva	Личинка
+Larynx	Гортань
+Las Vegas	Лас-Вегас (Невада)
+Lascaux	Пещера Ласко
+Laser	Лазер
+Lathe	Токарная группа станков
+Latin	Латинский язык
+Latin America	Латинская Америка
+Latin alphabet	Латинский алфавит
+Latitude	Широта
+Latvia	Латвия
+Latvia	Категория:Латвия
+Laughter	Смех
+Laurasia	Лавразия
+Lausanne	Лозанна
+Lava	Лава
+Law	Право
+Law	Категория:Право
+Law enforcement	Категория:Полиция
+Lawrencium	Лоуренсий
+Lawyer	Адвокат
+Lazio	Лацио
+Le Corbusier	Ле Корбюзье
+Le Havre	Гавр
+Lead	Свинец
+Leaf	Лист
+League of Nations	Лига Наций
+Leaning Tower of Pisa	Пизанская башня
+Leap year	Високосный год
+Learning	Обучение
+Lebanon	Ливан
+Lebanon	Категория:Ливан
+Leda (mythology)	Леда
+Lee Harvey Oswald	Освальд, Ли Харви
+Leeds	Лидс
+Left-handed	Левша
+Legend	Легенда
+Legislature	Законодательная власть
+Lego	LEGO
+Leicester	Лестер
+Leiden	Лейден
+Leipzig	Лейпциг
+Lemon	Лимон
+Lena River	Лена (река)
+Length	Длина
+Lens (optics)	Линза
+Lent	Великий пост
+Lentil	Чечевица
+Leo (constellation)	Лев (созвездие)
+Leo I (emperor)	Лев I Макелла
+Leon Trotsky	Троцкий, Лев Давидович
+Leonard Bernstein	Бернстайн, Леонард
+Leonardo da Vinci	Леонардо да Винчи
+Leonhard Euler	Эйлер, Леонард
+Leonid Brezhnev	Брежнев, Леонид Ильич
+Leopard	Леопард
+Lepidoptera	Чешуекрылые
+Leprosy	Лепра
+Lepton	Лептон
+Lepus (constellation)	Заяц (созвездие)
+Lesbian	Лесбиянство
+Lesotho	Лесото
+Lesotho	Категория:Лесото
+Lesser Antilles	Малые Антильские острова
+Leto	Лето (мифология)
+Letter (alphabet)	Буква
+Leukemia	Лейкозы
+Levant	Левант
+Lever	Рычаг
+Leviathan	Левиафан
+Leviticus	Книга Левит
+Lewis Carroll	Льюис Кэрролл
+Lexicology	Лексикология
+Lhasa	Лхаса
+Lhotse	Лхоцзе
+Liberalism	Либерализм
+Liberalism	Категория:Либерализм
+Liberation Tigers of Tamil Eelam	Тигры освобождения Тамил-Илама
+Liberia	Либерия
+Liberia	Категория:Либерия
+Libra (constellation)	Весы (созвездие)
+Library	Библиотека
+Library science	Библиотековедение
+Libretto	Либретто
+Libreville	Либревиль
+Libya	Ливия
+Libya	Категория:Ливия
+Lichen	Лишайники
+Lie	Ложь
+Liechtenstein	Лихтенштейн
+Liechtenstein	Категория:Лихтенштейн
+Lieutenant	Лейтенант
+Life	Жизнь
+Life	Категория:Жизнь
+Light	Свет
+Light-emitting diode	Светодиод
+Light-year	Световой год
+Lighter	Зажигалка
+Lighthouse	Маяк
+Lightning	Молния
+Liguria	Лигурия
+Ligurian Sea	Лигурийское море
+Liliaceae	Лилейные
+Lilith	Лилит
+Lille	Лилль
+Lilongwe	Лилонгве
+Lima	Лима
+Limerick	Лимерик
+Limestone	Известняк
+Limnology	Лимнология
+Limousin (region)	Лимузен (регион)
+Lincoln	Линкольн (Небраска)
+Lincoln	Линкольн
+Lincolnshire	Линкольншир
+Line (mathematics)	Прямая
+Linear algebra	Линейная алгебра
+Linear algebra	Категория:Линейная алгебра
+Linear equation	Линейное уравнение
+Lingua franca	Лингва-франка
+Linguistics	Лингвистика
+Linguistics	Категория:Лингвистика
+Linus Pauling	Полинг, Лайнус Карл
+Linux	Linux
+Linux	Категория:Linux
+Linz	Линц
+Lion	Лев
+Lipid	Липиды
+Liqueur	Ликёр
+Liquid	Жидкость
+Liquid crystal display	ЖК-монитор
+Liquorice	Лакрица
+Lisbon	Лиссабон
+Lise Meitner	Мейтнер, Лиза
+Lisp (programming language)	Лисп
+Literacy	Грамотность
+Literature	Литература
+Literature	Категория:Литература
+Literature	Портал:Литература
+Lithium	Литий
+Lithography	Литография
+Lithosphere	Литосфера
+Lithuania	Литва
+Lithuania	Категория:Литва
+Litre	Литр
+Little Owl	Сыч домовой
+Liverpool	Ливерпуль
+Livonia	Ливония
+Livy	Тит Ливий
+Lizard	Ящерицы
+Ljubljana	Любляна
+Llama	Лама (животное)
+Loanword	Заимствование
+Local area network	Локальная вычислительная сеть
+Loch Ness	Лох-Несс
+Loch Ness Monster	Лох-Несское чудовище
+Locomotive	Локомотив
+Logarithm	Логарифм
+Logic	Логика
+Logic	Категория:Логика
+Logic gate	Логический вентиль
+Logistics	Логистика
+Logo	Логотип
+Loire	Луара (департамент)
+Loire River	Луара (река)
+Loki	Локи
+Lolita	Лолита (роман)
+Lombardy	Ломбардия
+London	Лондон
+London	Категория:Лондон
+Long Beach	Лонг-Бич (Калифорния)
+Long Island	Лонг-Айленд
+Long jump	Прыжок в длину
+Long-eared Owl	Ушастая сова
+Lope de Vega	Вега, Лопе де
+Lord's Prayer	Отче наш
+Lorraine (region)	Лотарингия (регион)
+Los Angeles	Лос-Анджелес
+Lot (department)	Ло (департамент)
+Loudspeaker	Громкоговоритель
+Louis Aragon	Луи Арагон
+Louis Armstrong	Армстронг, Луи
+Louis Braille	Брайль, Луи
+Louis Pasteur	Пастер, Луи
+Louis the Pious	Людовик I Благочестивый
+Louis the Stammerer	Людовик II Заика
+Louisiana	Луизиана
+Louisiana	Категория:Луизиана
+Louisville	Луисвилл
+Louvre	Лувр
+Love	Любовь
+Low German	Нижненемецкий язык
+Lower Saxony	Нижняя Саксония
+Luanda	Луанда
+Lublin	Люблин
+Lucerne	Люцерн
+Luciano Pavarotti	Паваротти, Лучано
+Lucifer	Люцифер
+Lucretius	Тит Лукреций Кар
+Lucrezia Borgia	Борджиа, Лукреция
+Ludwig Boltzmann	Больцман, Людвиг
+Ludwig Mies van der Rohe	Людвиг Мис ван дер Роэ
+Ludwig Wittgenstein	Витгенштейн, Людвиг
+Ludwig van Beethoven	Бетховен, Людвиг ван
+Luftwaffe	Люфтваффе
+Luigi Galvani	Гальвани, Луиджи
+Luigi Pirandello	Пиранделло, Луиджи
+Lumen (unit)	Люмен
+Luminescence	Люминесценция
+Lunar eclipse	Лунное затмение
+Lund	Лунд
+Lung	Лёгкие
+Lung cancer	Злокачественные новообразования лёгких
+Lungfish	Двоякодышащие
+Lupus (constellation)	Волк (созвездие)
+Lusaka	Лусака
+Lusitania	Лузитания (римская провинция)
+Lute	Лютня
+Lutetium	Лютеций
+Lutheranism	Лютеранство
+Lux	Люкс
+Luxembourg	Люксембург
+Luxembourg	Категория:Люксембург
+Luxembourg (city)	Люксембург (город)
+Luxor	Луксор
+Luzon	Лусон
+Lychee	Личи
+Lydia	Лидия
+Lymphatic system	Лимфатическая система
+Lynx (constellation)	Рысь (созвездие)
+Lynx (web browser)	Lynx
+Lyon	Лион
+Lyra	Лира (созвездие)
+Lysergic acid diethylamide	ЛСД
+Lysine	Лизин
+Lysosome	Лизосома
+M	M (латиница)
+M-theory	М-теория
+MESSENGER	MESSENGER (КА)
+MIME	MIME
+MS-DOS	MS-DOS
+Macau	Аомынь
+Macbeth	Макбет (пьеса)
+Macedon	Древняя Македония
+Macedonia	Македония
+Macedonia (Greece)	Македония (Греция)
+Mach number	Число Маха
+Machine	Машина
+Machine code	Машинный код
+Machine gun	Пулемёт
+Machine translation	Машинный перевод
+Machu Picchu	Мачу-Пикчу
+Macintosh	Macintosh
+Macroeconomics	Макроэкономика
+Macroeconomics	Категория:Макроэкономика
+Madagascar	Мадагаскар
+Madagascar	Категория:Мадагаскар
+Madeira	Мадейра
+Madison	Мэдисон (Висконсин)
+Madonna (entertainer)	Мадонна (певица)
+Madrid	Мадрид
+Madrid (autonomous community)	Мадрид (автономное сообщество)
+Mafia	Мафия
+Magazine	Журнал
+Magenta	Маджента
+Maghreb	Магриб
+Magic (paranormal)	Магия
+Magic square	Магический квадрат
+Maginot Line	Линия Мажино
+Magma	Магма
+Magna Carta	Великая хартия вольностей
+Magnesium	Магний
+Magnet	Магнит
+Magnetic field	Магнитное поле
+Magnetic resonance imaging	Магнитно-резонансная томография
+Magnetism	Магнетизм
+Magnetism	Категория:Магнетизм
+Magnetite	Магнетит
+Magnifying glass	Лупа
+Magnoliopsida	Категория:Двудольные
+Maharashtra	Махараштра
+Mahatma Gandhi	Махатма Ганди
+Mahayana	Махаяна
+Mail	Почта
+Maimonides	Рамбам
+Main	Майн (река)
+Main	Шаблон:Main
+Maine	Мэн (штат)
+Maine	Категория:Мэн
+Mainframe computer	Мейнфрейм
+Maitreya	Майтрея
+Maize	Кукуруза
+Major	Майор
+Major scale	Мажор
+Majorca	Мальорка
+Makalu	Макалу
+Malabo	Малабо
+Malachite	Малахит
+Malacostraca	Высшие раки
+Malaria	Малярия
+Malawi	Категория:Малави
+Malay Peninsula	Малайский полуостров
+Malayan Tapir	Чепрачный тапир
+Malaysia	Малайзия
+Malaysia	Категория:Малайзия
+Malcolm X	Малколм Икс
+Maldives	Мальдивы
+Maldives	Категория:Мальдивы
+Mali	Мали
+Mali	Категория:Мали
+Mallard	Кряква
+Malta	Мальта
+Malta	Категория:Мальта
+Maltese language	Мальтийский язык
+Maltose	Мальтоза
+Malvaceae	Мальвовые
+Mammal	Млекопитающие
+Mammoth	Мамонты
+Management	Менеджмент
+Managua	Манагуа
+Manama	Манама
+Manatee	Ламантины
+Manchester	Манчестер
+Manchuria	Маньчжурия
+Mandala	Мандала
+Mandarin (linguistics)	Северные диалекты китайского языка
+Mandarin orange	Мандарин
+Mandelbrot set	Множество Мандельброта
+Manganese	Марганец
+Mango	Манго
+Mangrove	Мангры
+Manhattan	Манхэттен
+Manhattan Project	Манхэттенский проект
+Manichaeism	Манихейство
+Manila	Манила
+Manipur	Манипур
+Manitoba	Манитоба
+Mannerism	Маньеризм
+Mannheim	Мангейм
+Mantle (geology)	Мантия Земли
+Mantra	Мантра
+Mantua	Мантуя
+Manuel de Falla	Фалья, Мануэль де
+Manuscript	Манускрипт
+Mao Zedong	Мао Цзэдун
+Maoism	Маоизм
+Map	Географическая карта
+Maple	Клён
+Maputo	Мапуту
+Marathon	Марафон
+Marble	Мрамор
+Marc Chagall	Шагал, Марк Захарович
+Marcel Duchamp	Дюшан, Марсель
+Marcel Marceau	Марсо, Марсель
+Marcel Proust	Пруст, Марсель
+March	Март
+March 17	17 марта
+March 19	19 марта
+March 2	2 марта
+March 25	25 марта
+Marche	Марке
+Marco Polo	Поло, Марко
+Marcus Aurelius	Марк Аврелий
+Marcus Junius Brutus	Марк Юний Брут
+Marcus Vipsanius Agrippa	Марк Випсаний Агриппа
+Marduk	Мардук
+Margaret Mead	Мид, Маргарет
+Margaret Mitchell	Митчелл, Маргарет
+Margaret Thatcher	Тэтчер, Маргарет
+Maria Callas	Мария Каллас
+Mariana Islands	Марианские острова
+Marie Antoinette	Мария-Антуанетта
+Marie Curie	Кюри-Склодовская, Мария
+Mariehamn	Маарианхамина
+Marilyn Monroe	Мэрилин Монро
+Mario Vargas Llosa	Варгас Льоса, Марио
+Mark Antony	Марк Антоний
+Mark Twain	Марк Твен
+Market	Рынок
+Marketing	Маркетинг
+Marketing	Категория:Маркетинг
+Markup language	Язык разметки
+Marlene Dietrich	Дитрих, Марлен
+Marquis de Sade	Маркиз де Сад
+Marrakech	Марракеш
+Marriage	Брачный союз
+Mars	Категория:Марс
+Mars (disambiguation)	Марс (значения)
+Mars (mythology)	Марс (мифология)
+Marseille	Марсель
+Marshall Islands	Маршалловы Острова
+Marshall Islands	Категория:Маршалловы Острова
+Marshall Plan	План Маршалла
+Marsupial	Сумчатые
+Martin Buber	Бубер, Мартин
+Martin Heidegger	Хайдеггер, Мартин
+Martin Luther	Лютер, Мартин
+Martin Luther King	Кинг, Мартин Лютер
+Martin Scorsese	Скорсезе, Мартин
+Martin Van Buren	Ван Бюрен, Мартин
+Martina Navratilova	Навратилова, Мартина
+Martinique	Мартиника
+Martyr	Мученик
+Marx Brothers	Братья Маркс
+Marxism	Марксизм
+Marxism	Категория:Марксизм
+Mary (mother of Jesus)	Дева Мария
+Mary Magdalene	Мария Магдалина
+Mary Shelley	Шелли, Мэри Уолстонкрафт
+Mary Wollstonecraft	Уолстонкрафт, Мэри
+Maryland	Мэриленд
+Maryland	Категория:Мэриленд
+Maseru	Масеру
+Mashhad	Мешхед
+Mass	Масса
+Mass (liturgy)	Месса
+Mass number	Массовое число
+Massachusetts	Массачусетс
+Massachusetts	Категория:Массачусетс
+Massachusetts Institute of Technology	Массачусетсский технологический институт
+Masturbation	Мастурбация
+Mata Hari	Мата Хари
+Match	Спичка
+Materialism	Материализм
+Mathematical logic	Математическая логика
+Mathematical logic	Категория:Математическая логика
+Mathematical proof	Математическое доказательство
+Mathematics	Математика
+Mathematics	Категория:Математика
+Mathematics	Портал:Математика
+Matrix (mathematics)	Матрица (математика)
+Matter	Материя (физика)
+Matterhorn	Маттерхорн
+Mauna Kea	Мауна-Кеа
+Mauna Loa	Мауна-Лоа
+Maundy Thursday	Великий четверг
+Maurice Ravel	Равель, Морис
+Mauritania	Мавритания
+Mauritania	Категория:Мавритания
+Mauritius	Маврикий
+Mauritius	Категория:Маврикий
+Max Born	Борн, Макс
+Max Bruch	Брух, Макс
+Max Ernst	Эрнст, Макс
+Max Planck	Планк, Макс
+Max Weber	Вебер, Эмиль Максимилиан
+Maximian	Максимиан
+Maxwell's equations	Уравнения Максвелла
+May	Май
+May 1	1 мая
+May 24	24 мая
+Mayenne	Майенн
+Mayfly	Подёнки
+Mayonnaise	Майонез
+Mayor	Мэр
+Mbabane	Мбабане
+McCarthyism	Маккартизм
+Mead	Мёд (напиток)
+Measles	Корь
+Measure (mathematics)	Мера множества
+Measurement	Категория:Измерение
+Measurement	Измерение
+Meat	Мясо
+Mecca	Мекка
+Mechanical engineering	Машиностроение
+Mechanical engineering	Категория:Машиностроение
+Mechanics	Категория:Механика
+Mechanics	Механика
+Medea	Медея
+Median	Медиана (статистика)
+Medication	Лекарственные средства
+Medici	Медичи (семья)
+Medicine	Медицина
+Medicine	Категория:Медицина
+Medina	Медина
+Meditation	Медитация
+Mediterranean	Категория:Средиземное море
+Mediterranean Sea	Средиземное море
+Medusa	Горгона Медуза
+Meerkat	Сурикат
+Megabyte	Мегабайт
+Meiosis	Мейоз
+Meister Eckhart	Мейстер Экхарт
+Meitnerium	Мейтнерий
+Mekong	Меконг
+Mel Gibson	Гибсон, Мел
+Melanesia	Меланезия
+Melody	Мелодия
+Melpomene	Мельпомена
+Melting	Плавление
+Melting point	Температура плавления
+Meme	Мем
+Memory	Память
+Memphis	Мемфис (Теннесси)
+Memphis	Мемфис (Египет)
+Menachem Begin	Бегин, Менахем
+Mendelevium	Менделевий
+Menelaus	Менелай
+Meningitis	Менингит
+Mensa (constellation)	Столовая Гора (созвездие)
+Menstrual cycle	Менструальный цикл
+Menstruation	Менструация
+Mental disorder	Психическое расстройство
+Mentha	Мята
+Mercantilism	Меркантилизм
+Mercenary	Наёмник
+Mercury	Меркурий (значения)
+Mercury (element)	Ртуть
+Mercury (mythology)	Гермес
+Mercury (planet)	Меркурий (планета)
+Meridian (geography)	Меридиан
+Meritocracy	Меритократия
+Mermaid	Русалка
+Merovingian	Меровинги
+Meryl Streep	Стрип, Мэрил
+Mescaline	Мескалин
+Mesolithic	Мезолит
+Meson	Мезон
+Mesopotamia	Междуречье
+Mesopotamia	Категория:Междуречье
+Mesosphere	Мезосфера
+Mesozoic	Мезозой
+Messenger RNA	МРНК
+Messiah	Мессия
+Messina	Мессина
+Metabolism	Метаболизм
+Metadata	Метаданные
+Metal	Металлы
+Metalloid	Полуметаллы
+Metallurgy	Металлургия
+Metallurgy	Категория:Металлургия
+Metamorphic rock	Метаморфические горные породы
+Metaphor	Метафора
+Metaphysics	Метафизика
+Metastasis	Метастаз
+Meteor shower	Метеорный поток
+Meteorite	Метеорит
+Meteoroid	Метеороид
+Meteorology	Категория:Метеорология
+Meteorology	Метеорология
+Methadone	Метадон
+Methamphetamine	Метамфетамин
+Methanol	Метанол
+Methionine	Метионин
+Methodism	Методизм
+Methylenedioxymethamphetamine	3,4-метилендиоксиметамфетамин
+Metis (moon)	Метида (спутник)
+Metonymy	Метонимия
+Metre	Метр
+Metric space	Метрическое пространство
+Meuse	Мёз (департамент)
+Meuse River	Маас (река)
+Mexico	Мексика
+Mexico	Категория:Мексика
+Mexico City	Мехико
+Miami	Майами
+Mica	Слюды
+Michael (archangel)	Архангел Михаил
+Michael Faraday	Фарадей, Майкл
+Michel Ney	Ней, Мишель
+Michelangelo	Микеланджело
+Michigan	Мичиган
+Michigan	Категория:Мичиган
+Mick Jagger	Джаггер, Мик
+Mickey Mouse	Микки Маус
+Microbiology	Микробиология
+Microbiology	Категория:Микробиология
+Microeconomics	Микроэкономика
+Microeconomics	Категория:Микроэкономика
+Micronesia	Микронезия
+Microorganism	Микроорганизмы
+Microphone	Микрофон
+Microscope	Микроскоп
+Microscopium	Микроскоп (созвездие)
+Microwave	Микроволновое излучение
+Microwave oven	Микроволновая печь
+Middle Ages	Средние века
+Middle Ages	Категория:Средние века
+Middle East	Средний Восток
+Middle East	Категория:Ближний Восток
+Midnight sun	Полярный день
+Migraine	Мигрень
+Miguel de Cervantes	Сервантес, Мигель де
+Mike Tyson	Тайсон, Майк
+Mikhail Bakunin	Бакунин, Михаил Александрович
+Mikhail Glinka	Глинка, Михаил Иванович
+Mikhail Gorbachev	Горбачёв, Михаил Сергеевич
+Milan	Милан
+Mile	Миля
+Miles Davis	Дэвис, Майлз
+Military	Категория:Военное дело
+Military rank	Воинское звание
+Milk	Молоко
+Milky Way	Млечный Путь
+Millard Fillmore	Филлмор, Миллард
+Millennium	Тысячелетие
+Millimetre	Миллиметр
+Million	Миллион
+Millipede	Многоножки
+Milton Friedman	Фридман, Милтон
+Milwaukee	Милуоки (Висконсин)
+Minaret	Минарет
+Mindanao	Минданао (остров)
+Mineral	Минерал
+Mineral water	Минеральная вода
+Mineralogy	Минералогия
+Mineralogy	Категория:Минералогия
+Minerva	Минерва
+Ming Dynasty	Мин (династия)
+Minimalism	Минимализм
+Mining	Горное дело
+Minister (government)	Министр
+Minneapolis	Миннеаполис
+Minnesota	Миннесота
+Minnesota	Категория:Миннесота
+Minoan civilization	Минойская цивилизация
+Minor scale	Минор
+Minos	Минос
+Minotaur	Минотавр
+Minsk	Минск
+Minute	Минута
+Miocene	Миоцен
+Miracle	Чудо
+Mirror	Зеркало
+Mishnah	Мишна
+Mississippi	Категория:Миссисипи
+Mississippi River	Миссисипи (река)
+Missouri	Миссури (штат)
+Missouri	Категория:Миссури
+Missouri River	Миссури (река)
+Mitochondrion	Митохондрия
+Mnemosyne	Мнемозина
+Mobile phone	Сотовый телефон
+Modem	Модем
+Modernism	Модернизм
+Modest Mussorgsky	Мусоргский, Модест Петрович
+Modulation	Модуляция
+Mogadishu	Могадишо
+Moirae	Мойры
+Mold	Плесневые грибы
+Moldova	Молдавия
+Moldova	Категория:Молдавия
+Mole (unit)	Моль
+Molecular biology	Молекулярная биология
+Molecular biology	Категория:Молекулярная биология
+Molecule	Молекула
+Molise	Молизе
+Mollusca	Моллюски
+Molotov cocktail	Коктейль Молотова
+Molybdenum	Молибден
+Mombasa	Момбаса
+Momentum	Импульс
+Monaco	Монако
+Monaco	Категория:Монако
+Monarch	Монарх
+Monarchy	Монархия
+Monarchy	Категория:Монархия
+Monastery	Монастырь
+Monday	Понедельник
+Money	Деньги
+Mongolia	Монголия
+Mongolia	Категория:Монголия
+Mongoose	Мангустовые
+Monica Seles	Селеш, Моника
+Monism	Монизм
+Monocotyledon	Однодольные
+Monomer	Мономер
+Monopoly	Монополия
+Monopoly (game)	Монополия (игра)
+Monosaccharide	Моносахариды
+Monosodium glutamate	Глутамат натрия
+Monotheism	Монотеизм
+Monotreme	Однопроходные
+Monroe Doctrine	Доктрина Монро
+Monrovia	Монровия
+Monsoon	Муссон
+Mont Blanc	Монблан
+Montana	Монтана
+Montana	Категория:Монтана (штат)
+Monte Carlo	Монте-Карло
+Montenegro	Черногория
+Montenegro	Категория:Черногория
+Monterrey	Monterrey
+Montevideo	Монтевидео
+Montgomery	Монтгомери (Алабама)
+Month	Месяц
+Montpelier	Монтпилиер (Вермонт)
+Montreal	Монреаль
+Montserrat	Монтсеррат
+Moon	Луна
+Moose	Лось
+Morality	Мораль
+Moravia	Моравия
+Morocco	Марокко
+Morocco	Категория:Марокко
+Morpheme	Морфема
+Morphine	Морфин
+Morphology	Морфологический анализ
+Morphology (linguistics)	Морфология (лингвистика)
+Morse code	Азбука Морзе
+Mortar (weapon)	Миномёт
+Mosaic	Мозаика
+Moscow	Москва
+Moscow	Категория:Москва
+Moselle	Мозель (департамент)
+Moses	Моисей
+Moshe Dayan	Даян, Моше
+Mosque	Мечеть
+Mosquito	Комар
+Moss	Мох
+Mossad	Моссад
+Mosul	Мосул
+Motet	Мотет
+Mother Teresa	Мать Тереза
+Mother's Day	День матери
+Motion (physics)	Механическое движение
+Motorcycle	Мотоцикл
+Motto	Девиз
+Mount Ararat	Арарат
+Mount Athos	Афон
+Mount Etna	Этна
+Mount Everest	Джомолунгма
+Mount Fuji	Фудзи
+Mount Kilimanjaro	Килиманджаро
+Mount McKinley	Мак-Кинли (гора)
+Mount Olympus	Олимп
+Mount Pinatubo	Пинатубо
+Mount Rushmore	Рашмор
+Mount St. Helens	Сент-Хеленс (вулкан)
+Mount Vesuvius	Везувий
+Mountain	Гора
+Mountain bike	Горный велосипед
+Mountain pass	Перевал
+Mountain range	Горный хребет
+Mouse (computing)	Компьютерная мышь
+Mozambique	Мозамбик
+Mozambique	Категория:Мозамбик
+Mu (letter)	Мю (буква)
+Muezzin	Муэдзин
+Muhammad	Мухаммед
+Muhammad Ali	Али, Мохаммед
+Mulberry	Шелковица
+Mule	Мул
+Multimedia	Мультимедиа
+Multiple sclerosis	Рассеянный склероз
+Multiplication	Умножение
+Mumbai	Мумбаи
+Mummy	Мумия
+Munich	Мюнхен
+Municipality	Муниципалитет
+Muon	Мюон
+Murmansk	Мурманск
+Murphy's law	Закон Мерфи
+Murray Gell-Mann	Гелл-Манн, Мюррей
+Musa (genus)	Банан
+Musca	Муха (созвездие)
+Muscat	Маскат
+Muscle	Мышцы
+Muse	Музы
+Museum	Музей
+Mushroom	Грибы
+Music	Музыка
+Music	Категория:Музыка
+Musical Instrument Digital Interface	MIDI
+Musical instrument	Музыкальный инструмент
+Musical scale	Звукоряд
+Musician	Музыкант
+Musicology	Музыковедение
+Musket	Мушкет
+Mustelidae	Куньи
+Mutation	Мутация
+Mute Swan	Лебедь-шипун
+Myanmar	Категория:Мьянма
+Mycenae	Микены
+Mycology	Микология
+Mycology	Категория:Микология
+Myocardial infarction	Острый инфаркт миокарда
+Myopia	Близорукость
+Myriapoda	Многоножки
+Mysticism	Мистицизм
+Myth	Миф
+Mythology	Мифология
+Mythology	Категория:Мифология
+N	N (латиница)
+N'Djamena	Нджамена
+NASDAQ	NASDAQ
+NATO	Организация Североатлантического договора
+NATO	Категория:НАТО
+Nadine Gordimer	Гордимер, Надин
+Nadir	Небесная сфера#.D0.97.D0.B5.D0.BD.D0.B8.D1.82 .D0.B8 .D0.BD.D0.B0.D0.B4.D0.B8.D1.80
+Nagasaki	Нагасаки
+Nagoya	Нагоя
+Nahuatl	Астекские языки
+Nail (anatomy)	Ногти
+Nail (fastener)	Гвоздь
+Nairobi	Найроби
+Namib Desert	Намиб
+Namibia	Намибия
+Namibia	Категория:Намибия
+Namur (city)	Намюр
+Nancy	Нанси
+Nanga Parbat	Нанга Парбат
+Nanjing	Нанкин
+Nanotechnology	Нанотехнология
+Nantes	Нант
+Napalm	Напалм
+Naples	Неаполь
+Napoleonic Wars	Наполеоновские войны
+Narcissus (mythology)	Нарцисс (мифология)
+Nashville	Нашвилл (Теннесси)
+Nassau	Нассау (Багамы)
+Nathaniel Hawthorne	Готорн, Натаниел
+Nation	Нация
+National Security Agency	Агентство национальной безопасности (США)
+National anthem	Государственный гимн
+National park	Национальный парк
+Nationalism	Национализм
+Nationalism	Категория:Национализм
+Natural gas	Природный газ
+Natural language processing	Обработка естественного языка
+Natural number	Натуральное число
+Natural science	Естествознание
+Natural selection	Естественный отбор
+Nature	Природа
+Nature	Категория:Природа
+Naturism	Натуризм
+Nauru	Науру
+Nauru	Категория:Науру
+Nautical mile	Морская миля
+Navigation	Категория:Навигация
+Navigation	Навигация
+Navy	Военно-морской флот
+Nazareth	Назарет
+Nazi Germany	Третий рейх
+Nazi Germany	Категория:Третий рейх
+Nazi Party	Национал-социалистическая немецкая рабочая партия
+Nazism	Категория:Нацизм
+Neanderthal	Неандерталец
+Nebraska	Небраска
+Nebraska	Категория:Небраска
+Nebuchadrezzar II	Навуходоносор II
+Nebula	Туманность
+Neckar	Неккар (река)
+Necktie	Галстук
+Nefertiti	Нефертити
+Negev	Негев
+Neil Armstrong	Армстронг, Нейл Олден
+Nelson Mandela	Мандела, Нельсон Ролихлахла
+Nematode	Нематоды
+Nemean Lion	Немейский лев
+Nemesis (mythology)	Немезида
+Neodymium	Неодим
+Neolithic	Неолит
+Neologism	Неологизм
+Neon	Неон
+Neoplatonism	Неоплатонизм
+Nepal	Непал
+Nepal	Категория:Непал
+Nephthys	Нефтида
+Neptune	Нептун (планета)
+Neptunium	Нептуний
+Nereid (moon)	Нереида (спутник)
+Nero	Нерон
+Nerva	Нерва
+Nervous system	Нервная система
+Nervous system	Категория:Нервная система
+Nest	Гнездо
+Nestorianism	Несторианство
+Netherlands	Нидерланды
+Netherlands	Категория:Нидерланды
+Netherlands Antilles	Нидерландские Антильские острова
+Network topology	Сетевая топология
+Neurology	Неврология
+Neurology	Категория:Неврология
+Neuron	Нейроны
+Neurotransmitter	Нейромедиатор
+Neutrino	Нейтрино
+Neutron	Нейтрон
+Neutron star	Нейтронная звезда
+Neva River	Нева
+Nevada	Невада
+Nevada	Категория:Невада
+Neville Chamberlain	Чемберлен, Невилл
+New Brunswick	Нью-Брансуик
+New Caledonia	Новая Каледония
+New Delhi	Нью-Дели
+New England	Новая Англия
+New Guinea	Новая Гвинея
+New Hampshire	Нью-Гэмпшир
+New Jersey	Нью-Джерси
+New Jersey	Категория:Нью-Джерси
+New Mexico	Нью-Мексико
+New Mexico	Категория:Нью-Мексико
+New Orleans	Новый Орлеан
+New South Wales	Новый Южный Уэльс
+New Testament	Новый Завет
+New World	Новый Свет (Америка)
+New Year	Новый год
+New York	Нью-Йорк (штат)
+New York	Категория:Нью-Йорк (штат)
+New York (disambiguation)	Нью-Йорк (значения)
+New York City	Нью-Йорк
+New York City	Категория:Нью-Йорк
+New York Stock Exchange	Нью-Йоркская фондовая биржа
+New Zealand	Новая Зеландия
+New Zealand	Категория:Новая Зеландия
+Newark	Ньюарк (Нью-Джерси)
+Newfoundland (island)	Ньюфаундленд (остров)
+Newfoundland and Labrador	Ньюфаундленд и Лабрадор
+Newport	Ньюпорт
+Newton	Ньютон (единица измерения)
+Niacin	Никотиновая кислота
+Niagara Falls	Ниагарский водопад
+Niamey	Ниамей
+Nicaragua	Никарагуа
+Nicaragua	Категория:Никарагуа
+Nice	Ницца
+Nicene Creed	Никейский символ веры
+Nickel	Никель
+Nicolas Poussin	Пуссен, Никола
+Nicolaus Copernicus	Коперник, Николай
+Nicosia	Никосия
+Nicotine	Никотин
+Niels Bohr	Бор, Нильс Хенрик Давид
+Niels Henrik Abel	Абель, Нильс Хенрик
+Niger	Нигер
+Niger	Категория:Нигер
+Niger River	Нигер (река)
+Nigeria	Нигерия
+Nigeria	Категория:Нигерия
+Night	Ночь
+Nightingale	Соловьи
+Nihilism	Нигилизм
+Nijmegen	Неймеген
+Nike	Nike
+Nike (mythology)	Ника (мифология)
+Nikita Khrushchev	Хрущёв, Никита Сергеевич
+Nikola Tesla	Тесла, Никола
+Nile	Нил
+Nile crocodile	Нильский крокодил
+Nineveh	Ниневия
+Ninja	Ниндзя
+Niobium	Ниобий
+Nirvana	Нирвана
+Nitric acid	Азотная кислота
+Nitrogen	Азот
+Nitroglycerin	Нитроглицерин
+Nix (moon)	Никта (спутник)
+Njord	Ньёрд
+Noah	Ной
+Noam Chomsky	Хомский, Аврам Ноам
+Nobel Prize	Нобелевская премия
+Nobel Prize	Категория:Нобелевские премии
+Nobelium	Нобелий
+Nobility	Дворянство
+Nobility	Категория:Дворянство
+Noble gas	Инертные газы
+Nomad	Кочевые народы
+Nominative case	Именительный падеж
+Nonmetal	Неметаллы
+Norfolk	Норфолк
+Norfolk Island	Остров Норфолк
+Norma (constellation)	Наугольник (созвездие)
+Normal distribution	Нормальное распределение
+Norman Mailer	Мейлер, Норман
+Normandy	Нормандия
+Norn	Норны
+Norse mythology	Германо-скандинавская мифология
+Norse mythology	Категория:Германо-скандинавская мифология
+North	Север
+North Africa	Северная Африка
+North America	Северная Америка
+North America	Категория:Северная Америка
+North Carolina	Северная Каролина
+North Carolina	Категория:Северная Каролина
+North Dakota	Северная Дакота
+North Dakota	Категория:Северная Дакота
+North Island	Северный остров (Новая Зеландия)
+North Korea	Корейская Народно-Демократическая Республика
+North Korea	Категория:КНДР
+North Pole	Северный полюс
+North Sea	Северное море
+North Yorkshire	Северный Йоркшир
+Northern Europe	Северная Европа
+Northern Hemisphere	Северное полушарие
+Northern Ireland	Северная Ирландия
+Northern Ireland	Категория:Северная Ирландия
+Northern Mariana Islands	Северные Марианские острова
+Northern Territory	Северная территория (Австралия)
+Northern pike	щука
+Northwest Territories	Северо-Западные территории
+Norway	Норвегия
+Norway	Категория:Норвегия
+Norwegian Sea	Норвежское море
+Norwegian krone	Норвежская крона
+Nose	Нос
+Nostradamus	Нострадамус
+Note	Ноты
+Nouakchott	Нуакшот
+Noun	Имя существительное
+Nova Scotia	Новая Шотландия
+Novaya Zemlya	Новая Земля
+Novel	Роман
+November	Ноябрь
+November 1	1 ноября
+November 11	11 ноября
+November 2	2 ноября
+November 5	5 ноября
+Novial	Новиаль
+Novosibirsk	Новосибирск
+Nu (letter)	Ню (буква)
+Nuclear fission	Деление ядра
+Nuclear fusion	Термоядерная реакция
+Nuclear physics	Ядерная физика
+Nuclear physics	Категория:Ядерная физика
+Nuclear power	Ядерная энергия
+Nuclear weapon	Ядерное оружие
+Nucleic acid	Нуклеиновая кислота
+Nucleon	Нуклон
+Nucleotide	Нуклеотид
+Number	Число
+Numbers	Категория:Числа
+Numidia	Нумидия
+Numismatics	Нумизматика
+Numismatics	Категория:Нумизматика
+Nunavut	Нунавут
+Nuremberg	Нюрнберг
+Nut (fruit)	Орех
+Nutmeg	Мускатный орех (пряность)
+Nutrition	Категория:Питание
+Nymph	Нимфы
+Nymphaeaceae	Кувшинковые
+Nyx (mythology)	Никта
+O	O (латиница)
+OPEC	ОПЕК
+Oahu	Оаху
+Oak	Дуб
+Oakland	Окленд (Калифорния)
+Oasis	Оазис
+Oat	Овёс
+Oaxaca	Оахака (штат)
+Ob River	Обь
+Obelisk	Обелиск
+Obesity	Ожирение
+Object-oriented programming	Объектно-ориентированное программирование
+Oboe	Гобой
+Observatory	Обсерватория
+Obsidian	Обсидиан
+Occam's razor	Бритва Оккама
+Ocean	Океан
+Ocean current	Морские течения
+Oceania	Океания
+Oceania	Категория:Океания
+Oceanid	Океаниды
+Oceanography	Океанология
+Oceanography	Категория:Океанология
+Oceanus	Океан (мифология)
+Octal	Восьмеричная система счисления
+Octans	Октант (созвездие)
+Octave	Октава
+October	Октябрь
+October 12	12 октября
+October 24	24 октября
+October Revolution	Октябрьская революция
+Octopus	Осьминог
+Ode	Ода
+Oder River	Одра
+Odessa	Одесса
+Odin	Один
+Odonata	Стрекозы
+Odysseus	Одиссей
+Odyssey	Одиссея
+Oedipus	Эдип
+Offside (football)	Положение «Вне игры» (футбол)
+Ohio	Огайо (штат)
+Ohio	Категория:Огайо
+Ohm	Ом
+Ohm's law	Закон Ома
+Oil	Масло
+Oil (disambiguation)	Масло (значения)
+Oil painting	Масляная живопись
+Okapi	Окапи
+Oklahoma	Оклахома
+Oklahoma	Категория:Оклахома
+Oklahoma City	Оклахома-сити
+Oktoberfest	Октоберфест
+Old Church Slavonic	Старославянский язык
+Old Norse	Древнеисландский язык
+Old Testament	Ветхий Завет
+Oligarchy	Олигархия
+Oligocene	Олигоцен
+Oligopoly	Олигополия
+Olive	Олива европейская
+Olive oil	Оливковое масло
+Oliver Cromwell	Кромвель, Оливер
+Oliver Stone	Стоун, Уильям Оливер
+Olivine	Оливин
+Olympia	Олимпия (Вашингтон)
+Olympia	Олимпия
+Olympic Games	Олимпийские игры
+Olympics	Категория:Олимпийские игры
+Omaha	Омаха (Небраска)
+Oman	Оман
+Oman	Категория:Оман
+Omega	Омега (буква)
+Omicron	Омикрон (буква)
+Omsk	Омск
+Oncology	Категория:Онкология
+Onion	Репчатый лук
+Onomastics	Ономастика
+Ontario	Онтарио (провинция)
+Ontario	Категория:Онтарио
+Ontology	Онтология
+Oort cloud	Облако Оорта
+Opal	Опал
+Opel	Opel
+Opera	Опера
+Opera (Internet suite)	Opera
+Operating system	Операционная система
+Operetta	Оперетта
+Ophiuchus	Змееносец (созвездие)
+Opium	Опиум
+Optical fiber	Оптоволокно
+Optical illusion	Оптические иллюзии
+Optics	Оптика
+Optics	Категория:Оптика
+Optimization (mathematics)	Оптимизация (математика)
+Oral sex	Оральный секс
+Orange (colour)	Оранжевый цвет
+Orange (fruit)	Апельсин
+Orangutan	Орангутан
+Oratorio	Оратория
+Orbit	Орбита
+Orca	Косатка (млекопитающее)
+Orchestra	Оркестр
+Orchidaceae	Орхидные
+Order (biology)	Отряд
+Order of Saint Benedict	Бенедиктинцы
+Ordovician	Ордовик
+Oregano	Душица обыкновенная
+Oregon	Орегон
+Oregon	Категория:Орегон
+Orestes (mythology)	Орест
+Organ (anatomy)	Орган (биология)
+Organ (music)	Орган (музыкальный инструмент)
+Organelle	Органоиды
+Organic chemistry	Органическая химия
+Organic chemistry	Категория:Органическая химия
+Organic compound	Органические вещества
+Organism	Организм
+Organization of American States	Организация американских государств
+Orgasm	Оргазм
+Origami	Оригами
+Origen	Ориген
+Original sin	Первородный грех
+Orinoco	Ориноко
+Orion (constellation)	Орион (созвездие)
+Orissa	Орисса
+Orlando	Орландо (Флорида)
+Ornithology	Орнитология
+Ornithology	Категория:Орнитология
+Orpheus	Орфей
+Orson Welles	Уэллс, Орсон
+Orthography	Орфография
+Osaka	Осака (город)
+Osama bin Laden	Усама бин Ладен
+Oscar Wilde	Уайльд, Оскар
+Oscillation	Виброизоляция
+Osiris	Осирис
+Oslo	Осло
+Osman I	Осман I
+Osmium	Осмий
+Osprey	Скопа
+Osteichthyes	Костные рыбы
+Osteoporosis	Остеопороз
+Ostrava	Острава
+Ostrich	Страус
+Othello	Отелло
+Otho	Отон
+Ottawa	Оттава
+Otto Hahn	Ган, Отто
+Otto I	Оттон I Великий
+Otto von Bismarck	Бисмарк, Отто фон
+Ottoman Empire	Османская империя
+Ottoman Empire	Категория:Османская империя
+Ounce	Унция
+Ovary	Яичники
+Ovid	Овидий, Публий Назон
+Oviedo	Овьедо
+Ovis	Бараны
+Ovum	Яйцеклетка
+Owl	Совообразные
+Oxford	Оксфорд
+Oxidation state	Степень окисления
+Oxide	Оксиды
+Oxygen	Кислород
+Oxymoron	Оксюморон
+Oxytocin	Окситоцин
+Ozone	Озон
+Ozone layer	Озоновый слой
+P	P (латиница)
+PAL	PAL
+PH	Водородный показатель
+Pablo Neruda	Пабло Неруда
+Pablo Picasso	Пабло Пикассо
+Pacific Ocean	Тихий океан
+Pacific Ocean	Категория:Тихий океан
+Pacifism	Пацифизм
+Padua	Падуя
+Paganism	Язычество
+Painting	Категория:Живопись
+Pakistan	Пакистан
+Pakistan	Категория:Пакистан
+Palace of Versailles	Версальский дворец
+Palau	Палау
+Palau	Категория:Палау
+Paleolithic	Палеолит
+Paleontology	Палеонтология
+Paleontology	Категория:Палеонтология
+Paleozoic	Палеозой
+Palermo	Палермо
+Palestine	Палестина
+Palestine	Категория:Палестина
+Palestine Liberation Organization	Организация освобождения Палестины
+Palestinian National Authority	Палестинская автономия
+Pali	Пали
+Palindrome	Палиндром
+Palladium	Палладий
+Palm Sunday	Вход Господень в Иерусалим
+Palmyra	Пальмира (Сирия)
+Pamir Mountains	Памир
+Pan (mythology)	Пан (мифология)
+Panama	Панама
+Panama	Категория:Панама
+Panama Canal	Панамский канал
+Panama City	Панама (город)
+Pancreas	Поджелудочная железа
+Pandemic	Пандемия
+Pandora	Пандора
+Pangaea	Пангея
+Pantheism	Пантеизм
+Pantheon	Пантеон (Рим)
+Panthera	Пантеры
+Papal States	Папская область
+Papua New Guinea	Папуа — Новая Гвинея
+Papua New Guinea	Категория:Папуа — Новая Гвинея
+Papyrus	Папирус
+Parabola	Парабола
+Paracelsus	Парацельс
+Parachute	Парашют
+Paradigm	Парадигма
+Paradox	Парадокс
+Paragliding	Параплан
+Paraguay	Парагвай
+Paraguay	Категория:Парагвай
+Parallax	Параллакс
+Parallelogram	Параллелограмм
+Paramaribo	Парамарибо
+Paranoia	Паранойя
+Paraphilia	Сексуальные девиации
+Parapsychology	Парапсихология
+Parasitism	Паразитизм
+Parchment	Пергамент
+Paris	Париж
+Paris	Категория:Париж
+Paris (mythology)	Парис
+Parity (mathematics)	Чётные и нечётные числа
+Parkinson's disease	Болезнь Паркинсона
+Parliament	Парламент
+Parmenides	Парменид
+Parody	Пародия
+Parrot	Попугаеобразные
+Parsec	Парсек
+Parsley	Петрушка (растение)
+Parthenon	Парфенон
+Parthia	Парфия
+Particle physics	Физика элементарных частиц
+Particle physics	Категория:Физика элементарных частиц
+Parvati	Парвати
+Pascal	Паскаль
+Pascal (programming language)	Паскаль (язык программирования)
+Pascal (unit)	Паскаль (единица измерения)
+Passeriformes	Категория:Воробьинообразные
+Passerine	Воробьинообразные
+Passover	Песах
+Passport	Паспорт
+Password	Пароль
+Pasteurization	Пастеризация
+Patagonia	Патагония
+Patent	Патент
+Pathology	Патология
+Patras	Патры
+Patriarch	Патриарх (церковный сан)
+Patrick White	Уайт, Патрик
+Patriotism	Патриотизм
+Paul Gauguin	Гоген, Поль
+Paul Johann Ludwig von Heyse	Хейзе, Пауль
+Paul Klee	Клее, Пауль
+Paul McCartney	Маккартни, Пол
+Paul Newman	Ньюман, Пол
+Paul Verlaine	Верлен, Поль
+Paul the Apostle	Апостол Павел
+Paul von Hindenburg	Гинденбург, Пауль фон
+Pauli exclusion principle	Принцип Паули
+Pavo (constellation)	Павлин (созвездие)
+Pawn (chess)	Пешка
+Pays de la Loire	Страна Луары
+Pea	Горох
+Peace	Мир (отсутствие войны)
+Peace of Westphalia	Вестфальский мир
+Peach	Персик
+Peanut	Арахис
+Pear	Груша
+Pearl	Жемчуг
+Pearl Harbor	Пёрл-Харбор
+Peat	Торф
+Pedagogy	Педагогика
+Pedagogy	Категория:Педагогика
+Pediatrics	Педиатрия
+Pedophilia	Педофилия
+Pedunculate Oak	Дуб черешчатый
+Pegasus	Пегас
+Pegasus (constellation)	Пегас (созвездие)
+Peloponnese	Пелопоннес
+Peloponnesian War	Пелопоннесская война
+Pencil	Карандаш
+Pendulum	Математический маятник
+Penelope	Пенелопа
+Penguin	Пингвиновые
+Penicillin	Бензилпенициллин
+Peninsula	Полуостров
+Pennsylvania	Пенсильвания
+Pennsylvania	Категория:Пенсильвания
+Pentagon	Пятиугольник
+Pentagram	Пентаграмма
+Pentecost	День Святой Троицы
+Pentecostalism	Пятидесятники
+People	Категория:Люди
+People's Republic of China	Китай
+Pepin the Short	Пипин Короткий
+Pepsi	Пепси-кола
+Peptide	Пептиды
+Percentage	Процент
+Perception	Восприятие
+Perciformes	Окунеобразные
+Percussion instrument	Ударные музыкальные инструменты
+Percy Bysshe Shelley	Шелли, Перси Биши
+Peregrine Falcon	Сапсан
+Perestroika	Перестройка
+Perfume	Парфюмерия
+Pericles	Перикл
+Period (periodic table)	Период периодической системы
+Periodic table	Периодическая система элементов
+Perm	Пермь
+Permafrost	Вечная мерзлота
+Permian	Пермский период
+Permutation	Перестановка
+Pernambuco	Пернамбуку
+Perpetual motion	Вечный двигатель
+Persephone	Персефона
+Persepolis	Персеполь
+Perseus	Персей (мифология)
+Perseus (constellation)	Персей (созвездие)
+Persian Empire	Персидская империя
+Persian Gulf	Персидский залив
+Personal digital assistant	Карманный персональный компьютер
+Perth	Перт (Австралия)
+Peru	Перу
+Peru	Категория:Перу
+Pesticide	Пестициды
+Peter Abelard	Пьер Абеляр
+Peter Paul Rubens	Рубенс, Питер Пауль
+Peter Sellers	Селлерс, Питер
+Petrarch	Франческо Петрарка
+Petroleum	Нефть
+Petrology	Петрология
+Phanerozoic	Фанерозой
+Pharaoh	Фараон
+Pharmacology	Фармакология
+Pharmacology	Категория:Фармакология
+Pharynx	Глотка
+Phase (matter)	Термодинамическая фаза
+Phenol	Фенол
+Phenomenology	Феноменология
+Phenotype	Фенотип
+Phenylalanine	Фенилаланин
+Phenylketonuria	Фенилкетонурия
+Phi (letter)	Фи (буква)
+Philadelphia	Филадельфия
+Philately	Филателия
+Philately	Категория:Филателия
+Philip II of Macedon	Филипп II Македонский
+Philip II of Spain	Филипп II (король Испании)
+Philipp Lenard	Ленард, Филипп Эдуард Антон фон
+Philippine Sea	Филиппинское море
+Philippines	Филиппины
+Philippines	Категория:Филиппины
+Philology	Филология
+Philology	Категория:Филология
+Philosopher's stone	Философский камень
+Philosophy	Философия
+Philosophy	Категория:Философия
+Philosophy	Портал:Философия
+Phnom Penh	Пномпень
+Phobia	Фобия
+Phobos (moon)	Фобос
+Phoenicia	Финикия
+Phoenix	Финикс
+Phoenix	Феникс (значения)
+Phoenix (constellation)	Феникс (созвездие)
+Phoenix (mythology)	Феникс
+Phoenix (spacecraft)	Phoenix (космический аппарат)
+Phoneme	Фонема
+Phonetics	Фонетика
+Phonetics	Категория:Фонетика
+Phonology	Фонология
+Phosphate	Фосфаты
+Phosphoric acid	Ортофосфорная кислота
+Phosphorus	Фосфор
+Photography	Фотография
+Photography	Категория:Фотография
+Photon	Фотон
+Photosphere	Фотосфера
+Photosynthesis	Фотосинтез
+Phylum	Тип (биология)
+Physical chemistry	Физическая химия
+Physical chemistry	Категория:Физическая химия
+Physician	Врач
+Physics	Физика
+Physics	Категория:Физика
+Physics	Портал:Физика
+Physiology	Физиология
+Physiology	Категория:Физиология
+Pi	Пи (число)
+Pi (letter)	Пи (буква)
+Piano	Фортепиано
+Picardie	Пикардия
+Piciformes	Дятлообразные
+Pictor	Живописец (созвездие)
+Pidgin	Пиджин
+Pidgin (software)	Pidgin
+Piedmont	Пьемонт
+Pierre Curie	Кюри, Пьер
+Pierre de Fermat	Ферма, Пьер
+Piet Mondrian	Мондриан, Пит
+Pieter Zeeman	Зееман, Питер
+Pilsen	Пльзень
+Pinaceae	Хвойные (семейство)
+Pindar	Пиндар
+Pine	Сосна
+Pineapple	Ананас настоящий
+Ping	Ping
+Pink	Розовый цвет
+Pinniped	Ластоногие
+Piracy	Пиратство
+Pisa	Пиза
+Pisces (constellation)	Рыбы (созвездие)
+Piston	Поршень
+Pittsburgh	Питтсбург
+Pituitary gland	Гипофиз
+Pixel	Пиксел
+Pizza	Пицца
+Plagiarism	Плагиат
+Plane (mathematics)	Плоскость (математика)
+Planet	Планета
+Planetary nebula	Планетарная туманность
+Plankton	Планктон
+Plant	Растения
+Plasma (physics)	Плазма
+Plasmid	Плазмиды
+Plastic	Пластмассы
+Plastid	Пластиды
+Plate tectonics	Тектоника плит
+Platelet	Тромбоциты
+Platinum	Платина
+Plato	Платон
+Platypus	Утконос
+Playboy	Playboy
+Playing card	Игральные карты
+Pleiades (star cluster)	Плеяды (звёздное скопление)
+Pleistocene	Плейстоцен
+Pleven	Плевен
+Pliny the Elder	Плиний Старший
+Pliny the Younger	Плиний Младший
+Pliocene	Плиоцен
+Plotinus	Плотин
+Plovdiv	Пловдив
+Plum	Слива домашняя
+Plutarch	Плутарх
+Pluto	Плутон (карликовая планета)
+Pluto (disambiguation)	Плутон
+Plutonium	Плутоний
+Plymouth	Плимут (Англия)
+Pneumonia	Пневмония
+Po River	По (река)
+Poaceae	Злаки
+Podcast	Подкастинг
+Poetry	Поэзия
+Poetry	Категория:Поэзия
+Pogrom	Антиеврейские погромы
+Point (geometry)	Точка (геометрия)
+Poison	Яд
+Poitiers	Пуатье
+Poitou-Charentes	Пуату — Шарант
+Poker	Покер
+Poland	Польша
+Poland	Категория:Польша
+Polar bear	Белый медведь
+Polaris	Полярная звезда
+Police	Полиция
+Poliomyelitis	Полиомиелит
+Political party	Политическая партия
+Political science	Политология
+Political science	Категория:Политология
+Politician	Политик
+Politics	Политика
+Politics	Категория:Политика
+Pollen	Пыльца
+Pollination	Опыление
+Pollution	Загрязнение
+Polo	Поло
+Polonium	Полоний
+Polyethylene	Полиэтилен
+Polygamy	Полигамия
+Polygon	Многоугольник
+Polyhedron	Многогранник
+Polyhymnia	Полигимния
+Polymer	Полимер
+Polynesia	Полинезия
+Polynomial	Многочлен
+Polytheism	Политеизм
+Polyvinyl chloride	Поливинилхлорид
+Pomegranate	Гранатовое дерево
+Pomelo	Помело (фрукт)
+Pompeii	Помпеи
+Pompey	Помпей Великий
+Pontius Pilate	Понтий Пилат
+Pop art	Поп-арт
+Pop music	Поп-музыка
+Pope	Папство
+Pope Alexander VI	Александр VI (папа римский)
+Poplar	Тополь
+Population	Население Земли
+Populism	Популизм
+Porcelain	Фарфор
+Pornography	Порнография
+Port	Порт
+Port Louis	Порт-Луи
+Port Moresby	Порт-Морсби
+Port Vila	Порт-Вила
+Port of Spain	Порт-оф-Спейн
+Port-au-Prince	Порт-о-Пренс
+Portland	Портленд (Орегон)
+Portland	Портленд
+Porto	Порту
+Portrait	Портрет
+Portsmouth	Портсмут (Англия)
+Portugal	Португалия
+Portugal	Категория:Португалия
+Poseidon	Посейдон
+Positron	Позитрон
+Postage stamp	Почтовая марка
+Postal code	Почтовый индекс
+Postmodernism	Постмодернизм
+Potassium	Калий
+Potassium nitrate	Нитрат калия
+Potato	Картофель
+Potential energy	Потенциальная энергия
+Potsdam	Потсдам
+Pound (mass)	Фунт (единица измерения)
+Pound sterling	Фунт стерлингов
+Poverty	Бедность
+Power (physics)	Мощность
+Power station	Электростанция
+Praetor	Претор
+Prague	Прага
+Prague	Категория:Прага
+Praia	Прая
+Praseodymium	Празеодим
+Prayer	Молитва
+Precambrian	Докембрий
+Precession	Прецессия
+Precipitation (meteorology)	Атмосферные осадки
+Pregnancy	Беременность
+Prehistory	Первобытное общество
+Prehistory	Категория:Доисторический период
+President	Президент
+President of the United States	Президент США
+Pressure	Давление
+Pretoria	Претория
+Priam	Приам
+Price	Цена
+Priest	Жрец
+Primate	Приматы
+Primates	Категория:Приматы
+Prime Meridian	Гринвичский меридиан
+Prime minister	Премьер-министр
+Prime number	Простое число
+Prince Edward Island	Остров Принца Эдуарда
+Prince Philip	Филипп, герцог Эдинбургский
+Prince of Wales	Принц Уэльский
+Princeton University	Принстонский университет
+Principle of relativity	Теория относительности
+Printing	Книгопечатание
+Prion	Прионы
+Prism (geometry)	Призма (математика)
+Prism (optics)	Призма (оптика)
+Prison	Тюрьма
+Prisoner of war	Плен
+Prix Goncourt	Гонкуровская премия
+Probability	Вероятность
+Probability theory	Теория вероятностей
+Probability theory	Категория:Теория вероятностей
+Procyonidae	Енотовые
+Professor	Профессор
+Profit	Прибыль
+Programmer	Программист
+Programming language	Язык программирования
+Progressive rock	Прогрессивный рок
+Project	Проект
+Prokaryote	Прокариоты
+Prolog	Пролог (язык программирования)
+Prometheus	Прометей
+Promethium	Прометий
+Pronoun	Местоимение
+Propaganda	Пропаганда
+Propane	Пропан
+Prophet	Пророк
+Prose	Проза
+Prostate	Предстательная железа
+Protactinium	Протактиний
+Protectorate	Протекторат
+Protein	Белки
+Proterozoic	Протерозой
+Protestant Reformation	Реформация
+Protestantism	Протестантизм
+Protist	Протисты
+Protista	Категория:Простейшие
+Protocol	Протокол
+Proton	Протон
+Providence	Провиденс (Род-Айленд)
+Proxima Centauri	Проксима Центавра
+Prunus	Слива (род)
+Prussia	Пруссия
+Psalms	Псалом
+Pseudonym	Псевдоним
+Pseudoscience	Категория:Неакадемические направления исследований
+Pseudoscience	Псевдонаука
+Psi (letter)	Пси (буква)
+Psoriasis	Псориаз
+Psychiatry	Психиатрия
+Psychiatry	Категория:Психиатрия
+Psychoanalysis	Психоанализ
+Psychology	Психология
+Psychology	Категория:Психология
+Psychosis	Психоз
+Psychotherapy	Психотерапия
+Ptah	Пта
+Pterosaur	Птерозавры
+Ptolemaic dynasty	Птолемеи
+Ptolemy	Клавдий Птолемей
+Puberty	Пубертат
+Public domain	Общественное достояние
+Public relations	Пиар
+Puerto Rico	Пуэрто-Рико
+Puerto Rico	Категория:Пуэрто-Рико
+Pula	Пула
+Pulley	Блок (механика)
+Pulsar	Пульсар
+Pump	Насос
+Punctuation	Знаки препинания
+Punjab (India)	Пенджаб (Индия)
+Punk	Категория:Панк
+Punk rock	Панк-рок
+Pupil	Зрачок
+Puppis	Корма (созвездие)
+Pyongyang	Пхеньян
+Pyramid	Пирамида (архитектура)
+Pyramid (geometry)	Пирамида (геометрия)
+Pyrenees	Пиренеи
+Pyrite	Пирит
+Pyrrhic victory	Пиррова победа
+Pythagoras	Пифагор
+Python (programming language)	Python
+Pyxis	Компас (созвездие)
+Q	Q (латиница)
+Qatar	Катар
+Qatar	Категория:Катар
+Qin Dynasty	Цинь (династия)
+Qing Dynasty	Цин
+Quadratic equation	Квадратное уравнение
+Quadrilateral	Четырёхугольник
+Quaestor	Квестор
+Quantum field theory	Квантовая теория поля
+Quantum mechanics	Квантовая механика
+Quantum mechanics	Категория:Квантовая механика
+Quarantine	Карантин (мероприятие)
+Quark	Кварки
+Quartz	Кварц
+Quasar	Квазар
+Quaternary	Четвертичный период
+Quaternion	Кватернион
+Quebec	Квебек
+Quebec	Категория:Квебек
+Quebec City	Квебек (город)
+Quechua	Кечуа (язык)
+Queen (chess)	Ферзь
+Queens	Квинс
+Queensland	Квинсленд
+Quentin Tarantino	Тарантино, Квентин
+Question mark	Вопросительный знак
+Quetzalcoatl	Кетцалькоатль
+Quince	Айва
+Quito	Кито
+R	R (латиница)
+RAF (disambiguation)	RAF
+RAID	RAID
+RNA	Рибонуклеиновые кислоты
+Ra	Ра
+Rabat	Рабат
+Rabbi	Раввин
+Rabindranath Tagore	Тагор, Рабиндранат
+Raccoon Dog	Енотовидная собака
+Race	Раса
+Racism	Расизм и расовая дискриминация
+Racism	Категория:Расизм
+Radar	Радиолокационная станция
+Radian	Радиан
+Radio	Категория:Радио
+Radio telescope	Радиотелескоп
+Radioactive decay	Радиоактивный распад
+Radiocarbon dating	Радиоуглеродный анализ
+Radiology	Рентгенология
+Radium	Радий
+Radius	Радиус
+Radon	Радон
+Rain	Дождь
+Rainbow	Радуга
+Rainer Maria Rilke	Рильке, Райнер Мария
+Raleigh	Роли (Северная Каролина)
+Ralph Waldo Emerson	Эмерсон, Ральф Уолдо
+Rama	Рама
+Ramadan	Рамадан
+Ramayana	Рамаяна
+Ramesses II	Рамсес II
+Random access memory	Запоминающее устройство с произвольным доступом
+Ranunculaceae	Лютиковые
+Rape	Изнасилование
+Rapeseed	Рапс
+Raphael	Рафаэль Санти
+Raphael (archangel)	Архангел Рафаил
+Rapid transit	Категория:Метрополитен
+Raspberry	Малина
+Rat	Крысы
+Rational number	Рациональное число
+Ratite	Страусообразные
+Ravenna	Равенна
+Rawalpindi	Равалпинди
+Ray Bradbury	Брэдбери, Рэй
+Read-only memory	Постоянное запоминающее устройство
+Real number	Вещественное число
+Recession	Рецессия
+Recife	Ресифи
+Rectangle	Прямоугольник
+Rectifier	Выпрямитель
+Recursion	Рекурсия
+Recycling	Переработка отходов
+Red	Красный цвет
+Red Army Faction	Фракция Красной Армии
+Red Deer	Благородный олень
+Red Fox	Лисица
+Red Panda	Малая панда
+Red Sea	Красное море
+Red algae	Красные водоросли
+Red blood cell	Эритроциты
+Red dwarf	Красный карлик
+Red giant	Красный гигант
+Redshift	Красное смещение
+Redshift (disambiguation)	Красное смещение
+Reduced instruction set computer	RISC
+Referendum	Референдум
+Refraction	Преломление
+Refractive index	Показатель преломления
+Refugee	Беженцы
+Regent	Регент
+Reggae	Регги
+Regiment	Полк
+Regina	Реджайна
+Region	Регион
+Reims	Реймс
+Reincarnation	Реинкарнация
+Reindeer	Северный олень
+Relation (mathematics)	Отношение (математика)
+Relativism	Релятивизм
+Relay	Реле
+Religion	Религия
+Religion	Категория:Религия
+Religious Society of Friends	Квакеры
+Rembrandt	Рембрандт
+Renaissance	Эпоха Возрождения
+Renaissance	Категория:Эпоха Возрождения
+Reproduction	Размножение
+Reptile	Пресмыкающиеся
+Republic	Республика
+Republic of China	Китайская Республика
+Republic of Ireland	Ирландия
+Republic of Ireland	Категория:Ирландия
+Republic of the Congo	Республика Конго
+Republic of the Congo	Категория:Республика Конго
+Republican Party (United States)	Республиканская партия США
+Requiem	Реквием
+Resistor	Резистор
+Respiratory system	Дыхательная система человека
+Restaurant	Ресторан
+Reticulum	Сетка (созвездие)
+Retina	Сетчатка
+Retinol	Витамин A
+Revolution	Революция
+Revolver	Револьвер
+Rhea (moon)	Рея (спутник)
+Rhea (mythology)	Рея (мифология)
+Rhenium	Рений
+Rhetoric	Риторика
+Rhetoric	Категория:Риторика
+Rhine	Рейн
+Rhinoceros	Носороги
+Rho (letter)	Ро (буква)
+Rhode Island	Род-Айленд
+Rhode Island	Категория:Род-Айленд
+Rhodes	Родос (остров)
+Rhodium	Родий
+Rhombus	Ромб
+Rhyme	Рифма
+Rhythm	Ритм
+Rhythm and blues	Ритм-н-блюз
+Rib	Ребро
+Riboflavin	Рибофлавин
+Ribosome	Рибосома
+Rice	Рис
+Richard Feynman	Фейнман, Ричард Филлипс
+Richard Nixon	Никсон, Ричард Милхауз
+Richard Strauss	Штраус, Рихард
+Richard Wagner	Вагнер, Рихард
+Richard Wright (musician)	Райт, Ричард
+Richmond	Ричмонд (Вирджиния)
+Riga	Рига
+Rigel	Ригель (звезда)
+Ring (mathematics)	Кольцо (математика)
+Ringo Starr	Ринго Старр
+Rio Grande	Рио-Гранде (бассейн Мексиканского залива)
+Rio de Janeiro	Рио-де-Жанейро
+Rio de Janeiro (state)	Рио-де-Жанейро (штат)
+River	Река
+River Thames	Темза
+Riyadh	Эр-Рияд
+Road	Дорога
+Roald Amundsen	Амундсен, Руаль
+Robert A. Heinlein	Хайнлайн, Роберт Энсон
+Robert Andrews Millikan	Милликен, Роберт Эндрюс
+Robert Boyle	Бойль, Роберт
+Robert Burns	Бёрнс, Роберт
+Robert De Niro	Де Ниро, Роберт
+Robert E. Lee	Ли, Роберт Эдвард
+Robert Falcon Scott	Скотт, Роберт Фалкон
+Robert Hooke	Гук, Роберт
+Robert Koch	Кох, Роберт
+Robert Louis Stevenson	Стивенсон, Роберт Льюис
+Robert Oppenheimer	Оппенгеймер, Роберт
+Robert Owen	Оуэн, Роберт
+Robert Redford	Редфорд, Роберт
+Robert Schumann	Шуман, Роберт
+Robin Hood	Робин Гуд
+Robot	Робот
+Rock	Камень, ножницы, бумага
+Rock (geology)	Горная порода
+Rock and roll	Рок-н-ролл
+Rock music	Рок-музыка
+Rock music	Категория:Рок
+Rocket	Ракета
+Rocky Mountains	Скалистые горы
+Rococo	Рококо
+Rodent	Грызуны
+Roe Deer	Европейская косуля
+Roentgenium	Рентгений
+Roger Bacon	Бэкон, Роджер
+Roman Catholic Church	Римско-католическая церковь
+Roman Empire	Римская империя
+Roman Republic	Республика (Древний Рим)
+Roman calendar	Римский календарь
+Roman law	Римское право
+Roman legion	Римский легион
+Roman mythology	Древнеримская мифология
+Roman mythology	Категория:Римская мифология
+Romania	Румыния
+Romania	Категория:Румыния
+Romansh	Романшский язык
+Romanticism	Романтизм (направление в искусстве)
+Rome	Рим
+Rome	Категория:Рим
+Ronald Reagan	Рейган, Рональд
+Roof	Крыша
+Rook (bird)	Грач
+Rook (chess)	Ладья (шахматы)
+Roosevelt	Рузвельт
+Root	Корень
+Rosa Parks	Паркс, Роза Ли
+Rosaceae	Розановые
+Rosales	Розовые
+Rosario	Росарио
+Rosary	Розарий
+Rose	Роза
+Roseau	Розо
+Rosemary	Розмарин обыкновенный
+Rosetta Stone	Розеттский камень
+Rosh Hashanah	Рош Ха-Шана
+Ross Sea	Море Росса
+Rostock	Росток
+Rotifer	Коловратки
+Rotterdam	Роттердам
+Router	Маршрутизатор
+Rowing (sport)	Академическая гребля
+Royal Air Force	Королевские военно-воздушные силы Великобритании
+Royal Society	Лондонское королевское общество
+Rubber	Резина
+Rubicon	Рубикон
+Rubidium	Рубидий
+Ruble	Рубль (значения)
+Rubus idaeus	Малина
+Ruby	Рубин
+Ruby (programming language)	Ruby
+Rudolf Diesel	Дизель, Рудольф
+Rudolf Hess	Гесс, Рудольф
+Rudolf Steiner	Штейнер, Рудольф
+Rudyard Kipling	Киплинг, Джозеф Редьярд
+Rugby football	Регби
+Rupert Murdoch	Мёрдок, Руперт
+Russia	Россия
+Russia	Категория:Россия
+Russian Orthodox Church	Русская православная церковь
+Russian Revolution (1917)	Октябрьская революция в России 1917
+Russo-Japanese War	Русско-японская война
+Ruthenium	Рутений
+Rutherford B. Hayes	Хейз, Резерфорд
+Rutherfordium	Резерфордий
+Rwanda	Руанда
+Rwanda	Категория:Руанда
+Rye	Рожь
+S	S (латиница)
+SOAP	SOAP
+SOS	SOS
+Sacrament	Таинство
+Sacramento	Сакраменто (Калифорния)
+Saddam Hussein	Саддам Хусейн
+Safari (web browser)	Safari
+Saffron	Шафран
+Sagitta	Стрела (созвездие)
+Sagittarius (constellation)	Стрелец (созвездие)
+Sahara	Пустыня Сахара
+Sail	Парус
+Saint	Святой
+Saint Andrew	Андрей Первозванный
+Saint George	Георгий Победоносец
+Saint Kitts and Nevis	Сент-Китс и Невис
+Saint Lawrence River	Река Святого Лаврентия
+Saint Lucia	Сент-Люсия
+Saint Martin	Остров Святого Мартина
+Saint Nicholas	Николай Чудотворец
+Saint Patrick	Святой Патрик
+Saint Paul	Сент-Пол (Миннесота)
+Saint Peter	Апостол Пётр
+Saint Petersburg	Санкт-Петербург
+Saint Petersburg	Категория:Санкт-Петербург
+Saint Vincent and the Grenadines	Сент-Винсент и Гренадины
+Saint Vincent and the Grenadines	Категория:Сент-Винсент и Гренадины
+Sake	Саке
+Saladin	Салах ад-Дин
+Salah	Намаз
+Salamander	Хвостатые земноводные
+Salem	Сейлем (Орегон)
+Salerno	Салерно
+Saliva	Слюна
+Salman Rushdie	Рушди, Салман
+Salmonidae	Лососёвые (семейство)
+Salt	Соль
+Salt (chemistry)	Соли
+Salt Lake City	Солт-Лейк-Сити
+Salvador	Салвадор (Баия)
+Salzburg	Зальцбург
+Salzburg (state)	Зальцбург (земля)
+Samara	Самара
+Samarium	Самарий
+Samarkand	Самарканд
+Samoa	Самоа
+Samoa	Категория:Самоа
+Samsara	Самсара
+Samuel Beckett	Беккет, Сэмюэл
+Samuel F. B. Morse	Морзе, Сэмюэл Финли Бриз
+Samuel Taylor Coleridge	Кольридж, Сэмюэл Тейлор
+Samurai	Самурай
+San Antonio	Сан-Антонио (Техас)
+San Diego	Сан-Диего (Калифорния)
+San Francisco	Сан-Франциско
+San Jose	Сан-Хосе (Калифорния)
+San Juan	Сан-Хуан (Пуэрто-Рико)
+San Marino	Сан-Марино
+San Marino	Категория:Сан-Марино
+San Marino	Сан-Марино (город)
+San Salvador	Сан-Сальвадор
+Sand	Песок
+Sandro Botticelli	Сандро Боттичелли
+Sandstone	Песчаник
+Sandwich	Сандвич
+Sanskrit	Санскрит
+Santa Claus	Санта Клаус
+Santa Fe	Санта-Фе
+Santiago	Сантьяго
+Santiago	Сантьяго (значения)
+Santiago de Cuba	Сантьяго-де-Куба (город)
+Santo Domingo	Санто-Доминго
+Santos (Săo Paulo)	Сантус
+Sapphire	Сапфир
+Sappho	Сапфо
+Sapporo	Саппоро
+Sarah Bernhardt	Бернар, Сара
+Sarajevo	Сараево
+Saratov	Саратов
+Sarcophagus	Саркофаг
+Sardine	Сардина
+Sardinia	Сардиния
+Sari	Сари (город)
+Sarin	Зарин (химическое оружие)
+Saskatchewan	Саскачеван
+Satan	Сатана
+Satanism	Сатанизм
+Satellite	Искусственный спутник Земли
+Satire	Сатира
+Saturday	Суббота
+Saturn	Сатурн (планета)
+Saturn	Категория:Сатурн
+Saturn (disambiguation)	Сатурн
+Saturn (mythology)	Сатурн (мифология)
+Satyr	Сатиры
+Sauce	Соус
+Saudi Arabia	Саудовская Аравия
+Saudi Arabia	Категория:Саудовская Аравия
+Saul Bellow	Беллоу, Сол
+Savanna	Саванна
+Saxony	Саксония (федеральная земля)
+Saxony	Категория:Саксония
+Saxophone	Саксофон
+Scandinavia	Скандинавия
+Scandinavia	Категория:Скандинавия
+Scandinavian Peninsula	Скандинавский полуостров
+Scandium	Скандий
+Scapula	Лопатка
+Scheldt	Шельда (река)
+Scheme (programming language)	Scheme
+Schizophrenia	Шизофрения
+Scholasticism	Схоластика
+School	Школа
+Schutzstaffel	СС
+Science	Наука
+Science	Категория:Наука
+Science fiction	Научная фантастика
+Science fiction	Категория:Фантастика
+Scientific method	Научный метод
+Scientist	Учёный
+Scientology	Саентология
+Scipio Africanus	Сципион Африканский Старший
+Scissors	Ножницы
+Sciuridae	Беличьи
+Scorpion	Скорпионы
+Scorpius	Скорпион (созвездие)
+Scotland	Шотландия
+Scotland	Категория:Шотландия
+Scots Pine	Сосна обыкновенная
+Scottish Gaelic	Шотландский (гэльский) язык
+Scouting	Скаутское движение
+Scrabble	Скрэббл
+Screw	Винт (деталь машины)
+Screwdriver	Отвёртка
+Scrotum	Мошонка
+Sculptor (constellation)	Скульптор (созвездие)
+Sculpture	Скульптура
+Sculpture	Категория:Скульптура
+Sea	Море
+Sea Otter	Калан
+Sea anemone	Актинии
+Sea cucumber	Голотурии
+Sea level	Уровень моря
+Sea of Azov	Азовское море
+Sea of Japan	Японское море
+Sea of Marmara	Мраморное море
+Sea of Okhotsk	Охотское море
+Sea urchin	Морские ежи
+Seaborgium	Сиборгий
+Seahorse	Морской конёк
+Search engine	Поисковая система
+Sears Tower	Сирс-Тауэр
+Season	Времена года
+Seattle	Сиэтл
+Second	Секунда
+Second Crusade	Второй крестовый поход
+Second Vatican Council	Второй Ватиканский собор
+Second law of thermodynamics	Второе начало термодинамики
+Sect	Секта
+Security	Категория:Безопасность
+Sedimentary rock	Осадочные горные породы
+Seed	Семя (ботаника)
+Segovia	Сеговия
+Seine	Сена (река)
+Seismology	Сейсмология
+Seismology	Категория:Сейсмология
+Selene	Селена
+Selenium	Селен
+Seleucus I Nicator	Селевк I Никатор
+Semantics	Лингвистическая семантика
+Semantics	Категория:Семантика
+Semen	Сперма
+Semicolon	Точка с запятой
+Semiconductor	Полупроводник
+Semiotics	Семиотика
+Semitic	Семиты
+Senegal	Сенегал
+Senegal	Категория:Сенегал
+Seoul	Сеул
+Seppuku	Харакири
+September	Сентябрь
+September 11	11 сентября
+September 11	Террористический акт 11 сентября 2001 года
+September 17	17 сентября
+September 29	29 сентября
+Septuagint	Септуагинта
+Sequence	Последовательность
+Serbia	Сербия
+Serbia	Категория:Сербия
+Serbia and Montenegro	Сербия и Черногория
+Serbia and Montenegro	Категория:Сербия и Черногория
+Serfdom	Крепостное право
+Sergei Eisenstein	Эйзенштейн, Сергей Михайлович
+Sergei Rachmaninoff	Рахманинов, Сергей Васильевич
+Series (mathematics)	Сумма ряда
+Serine	Серин
+Serotonin	Серотонин
+Serpens	Змея (созвездие)
+Server (computing)	Сервер (аппаратное обеспечение)
+Set	Множество
+Set (mythology)	Сет (мифология)
+Set theory	Теория множеств
+Set theory	Категория:Теория множеств
+Sevastopol	Севастополь
+Seven Years' War	Семилетняя война
+Severe acute respiratory syndrome	Тяжёлый острый респираторный синдром
+Seville	Севилья
+Sex	Пол (биология)
+Sexism	Сексизм
+Sextant	Секстант
+Sexual intercourse	Половой акт
+Sexuality	Категория:Сексуальность
+Sexually transmitted disease	Заболевания, передающиеся половым путём
+Seychelles	Сейшелы
+Seychelles	Категория:Сейшелы
+Shah	Шах (титул)
+Shahadah	Шахада
+Shamanism	Шаманизм
+Shanghai	Шанхай
+Share (finance)	Акция (финансы)
+Shareware	Shareware
+Sharia	Шариат
+Shark	Акулы
+Sheffield	Шеффилд
+Sherlock Holmes	Шерлок Холмс
+Shetland	Шетлендские острова
+Shield	Щит
+Shikoku	Сикоку
+Shinto	Синтоизм
+Ship	Судно
+Shiva	Шива
+Shogi	Сёги
+Shogun	Сёгун
+Shorthand	Стенография
+Shrimp	Настоящие креветки
+Shrub	Кустарник
+Siberia	Сибирь
+Siberian Husky	Сибирский хаски
+Sichuan	Сычуань
+Sicily	Сицилия
+Sicily	Категория:Сицилия
+Siemens (unit)	Сименс (единица измерения)
+Sierra Leone	Сьерра-Леоне
+Sierra Leone	Категория:Сьерра-Леоне
+Sigma	Сигма (буква)
+Sigmund Freud	Фрейд, Зигмунд
+Sign language	Жестовые языки
+Sigrid Undset	Унсет, Сигрид
+Sikhism	Сикхизм
+Sikkim	Сикким
+Silesia	Силезия
+Silicon	Кремний
+Silicon Valley	Кремниевая долина
+Silicon dioxide	Диоксид кремния
+Silk	Шёлк
+Silk Road	Великий Шёлковый Путь
+Silurian	Силур
+Silver	Серебро
+Simone de Beauvoir	Де Бовуар, Симона
+Sin	Грех
+Sinai Peninsula	Синайский полуостров
+Sinclair Lewis	Льюис, Синклер
+Singapore	Сингапур
+Singapore	Категория:Сингапур
+Single (music)	Сингл
+Siren	Сирены (мифология)
+Sirenia	Сирены (млекопитающие)
+Sirius	Сириус
+Sistine Chapel	Сикстинская капелла
+Sisyphus	Сизиф
+Sitting Bull	Сидящий Бык
+Situation comedy	Ситуационная комедия
+Six-Day War	Шестидневная война (1967)
+Skagerrak	Скагеррак
+Skateboard	Скейтборд
+Skeletal system	Категория:Костная система
+Skepticism	Скептицизм
+Skin	Кожа
+Skinhead	Скинхеды
+Skopje	Скопье
+Skull	Череп
+Skylab	Скайлэб
+Skyscraper	Небоскрёб
+Slash (musician)	Слэш (музыкант)
+Slavery	Рабство
+Slayer	Slayer
+Sleep	Сон
+Slovakia	Словакия
+Slovakia	Категория:Словакия
+Slovenia	Словения
+Slovenia	Категория:Словения
+Small intestine	Тонкая кишка
+Smog	Смог
+Smolensk	Смоленск
+Snake	Змеи
+Snooker	Снукер
+Snow	Снег
+Soap	Мыло
+Social psychology	Социальная психология
+Socialism	Социализм
+Socialism	Категория:Социализм
+Socialist Party (France)	Социалистическая партия Франции
+Society	Категория:Общество
+Society	Общество
+Society of Jesus	Иезуиты
+Sociolinguistics	Социолингвистика
+Sociology	Социология
+Sociology	Категория:Социология
+Socrates	Сократ
+Sodium	Натрий
+Sodium bicarbonate	Гидрокарбонат натрия
+Sodium chloride	Хлорид натрия
+Sodium hydroxide	Гидроксид натрия
+Sofia	София
+Softball	Софтбол
+Software	Категория:Программное обеспечение
+Soil	Почва
+Solanaceae	Паслёновые
+Solanaceae	Категория:Паслёновые
+Solar System	Солнечная система
+Solar System	Категория:Солнечная система
+Solar cell	Фотоэлемент
+Solar eclipse	Солнечное затмение
+Solar energy	Солнечная энергетика
+Solar wind	Солнечный ветер
+Solid	Твёрдое тело
+Solid state	Твёрдое тело
+Solidarity	Солидарность (профсоюз)
+Solomon	Соломон
+Solomon Islands	Соломоновы Острова
+Solomon Islands	Категория:Соломоновы Острова
+Solon	Солон
+Solstice	Солнцестояние
+Solution	Раствор
+Solvent	Растворители
+Somalia	Сомали
+Somalia	Категория:Сомали
+Somerset	Сомерсет
+Somme	Сомма (департамент)
+Sonata	Соната (музыка)
+Song	Песня
+Song of Solomon	Песнь песней Соломона
+Sonnet	Сонет
+Sophia Loren	Софи Лорен
+Sophism	Софизм
+Sophocles	Софокл
+Soprano	Сопрано
+Sorbonne	Сорбонна
+Sorghum	Сорго
+Sorting algorithm	Алгоритм сортировки
+Soul	Душа
+Sound	Звук
+Soup	Суп
+Source code	Исходный код
+South	Юг
+South Africa	Категория:ЮАР
+South America	Южная Америка
+South America	Категория:Южная Америка
+South Australia	Южная Австралия
+South Carolina	Южная Каролина
+South Carolina	Категория:Южная Каролина
+South China Sea	Южно-Китайское море
+South Dakota	Южная Дакота
+South Dakota	Категория:Южная Дакота
+South Island	Южный остров (Новая Зеландия)
+South Korea	Республика Корея
+South Korea	Категория:Южная Корея
+South Pole	Южный полюс
+South Vietnam	Южный Вьетнам
+Southeast Asia	Юго-Восточная Азия
+Southern Hemisphere	Южное полушарие
+Sovereignty	Суверенитет
+Soviet Union	Союз Советских Социалистических Республик
+Soviet Union	Категория:СССР
+Soybean	Соя
+Space	Пространство
+Space Shuttle	Спейс Шаттл
+Space station	Орбитальная станция
+Spacecraft	Космический аппарат
+Spaghetti	Спагетти
+Spain	Испания
+Spain	Категория:Испания
+Spam (electronic)	Спам
+Spanish Civil War	Гражданская война в Испании
+Spanish people	Категория:Персоналии:Испания
+Spanish-American War	Испано-американская война
+Sparta	Спарта
+Spear	Копьё
+Special relativity	Специальная теория относительности
+Species	Биологический вид
+Spectroscopy	Спектроскопия
+Speed	Скорость
+Speed of light	Скорость света
+Speleology	Спелеология
+Spencer Tracy	Трейси, Спенсер
+Sperm Whale	Кашалот
+Spermatophyte	Семенные растения
+Spermatozoon	Сперматозоиды
+Sphere	Сфера
+Sphinx	Сфинкс
+Spice	Вкусовые добавки
+Spider	Пауки
+Spin (physics)	Спин
+Spinach	Шпинат
+Spinal cord	Спинной мозг
+Spiral galaxy	Спиральная галактика
+Spleen	Селезёнка
+Split	Сплит (город)
+Sponge	Губки
+Sport	Спорт
+Spreadsheet	Табличный процессор
+Spree	Шпре
+Spring (season)	Весна
+Springfield	Спрингфилд (Иллинойс)
+Spyware	Spyware
+Squamata	Чешуйчатые
+Square (geometry)	Квадрат
+Square metre	Квадратный метр
+Square root	Квадратный корень
+Squash (sport)	Сквош
+Squirrel	Белка
+Sri Lanka	Шри-Ланка
+Sri Lanka	Категория:Шри-Ланка
+St. Louis	Сент-Луис
+Stadium	Стадион
+Stained glass	Витраж
+Stainless steel	Нержавеющая сталь
+Stalinism	Сталинизм
+Standard Generalized Markup Language	SGML
+Standard deviation	Стандартное отклонение
+Stanford University	Стэнфордский университет
+Stanley Kubrick	Кубрик, Стэнли
+Star	Звезда
+Star of David	Звезда Давида
+Starch	Крахмал
+Starfish	Морские звёзды
+State	Государство
+Staten Island	Статен-Айленд
+Statistical mechanics	Статистическая физика
+Statistics	Статистика
+Statistics	Категория:Статистика
+Statue of Liberty	Статуя Свободы
+Stavanger	Ставангер
+Steam	Пар
+Steam engine	Паровая машина
+Steel	Сталь
+Stefan Zweig	Цвейг, Стефан
+Steffi Graf	Граф, Штеффи
+Stegosaurus	Стегозавр
+Stem cell	Стволовая клетка
+Stendhal	Стендаль
+Stephen Hawking	Хокинг, Стивен Уильям
+Steppe	Степь
+Steradian	Стерадиан
+Steroid	Стероиды
+Steven Spielberg	Спилберг, Стивен
+Sting	Стинг
+Stock exchange	Фондовая биржа
+Stockholm	Стокгольм
+Stoicism	Стоицизм
+Stomach	Желудок человека
+Stone Age	Каменный век
+Stonehenge	Стоунхендж
+Stork	Аистовые
+Storm	Буря
+Strait	Пролив
+Strait of Gibraltar	Гибралтарский пролив
+Strait of Hormuz	Ормузский пролив
+Strait of Magellan	Магелланов пролив
+Strait of Messina	Мессинский пролив
+Straits	Категория:Проливы
+Strasbourg	Страсбург
+Strategy	Стратегия
+Stratigraphy	Стратиграфия
+Stratosphere	Стратосфера
+Strawberry	Земляника
+Stress (medicine)	Стресс
+String theory	Теория струн
+Stroke	Инсульт
+Strong interaction	Сильное взаимодействие
+Strontium	Стронций
+Structuralism	Структурализм
+Stub	Шаблон:Заготовка
+Student	Студент
+Stupa	Ступа (архитектура)
+Sturmabteilung	СА
+Stuttgart	Штутгарт
+Styx	Стикс
+Sub-Saharan Africa	Африка южнее Сахары
+Subculture	Субкультура
+Sublimation (chemistry)	Возгонка
+Submarine	Подводная лодка
+Subset	Подмножество
+Subtraction	Вычитание
+Subversion (software)	Subversion
+Sucre	Сукре (город)
+Sucrose	Сахароза
+Sudan	Судан
+Sudan	Категория:Судан
+Sudoku	Судоку
+Suez Canal	Суэцкий канал
+Suffix	Суффикс (лингвистика)
+Sufism	Суфизм
+Sugar	Сахар
+Suharto	Сухарто, Мухаммед
+Sukarno	Сукарно, Ахмед
+Sulawesi	Сулавеси
+Sulfur	Сера
+Sulfur dioxide	Оксид серы(IV)
+Sulfur mustard	Иприт
+Sulfuric acid	Серная кислота
+Sultan	Султан
+Sumatra	Суматра
+Sumer	Шумер
+Summer	Лето
+Sumo	Сумо
+Sun	Солнце
+Sun	Категория:Солнце
+Sun Yat-sen	Сунь Ятсен
+Sunday	Воскресенье
+Sundial	Солнечные часы
+Sunflower	Подсолнух
+Sunni Islam	Сунниты
+Sunspot	Солнечные пятна
+Supercomputer	Суперкомпьютер
+Superconductivity	Сверхпроводимость
+Superman	Супермен
+Supernova	Сверхновая звезда
+Supreme Court of the United States	Верховный суд США
+Sura	Список сур Корана
+Surface tension	Поверхностное натяжение
+Surgeon	Хирургия
+Surgery	Хирургия
+Surgery	Категория:Хирургия
+Suriname	Суринам
+Suriname	Категория:Суринам
+Surrealism	Сюрреализм
+Surrey	Суррей (графство)
+Susan Sontag	Зонтаг, Сьюзен
+Sushi	Суши
+Suva	Сува
+Svalbard	Шпицберген
+Swallow	Ласточковые
+Swan	Лебеди
+Swastika	Свастика
+Swaziland	Свазиленд
+Swaziland	Категория:Свазиленд
+Sweden	Швеция
+Sweden	Категория:Швеция
+Swedish krona	Шведская крона
+Sweet potato	Батат
+Swimming	Плавание
+Swimming	Категория:Плавание
+Swiss franc	Швейцарский франк
+Swiss people	Категория:Персоналии:Швейцария
+Switzerland	Швейцария
+Switzerland	Категория:Швейцария
+Sword	Меч
+Sydney	Сидней
+Syllable	Слог
+Sylvia Plath	Плат, Сильвия
+Symbiosis	Симбиоз
+Symbol	Символ
+Symphony	Симфония
+Symptom	Симптом
+Synagogue	Синагога
+Syndicate	Синдикат
+Synesthesia	Синестезия
+Synonym	Синонимы
+Syntax	Синтаксис
+Synthesizer	Синтезатор (музыкальный инструмент)
+Syphilis	Сифилис
+Syracuse	Сиракуза
+Syria	Сирия
+Syria	Категория:Сирия
+System	Система
+Systematics	Систематика
+T	T (латиница)
+T. E. Lawrence	Лоуренс, Томас Эдвард
+T. S. Eliot	Элиот, Томас Стернз
+Table (furniture)	Стол
+Table tennis	Настольный теннис
+Taboo	Табу
+Tacitus	Публий Корнелий Тацит
+Taekwondo	Тхэквондо
+Tagus	Тахо (Тежу)
+Tahiti	Таити
+Tai chi chuan	Тайцзицюань
+Tail	Хвост
+Taipei	Тайбэй
+Taiwan	Категория:Тайвань
+Taiwan	Тайвань
+Taj Mahal	Тадж-Махал
+Tajikistan	Таджикистан
+Tajikistan	Категория:Таджикистан
+Talc	Тальк
+Taliban	Талибы
+Tallahassee	Таллахасси
+Tallinn	Таллин
+Talmud	Талмуд
+Tamil Nadu	Тамилнад
+Tampa	Тампа
+Tampere	Тампере
+Tanakh	Танах
+Tang Dynasty	Тан (династия)
+Tangier	Танжер
+Tango (dance)	Танго
+Tank	Танк
+Tantalum	Тантал (элемент)
+Tantalus	Тантал (мифология)
+Tanzania	Танзания
+Tanzania	Категория:Танзания
+Taoism	Даосизм
+Tapir	Тапиры
+Tardigrade	Тихоходки
+Tarn	Тарн
+Tarragon	Эстрагон
+Tartarus	Тартар
+Tartu	Тарту
+Tashkent	Ташкент
+Tasman Sea	Тасманово море
+Tasmania	Тасмания
+Tasmanian Devil	Тасманский дьявол
+Taste	Вкус
+Tattoo	Татуировка
+Tau	Тау (буква)
+Taurus (constellation)	Телец (созвездие)
+Tawny Owl	Обыкновенная неясыть
+Tax	Налог
+Taxation	Категория:Налогообложение
+Taxicab	Такси
+Taxon	Таксон
+Taxonomy	Таксономия
+Taxus baccata	Тис ягодный
+Tbilisi	Тбилиси
+Tea	Чай
+Tea	Категория:Чай
+Teacher	Учитель
+Technetium	Технеций
+Techno	Техно
+Technology	Технология
+Technology	Категория:Технология
+Tegucigalpa	Тегусигальпа
+Tehran	Тегеран
+Tel Aviv	Тель-Авив
+Telecommunication	Связь (техника)
+Telegraphy	Телеграф
+Telepathy	Телепатия
+Telephone	Телефон
+Telescope	Телескоп
+Telescopium	Телескоп (созвездие)
+Television	Телевидение
+Television	Категория:Телевидение
+Tellurium	Теллур
+Temperature	Температура
+Temple	Храм
+Temple of Artemis	Храм Артемиды Эфесской
+Ten Commandments	Десять заповедей
+Tenerife	Тенерифе
+Tennessee	Теннесси
+Tennessee	Категория:Теннесси
+Tennessee Williams	Теннесси Уильямс
+Tennis	Теннис
+Tennis	Категория:Теннис
+Tenor	Тенор
+Tenzing Norgay	Тэнцинг Норгэй
+Tequila	Текила
+Terbium	Тербий
+Termite	Термиты
+Terpsichore	Терпсихора
+Terrestrial planet	Планеты земной группы
+Terrorism	Терроризм
+Terrorism	Категория:Терроризм
+Tertullian	Квинт Септимий Флоренс Тертуллиан
+Tesla (unit)	Тесла (единица измерения)
+Testicle	Яички
+Testosterone	Тестостерон
+Tetanus	Столбняк
+Tethys (moon)	Тефия (спутник)
+Tethys (mythology)	Тефида
+Tetrahedron	Правильный тетраэдр
+Tetrahydrocannabinol	Тетрагидроканнабинол
+Tetrapod	Четвероногие
+Texas	Техас
+Texas	Категория:Техас
+Textile	Текстиль
+Thailand	Таиланд
+Thailand	Категория:Таиланд
+Thales	Фалес Милетский
+Thalia	Талия (муза)
+Thallium	Таллий
+Thanatos	Танатос
+Thanksgiving	День благодарения
+Thanksgiving (United States)	день благодарения
+The Gambia	Гамбия
+The Gambia	Категория:Гамбия
+The Hague	Гаага
+The Star-Spangled Banner	Гимн США
+Theatre	Театр
+Theatre	Категория:Театр
+Thebe (moon)	Теба (спутник)
+Thebes	Фивы (Греция)
+Thebes	Фивы (Египет)
+Theia	Тейя
+Themis	Фемида
+Themistocles	Фемистокл
+Theocracy	Теократия
+Theodolite	Теодолит
+Theodor Mommsen	Моммзен, Теодор
+Theodore Roosevelt	Рузвельт, Теодор
+Theodosius I	Феодосий I Великий
+Theology	Богословие
+Theology	Категория:Богословие
+Theorem	Теорема
+Theory	Теория
+Theory of relativity	Теория относительности
+Theravada	Тхеравада
+Thermodynamics	Термодинамика
+Thermodynamics	Категория:Термодинамика
+Thermometer	Термометр
+Theseus	Тесей
+Thessaloniki	Салоники
+Thessaly	Фессалия
+Theta	Тета (буква)
+Thetis	Фетида
+Thiamine	Тиамин
+Third Crusade	Третий крестовый поход
+Third World	Третий мир
+Thirty Years' War	Тридцатилетняя война
+Thomas Aquinas	Фома Аквинский
+Thomas Edison	Эдисон, Томас Алва
+Thomas Hardy	Харди, Томас
+Thomas Hobbes	Гоббс, Томас
+Thomas Jefferson	Джефферсон, Томас
+Thomas Malthus	Мальтус, Томас Роберт
+Thomas Mann	Манн, Томас
+Thomas More	Мор, Томас
+Thomas Paine	Пейн, Томас
+Thomas Young (scientist)	Юнг, Томас
+Thor	Тор (мифология)
+Thorium	Торий
+Thoth	Тот
+Thought	Мышление (психология)
+Thrace	Фракия
+Thucydides	Фукидид
+Thulium	Тулий
+Thumb	Большой палец
+Thuringia	Тюрингия
+Thuringia	Категория:Тюрингия
+Thursday	Четверг
+Thylacine	Сумчатый волк
+Thyme	Тимьян
+Thymine	Тимин
+Thyroid	Щитовидная железа
+Tianjin	Тяньцзинь
+Tiber	Тибр
+Tiberius	Тиберий
+Tibet	Тибет
+Tibet	Категория:Тибет
+Ticino	Тичино
+Tide	Прилив
+Tierra del Fuego	Огненная Земля
+Tiger	Тигр
+Tigris	Тигр (река)
+Tilia	Липа
+Timbuktu	Тимбукту
+Time	Время
+Time	Категория:Время
+Time (magazine)	Time (журнал)
+Time zone	Часовой пояс
+Timor	Тимор
+Timur	Тамерлан
+Tin	Олово
+Tirana	Тирана
+Tissue (biology)	Ткань (биология)
+Tit (bird)	Синицевые
+Titan (disambiguation)	Титан
+Titan (moon)	Титан (спутник)
+Titan (mythology)	Титаны
+Titania (moon)	Титания (спутник)
+Titanic (disambiguation)	Титаник (значения)
+Titanium	Титан (элемент)
+Titian	Тициан
+Titus	Тит Флавий Веспасиан
+Tivoli	Тиволи
+Tobacco	Табак
+Tocantins (state)	Токантинс
+Tocopherol	Витамин E
+Tofu	Тофу
+Togo	Того
+Togo	Категория:Того
+Tokyo	Токио
+Toledo	Толедо
+Toluene	Толуол
+Tom Hanks	Хэнкс, Томас Джеффри
+Tom and Jerry	Том и Джерри (мультфильм)
+Tomato	Томат
+Ton	Тонна
+Tonga	Тонга
+Tonga	Категория:Тонга
+Tongue	Язык (анатомия)
+Toni Morrison	Моррисон, Тони
+Tonne	Тонна
+Tony Blair	Блэр, Энтони Чарлз Линтон
+Tool	Инструмент
+Tooth	Зуб
+Toothbrush	Зубная щётка
+Topaz	Топаз
+Topeka	Топика (Канзас)
+Topology	Топология
+Topology	Категория:Топология
+Torah	Тора
+Tornado	Смерч
+Toronto	Торонто
+Torpedo	Торпеда
+Torque	Момент силы
+Tortoise	Сухопутные черепахи
+Torture	Пытка
+Torus	Тор (поверхность)
+Totalitarianism	Тоталитаризм
+Toulon	Тулон
+Toulouse	Тулуза
+Tour de France	Тур-де-Франс
+Tourism	Туризм
+Tourism	Категория:Туризм
+Tours	Тур (город)
+Tower	Башня
+Tower of Babel	Вавилонская башня
+Tower of London	Тауэр
+Town	Город
+Toxicity	Токсичность
+Toxicology	Токсикология
+Toy	Игрушка
+Toyota	Toyota Motor Corporation
+Tractor	Трактор
+Trade	Торговля
+Trade union	Профессиональные союзы
+Trademark	Торговая марка
+Tradition	Традиция
+Tragedy	Трагедия
+Train	Поезд
+Train station	Железнодорожная станция
+Trajan	Траян
+Tram	Трамвай
+Transcendental number	Трансцендентное число
+Transformer	Трансформатор
+Transistor	Транзистор
+Transliteration	Транслитерация
+Transmission Control Protocol	TCP
+Transportation	Категория:Транспорт
+Transsexualism	Транссексуальность
+Transylvania	Трансильвания
+Trapezoid	Трапеция
+Treaty	Конвенция
+Treaty of Versailles	Версальский мирный договор 1919
+Tree	Дерево
+Trento	Тренто
+Trenton	Трентон (Нью-Джерси)
+Triangle	Треугольник
+Triangulum	Треугольник (созвездие)
+Triangulum Australe	Южный Треугольник (созвездие)
+Triassic	Триасовый период
+Tributary	Приток
+Triceratops	Трицератопс
+Trier	Трир
+Trigonometric function	Тригонометрические функции
+Trigonometry	Тригонометрия
+Trigonometry	Категория:Тригонометрия
+Trilobite	Трилобиты
+Trilogy	Трилогия
+Trinidad	Тринидад (остров)
+Trinidad and Tobago	Тринидад и Тобаго
+Trinidad and Tobago	Категория:Тринидад и Тобаго
+Trinitrotoluene	Тринитротолуол
+Trinity	Троица
+Tripoli	Триполи
+Triskelion	Трискелион
+Tritium	Тритий
+Triton (moon)	Тритон (спутник)
+Triton (mythology)	Тритон (мифология)
+Triumphal arch	Триумфальная арка
+Trojan Horse	Троянский конь
+Trojan War	Троянская война
+Trojan horse (computing)	Троянские программы
+Troll	Тролль
+Troll (Internet)	Троллинг
+Trolleybus	Троллейбус
+Trombone	Тромбон
+Trondheim	Тронхейм
+Tropic of Capricorn	Тропик Козерога
+Tropics	Тропики
+Troposphere	Тропосфера
+Trotskyism	Троцкизм
+Troy	Троя
+Truck	Грузовой автомобиль
+Truman Doctrine	Доктрина Трумэна
+Trumpet	Труба
+Truth	Истина
+Trygve Lie	Ли, Трюгве Хальвдан
+Tryptophan	Триптофан
+Tsar	Царь
+Tsunami	Цунами
+Tuareg	Туареги
+Tuba	Туба
+Tuber (genus)	Трюфель
+Tuberculosis	Туберкулёз
+Tucana	Тукан (созвездие)
+Tucson	Тусон
+Tuesday	Вторник
+Tulip	Тюльпан
+Tumor	Опухоль
+Tundra	Тундра
+Tungsten	Вольфрам
+Tunicate	Оболочники
+Tunis	Тунис (город)
+Tunisia	Тунис
+Tunisia	Категория:Тунис
+Tunnel	Тоннель
+Turbine	Турбина
+Turin	Турин
+Turing machine	Машина Тьюринга
+Turkey	Турция
+Turkey	Категория:Турция
+Turkmenistan	Туркмения
+Turkmenistan	Категория:Туркмения
+Turtle	Черепахи
+Tuscany	Тоскана
+Tuvalu	Тувалу
+Tuvalu	Категория:Тувалу
+Tux	Tux
+Tycho Brahe	Браге, Тихо
+Typewriter	Пишущая машинка
+Typhon	Тифон
+Typography	Типографика
+Typography	Категория:Типографика
+Tyrannosaurus	Тираннозавр
+Tyre	Тир (город)
+Tyrol (state)	Тироль (земля)
+Tyrrhenian Sea	Тирренское море
+U	U (латиница)
+UNESCO	Организация Объединённых Наций по вопросам образования, науки и культуры
+Ufa	Уфа
+Uganda	Уганда
+Uganda	Категория:Уганда
+Ukraine	Украина
+Ukraine	Категория:Украина
+Ulan Bator	Улан-Батор
+Ulster	Ольстер
+Ultrasound	Ультразвук
+Ultraviolet	Ультрафиолетовое излучение
+Ulysses S. Grant	Грант, Улисс
+Umbrella	Зонт
+Umbria	Умбрия
+Uncertainty principle	Принцип неопределённости Гейзенберга
+Unemployment	Безработица
+Unicorn	Единорог
+Unidentified flying object	Неопознанный летающий объект
+Uniform Resource Locator	URL
+Union (set theory)	Объединение множеств
+United Arab Emirates	Объединённые Арабские Эмираты
+United Arab Emirates	Категория:Объединённые Арабские Эмираты
+United Arab Republic	Объединённая Арабская Республика
+United Kingdom	Великобритания
+United Kingdom	Категория:Великобритания
+United Nations	Организация Объединённых Наций
+United Nations	Категория:ООН
+United Nations Children's Fund	Детский фонд ООН
+United States	Соединённые Штаты Америки
+United States	Категория:США
+United States Air Force	Военно-воздушные силы США
+United States Congress	Конгресс США
+United States Constitution	Конституция США
+United States House of Representatives	Палата представителей США
+United States Military Academy	Военная академия США
+United States Navy	Военно-морские силы США
+United States Senate	Сенат США
+United States Virgin Islands	Американские Виргинские острова
+United States dollar	Доллар США
+Universe	Вселенная
+University	Университет
+University of Chicago	Чикагский университет
+University of Pennsylvania	Пенсильванский университет
+Unix	UNIX
+Unix	Категория:UNIX
+Ununbium	Унунбий
+Ununhexium	Унунгексий
+Ununpentium	Унунпентий
+Ununquadium	Унунквадий
+Ununtrium	Унунтрий
+Upanishad	Упанишады
+Uppsala	Уппсала
+Upsilon	Ипсилон (буква)
+Ur	Ур
+Uracil	Урацил
+Ural Mountains	Уральские горы
+Urania	Урания (муза)
+Uranium	Уран (элемент)
+Uranus	Уран (планета)
+Uranus	Категория:Уран
+Uranus (mythology)	Уран (мифология)
+Urdu	Урду
+Urea	Мочевина
+Urine	Моча
+Ursa Major	Большая Медведица (созвездие)
+Ursa Minor	Малая Медведица (созвездие)
+Uruguay	Уругвай
+Uruguay	Категория:Уругвай
+Utah	Юта
+Utah	Категория:Юта
+Uterus	Матка женщины
+Utilitarianism	Утилитаризм
+Utopia	Утопия
+Utrecht (city)	Утрехт
+Utrecht (province)	Утрехт (провинция)
+Uttar Pradesh	Уттар-Прадеш
+Uzbekistan	Узбекистан
+Uzbekistan	Категория:Узбекистан
+V	V (латиница)
+Vaccine	Вакцина
+Vacuole	Вакуоль
+Vacuum	Вакуум
+Vacuum tube	Электронная лампа
+Vaduz	Вадуц
+Vagina	Влагалище женщины
+Valence	Валанс
+Valence (chemistry)	Валентность
+Valencia	Валенсия (город)
+Valencia	Валенсия
+Valentina Tereshkova	Терешкова, Валентина Владимировна
+Valentine's Day	День Святого Валентина
+Valhalla	Вальхалла
+Valkyrie	Валькирия
+Valletta	Валлетта
+Valley	Долина
+Vampire	Вампир
+Vanadium	Ванадий
+Vancouver	Ванкувер
+Vancouver Island	Ванкувер (остров)
+Vandalism	Вандализм
+Vanir	Ваны
+Vanuatu	Вануату
+Vanuatu	Категория:Вануату
+Var (department)	Вар (департамент)
+Variance	Дисперсия случайной величины
+Varna	Варна
+Vascular plant	Сосудистые растения
+Vatican City	Ватикан
+Vatican City	Категория:Ватикан
+Vector (spatial)	Вектор (геометрия)
+Vega	Вега
+Vegetable	Овощи
+Vegetarianism	Вегетарианство
+Vein	Вена (анатомия)
+Vela (constellation)	Паруса (созвездие)
+Velociraptor	Велоцираптор
+Velocity	Скорость
+Veneto	Венето
+Venezuela	Венесуэла
+Venezuela	Категория:Венесуэла
+Venice	Венеция
+Venus	Венера (планета)
+Venus (disambiguation)	Венера
+Venus (mythology)	Венера (мифология)
+Verb	Глагол
+Vermont	Вермонт
+Vermont	Категория:Вермонт
+Verona	Верона
+Versailles	Версаль
+Vertebra	Позвоночник человека
+Vertebral column	Позвоночник
+Vertebrate	Позвоночные
+Vespasian	Веспасиан
+Vesta (mythology)	Веста (мифология)
+Veto	Вето
+Vice President of the United States	Вице-президент США
+Vichy	Виши
+Victor Hugo	Гюго, Виктор Мари
+Victoria	Виктория (Сейшельские острова)
+Victoria	Виктория (Британская Колумбия)
+Victoria	Виктория
+Victoria (Australia)	Виктория (Австралия)
+Victoria Falls	Водопад Виктория
+Video	Видео
+Video game	Компьютерная игра
+Vienna	Вена
+Vienna	Категория:Вена
+Vienne	Вьенна (департамент)
+Vientiane	Вьентьян
+Vietnam	Вьетнам
+Vietnam	Категория:Вьетнам
+Vietnam War	Война во Вьетнаме
+Vietnam War	Категория:Война во Вьетнаме
+Viking	Викинги
+Vilfredo Pareto	Парето, Вильфредо
+Village	Деревня
+Vilnius	Вильнюс
+Vincent van Gogh	Гог, Винсент ван
+Vincenzo Bellini	Беллини, Винченцо
+Vinegar	Уксус
+Viola	Альт
+Violence	Насилие
+Violin	Скрипка
+Virgil	Вергилий
+Virgin Islands	Виргинские острова
+Virginia	Вирджиния
+Virginia	Категория:Вирджиния
+Virginia Woolf	Вулф, Вирджиния
+Virginity	Девственность
+Virgo (constellation)	Дева (созвездие)
+Virtual memory	Виртуальная память
+Virtual reality	Виртуальная реальность
+Virtue	Добродетель
+Virus	Вирусы
+Viscosity	Вязкость
+Vishnu	Вишну
+Vistula	Висла
+Vitamin	Витамины
+Vitamin A	Ретинол
+Vitamin B6	Витамин B6
+Vitamin C	Аскорбиновая кислота (лекарственное средство)
+Vitamin D	Витамин D
+Vitamin K	Витамин K
+Vittorio De Sica	Витторио де Сика
+Vitus Bering	Беринг, Витус
+Vivien Leigh	Ли, Вивьен
+Vladimir Lenin	Ленин, Владимир Ильич
+Vladimir Nabokov	Набоков, Владимир Владимирович
+Vladimir Putin	Путин, Владимир Владимирович
+Vladivostok	Владивосток
+Vocative case	Звательный падеж
+Vodka	Водка
+Volans	Летучая Рыба (созвездие)
+Volcano	Вулкан (геология)
+Volcanology	Вулканология
+Volga River	Волга
+Volgograd	Волгоград
+Volleyball	Волейбол
+Volleyball	Категория:Волейбол
+Volt	Вольт
+Voltage	Электрическое напряжение
+Voltaire	Вольтер
+Volume	Объём
+Vomiting	Рвота
+Voodoo	Вуду
+Vowel	Гласный звук
+Vulcan (mythology)	Вулкан (мифология)
+Vulgar Latin	Народная латынь
+Vulgate	Вульгата
+Vulpecula	Лисичка (созвездие)
+Vulva	Вульва
+W	W (латиница)
+W. Somerset Maugham	Моэм, Уильям Сомерсет
+WYSIWYG	WYSIWYG
+Wahhabism	Ваххабизм
+Wake Island	Уэйк
+Wales	Уэльс
+Wales	Категория:Уэльс
+Walnut	Грецкий орех
+Walrus	Морж
+Walt Disney	Дисней, Уолтер Элайас
+Walt Whitman	Уитмен, Уолт
+Walter Gropius	Гропиус, Вальтер
+Walter Scott	Скотт, Вальтер
+War	Война
+War	Категория:Война
+War crime	Военное преступление
+War of the Spanish Succession	Война за испанское наследство
+Wars of the Roses	Войны Алой и Белой розы
+Warsaw	Варшава
+Wart	Бородавки
+Washing machine	Стиральная машина
+Washington	Вашингтон (округ Колумбия)
+Washington	Вашингтон (штат)
+Washington	Категория:Вашингтон (штат)
+Washington (disambiguation)	Вашингтон
+Wassily Kandinsky	Кандинский, Василий Васильевич
+Waste	Мусор
+Water	Вода
+Water	Категория:Вода
+Water polo	Водное поло
+Waterfall	Водопад
+Watergate scandal	Уотергейтский скандал
+Watermelon	Арбуз обыкновенный
+Watt	Ватт
+Watt-hour	Киловатт-час
+Wave	Волна
+Wavelength	Длина волны
+Wax	Воск
+Weak interaction	Слабое взаимодействие
+Weapon	Оружие
+Weather	Погода
+Web browser	Браузер
+Web page	Веб-страница
+Webcam	Веб-камера
+Weber (unit)	Вебер (единица измерения)
+Website	Веб-сайт
+Wednesday	Среда
+Week	Неделя
+Weight	Вес
+Weightlifting	Тяжёлая атлетика
+Weimar	Веймар
+Weimar Republic	Веймарская Республика
+Welding	Сварка
+Wellington	Веллингтон
+Werewolf	Оборотни
+Wernher von Braun	Браун, Вернер фон
+Weser River	Везер
+West	Запад
+West Africa	Западная Африка
+West Bank	Западный берег реки Иордан
+West Bengal	Западная Бенгалия
+West Berlin	Западный Берлин
+West Germany	Федеративная Республика Германии (до 1990)
+West Sussex	Западный Сассекс
+West Virginia	Западная Вирджиния
+West Virginia	Категория:Западная Вирджиния
+Western Australia	Западная Австралия
+Western Roman Empire	Римская империя
+Western Sahara	Западная Сахара
+Western Sahara	Категория:Западная Сахара
+Westminster Abbey	Вестминстерское аббатство
+Whale	Кит
+Wheat	Пшеница
+Wheel	Колесо
+Whisky	Виски
+White House	Белый дом
+White Sea	Белое море
+White blood cell	Лейкоциты
+White dwarf	Белый карлик
+Whitehorse	Уайтхорс
+Wicca	Викка
+Wide area network	Глобальная вычислительная сеть
+Wiesbaden	Висбаден
+Wildcat	Лесная кошка
+Wilhelm Ostwald	Оствальд, Вильгельм Фридрих
+Will (law)	Завещание
+William Blake	Блейк, Уильям
+William Butler Yeats	Йейтс, Уильям Батлер
+William Faulkner	Фолкнер, Уильям
+William Gladstone	Гладстон, Вильям Эварт
+William Golding	Голдинг, Уильям Джералд
+William Harvey	Гарвей, Уильям
+William Henry Harrison	Гаррисон, Уильям Генри
+William Herschel	Гершель, Уильям
+William Howard Taft	Тафт, Уильям
+William I	Вильгельм I (германский император)
+William II	Вильгельм II (германский император)
+William James	Джемс, Уильям
+William McKinley	Мак-Кинли, Уильям
+William Rowan Hamilton	Гамильтон, Уильям Роуан
+William Shakespeare	Шекспир, Уильям
+William Shockley	Шокли, Уильям Брэдфорд
+William Wordsworth	Вордсворт, Уильям
+William of Ockham	Уильям Оккам
+Willow	Ива
+Willy Brandt	Вилли Брандт
+Wind instrument	Духовые музыкальные инструменты
+Wind power	Ветроэнергетика
+Windhoek	Виндхук
+Windmill	Ветряная мельница
+Window	Окно
+Wine	Вино
+Wine	Категория:Вина
+Winnipeg	Виннипег
+Winston Churchill	Черчилль, Уинстон
+Winter	Зима
+Winter Olympic Games	Зимние Олимпийские игры
+Winter Olympic Games	Категория:Зимние Олимпийские игры
+Wisconsin	Висконсин
+Wisconsin	Категория:Висконсин
+Wolfgang Amadeus Mozart	Моцарт, Вольфганг Амадей
+Wolfgang Pauli	Паули, Вольфганг
+Woman	Женщина
+Wood	Древесина
+Woodrow Wilson	Вильсон, Томас Вудро
+Woodwind instrument	Деревянные духовые музыкальные инструменты
+Woody Allen	Вуди Аллен
+Worcestershire	Вустершир
+Word	Слово (лингвистика)
+Word processor	Текстовый процессор
+World Bank	Всемирный банк
+World Health Organization	Всемирная организация здравоохранения
+World Meteorological Organization	Всемирная метеорологическая организация
+World Trade Center	Всемирный торговый центр (Нью-Йорк)
+World Trade Organization	Всемирная торговая организация
+World War I	Первая мировая война
+World War I	Категория:Первая мировая война
+World War II	Вторая мировая война
+World War II	Категория:Вторая мировая война
+World Wide Web	Всемирная паутина
+World Wide Web	Категория:Всемирная паутина
+World war	Мировая война
+Worm	Черви (животные)
+Wormhole	Кротовина
+Writing system	Письменность
+Wuhan	Ухань
+Wyoming	Вайоминг
+Wyoming	Категория:Вайоминг
+X	X (латиница)
+X-ray	Рентгеновское излучение
+Xenarthra	Неполнозубые
+Xenon	Ксенон
+Xenophanes	Ксенофан
+Xenophobia	Ксенофобия
+Xenophon	Ксенофонт
+Xi	Кси (буква)
+Xinjiang	Синьцзян-Уйгурский автономный район
+Xylophone	Ксилофон
+Y	Y (латиница)
+Yahweh	Тетраграмматон
+Yak	Як
+Yakuza	Якудза
+Yale University	Йельский университет
+Yalta	Ялта
+Yalta Conference	Ялтинская конференция
+Yangon	Рангун
+Yangtze River	Янцзы
+Yard	Ярд
+Yasser Arafat	Ясир Арафат
+Year	Год
+Years	Категория:Годы
+Yeast	Дрожжи
+Yellow	Жёлтый цвет
+Yellow River	Хуанхэ
+Yellow Sea	Жёлтое море
+Yellowstone National Park	Йеллоустоун (национальный парк)
+Yemen	Йемен
+Yemen	Категория:Йемен
+Yenisei River	Енисей
+Yerevan	Ереван
+Yeti	Снежный человек
+Yggdrasil	Иггдрасиль
+Yo-yo	Йо-йо
+Yoga	Йога
+Yoghurt	Йогурт
+Yoko Ono	Оно, Йоко
+Yokohama	Иокогама
+Yom Kippur	Йом-Кипур
+Yom Kippur War	Война Судного дня
+York	Йорк
+Yosemite National Park	Йосемити (национальный парк)
+Young's modulus	Модуль Юнга
+Ytterbium	Иттербий
+Yttrium	Иттрий
+Yuan Dynasty	Юань (династия)
+Yugoslavia	Югославия
+Yugoslavia	Категория:Югославия
+Yukon	Территория Юкон
+Yunnan	Юньнань
+Yuri Gagarin	Гагарин, Юрий Алексеевич
+Z	Z (латиница)
+Zachary Taylor	Тейлор, Закари
+Zagreb	Загреб
+Zambezi	Замбези
+Zambia	Замбия
+Zambia	Категория:Замбия
+Zanzibar	Занзибар
+Zaragoza	Сарагоса
+Zealand	Зеландия (остров)
+Zebra	Зебра
+Zen	Дзэн
+Zenith	Небесная сфера#.D0.97.D0.B5.D0.BD.D0.B8.D1.82 .D0.B8 .D0.BD.D0.B0.D0.B4.D0.B8.D1.80
+Zeno (emperor)	Флавий Зенон
+Zeno of Citium	Зенон Китийский
+Zeno of Elea	Зенон Элейский
+Zeta	Дзета (буква)
+Zeus	Зевс
+Zeus (disambiguation)	Зевс
+Ziggurat	Зиккурат
+Zimbabwe	Зимбабве
+Zimbabwe	Категория:Зимбабве
+Zinc	Цинк
+Zionism	Сионизм
+Zirconium	Цирконий
+Zodiac	Зодиакальные созвездия
+Zombie	Зомби
+Zoo	Зоологический парк
+Zoology	Зоология
+Zoology	Категория:Зоология
+Zoroaster	Заратустра
+Zoroastrianism	Зороастризм
+Zulu	Зулусы
