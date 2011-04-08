@@ -5,9 +5,12 @@ gem 'rails', '3.0.4'
 # Bundle edge Rails instead:
 # gem 'rails', :git => 'git://github.com/rails/rails.git'
 
+gem 'haml-rails'
 gem 'sqlite3'
 gem 'rspec-rails'
 gem 'shoulda'
+gem 'jquery-rails'
+gem 'will_paginate', "~> 3.0.pre2"
 
 # Use unicorn as the web server
 # gem 'unicorn'

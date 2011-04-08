@@ -1,0 +1,12 @@
+%h1 Words!
+
+%table
+  %tr
+    %th English
+    %th Italian
+  - @words.each do |word|
+    %tr
+      %td= word.title
+      %td= word.translations.collect { |trans| trans.title }.join('; ')
+
+%div= will_paginate @words

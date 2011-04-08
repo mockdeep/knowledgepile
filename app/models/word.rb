@@ -1,4 +1,8 @@
 class Word < ActiveRecord::Base
+
+  cattr_reader :per_page
+  @@per_page = 100
+
   has_many :pairings, :dependent => :destroy
   has_many :translations, :through => :pairings, :class_name => 'Word'
   has_many :categorizations
