@@ -1,8 +1,3 @@
-# English-Russian dictionary created from Wikipedia database
-# Created on: 2011-04-05T22:50:10+02:00
-# Licence: GNU Free Documentation Licence http://www.gnu.org/copyleft/fdl.html
-# Download updated version of this file at: http://www.dicts.info/uddl.php
-# Contact us at: http://www.dicts.info/contact.php
 0 (number)	0 (число)
 1	1 год
 1 (number)	1 (число)
@@ -1290,7 +1285,7 @@ Bubonic plague	Чума
 Bucharest	Бухарест
 Buckingham Palace	Букингемский дворец
 Buckminster Fuller	Фуллер, Ричард Бакминстер
-Buckwheat	Гречиха#.D0.93.D1.80.D0.B5.D1.87.D0.B8.D1.85.D0.B0 .D0.BE.D0.B1.D1.8B.D0.BA.D0.BD.D0.BE.D0.B2.D0.B5.D0.BD.D0.BD.D0.B0.D1.8F
+Buckwheat	Гречиха
 Budapest	Будапешт
 Buddha	Будда
 Buddhism	Буддизм
@@ -4864,7 +4859,7 @@ NASDAQ	NASDAQ
 NATO	Организация Североатлантического договора
 NATO	Категория:НАТО
 Nadine Gordimer	Гордимер, Надин
-Nadir	Небесная сфера#.D0.97.D0.B5.D0.BD.D0.B8.D1.82 .D0.B8 .D0.BD.D0.B0.D0.B4.D0.B8.D1.80
+Nadir	Небесная сфера
 Nagasaki	Нагасаки
 Nagoya	Нагоя
 Nahuatl	Астекские языки
@@ -7383,7 +7378,7 @@ Zaragoza	Сарагоса
 Zealand	Зеландия (остров)
 Zebra	Зебра
 Zen	Дзэн
-Zenith	Небесная сфера#.D0.97.D0.B5.D0.BD.D0.B8.D1.82 .D0.B8 .D0.BD.D0.B0.D0.B4.D0.B8.D1.80
+Zenith	Небесная сфера
 Zeno (emperor)	Флавий Зенон
 Zeno of Citium	Зенон Китийский
 Zeno of Elea	Зенон Элейский
