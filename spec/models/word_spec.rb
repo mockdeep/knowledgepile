@@ -62,5 +62,10 @@ describe Word do
     Pairing.count.should == 2
     @word2.destroy
     Pairing.count.should == 0
+    word3 = Word.new(:title => 'nganda', :language => 'Spanish')
+    @word.translations << word3
+    Pairing.count.should == 2
+    @word.destroy
+    Pairing.count.should == 0
   end
 end

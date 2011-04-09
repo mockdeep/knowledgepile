@@ -20,9 +20,11 @@ private
   end
 
   def destroy_mirror
-    mirrors = Pairing.where(:word_id => translation.id, :translation_id => word.id)
-    mirrors.each do |mirror|
-      mirror.destroy
+    if translation && word
+      mirrors = Pairing.where(:word_id => translation.id, :translation_id => word.id)
+      mirrors.each do |mirror|
+        mirror.destroy
+      end
     end
   end
 end
