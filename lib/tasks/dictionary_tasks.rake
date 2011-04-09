@@ -8,4 +8,13 @@ namespace :dict do
     parser.parse_dictionary('dictionaries/english-italian-2011-03-31.txt')
     parser.parse_dictionary('dictionaries/eng-ital-proper.txt')
   end
+
+  task :rm_orphans => :environment do
+    Pairing.find_each do |pairing|
+      if pairing.word.nil? || pairing.translation.nil?
+        puts "destroying pairing #{pairing.id}"
+        pairing.destroy
+      end
+    end
+  end
 end
