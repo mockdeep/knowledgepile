@@ -1,6 +1,6 @@
 namespace :dictionary do
 
-  describe 'imports a text dictionary, splitting on tabs for languages, semicolons for alternatives'
+  desc 'imports a text dictionary, splitting on tabs for languages, semicolons for alternatives'
   task :import_italian => :environment do
     parser = DictionaryParser.new('English', 'italiano')
     parser.parse_dictionary('dictionaries/eng-ital.txt')
