@@ -87,4 +87,24 @@ namespace :dict do
       end
     end
   end
+
+  task :rank_words => :environment do
+    file = File.open('dictionaries/en-top-words.txt')
+    strings1 = file.read.split("[[")
+    missed_count = 0
+    strings1.each_with_index do |string, index|
+      strings2 = string.split("]]")
+      next unless strings2.length > 1
+      words = Word.find_all_no_case(strings2.first)
+      if words.empty?
+        word = Word.new(:title => strings2.first, :language => 'English')
+      else
+        word = words.first
+      end
+      word.rank = index
+      word.save
+      puts "#{word.rank}. #{word}"
+    end
+    puts "missed_count: #{missed_count}"
+  end
 end

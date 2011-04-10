@@ -1,6 +1,6 @@
 class WordsController < ApplicationController
   def index
-    @words = Word.language('English').paginate(:page => params[:page])
+    @words = Word.language('English').ranked.paginate(:page => params[:page])
   end
 
   def new

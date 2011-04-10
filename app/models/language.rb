@@ -3,4 +3,8 @@ class Language < ActiveRecord::Base
 
   validates_presence_of :title
   validates_uniqueness_of :title
+
+  def to_s
+    title
+  end
 end

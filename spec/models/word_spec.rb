@@ -8,6 +8,7 @@ describe Word do
     @word = Word.new(:title => 'House', :language => 'English')
     @word2 = Word.new(:title => 'Casa', :language => 'Spanish')
     @word.save
+    @word2.save
   end
 
   it 'should associate' do
@@ -22,6 +23,21 @@ describe Word do
   it 'should validate' do
     should validate_presence_of :formal_language
     should validate_presence_of :title
+  end
+
+  it 'should validate uniqueness of rank' do
+    # shoulda won't work here since we allow nil
+    @word.rank = 1
+    @word.save.should be_true # English
+    @word2.rank = 1
+    @word2.save.should be_true # Spanish
+    word3 = Word.new(:title => 'blah', :language => 'English')
+    word3.rank = 1
+    word3.save.should be_false
+    word3.rank = nil
+    word3.save.should be_true
+    @word.rank = nil
+    @word.save.should be_true
   end
 
   it 'should associate with a language object' do
@@ -50,6 +66,30 @@ describe Word do
     Word.find_all_no_case('houSe').should == [@word]
   end
 
+  it 'should have a scope on ranking' do
+    @word.rank = 1
+    @word.save
+    @word2.rank = 0
+    @word2.save
+    word3 = Word.new(:title => 'blah', :language => 'English')
+    word3.save
+    Word.ranked.should == [@word2, @word]
+  end
+
+  it 'should have a scope on orphaned words' do
+    Word.orphaned.include?(@word).should be_true
+    Word.orphaned.include?(@word2).should be_true
+    Word.orphaned.length.should == 2
+    Word.not_orphaned.length.should == 0
+
+    word = Word.new(:title => 'blah', :language => 'English')
+    word.translations << @word2
+    word.save
+    Word.orphaned.include?(@word2).should be_false
+    Word.orphaned.length.should == 1
+    Word.not_orphaned.length.should == 2
+  end
+
   it 'should translate to another language' do
     @word.translations << @word2
     Language.new(:title => 'French').save
@@ -67,5 +107,9 @@ describe Word do
     Pairing.count.should == 2
     @word.destroy
     Pairing.count.should == 0
+  end
+
+  it 'should have a clean output for printing' do
+    "#{@word}".should == "House"
   end
 end

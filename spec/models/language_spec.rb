@@ -18,4 +18,7 @@ describe Language do
     should validate_uniqueness_of :title
   end
 
+  it 'should have a pretty printing output' do
+    "#{@language}".should == 'English'
+  end
 end
