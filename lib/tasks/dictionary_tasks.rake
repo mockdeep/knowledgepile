@@ -19,7 +19,7 @@ namespace :dict do
   end
 
   task :bad_punct => :environment do
-    match_string = '^[:alnum:] \'åöùà()ì,.ŵāéôčüõèÄò/Åä?š!:şíçºАžÀČÁěŠëṇ×ḤōúáūîćðŌň#ßṢṃăś&ṣ"ī'
+    match_string = '^[:alnum:]'
     Word.find_each do |word|
       mtch = word.title.match(Regexp.new("[#{match_string}-]"))
       if mtch
@@ -31,11 +31,24 @@ namespace :dict do
           word.destroy
         else
           puts "adding regex items"
-          mtch.to_a.each do |item|
-            match_string << item
+          while mtch = word.title.match(Regexp.new("[#{match_string}-]"))
+            mtch.to_a.each do |item|
+              match_string << item
+            end
           end
           puts "new regex string: #{match_string}"
         end
+      end
+    end
+  end
+
+  task :auto_bad_punct => :environment do
+    match_string = '^[:alnum:] \'åöùà()ì,.ŵāéôčüõèÄò/Åä?š!:şíçºАžÀČÁěŠëṇ×ḤōúáūîćðŌň#ßṢṃăś&ṣ"ī'
+    Word.find_each do |word|
+      mtch = word.title.match(Regexp.new("[#{match_string}-]"))
+      if mtch
+        puts "deleting word: #{word.title}"
+        word.destroy
       end
     end
   end
