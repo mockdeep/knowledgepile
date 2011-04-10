@@ -42,6 +42,17 @@ namespace :dict do
     end
   end
 
+  task :repeat_punct => :environment do
+    match_string = '?:[:alnum:]{3,}'
+    match_string = '([^[:alnum:]])\1+'
+    Word.find_each do |word|
+      if word.title.match(Regexp.new(match_string))
+        puts "deleting --> #{word.title} <--"
+        word.destroy
+      end
+    end
+  end
+
   task :auto_bad_punct => :environment do
     match_string = '^[:alnum:] \'åöùà()ì,.ŵāéôčüõèÄò/Åä?š!:şíçºАžÀČÁěŠëṇ×ḤōúáūîćðŌň#ßṢṃăś&ṣ"ī'
     Word.find_each do |word|
