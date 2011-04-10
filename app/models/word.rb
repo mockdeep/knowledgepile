@@ -15,7 +15,7 @@ class Word < ActiveRecord::Base
 
   scope :language, lambda { |lang| joins(:formal_language).where('languages.title = ?', lang) }
   scope :find_all_no_case, lambda { |word| where("lower(words.title) = ?", word.downcase) }
-  scope :ranked, where('rank NOT NULL').order('rank ASC')
+  scope :ranked, where('rank IS NOT NULL').order('rank ASC')
   scope :orphaned, where('NOT EXISTS (SELECT * FROM pairings as pairings WHERE pairings.word_id = words.id)')
   scope :not_orphaned, where('EXISTS (SELECT * FROM pairings as pairings WHERE pairings.word_id = words.id)')
 
