@@ -14,7 +14,7 @@ class Word < ActiveRecord::Base
   validates_uniqueness_of :rank, :scope => :language_id, :allow_nil => true
 
   scope :language, lambda { |lang| joins(:formal_language).where('languages.title = ?', lang) }
-  scope :find_all_no_case, lambda { |word| where("lower(words.title) = ?", word.downcase) }
+  scope :find_no_case, lambda { |word| where("lower(words.title) = ?", word.downcase) }
   scope :ranked, where('rank IS NOT NULL').order('rank ASC')
   scope :orphaned, where('NOT EXISTS (SELECT * FROM pairings as pairings WHERE pairings.word_id = words.id)')
   scope :not_orphaned, where('EXISTS (SELECT * FROM pairings as pairings WHERE pairings.word_id = words.id)')
@@ -34,6 +34,11 @@ class Word < ActiveRecord::Base
 
   def translate_to(lang)
     translations.collect { |word| word if word.language == lang }.compact
+  end
+
+  def translates_to?(word, lang)
+    test_word = Word.find_no_case(word).language(lang).first
+    translations.include? test_word
   end
 
   def to_s

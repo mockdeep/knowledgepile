@@ -95,7 +95,7 @@ namespace :dict do
     strings1.each_with_index do |string, index|
       strings2 = string.split("]]")
       next unless strings2.length > 1
-      words = Word.find_all_no_case(strings2.first)
+      words = Word.find_no_case(strings2.first)
       if words.empty?
         word = Word.new(:title => strings2.first, :language => 'English')
       else

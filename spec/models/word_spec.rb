@@ -63,7 +63,7 @@ describe Word do
   end
 
   it 'should have a scope for case insensitive search' do
-    Word.find_all_no_case('houSe').should == [@word]
+    Word.find_no_case('houSe').should == [@word]
   end
 
   it 'should have a scope on ranking' do
@@ -111,5 +111,12 @@ describe Word do
 
   it 'should have a clean output for printing' do
     "#{@word}".should == "House"
+  end
+
+  it 'should tell whether it translates to another word' do
+    @word.translates_to?("Casa", "Spanish").should be_false
+    @word.translations << @word2
+    @word.translates_to?("Casa", "Spanish").should be_true
+    @word2.translates_to?("House", "English").should be_true
   end
 end

@@ -1,0 +1,16 @@
+%h1 Quiz!
+
+- flash.each do |name, msg|
+  = content_tag :div, msg, :id => "flash#{name}"
+
+%div#word
+  %p= @word
+
+%div#answers
+  %table
+    %tr
+      %td= link_to @answers.first, quiz_path(:word => @word, :answer => @answers.first)
+      %td= link_to @answers.second, quiz_path(:word => @word, :answer => @answers.second)
+    %tr
+      %td= link_to @answers.third, quiz_path(:word => @word, :answer => @answers.third)
+      %td= link_to @answers.fourth, quiz_path(:word => @word, :answer => @answers.fourth)
